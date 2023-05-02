@@ -1,0 +1,184 @@
+{
+  "id": "ALAS-2023-1701",
+  "title": "Amazon Linux AMI 2014.03 - ALAS-2023-1701: important priority package update for kernel",
+  "issued": {
+    "date": "2023-03-17 15:53"
+  },
+  "updated": {
+    "date": "2023-03-22 18:52"
+  },
+  "severity": "important",
+  "description": "Package updates are available for Amazon Linux AMI that fix the following vulnerabilities:\nCVE-2023-26545:\n\tIn the Linux kernel before 6.1.13, there is a double free in net/mpls/af_mpls.c upon an allocation failure (for registering the sysctl table under a new location) during the renaming of a device.\n",
+  "packages": [
+    {
+      "name": "kernel-debuginfo",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "x86_64",
+      "filename": "Packages/kernel-debuginfo-4.14.309-159.529.amzn1.x86_64.rpm"
+    },
+    {
+      "name": "perf-debuginfo",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "x86_64",
+      "filename": "Packages/perf-debuginfo-4.14.309-159.529.amzn1.x86_64.rpm"
+    },
+    {
+      "name": "kernel-devel",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "x86_64",
+      "filename": "Packages/kernel-devel-4.14.309-159.529.amzn1.x86_64.rpm"
+    },
+    {
+      "name": "kernel-headers",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "x86_64",
+      "filename": "Packages/kernel-headers-4.14.309-159.529.amzn1.x86_64.rpm"
+    },
+    {
+      "name": "kernel-tools-debuginfo",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "x86_64",
+      "filename": "Packages/kernel-tools-debuginfo-4.14.309-159.529.amzn1.x86_64.rpm"
+    },
+    {
+      "name": "kernel-debuginfo-common-x86_64",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "x86_64",
+      "filename": "Packages/kernel-debuginfo-common-x86_64-4.14.309-159.529.amzn1.x86_64.rpm"
+    },
+    {
+      "name": "kernel",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "x86_64",
+      "filename": "Packages/kernel-4.14.309-159.529.amzn1.x86_64.rpm"
+    },
+    {
+      "name": "perf",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "x86_64",
+      "filename": "Packages/perf-4.14.309-159.529.amzn1.x86_64.rpm"
+    },
+    {
+      "name": "kernel-tools-devel",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "x86_64",
+      "filename": "Packages/kernel-tools-devel-4.14.309-159.529.amzn1.x86_64.rpm"
+    },
+    {
+      "name": "kernel-tools",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "x86_64",
+      "filename": "Packages/kernel-tools-4.14.309-159.529.amzn1.x86_64.rpm"
+    },
+    {
+      "name": "kernel-tools-devel",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "i686",
+      "filename": "Packages/kernel-tools-devel-4.14.309-159.529.amzn1.i686.rpm"
+    },
+    {
+      "name": "kernel-tools-debuginfo",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "i686",
+      "filename": "Packages/kernel-tools-debuginfo-4.14.309-159.529.amzn1.i686.rpm"
+    },
+    {
+      "name": "kernel-debuginfo",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "i686",
+      "filename": "Packages/kernel-debuginfo-4.14.309-159.529.amzn1.i686.rpm"
+    },
+    {
+      "name": "perf",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "i686",
+      "filename": "Packages/perf-4.14.309-159.529.amzn1.i686.rpm"
+    },
+    {
+      "name": "kernel-tools",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "i686",
+      "filename": "Packages/kernel-tools-4.14.309-159.529.amzn1.i686.rpm"
+    },
+    {
+      "name": "kernel-devel",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "i686",
+      "filename": "Packages/kernel-devel-4.14.309-159.529.amzn1.i686.rpm"
+    },
+    {
+      "name": "kernel-debuginfo-common-i686",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "i686",
+      "filename": "Packages/kernel-debuginfo-common-i686-4.14.309-159.529.amzn1.i686.rpm"
+    },
+    {
+      "name": "kernel-headers",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "i686",
+      "filename": "Packages/kernel-headers-4.14.309-159.529.amzn1.i686.rpm"
+    },
+    {
+      "name": "kernel",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "i686",
+      "filename": "Packages/kernel-4.14.309-159.529.amzn1.i686.rpm"
+    },
+    {
+      "name": "perf-debuginfo",
+      "epoch": "0",
+      "version": "4.14.309",
+      "release": "159.529.amzn1",
+      "arch": "i686",
+      "filename": "Packages/perf-debuginfo-4.14.309-159.529.amzn1.i686.rpm"
+    }
+  ],
+  "references": [
+    {
+      "href": "http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-26545",
+      "id": "CVE-2023-26545",
+      "type": "cve"
+    }
+  ],
+  "cveids": [
+    "CVE-2023-26545"
+  ]
+}
