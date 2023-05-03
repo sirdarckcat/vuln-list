@@ -20,68 +20,138 @@
     "Operator": "AND",
     "Criterias": [
       {
-        "Operator": "AND",
+        "Operator": "OR",
         "Criterias": [
           {
-            "Operator": "OR",
+            "Operator": "AND",
             "Criterias": [
               {
-                "Operator": "AND",
-                "Criterias": null,
-                "Criterions": [
+                "Operator": "OR",
+                "Criterias": [
                   {
-                    "Comment": "libwebp is earlier than 0:0.3.0-11.el7"
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "libwebp is earlier than 0:0.3.0-11.el7"
+                      },
+                      {
+                        "Comment": "libwebp is signed with the Oracle Linux 7 key"
+                      }
+                    ]
                   },
                   {
-                    "Comment": "libwebp is signed with the Oracle Linux 7 key"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterias": null,
-                "Criterions": [
-                  {
-                    "Comment": "libwebp-devel is earlier than 0:0.3.0-11.el7"
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "libwebp-devel is earlier than 0:0.3.0-11.el7"
+                      },
+                      {
+                        "Comment": "libwebp-devel is signed with the Oracle Linux 7 key"
+                      }
+                    ]
                   },
                   {
-                    "Comment": "libwebp-devel is signed with the Oracle Linux 7 key"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterias": null,
-                "Criterions": [
-                  {
-                    "Comment": "libwebp-java is earlier than 0:0.3.0-11.el7"
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "libwebp-java is earlier than 0:0.3.0-11.el7"
+                      },
+                      {
+                        "Comment": "libwebp-java is signed with the Oracle Linux 7 key"
+                      }
+                    ]
                   },
                   {
-                    "Comment": "libwebp-java is signed with the Oracle Linux 7 key"
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "libwebp-tools is earlier than 0:0.3.0-11.el7"
+                      },
+                      {
+                        "Comment": "libwebp-tools is signed with the Oracle Linux 7 key"
+                      }
+                    ]
                   }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterias": null,
-                "Criterions": [
-                  {
-                    "Comment": "libwebp-tools is earlier than 0:0.3.0-11.el7"
-                  },
-                  {
-                    "Comment": "libwebp-tools is signed with the Oracle Linux 7 key"
-                  }
-                ]
+                ],
+                "Criterions": null
               }
             ],
-            "Criterions": null
+            "Criterions": [
+              {
+                "Comment": "Oracle Linux arch is aarch64"
+              }
+            ]
+          },
+          {
+            "Operator": "AND",
+            "Criterias": [
+              {
+                "Operator": "OR",
+                "Criterias": [
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "libwebp is earlier than 0:0.3.0-11.el7"
+                      },
+                      {
+                        "Comment": "libwebp is signed with the Oracle Linux 7 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "libwebp-devel is earlier than 0:0.3.0-11.el7"
+                      },
+                      {
+                        "Comment": "libwebp-devel is signed with the Oracle Linux 7 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "libwebp-java is earlier than 0:0.3.0-11.el7"
+                      },
+                      {
+                        "Comment": "libwebp-java is signed with the Oracle Linux 7 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "libwebp-tools is earlier than 0:0.3.0-11.el7"
+                      },
+                      {
+                        "Comment": "libwebp-tools is signed with the Oracle Linux 7 key"
+                      }
+                    ]
+                  }
+                ],
+                "Criterions": null
+              }
+            ],
+            "Criterions": [
+              {
+                "Comment": "Oracle Linux arch is x86_64"
+              }
+            ]
           }
         ],
-        "Criterions": [
-          {
-            "Comment": "Oracle Linux arch is x86_64"
-          }
-        ]
+        "Criterions": null
       }
     ],
     "Criterions": [
