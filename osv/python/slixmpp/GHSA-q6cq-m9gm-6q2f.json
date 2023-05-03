@@ -1,6 +1,6 @@
 {
   "id": "GHSA-q6cq-m9gm-6q2f",
-  "modified": "2023-04-11T01:45:25.421403Z",
+  "modified": "2023-05-03T14:03:37.490127Z",
   "published": "2022-12-25T06:30:20Z",
   "aliases": [
     "CVE-2022-45197"
@@ -85,6 +85,10 @@
     {
       "type": "WEB",
       "url": "https://lab.louiz.org/poezio/slixmpp/-/commits/master"
+    },
+    {
+      "type": "WEB",
+      "url": "https://security.gentoo.org/glsa/202305-07"
     }
   ]
 }

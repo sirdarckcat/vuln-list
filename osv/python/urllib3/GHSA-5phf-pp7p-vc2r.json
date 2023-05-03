@@ -1,6 +1,6 @@
 {
   "id": "GHSA-5phf-pp7p-vc2r",
-  "modified": "2023-04-11T01:40:34.967791Z",
+  "modified": "2023-05-03T14:03:22.752767Z",
   "published": "2021-03-19T19:42:11Z",
   "aliases": [
     "CVE-2021-28363"
@@ -82,6 +82,10 @@
     {
       "type": "WEB",
       "url": "https://security.gentoo.org/glsa/202107-36"
+    },
+    {
+      "type": "WEB",
+      "url": "https://security.gentoo.org/glsa/202305-02"
     },
     {
       "type": "WEB",
