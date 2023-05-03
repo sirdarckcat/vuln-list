@@ -132,6 +132,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "device-mapper-multipath-devel",
+        "version": "0.8.7",
+        "release": "7.el9_0.1",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "device-mapper-multipath-0.8.7-7.el9_0.1.src.rpm",
+        "filename": "device-mapper-multipath-devel-0.8.7-7.el9_0.1.i686.rpm",
+        "sum": "b81696b534aa5d30779e1c394beaf1c75e326ba741f98bc976d11a71c8ca1399",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "device-mapper-multipath-libs",
         "version": "0.8.7",
         "release": "7.el9_0.1",
@@ -172,10 +184,10 @@
         "version": "0.8.7",
         "release": "7.el9_0.1",
         "epoch": "0",
-        "arch": "i686",
+        "arch": "aarch64",
         "src": "device-mapper-multipath-0.8.7-7.el9_0.1.src.rpm",
-        "filename": "device-mapper-multipath-devel-0.8.7-7.el9_0.1.i686.rpm",
-        "sum": "b81696b534aa5d30779e1c394beaf1c75e326ba741f98bc976d11a71c8ca1399",
+        "filename": "device-mapper-multipath-devel-0.8.7-7.el9_0.1.aarch64.rpm",
+        "sum": "f2d8f00ca56bfb823aec9904a3fcbc8c779af0b3be75eb1b8089552f3dbb256e",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -200,18 +212,6 @@
         "src": "device-mapper-multipath-0.8.7-7.el9_0.1.src.rpm",
         "filename": "device-mapper-multipath-devel-0.8.7-7.el9_0.1.s390x.rpm",
         "sum": "f1aba5f84b4769b06d73b53e067f32bf1be858018b1851e314a1b5a7ab27c690",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "device-mapper-multipath-devel",
-        "version": "0.8.7",
-        "release": "7.el9_0.1",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "device-mapper-multipath-0.8.7-7.el9_0.1.src.rpm",
-        "filename": "device-mapper-multipath-devel-0.8.7-7.el9_0.1.aarch64.rpm",
-        "sum": "f2d8f00ca56bfb823aec9904a3fcbc8c779af0b3be75eb1b8089552f3dbb256e",
         "sum_type": 5,
         "reboot_suggested": 0
       },

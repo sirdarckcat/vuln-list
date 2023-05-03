@@ -60,30 +60,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libXpm-devel",
-        "version": "3.5.12",
-        "release": "9.el8_7",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
-        "filename": "libXpm-devel-3.5.12-9.el8_7.s390x.rpm",
-        "sum": "af8773b75abf055e7f87e404eb87a2686458722f77068a20cbfa26133830f623",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libXpm",
-        "version": "3.5.12",
-        "release": "9.el8_7",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
-        "filename": "libXpm-3.5.12-9.el8_7.s390x.rpm",
-        "sum": "f3be09544337336e9f29580a6bd759d63580d15cca329a32dfdf03f6ef36ab9a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libXpm",
         "version": "3.5.12",
         "release": "9.el8_7",
@@ -104,6 +80,30 @@
         "src": "libXpm-3.5.12-9.el8_7.src.rpm",
         "filename": "libXpm-devel-3.5.12-9.el8_7.x86_64.rpm",
         "sum": "a96ee992c5678780a5997b318c9649c8723ee318c4076d04a53ae4ebcca2b859",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libXpm-devel",
+        "version": "3.5.12",
+        "release": "9.el8_7",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
+        "filename": "libXpm-devel-3.5.12-9.el8_7.s390x.rpm",
+        "sum": "af8773b75abf055e7f87e404eb87a2686458722f77068a20cbfa26133830f623",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libXpm",
+        "version": "3.5.12",
+        "release": "9.el8_7",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
+        "filename": "libXpm-3.5.12-9.el8_7.s390x.rpm",
+        "sum": "f3be09544337336e9f29580a6bd759d63580d15cca329a32dfdf03f6ef36ab9a",
         "sum_type": 5,
         "reboot_suggested": 0
       },

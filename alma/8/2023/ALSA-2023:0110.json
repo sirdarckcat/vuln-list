@@ -132,18 +132,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "lemon",
-        "version": "3.26.0",
-        "release": "17.el8_7",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "sqlite-3.26.0-17.el8_7.src.rpm",
-        "filename": "lemon-3.26.0-17.el8_7.aarch64.rpm",
-        "sum": "750775a88145c9c9f8afe9b49c1c5a8e6bd5b92d0f807eaf54f2926cf1f52a64",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "sqlite",
         "version": "3.26.0",
         "release": "17.el8_7",
@@ -220,10 +208,10 @@
         "version": "3.26.0",
         "release": "17.el8_7",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "sqlite-3.26.0-17.el8_7.src.rpm",
-        "filename": "lemon-3.26.0-17.el8_7.s390x.rpm",
-        "sum": "0c8b5c75818c65b45282879b82562ddb7e5f5882af3b719d048deccd73bc7b80",
+        "filename": "lemon-3.26.0-17.el8_7.aarch64.rpm",
+        "sum": "750775a88145c9c9f8afe9b49c1c5a8e6bd5b92d0f807eaf54f2926cf1f52a64",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -236,6 +224,18 @@
         "src": "sqlite-3.26.0-17.el8_7.src.rpm",
         "filename": "lemon-3.26.0-17.el8_7.x86_64.rpm",
         "sum": "95b6011f781b070712a810c2ad758b03295e8c4c1f7297b41c1e267ea8d3e8d0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "lemon",
+        "version": "3.26.0",
+        "release": "17.el8_7",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "sqlite-3.26.0-17.el8_7.src.rpm",
+        "filename": "lemon-3.26.0-17.el8_7.s390x.rpm",
+        "sum": "0c8b5c75818c65b45282879b82562ddb7e5f5882af3b719d048deccd73bc7b80",
         "sum_type": 5,
         "reboot_suggested": 0
       },

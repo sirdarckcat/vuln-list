@@ -36,6 +36,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "kernel-tools-libs-devel",
+        "version": "4.18.0",
+        "release": "425.10.1.el8_7",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "kernel-4.18.0-425.10.1.el8_7.src.rpm",
+        "filename": "kernel-tools-libs-devel-4.18.0-425.10.1.el8_7.x86_64.rpm",
+        "sum": "a6c4ff78aa27b0290ba89227e06e81ef6f7c5f19cb68da50a319f80452b0031d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "python3-perf",
         "version": "4.18.0",
         "release": "425.10.1.el8_7",
@@ -424,18 +436,6 @@
         "version": "4.18.0",
         "release": "425.10.1.el8_7",
         "epoch": "0",
-        "arch": "x86_64",
-        "src": "kernel-4.18.0-425.10.1.el8_7.src.rpm",
-        "filename": "kernel-tools-libs-devel-4.18.0-425.10.1.el8_7.x86_64.rpm",
-        "sum": "a6c4ff78aa27b0290ba89227e06e81ef6f7c5f19cb68da50a319f80452b0031d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "kernel-tools-libs-devel",
-        "version": "4.18.0",
-        "release": "425.10.1.el8_7",
-        "epoch": "0",
         "arch": "aarch64",
         "src": "kernel-4.18.0-425.10.1.el8_7.src.rpm",
         "filename": "kernel-tools-libs-devel-4.18.0-425.10.1.el8_7.aarch64.rpm",
@@ -632,6 +632,18 @@
         "src": "kernel-4.18.0-425.10.1.el8_7.src.rpm",
         "filename": "kernel-debug-modules-extra-4.18.0-425.10.1.el8_7.ppc64le.rpm",
         "sum": "d88a373596a30e8817c64bce60067205e649d16b2df0f63442485e4611c2892c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "kernel-tools-libs-devel",
+        "version": "4.18.0",
+        "release": "425.10.1.el8_7",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "kernel-4.18.0-425.10.1.el8_7.src.rpm",
+        "filename": "kernel-tools-libs-devel-4.18.0-425.10.1.el8_7.ppc64le.rpm",
+        "sum": "bb9f3b4e9b517719f10cd959071232efd54dbcd873d53565141885430756f973",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -872,18 +884,6 @@
         "src": "kernel-4.18.0-425.10.1.el8_7.src.rpm",
         "filename": "kernel-debug-core-4.18.0-425.10.1.el8_7.s390x.rpm",
         "sum": "f2f544b6a53e70431e9425b8819a69be07c646be0ecfe6f1d31961fb780dac79",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "kernel-tools-libs-devel",
-        "version": "4.18.0",
-        "release": "425.10.1.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "kernel-4.18.0-425.10.1.el8_7.src.rpm",
-        "filename": "kernel-tools-libs-devel-4.18.0-425.10.1.el8_7.ppc64le.rpm",
-        "sum": "bb9f3b4e9b517719f10cd959071232efd54dbcd873d53565141885430756f973",
         "sum_type": 5,
         "reboot_suggested": 0
       }

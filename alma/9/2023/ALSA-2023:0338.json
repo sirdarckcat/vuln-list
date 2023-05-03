@@ -28,10 +28,10 @@
         "version": "2.9.13",
         "release": "3.el9_1",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "libxml2-2.9.13-3.el9_1.src.rpm",
-        "filename": "libxml2-devel-2.9.13-3.el9_1.x86_64.rpm",
-        "sum": "08c9c29db1b5d2b8b1c9a744c0b25db06f18114359c2271c1391b7c96a0ba2ee",
+        "filename": "libxml2-devel-2.9.13-3.el9_1.ppc64le.rpm",
+        "sum": "c95ea3d00bb10d2a2019a14c512383e29dbad81f376994371baabdd1121b0ad0",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -44,6 +44,30 @@
         "src": "libxml2-2.9.13-3.el9_1.src.rpm",
         "filename": "libxml2-2.9.13-3.el9_1.i686.rpm",
         "sum": "268c401ca2f21e6fdbe735f57fbf9fb6ba1870df87c63aa6c5b24fc267afc091",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libxml2-devel",
+        "version": "2.9.13",
+        "release": "3.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libxml2-2.9.13-3.el9_1.src.rpm",
+        "filename": "libxml2-devel-2.9.13-3.el9_1.s390x.rpm",
+        "sum": "c2f3d5c6ea2f2723067ad9f3a276d577d9ef764e355e678e85b039bbde30a823",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libxml2-devel",
+        "version": "2.9.13",
+        "release": "3.el9_1",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "libxml2-2.9.13-3.el9_1.src.rpm",
+        "filename": "libxml2-devel-2.9.13-3.el9_1.x86_64.rpm",
+        "sum": "08c9c29db1b5d2b8b1c9a744c0b25db06f18114359c2271c1391b7c96a0ba2ee",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -72,18 +96,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libxml2-devel",
-        "version": "2.9.13",
-        "release": "3.el9_1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "libxml2-2.9.13-3.el9_1.src.rpm",
-        "filename": "libxml2-devel-2.9.13-3.el9_1.ppc64le.rpm",
-        "sum": "c95ea3d00bb10d2a2019a14c512383e29dbad81f376994371baabdd1121b0ad0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "python3-libxml2",
         "version": "2.9.13",
         "release": "3.el9_1",
@@ -104,18 +116,6 @@
         "src": "libxml2-2.9.13-3.el9_1.src.rpm",
         "filename": "libxml2-2.9.13-3.el9_1.ppc64le.rpm",
         "sum": "415c1d2c0d34628a6a3d7313009b57d29e9247096f583d813cd2c3583cb69ffb",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libxml2-devel",
-        "version": "2.9.13",
-        "release": "3.el9_1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "libxml2-2.9.13-3.el9_1.src.rpm",
-        "filename": "libxml2-devel-2.9.13-3.el9_1.s390x.rpm",
-        "sum": "c2f3d5c6ea2f2723067ad9f3a276d577d9ef764e355e678e85b039bbde30a823",
         "sum_type": 5,
         "reboot_suggested": 0
       },

@@ -8,8 +8,8 @@
     "$date": 1659484800000
   },
   "pkglist": {
-    "name": "almalinux-8-for-x86_64-baseos-rpms__8_6_default",
-    "shortname": "almalinux-8-for-x86_64-baseos-rpms__8_6_default",
+    "name": "almalinux-8-for-x86_64-powertools-rpms__8_6_default",
+    "shortname": "almalinux-8-for-x86_64-powertools-rpms__8_6_default",
     "packages": [
       {
         "name": "bpftool",
@@ -734,7 +734,7 @@
   "title": "Important: kernel security and bug fix update",
   "type": "security",
   "updated_date": {
-    "$date": 1660153905000
+    "$date": 1660153889000
   },
   "version": "1"
 }

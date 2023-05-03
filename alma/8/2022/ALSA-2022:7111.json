@@ -8,9 +8,81 @@
     "$date": 1666656000000
   },
   "pkglist": {
-    "name": "almalinux-8-for-x86_64-baseos-rpms__8_6_default",
-    "shortname": "almalinux-8-for-x86_64-baseos-rpms__8_6_default",
+    "name": "almalinux-8-for-x86_64-powertools-rpms__8_6_default",
+    "shortname": "almalinux-8-for-x86_64-powertools-rpms__8_6_default",
     "packages": [
+      {
+        "name": "libwbclient-devel",
+        "version": "4.15.5",
+        "release": "10.el8_6",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "samba-4.15.5-10.el8_6.src.rpm",
+        "filename": "libwbclient-devel-4.15.5-10.el8_6.i686.rpm",
+        "sum": "8843b2258b927a58c57a7efd9491fa32fc7209bd606424a0d07f4b9d5201ed3e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "samba-devel",
+        "version": "4.15.5",
+        "release": "10.el8_6",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "samba-4.15.5-10.el8_6.src.rpm",
+        "filename": "samba-devel-4.15.5-10.el8_6.i686.rpm",
+        "sum": "a10828eef81789ba75ef951a72013aa5b560178cbe139b9a011537b677099da7",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwbclient-devel",
+        "version": "4.15.5",
+        "release": "10.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "samba-4.15.5-10.el8_6.src.rpm",
+        "filename": "libwbclient-devel-4.15.5-10.el8_6.x86_64.rpm",
+        "sum": "c3f47f99795f30377ed2cbbdeae248f781e7a590448066001be77472d3fbd1ca",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libsmbclient-devel",
+        "version": "4.15.5",
+        "release": "10.el8_6",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "samba-4.15.5-10.el8_6.src.rpm",
+        "filename": "libsmbclient-devel-4.15.5-10.el8_6.i686.rpm",
+        "sum": "d936798777c08de63c26bafaa7b0a02b61ac33056f13240d2213226bdc8646eb",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libsmbclient-devel",
+        "version": "4.15.5",
+        "release": "10.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "samba-4.15.5-10.el8_6.src.rpm",
+        "filename": "libsmbclient-devel-4.15.5-10.el8_6.x86_64.rpm",
+        "sum": "e57c535a394727d31bd8c8835a5cc8d036c0667e050bf93d2ec010024d3836aa",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "samba-devel",
+        "version": "4.15.5",
+        "release": "10.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "samba-4.15.5-10.el8_6.src.rpm",
+        "filename": "samba-devel-4.15.5-10.el8_6.x86_64.rpm",
+        "sum": "fd67b37371fd6b0bf43e00d054986b86542a492701e1aca17755ae6fadd227a7",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "libsmbclient",
         "version": "4.15.5",
@@ -556,78 +628,6 @@
         "version": "4.15.5",
         "release": "10.el8_6",
         "epoch": "0",
-        "arch": "i686",
-        "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "libwbclient-devel-4.15.5-10.el8_6.i686.rpm",
-        "sum": "8843b2258b927a58c57a7efd9491fa32fc7209bd606424a0d07f4b9d5201ed3e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "samba-devel",
-        "version": "4.15.5",
-        "release": "10.el8_6",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "samba-devel-4.15.5-10.el8_6.i686.rpm",
-        "sum": "a10828eef81789ba75ef951a72013aa5b560178cbe139b9a011537b677099da7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libwbclient-devel",
-        "version": "4.15.5",
-        "release": "10.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "libwbclient-devel-4.15.5-10.el8_6.x86_64.rpm",
-        "sum": "c3f47f99795f30377ed2cbbdeae248f781e7a590448066001be77472d3fbd1ca",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libsmbclient-devel",
-        "version": "4.15.5",
-        "release": "10.el8_6",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "libsmbclient-devel-4.15.5-10.el8_6.i686.rpm",
-        "sum": "d936798777c08de63c26bafaa7b0a02b61ac33056f13240d2213226bdc8646eb",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libsmbclient-devel",
-        "version": "4.15.5",
-        "release": "10.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "libsmbclient-devel-4.15.5-10.el8_6.x86_64.rpm",
-        "sum": "e57c535a394727d31bd8c8835a5cc8d036c0667e050bf93d2ec010024d3836aa",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "samba-devel",
-        "version": "4.15.5",
-        "release": "10.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "samba-devel-4.15.5-10.el8_6.x86_64.rpm",
-        "sum": "fd67b37371fd6b0bf43e00d054986b86542a492701e1aca17755ae6fadd227a7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libwbclient-devel",
-        "version": "4.15.5",
-        "release": "10.el8_6",
-        "epoch": "0",
         "arch": "aarch64",
         "src": "samba-4.15.5-10.el8_6.src.rpm",
         "filename": "libwbclient-devel-4.15.5-10.el8_6.aarch64.rpm",
@@ -656,18 +656,6 @@
         "src": "samba-4.15.5-10.el8_6.src.rpm",
         "filename": "samba-devel-4.15.5-10.el8_6.aarch64.rpm",
         "sum": "a7700a4e6bd17e384c9a1de5232ecacf686b4a37becfd4d88121b2fe85c06ae9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "samba-vfs-iouring",
-        "version": "4.15.5",
-        "release": "10.el8_6",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "samba-vfs-iouring-4.15.5-10.el8_6.aarch64.rpm",
-        "sum": "37702a8451d1dd4b8bc3a3acbcf78594d49c6d9c605b18e99061838f6e53f72f",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -884,6 +872,42 @@
         "src": "samba-4.15.5-10.el8_6.src.rpm",
         "filename": "libwbclient-4.15.5-10.el8_6.ppc64le.rpm",
         "sum": "f9532e5f85b35a23323981c19a7ee708b51fcf9138127bac2d47cb5baea2ab98",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libsmbclient-devel",
+        "version": "4.15.5",
+        "release": "10.el8_6",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "samba-4.15.5-10.el8_6.src.rpm",
+        "filename": "libsmbclient-devel-4.15.5-10.el8_6.ppc64le.rpm",
+        "sum": "5e6a65e0701c891d2571396b42bc2d58bca7d0c117eba2cb3846f67c42f9547e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwbclient-devel",
+        "version": "4.15.5",
+        "release": "10.el8_6",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "samba-4.15.5-10.el8_6.src.rpm",
+        "filename": "libwbclient-devel-4.15.5-10.el8_6.ppc64le.rpm",
+        "sum": "a373fb3c4ed49f5f4706d16259735fa5f02bf392ab625e56cd6dd0387da82e82",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "samba-devel",
+        "version": "4.15.5",
+        "release": "10.el8_6",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "samba-4.15.5-10.el8_6.src.rpm",
+        "filename": "samba-devel-4.15.5-10.el8_6.ppc64le.rpm",
+        "sum": "d39c7f19b039baf48023f2e84c094b96d923b3f96737ddf3a044fab82f976611",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -1108,10 +1132,22 @@
         "version": "4.15.5",
         "release": "10.el8_6",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "samba-vfs-iouring-4.15.5-10.el8_6.s390x.rpm",
-        "sum": "349e614f511769ca58215b39fb9c1956854b02141c5abd5f43fb80d62c487f71",
+        "filename": "samba-vfs-iouring-4.15.5-10.el8_6.aarch64.rpm",
+        "sum": "37702a8451d1dd4b8bc3a3acbcf78594d49c6d9c605b18e99061838f6e53f72f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "samba-vfs-iouring",
+        "version": "4.15.5",
+        "release": "10.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "samba-4.15.5-10.el8_6.src.rpm",
+        "filename": "samba-vfs-iouring-4.15.5-10.el8_6.x86_64.rpm",
+        "sum": "02cf593813cf9f3d42f01dfcb439768bcdce2fb64144fc0ccbb0bad65c2a286c",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -1152,50 +1188,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libsmbclient-devel",
-        "version": "4.15.5",
-        "release": "10.el8_6",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "libsmbclient-devel-4.15.5-10.el8_6.ppc64le.rpm",
-        "sum": "5e6a65e0701c891d2571396b42bc2d58bca7d0c117eba2cb3846f67c42f9547e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libwbclient-devel",
-        "version": "4.15.5",
-        "release": "10.el8_6",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "libwbclient-devel-4.15.5-10.el8_6.ppc64le.rpm",
-        "sum": "a373fb3c4ed49f5f4706d16259735fa5f02bf392ab625e56cd6dd0387da82e82",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "samba-devel",
-        "version": "4.15.5",
-        "release": "10.el8_6",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "samba-devel-4.15.5-10.el8_6.ppc64le.rpm",
-        "sum": "d39c7f19b039baf48023f2e84c094b96d923b3f96737ddf3a044fab82f976611",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "samba-vfs-iouring",
         "version": "4.15.5",
         "release": "10.el8_6",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "s390x",
         "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "samba-vfs-iouring-4.15.5-10.el8_6.x86_64.rpm",
-        "sum": "02cf593813cf9f3d42f01dfcb439768bcdce2fb64144fc0ccbb0bad65c2a286c",
+        "filename": "samba-vfs-iouring-4.15.5-10.el8_6.s390x.rpm",
+        "sum": "349e614f511769ca58215b39fb9c1956854b02141c5abd5f43fb80d62c487f71",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -1250,7 +1250,7 @@
   "title": "Moderate: samba security and bug fix update",
   "type": "security",
   "updated_date": {
-    "$date": 1666862396000
+    "$date": 1666862417000
   },
   "version": "1"
 }

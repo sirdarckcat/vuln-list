@@ -8,9 +8,33 @@
     "$date": 1674432000000
   },
   "pkglist": {
-    "name": "almalinux-9-for-x86_64-appstream-rpms__9_1_default",
-    "shortname": "almalinux-9-for-x86_64-appstream-rpms__9_1_default",
+    "name": "almalinux-9-for-ppc64le-appstream-rpms__9_1_default",
+    "shortname": "almalinux-9-for-ppc64le-appstream-rpms__9_1_default",
     "packages": [
+      {
+        "name": "sudo-python-plugin",
+        "version": "1.9.5p2",
+        "release": "7.el9_1.1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "sudo-1.9.5p2-7.el9_1.1.src.rpm",
+        "filename": "sudo-python-plugin-1.9.5p2-7.el9_1.1.ppc64le.rpm",
+        "sum": "b6d991bd123344f97080e50246ca6948827397d73c72f5e6d49ea2de16eb1230",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "sudo-python-plugin",
+        "version": "1.9.5p2",
+        "release": "7.el9_1.1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "sudo-1.9.5p2-7.el9_1.1.src.rpm",
+        "filename": "sudo-python-plugin-1.9.5p2-7.el9_1.1.s390x.rpm",
+        "sum": "0793688b10af2e04bc77e9778829e66fc8b778eaad5c73cb5ca89f72209b0333",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "sudo-python-plugin",
         "version": "1.9.5p2",
@@ -36,18 +60,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "sudo-python-plugin",
-        "version": "1.9.5p2",
-        "release": "7.el9_1.1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "sudo-1.9.5p2-7.el9_1.1.src.rpm",
-        "filename": "sudo-python-plugin-1.9.5p2-7.el9_1.1.ppc64le.rpm",
-        "sum": "b6d991bd123344f97080e50246ca6948827397d73c72f5e6d49ea2de16eb1230",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "sudo",
         "version": "1.9.5p2",
         "release": "7.el9_1.1",
@@ -56,18 +68,6 @@
         "src": "sudo-1.9.5p2-7.el9_1.1.src.rpm",
         "filename": "sudo-1.9.5p2-7.el9_1.1.ppc64le.rpm",
         "sum": "dcff805d1da58c2737bb49f6d5872daee4fa3781bd6820abdbc1d1b46f4615c8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "sudo-python-plugin",
-        "version": "1.9.5p2",
-        "release": "7.el9_1.1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "sudo-1.9.5p2-7.el9_1.1.src.rpm",
-        "filename": "sudo-python-plugin-1.9.5p2-7.el9_1.1.s390x.rpm",
-        "sum": "0793688b10af2e04bc77e9778829e66fc8b778eaad5c73cb5ca89f72209b0333",
         "sum_type": 5,
         "reboot_suggested": 0
       },

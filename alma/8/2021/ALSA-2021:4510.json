@@ -8,8 +8,8 @@
     "$date": 1636450664000
   },
   "pkglist": {
-    "name": "almalinux-8-for-x86_64-appstream-rpms__8_0_default",
-    "shortname": "almalinux-8-for-x86_64-appstream-rpms__8_0_default",
+    "name": "codeready-builder-for-rhel-8-x86_64-rpms__8_0_default",
+    "shortname": "codeready-builder-for-rhel-8-x86_64-rpms__8_0_default",
     "packages": [
       {
         "name": "lua-devel",
@@ -40,10 +40,34 @@
         "version": "5.3.4",
         "release": "12.el8",
         "epoch": "0",
+        "arch": "i686",
+        "src": "lua-5.3.4-12.el8.src.rpm",
+        "filename": "lua-5.3.4-12.el8.i686.rpm",
+        "sum": "7d90b3c05b44591db6644cffd11abff1ae1e4ab17501e3e55cf7005e94d5df24",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "lua",
+        "version": "5.3.4",
+        "release": "12.el8",
+        "epoch": "0",
         "arch": "x86_64",
         "src": "lua-5.3.4-12.el8.src.rpm",
         "filename": "lua-5.3.4-12.el8.x86_64.rpm",
         "sum": "7fa49f92f4402ba54412ac32fb882e41813a26669e26549700b6193797c5261f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "lua-devel",
+        "version": "5.3.4",
+        "release": "12.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "lua-5.3.4-12.el8.src.rpm",
+        "filename": "lua-devel-5.3.4-12.el8.i686.rpm",
+        "sum": "9b1d9aff3313d15f4838230077e03b4f7695c05787d6c5fce6cb690f1c982883",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -80,30 +104,6 @@
         "src": "lua-5.3.4-12.el8.src.rpm",
         "filename": "lua-libs-5.3.4-12.el8.aarch64.rpm",
         "sum": "c26cd5535001b7f0aab05be397283ba2820e4ac7563a1bae345537eaa6c8c71a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "lua",
-        "version": "5.3.4",
-        "release": "12.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "lua-5.3.4-12.el8.src.rpm",
-        "filename": "lua-5.3.4-12.el8.i686.rpm",
-        "sum": "7d90b3c05b44591db6644cffd11abff1ae1e4ab17501e3e55cf7005e94d5df24",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "lua-devel",
-        "version": "5.3.4",
-        "release": "12.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "lua-5.3.4-12.el8.src.rpm",
-        "filename": "lua-devel-5.3.4-12.el8.i686.rpm",
-        "sum": "9b1d9aff3313d15f4838230077e03b4f7695c05787d6c5fce6cb690f1c982883",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -164,7 +164,7 @@
   "title": "Low: lua security update",
   "type": "security",
   "updated_date": {
-    "$date": 1636712456000
+    "$date": 1636712461000
   },
   "version": "2"
 }

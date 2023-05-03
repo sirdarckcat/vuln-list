@@ -8,21 +8,9 @@
     "$date": 1667865600000
   },
   "pkglist": {
-    "name": "almalinux-8-for-i686-powertools-rpms__8_6_default",
-    "shortname": "almalinux-8-for-i686-powertools-rpms__8_6_default",
+    "name": "almalinux-8-for-i686-appstream-rpms__8_6_default",
+    "shortname": "almalinux-8-for-i686-appstream-rpms__8_6_default",
     "packages": [
-      {
-        "name": "yajl-devel",
-        "version": "2.1.0",
-        "release": "11.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "yajl-2.1.0-11.el8.src.rpm",
-        "filename": "yajl-devel-2.1.0-11.el8.i686.rpm",
-        "sum": "6606089a06634514380d59c62054347c588f8085d148b7f0a98ca3a522e3db1d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "yajl",
         "version": "2.1.0",
@@ -32,6 +20,18 @@
         "src": "yajl-2.1.0-11.el8.src.rpm",
         "filename": "yajl-2.1.0-11.el8.i686.rpm",
         "sum": "71980b28ec8fde6b2a046944c93e4b328328609eaaa8c5f24036e5f34e830a1f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "yajl-devel",
+        "version": "2.1.0",
+        "release": "11.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "yajl-2.1.0-11.el8.src.rpm",
+        "filename": "yajl-devel-2.1.0-11.el8.i686.rpm",
+        "sum": "6606089a06634514380d59c62054347c588f8085d148b7f0a98ca3a522e3db1d",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -60,42 +60,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "yajl",
-        "version": "2.1.0",
-        "release": "11.el8",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "yajl-2.1.0-11.el8.src.rpm",
-        "filename": "yajl-2.1.0-11.el8.aarch64.rpm",
-        "sum": "854a70e9a27e89ac7eb09186657aa94214a72c5c66bbafc7f4752cd3c176b17d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "yajl",
-        "version": "2.1.0",
-        "release": "11.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "yajl-2.1.0-11.el8.src.rpm",
-        "filename": "yajl-2.1.0-11.el8.s390x.rpm",
-        "sum": "23e7b239ce8f935af654242ea3dd1b60bbe84d283904827118991cfaff004353",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "yajl-devel",
-        "version": "2.1.0",
-        "release": "11.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "yajl-2.1.0-11.el8.src.rpm",
-        "filename": "yajl-devel-2.1.0-11.el8.s390x.rpm",
-        "sum": "b3a79744a7702161cdb657b4ec4adadd50f7e3f50cf6d28b887f8a11c2e88435",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "yajl-devel",
         "version": "2.1.0",
         "release": "11.el8",
@@ -112,10 +76,46 @@
         "version": "2.1.0",
         "release": "11.el8",
         "epoch": "0",
+        "arch": "aarch64",
+        "src": "yajl-2.1.0-11.el8.src.rpm",
+        "filename": "yajl-2.1.0-11.el8.aarch64.rpm",
+        "sum": "854a70e9a27e89ac7eb09186657aa94214a72c5c66bbafc7f4752cd3c176b17d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "yajl",
+        "version": "2.1.0",
+        "release": "11.el8",
+        "epoch": "0",
         "arch": "x86_64",
         "src": "yajl-2.1.0-11.el8.src.rpm",
         "filename": "yajl-2.1.0-11.el8.x86_64.rpm",
         "sum": "ba8b9cccbc6d9f945fad9c50f205d2c341b9e8acc7786e7da81f369dbf9c5a1f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "yajl-devel",
+        "version": "2.1.0",
+        "release": "11.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "yajl-2.1.0-11.el8.src.rpm",
+        "filename": "yajl-devel-2.1.0-11.el8.s390x.rpm",
+        "sum": "b3a79744a7702161cdb657b4ec4adadd50f7e3f50cf6d28b887f8a11c2e88435",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "yajl",
+        "version": "2.1.0",
+        "release": "11.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "yajl-2.1.0-11.el8.src.rpm",
+        "filename": "yajl-2.1.0-11.el8.s390x.rpm",
+        "sum": "23e7b239ce8f935af654242ea3dd1b60bbe84d283904827118991cfaff004353",
         "sum_type": 5,
         "reboot_suggested": 0
       },

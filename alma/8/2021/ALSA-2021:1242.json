@@ -410,18 +410,6 @@
       {
         "name": "Judy",
         "version": "1.0.5",
-        "release": "18.module_el8.6.0+2761+593e5e59",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "Judy-1.0.5-18.module_el8.6.0+2761+593e5e59.src.rpm",
-        "filename": "Judy-1.0.5-18.module_el8.6.0+2761+593e5e59.aarch64.rpm",
-        "sum": "d6a69d3a722b634e22140ac45951705586f6eacae111d6eddf8f0783a90dff0e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "Judy",
-        "version": "1.0.5",
         "release": "18.module_el8.6.0+2867+72759d2f",
         "epoch": "0",
         "arch": "ppc64le",
@@ -488,6 +476,18 @@
         "src": "asio-1.10.8-7.module_el8.6.0+2867+72759d2f.src.rpm",
         "filename": "asio-devel-1.10.8-7.module_el8.6.0+2867+72759d2f.ppc64le.rpm",
         "sum": "dabde2db7df7f855e7ef29181e741dff20806bc82588ff79c07c41c466c049d9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "Judy",
+        "version": "1.0.5",
+        "release": "18.module_el8.6.0+2761+593e5e59",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "Judy-1.0.5-18.module_el8.6.0+2761+593e5e59.src.rpm",
+        "filename": "Judy-1.0.5-18.module_el8.6.0+2761+593e5e59.aarch64.rpm",
+        "sum": "d6a69d3a722b634e22140ac45951705586f6eacae111d6eddf8f0783a90dff0e",
         "sum_type": 5,
         "reboot_suggested": 0
       },

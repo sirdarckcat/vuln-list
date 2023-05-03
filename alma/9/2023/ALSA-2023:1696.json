@@ -8,21 +8,9 @@
     "$date": 1681171200000
   },
   "pkglist": {
-    "name": "almalinux-9-for-x86_64-appstream-rpms__9_1_default",
-    "shortname": "almalinux-9-for-x86_64-appstream-rpms__9_1_default",
+    "name": "almalinux-9-for-ppc64le-appstream-rpms__9_1_default",
+    "shortname": "almalinux-9-for-ppc64le-appstream-rpms__9_1_default",
     "packages": [
-      {
-        "name": "haproxy",
-        "version": "2.4.17",
-        "release": "3.el9_1.2",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "haproxy-2.4.17-3.el9_1.2.src.rpm",
-        "filename": "haproxy-2.4.17-3.el9_1.2.x86_64.rpm",
-        "sum": "aadd3f3239510e6646a8e514bd196688b1bb649289f62c23af0da6e1bf5a3b3b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "haproxy",
         "version": "2.4.17",
@@ -44,6 +32,18 @@
         "src": "haproxy-2.4.17-3.el9_1.2.src.rpm",
         "filename": "haproxy-2.4.17-3.el9_1.2.s390x.rpm",
         "sum": "9db25d4d75528f1104434f9c8407f603a6b760dc32eb34b8f8de86dbd85e479d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "haproxy",
+        "version": "2.4.17",
+        "release": "3.el9_1.2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "haproxy-2.4.17-3.el9_1.2.src.rpm",
+        "filename": "haproxy-2.4.17-3.el9_1.2.x86_64.rpm",
+        "sum": "aadd3f3239510e6646a8e514bd196688b1bb649289f62c23af0da6e1bf5a3b3b",
         "sum_type": 5,
         "reboot_suggested": 0
       },

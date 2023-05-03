@@ -8,8 +8,8 @@
     "$date": 1655337600000
   },
   "pkglist": {
-    "name": "almalinux-8-for-x86_64-baseos-rpms__8_6_default",
-    "shortname": "almalinux-8-for-x86_64-baseos-rpms__8_6_default",
+    "name": "almalinux-8-for-x86_64-powertools-rpms__8_6_default",
+    "shortname": "almalinux-8-for-x86_64-powertools-rpms__8_6_default",
     "packages": [
       {
         "name": "grub2-tools-efi",
@@ -422,7 +422,7 @@
   "title": "Important: grub2, mokutil, shim, and shim-unsigned-x64 security update",
   "type": "security",
   "updated_date": {
-    "$date": 1661267930000
+    "$date": 1661267816000
   },
   "version": "1"
 }

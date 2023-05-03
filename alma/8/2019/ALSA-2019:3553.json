@@ -8,8 +8,8 @@
     "$date": 1572976761000
   },
   "pkglist": {
-    "name": "almalinux-8-for-x86_64-appstream-rpms__8_0_default",
-    "shortname": "almalinux-8-for-x86_64-appstream-rpms__8_0_default",
+    "name": "codeready-builder-for-rhel-8-x86_64-rpms__8_0_default",
+    "shortname": "codeready-builder-for-rhel-8-x86_64-rpms__8_0_default",
     "packages": [
       {
         "name": "libpurple-devel",
@@ -24,18 +24,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libpurple",
-        "version": "2.13.0",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "pidgin-2.13.0-5.el8.src.rpm",
-        "filename": "libpurple-2.13.0-5.el8.i686.rpm",
-        "sum": "121b81d81248f166d6de8c4fbe99b7243e84bc907cce514f099dc46b8aa1967f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "gdk-pixbuf2-xlib-devel",
         "version": "2.36.12",
         "release": "5.el8",
@@ -44,6 +32,30 @@
         "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
         "filename": "gdk-pixbuf2-xlib-devel-2.36.12-5.el8.x86_64.rpm",
         "sum": "2dbefbd5477cc6dde84b3ef4c0c81d027244cf97e05b3ff4c74881ad76ebeb7e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gdk-pixbuf2-xlib",
+        "version": "2.36.12",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
+        "filename": "gdk-pixbuf2-xlib-2.36.12-5.el8.i686.rpm",
+        "sum": "47a98bb197fd5d61173bdaee8b3124474a8160cd28c9f532e2fea321bf5a2099",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pidgin-devel",
+        "version": "2.13.0",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "pidgin-2.13.0-5.el8.src.rpm",
+        "filename": "pidgin-devel-2.13.0-5.el8.i686.rpm",
+        "sum": "4b57945f99fc9888383bc5d40d279492280bd1a299554787079e0edcb0614f2c",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -84,18 +96,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "gdk-pixbuf2-modules",
-        "version": "2.36.12",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
-        "filename": "gdk-pixbuf2-modules-2.36.12-5.el8.i686.rpm",
-        "sum": "6ebfbdd3a7510dd86b285d60acc59a69345779cccc3aac587988db4b10734df6",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libpurple",
         "version": "2.13.0",
         "release": "5.el8",
@@ -104,6 +104,18 @@
         "src": "pidgin-2.13.0-5.el8.src.rpm",
         "filename": "libpurple-2.13.0-5.el8.x86_64.rpm",
         "sum": "794a02e823f7fe2248477e17b8cb67cf3a848ebbeb5080f971244dbb2a320a9e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libpurple-devel",
+        "version": "2.13.0",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "pidgin-2.13.0-5.el8.src.rpm",
+        "filename": "libpurple-devel-2.13.0-5.el8.i686.rpm",
+        "sum": "80534f6c16a0afe01e3c22159419cb429448583b7b9365a8dc855639bf73329c",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -128,6 +140,78 @@
         "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
         "filename": "gdk-pixbuf2-xlib-2.36.12-5.el8.x86_64.rpm",
         "sum": "827a66181d28da1f122381c5103a65dc597d3da3405ccf76c1b9e53896b6efc1",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gdk-pixbuf2-devel",
+        "version": "2.36.12",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
+        "filename": "gdk-pixbuf2-devel-2.36.12-5.el8.x86_64.rpm",
+        "sum": "87f169bd03d797bd378b3eb58b0aefa69511859babd20334c56dbf2718fdfc0e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pidgin-devel",
+        "version": "2.13.0",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "pidgin-2.13.0-5.el8.src.rpm",
+        "filename": "pidgin-devel-2.13.0-5.el8.x86_64.rpm",
+        "sum": "8ab7d8b4429262a1ecf5a7dc38902314ef7175245694cfcf9f6c71378fed8cb2",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gdk-pixbuf2-xlib-devel",
+        "version": "2.36.12",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
+        "filename": "gdk-pixbuf2-xlib-devel-2.36.12-5.el8.i686.rpm",
+        "sum": "9d668307907456df1e7aadf711824cdfa9755e6bd52cacaa615b0bdec66e036b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gdk-pixbuf2",
+        "version": "2.36.12",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
+        "filename": "gdk-pixbuf2-2.36.12-5.el8.x86_64.rpm",
+        "sum": "c348e8092e6a5c581ea02d4c523020abc7a40309dc15bcb27220593095139894",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libpurple",
+        "version": "2.13.0",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "pidgin-2.13.0-5.el8.src.rpm",
+        "filename": "libpurple-2.13.0-5.el8.i686.rpm",
+        "sum": "121b81d81248f166d6de8c4fbe99b7243e84bc907cce514f099dc46b8aa1967f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gdk-pixbuf2-modules",
+        "version": "2.36.12",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
+        "filename": "gdk-pixbuf2-modules-2.36.12-5.el8.i686.rpm",
+        "sum": "6ebfbdd3a7510dd86b285d60acc59a69345779cccc3aac587988db4b10734df6",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -160,46 +244,10 @@
         "version": "2.36.12",
         "release": "5.el8",
         "epoch": "0",
-        "arch": "x86_64",
-        "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
-        "filename": "gdk-pixbuf2-devel-2.36.12-5.el8.x86_64.rpm",
-        "sum": "87f169bd03d797bd378b3eb58b0aefa69511859babd20334c56dbf2718fdfc0e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pidgin-devel",
-        "version": "2.13.0",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "pidgin-2.13.0-5.el8.src.rpm",
-        "filename": "pidgin-devel-2.13.0-5.el8.x86_64.rpm",
-        "sum": "8ab7d8b4429262a1ecf5a7dc38902314ef7175245694cfcf9f6c71378fed8cb2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gdk-pixbuf2-devel",
-        "version": "2.36.12",
-        "release": "5.el8",
-        "epoch": "0",
         "arch": "i686",
         "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
         "filename": "gdk-pixbuf2-devel-2.36.12-5.el8.i686.rpm",
         "sum": "90a76c523dba618d25ad5e9ff224e0e37bccfa4aaa627468f3cc5c1edaca8df7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gdk-pixbuf2",
-        "version": "2.36.12",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
-        "filename": "gdk-pixbuf2-2.36.12-5.el8.x86_64.rpm",
-        "sum": "c348e8092e6a5c581ea02d4c523020abc7a40309dc15bcb27220593095139894",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -284,54 +332,6 @@
         "src": "pidgin-2.13.0-5.el8.src.rpm",
         "filename": "libpurple-2.13.0-5.el8.aarch64.rpm",
         "sum": "cd55555c662d21cfafc27f64ce5893b2c2c9ef6747975b09e07056a62bb01b07",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gdk-pixbuf2-xlib",
-        "version": "2.36.12",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
-        "filename": "gdk-pixbuf2-xlib-2.36.12-5.el8.i686.rpm",
-        "sum": "47a98bb197fd5d61173bdaee8b3124474a8160cd28c9f532e2fea321bf5a2099",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pidgin-devel",
-        "version": "2.13.0",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "pidgin-2.13.0-5.el8.src.rpm",
-        "filename": "pidgin-devel-2.13.0-5.el8.i686.rpm",
-        "sum": "4b57945f99fc9888383bc5d40d279492280bd1a299554787079e0edcb0614f2c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libpurple-devel",
-        "version": "2.13.0",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "pidgin-2.13.0-5.el8.src.rpm",
-        "filename": "libpurple-devel-2.13.0-5.el8.i686.rpm",
-        "sum": "80534f6c16a0afe01e3c22159419cb429448583b7b9365a8dc855639bf73329c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gdk-pixbuf2-xlib-devel",
-        "version": "2.36.12",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "gdk-pixbuf2-2.36.12-5.el8.src.rpm",
-        "filename": "gdk-pixbuf2-xlib-devel-2.36.12-5.el8.i686.rpm",
-        "sum": "9d668307907456df1e7aadf711824cdfa9755e6bd52cacaa615b0bdec66e036b",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -788,7 +788,7 @@
   "title": "Low: GNOME security, bug fix, and enhancement update",
   "type": "security",
   "updated_date": {
-    "$date": 1636712455000
+    "$date": 1628672040000
   },
   "version": "4"
 }

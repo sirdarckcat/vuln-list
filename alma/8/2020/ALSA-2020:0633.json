@@ -8,9 +8,33 @@
     "$date": 1582815549000
   },
   "pkglist": {
-    "name": "almalinux-8-for-x86_64-baseos-rpms__8_0_default",
-    "shortname": "almalinux-8-for-x86_64-baseos-rpms__8_0_default",
+    "name": "codeready-builder-for-rhel-8-x86_64-rpms__8_0_default",
+    "shortname": "codeready-builder-for-rhel-8-x86_64-rpms__8_0_default",
     "packages": [
+      {
+        "name": "ppp-devel",
+        "version": "2.4.7",
+        "release": "26.el8_1",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "ppp-2.4.7-26.el8_1.src.rpm",
+        "filename": "ppp-devel-2.4.7-26.el8_1.i686.rpm",
+        "sum": "62b9599b0e357704737663588a1584008920f7832d74101bd44998e13cedd447",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "ppp",
+        "version": "2.4.7",
+        "release": "26.el8_1",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "ppp-2.4.7-26.el8_1.src.rpm",
+        "filename": "ppp-2.4.7-26.el8_1.i686.rpm",
+        "sum": "77338f397cd45c865917959aef6159cfbb3419e48fb1574f4576f80f4606f7b0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "ppp",
         "version": "2.4.7",
@@ -64,30 +88,6 @@
         "version": "2.4.7",
         "release": "26.el8_1",
         "epoch": "0",
-        "arch": "i686",
-        "src": "ppp-2.4.7-26.el8_1.src.rpm",
-        "filename": "ppp-devel-2.4.7-26.el8_1.i686.rpm",
-        "sum": "62b9599b0e357704737663588a1584008920f7832d74101bd44998e13cedd447",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "ppp",
-        "version": "2.4.7",
-        "release": "26.el8_1",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "ppp-2.4.7-26.el8_1.src.rpm",
-        "filename": "ppp-2.4.7-26.el8_1.i686.rpm",
-        "sum": "77338f397cd45c865917959aef6159cfbb3419e48fb1574f4576f80f4606f7b0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "ppp-devel",
-        "version": "2.4.7",
-        "release": "26.el8_1",
-        "epoch": "0",
         "arch": "ppc64le",
         "src": "ppp-2.4.7-26.el8_1.src.rpm",
         "filename": "ppp-devel-2.4.7-26.el8_1.ppc64le.rpm",
@@ -113,12 +113,6 @@
   "pushcount": "2",
   "references": [
     {
-      "href": "https://errata.almalinux.org/8/ALSA-2020-0633.html",
-      "type": "self",
-      "id": "ALSA-2020-0633",
-      "title": "ALSA-2020-0633"
-    },
-    {
       "href": "https://vulners.com/cve/CVE-2020-8597",
       "type": "cve",
       "id": "CVE-2020-8597",
@@ -126,7 +120,7 @@
     }
   ],
   "release": "0",
-  "rights": "Copyright 2022 AlmaLinux OS",
+  "rights": "Copyright 2021 AlmaLinux OS",
   "severity": "Important",
   "solution": "",
   "status": "final",
@@ -134,7 +128,7 @@
   "title": "Important: ppp security update",
   "type": "security",
   "updated_date": {
-    "$date": 1582815549000
+    "$date": 1628672040000
   },
   "version": "1"
 }
