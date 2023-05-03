@@ -20,6 +20,9 @@
         "Url": "https://github.com/newcontext-oss/kitchen-terraform/commit/3d20d60e7a891e2dd747df995a31226fa0b4ac48"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/kitchen-terraform/CVE-2023-30618.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-65g2-x53q-cmf6"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2023-04-24T22:44:38Z",
     "Severity": "LOW",
     "Summary": "Sensitive Terraform Output Values Printed At Info Logging Level In Kitchen-Terraform",
-    "UpdatedAt": "2023-04-24T22:44:40Z",
+    "UpdatedAt": "2023-05-02T22:01:25Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 3.2,

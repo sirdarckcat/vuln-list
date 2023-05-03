@@ -65,6 +65,15 @@
         "Url": "https://www.debian.org/security/2022/dsa-5269"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/sha3/CVE-2022-37454.yml"
+      },
+      {
+        "Url": "https://news.ycombinator.com/item?id=33281106"
+      },
+      {
+        "Url": "https://news.ycombinator.com/item?id=35050307"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-6w4m-2xhg-2658"
       }
     ],
@@ -83,7 +92,7 @@
     "PublishedAt": "2023-04-26T17:39:58Z",
     "Severity": "CRITICAL",
     "Summary": "Buffer overflow in sponge queue functions",
-    "UpdatedAt": "2023-04-26T17:39:59Z",
+    "UpdatedAt": "2023-05-02T22:01:59Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,

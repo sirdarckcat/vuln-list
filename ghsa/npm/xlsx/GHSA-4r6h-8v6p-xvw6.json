@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-04-24T22:40:46Z",
   "Package": {
     "Ecosystem": "NPM",
@@ -36,13 +36,13 @@
     "Description": "All versions of SheetJS CE through 0.19.2 are vulnerable to \"Prototype Pollution\" when reading specially crafted files. Workflows that do not read arbitrary files (for example, exporting data to spreadsheet files) are unaffected. ",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-04-24T09:30:19Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "Prototype Pollution in sheetJS",
-    "UpdatedAt": "2023-04-24T22:40:46Z",
+    "UpdatedAt": "2023-05-02T21:53:23Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.8,
+      "VectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

@@ -23,6 +23,9 @@
         "Url": "https://github.com/sidekiq/sidekiq/blob/main/Changes.md#708"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/sidekiq/CVE-2023-1892.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-h3r8-h5qw-4r35"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2023-04-21T06:30:19Z",
     "Severity": "HIGH",
     "Summary": "sidekiq vulnerable to cross-site scripting ",
-    "UpdatedAt": "2023-05-01T18:35:57Z",
+    "UpdatedAt": "2023-05-02T22:01:39Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.3,
