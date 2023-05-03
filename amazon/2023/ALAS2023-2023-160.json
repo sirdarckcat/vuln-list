@@ -5,7 +5,7 @@
     "date": "2023-04-13 17:56"
   },
   "updated": {
-    "date": "2023-04-13 17:56"
+    "date": "2023-04-19 21:51"
   },
   "severity": "Medium",
   "description": "Package updates are available for Amazon Linux 2023 that fix the following vulnerabilities:\nCVE-2023-1583:\n\tA NULL pointer dereference has been discovered in the Linux Kernel, in io_file_bitmap_get in io_uring/filetable.c.\n\nCVE-2022-4269:\n\tA flaw was found in the Linux kernel Traffic Control (TC) subsystem. Using a specific networking configuration (redirecting egress packets to ingress using TC action \"mirred\") a local unprivileged user could trigger a CPU soft lockup (ABBA deadlock) when the transport protocol in use (TCP or SCTP) does a retransmission, resulting in a denial of service condition.\n",
