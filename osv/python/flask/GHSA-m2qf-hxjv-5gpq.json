@@ -1,6 +1,6 @@
 {
   "id": "GHSA-m2qf-hxjv-5gpq",
-  "modified": "2023-05-02T16:46:31.794681Z",
+  "modified": "2023-05-02T19:13:49.116297Z",
   "published": "2023-05-01T19:22:20Z",
   "aliases": [
     "CVE-2023-30861"
@@ -128,6 +128,10 @@
       "url": "https://github.com/pallets/flask/security/advisories/GHSA-m2qf-hxjv-5gpq"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-30861"
+    },
+    {
       "type": "WEB",
       "url": "https://github.com/pallets/flask/commit/70f906c51ce49c485f1d355703e9cc3386b1cc2b"
     },
@@ -138,6 +142,10 @@
     {
       "type": "PACKAGE",
       "url": "https://github.com/pallets/flask"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/pallets/flask/releases/tag/2.2.5"
     },
     {
       "type": "WEB",
