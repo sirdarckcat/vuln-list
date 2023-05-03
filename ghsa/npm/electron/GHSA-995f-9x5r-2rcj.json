@@ -26,6 +26,9 @@
         "Url": "https://github.com/electron/electron/pull/36447"
       },
       {
+        "Url": "https://security.gentoo.org/glsa/202305-10"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-995f-9x5r-2rcj"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2022-11-25T03:30:19Z",
     "Severity": "CRITICAL",
     "Summary": "Heap buffer overflow in GPU",
-    "UpdatedAt": "2023-01-31T05:07:57Z",
+    "UpdatedAt": "2023-05-03T13:53:50Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.6,

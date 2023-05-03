@@ -26,6 +26,9 @@
         "Url": "https://lab.louiz.org/poezio/slixmpp/-/commits/master"
       },
       {
+        "Url": "https://security.gentoo.org/glsa/202305-07"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-q6cq-m9gm-6q2f"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2022-12-25T06:30:20Z",
     "Severity": "HIGH",
     "Summary": "Slixmpp lacks SSL Certificate hostname validation in XMLStream",
-    "UpdatedAt": "2023-02-02T05:01:18Z",
+    "UpdatedAt": "2023-05-03T13:53:56Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

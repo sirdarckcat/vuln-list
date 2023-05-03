@@ -1,5 +1,5 @@
 {
-  "Severity": "HIGH",
+  "Severity": "CRITICAL",
   "UpdatedAt": "2023-04-24T20:23:45Z",
   "Package": {
     "Ecosystem": "PIP",
@@ -36,13 +36,13 @@
     "Description": "In modoboa prior to 2.1.0, sending a GET request to the endpoint `/api/v2/parameters/core/` returns sensitive information without any authentication or authorization.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-04-21T15:30:18Z",
-    "Severity": "HIGH",
+    "Severity": "CRITICAL",
     "Summary": "Improper Authorization in modoboa",
-    "UpdatedAt": "2023-04-24T20:23:45Z",
+    "UpdatedAt": "2023-05-03T16:03:29Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.1,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N"
     }
   },
   "Versions": [

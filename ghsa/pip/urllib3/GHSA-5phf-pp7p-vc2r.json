@@ -44,6 +44,9 @@
         "Url": "https://github.com/pypa/advisory-db/tree/main/vulns/urllib3/PYSEC-2021-59.yaml"
       },
       {
+        "Url": "https://security.gentoo.org/glsa/202305-02"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-5phf-pp7p-vc2r"
       }
     ],
@@ -62,7 +65,7 @@
     "PublishedAt": "2021-03-19T19:42:11Z",
     "Severity": "MODERATE",
     "Summary": "Using default SSLContext for HTTPS requests in an HTTPS proxy doesn't verify certificate hostname for proxy connection",
-    "UpdatedAt": "2023-02-01T05:05:14Z",
+    "UpdatedAt": "2023-05-03T13:49:53Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,

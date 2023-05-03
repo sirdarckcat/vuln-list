@@ -30,13 +30,13 @@
         "Value": "CVE-2023-26812"
       }
     ],
-    "Description": "Command execution vulnerability in the ActionEnter Class ins jfinal CMS version 5.1.0 allows attackers to execute arbitrary code via a created json file to the ueditor route.",
+    "Description": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-8qhm-ch8h-xgjr. This link is maintained to preserve external references.\n\n## Original Description\nCommand execution vulnerability in the ActionEnter Class ins jfinal CMS version 5.1.0 allows attackers to execute arbitrary code via a created json file to the ueditor route.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-04-28T21:30:19Z",
     "Severity": "CRITICAL",
-    "Summary": "Arbitrary code execution in jfinal CMS",
-    "UpdatedAt": "2023-05-01T14:01:21Z",
-    "WithdrawnAt": "",
+    "Summary": "Duplicate Advisory: Arbitrary code execution in jfinal CMS",
+    "UpdatedAt": "2023-05-03T18:17:25Z",
+    "WithdrawnAt": "2023-05-03T18:17:25Z",
     "CVSS": {
       "Score": 0,
       "VectorString": ""

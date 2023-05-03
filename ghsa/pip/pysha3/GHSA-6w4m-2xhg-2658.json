@@ -74,6 +74,9 @@
         "Url": "https://news.ycombinator.com/item?id=35050307"
       },
       {
+        "Url": "https://security.gentoo.org/glsa/202305-02"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-6w4m-2xhg-2658"
       }
     ],
@@ -92,7 +95,7 @@
     "PublishedAt": "2023-04-26T17:39:58Z",
     "Severity": "CRITICAL",
     "Summary": "Buffer overflow in sponge queue functions",
-    "UpdatedAt": "2023-05-02T22:01:59Z",
+    "UpdatedAt": "2023-05-03T13:53:37Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,

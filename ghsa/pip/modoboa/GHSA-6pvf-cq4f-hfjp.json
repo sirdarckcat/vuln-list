@@ -38,11 +38,11 @@
     "PublishedAt": "2023-04-21T15:30:18Z",
     "Severity": "MODERATE",
     "Summary": "modoboa vulnerable to Cross-Site Request Forgery",
-    "UpdatedAt": "2023-04-24T20:29:47Z",
+    "UpdatedAt": "2023-05-03T16:03:50Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.8,
-      "VectorString": "CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:U/C:H/I:H/A:H"
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:R/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [
