@@ -1,9 +1,74 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26260001",
+      "Version": "1",
+      "Name": "hyperv-daemons"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26222001",
+      "Version": "1",
+      "Name": "hyperv-daemons"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26175001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26174001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26173001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26171001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26127001",
+      "Version": "1",
+      "Name": "hyperv-daemons"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26118001",
+      "Version": "1",
+      "Name": "tcl"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26092001",
       "Version": "0",
       "Name": "grpc"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26043001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26042001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26041001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26018001",
+      "Version": "1",
+      "Name": "hyperv-daemons"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:25982001",
+      "Version": "1",
+      "Name": "hyperv-daemons"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:25951001",
@@ -14,6 +79,16 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:25950001",
       "Version": "1",
       "Name": "openssl"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:25915001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:25914001",
+      "Version": "1",
+      "Name": "kernel"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:25913001",
@@ -41,7 +116,22 @@
       "Name": "kernel"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:25755001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:25754001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:25753001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:25751001",
       "Version": "1",
       "Name": "kernel"
     },
@@ -49,6 +139,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:25697001",
       "Version": "1",
       "Name": "openssl"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:25687001",
+      "Version": "1",
+      "Name": "kernel"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:25684001",
@@ -64,6 +159,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:25671001",
       "Version": "1",
       "Name": "redis"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:25651001",
+      "Version": "1",
+      "Name": "kernel"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:25650001",
@@ -592,7 +692,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:13290001",
-      "Version": "0",
+      "Version": "1",
       "Name": "kernel"
     },
     {
@@ -992,7 +1092,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:12946001",
-      "Version": "0",
+      "Version": "1",
       "Name": "kernel"
     },
     {
