@@ -36,18 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "kernel-tools-libs-devel",
-        "version": "4.18.0",
-        "release": "425.10.1.el8_7",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "kernel-4.18.0-425.10.1.el8_7.src.rpm",
-        "filename": "kernel-tools-libs-devel-4.18.0-425.10.1.el8_7.x86_64.rpm",
-        "sum": "a6c4ff78aa27b0290ba89227e06e81ef6f7c5f19cb68da50a319f80452b0031d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "python3-perf",
         "version": "4.18.0",
         "release": "425.10.1.el8_7",
@@ -428,6 +416,18 @@
         "src": "kernel-4.18.0-425.10.1.el8_7.src.rpm",
         "filename": "kernel-tools-libs-4.18.0-425.10.1.el8_7.aarch64.rpm",
         "sum": "e43e4c7153799e7f86c29cbebfe8219349bc615b930ad211bfac5f75500bc14a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "kernel-tools-libs-devel",
+        "version": "4.18.0",
+        "release": "425.10.1.el8_7",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "kernel-4.18.0-425.10.1.el8_7.src.rpm",
+        "filename": "kernel-tools-libs-devel-4.18.0-425.10.1.el8_7.x86_64.rpm",
+        "sum": "a6c4ff78aa27b0290ba89227e06e81ef6f7c5f19cb68da50a319f80452b0031d",
         "sum_type": 5,
         "reboot_suggested": 0
       },

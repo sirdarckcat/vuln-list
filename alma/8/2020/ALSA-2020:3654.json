@@ -8,8 +8,8 @@
     "$date": 1599554190000
   },
   "pkglist": {
-    "name": "codeready-builder-for-rhel-8-x86_64-rpms__8_0_default",
-    "shortname": "codeready-builder-for-rhel-8-x86_64-rpms__8_0_default",
+    "name": "almalinux-8-for-x86_64-baseos-rpms__8_0_default",
+    "shortname": "almalinux-8-for-x86_64-baseos-rpms__8_0_default",
     "packages": [
       {
         "name": "libcroco",
@@ -24,26 +24,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libcroco-devel",
-        "version": "0.6.12",
-        "release": "4.el8_2.1",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "libcroco-0.6.12-4.el8_2.1.src.rpm",
-        "filename": "libcroco-devel-0.6.12-4.el8_2.1.i686.rpm",
-        "sum": "414f1c5025b1f548afd752fd19252c43888b1e7ed4ce8bdfba572f64145c4166",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libcroco-devel",
+        "name": "libcroco",
         "version": "0.6.12",
         "release": "4.el8_2.1",
         "epoch": "0",
         "arch": "x86_64",
         "src": "libcroco-0.6.12-4.el8_2.1.src.rpm",
-        "filename": "libcroco-devel-0.6.12-4.el8_2.1.x86_64.rpm",
-        "sum": "b805d882904907b1091da34a222acca1963c068ab85c187aad010fa85cb5fe2b",
+        "filename": "libcroco-0.6.12-4.el8_2.1.x86_64.rpm",
+        "sum": "001cfab74ef07ad7944258d39716828ca1dd0ed9f0bff30bbb34e05b6100fd2e",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -56,6 +44,30 @@
         "src": "libcroco-0.6.12-4.el8_2.1.src.rpm",
         "filename": "Packages/libcroco-0.6.12-4.el8_2.1.i686.rpm",
         "sum": "79f72726aa5f4f0149b80dcbbb93fca05dc74c53cc1dbef445dbe08e9383dcce",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libcroco",
+        "version": "0.6.12",
+        "release": "4.el8_2.1",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "libcroco-0.6.12-4.el8_2.1.src.rpm",
+        "filename": "Packages/libcroco-0.6.12-4.el8_2.1.i686.rpm",
+        "sum": "79f72726aa5f4f0149b80dcbbb93fca05dc74c53cc1dbef445dbe08e9383dcce",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libcroco-devel",
+        "version": "0.6.12",
+        "release": "4.el8_2.1",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "libcroco-0.6.12-4.el8_2.1.src.rpm",
+        "filename": "libcroco-devel-0.6.12-4.el8_2.1.x86_64.rpm",
+        "sum": "b805d882904907b1091da34a222acca1963c068ab85c187aad010fa85cb5fe2b",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -80,6 +92,18 @@
         "src": "libcroco-0.6.12-4.el8_2.1.src.rpm",
         "filename": "libcroco-0.6.12-4.el8_2.1.aarch64.rpm",
         "sum": "f3bdd1daecafd47b451e84e862aa53a6f30b49058a78c7daf7c672df57e513e7",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libcroco-devel",
+        "version": "0.6.12",
+        "release": "4.el8_2.1",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "libcroco-0.6.12-4.el8_2.1.src.rpm",
+        "filename": "libcroco-devel-0.6.12-4.el8_2.1.i686.rpm",
+        "sum": "414f1c5025b1f548afd752fd19252c43888b1e7ed4ce8bdfba572f64145c4166",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -113,6 +137,12 @@
   "pushcount": "2",
   "references": [
     {
+      "href": "https://errata.almalinux.org/8/ALSA-2020-3654.html",
+      "type": "self",
+      "id": "ALSA-2020-3654",
+      "title": "ALSA-2020-3654"
+    },
+    {
       "href": "https://vulners.com/cve/CVE-2020-12825",
       "type": "cve",
       "id": "CVE-2020-12825",
@@ -120,7 +150,7 @@
     }
   ],
   "release": "0",
-  "rights": "Copyright 2021 AlmaLinux OS",
+  "rights": "Copyright 2022 AlmaLinux OS",
   "severity": "Moderate",
   "solution": "",
   "status": "final",
@@ -128,7 +158,7 @@
   "title": "Moderate: libcroco security update",
   "type": "security",
   "updated_date": {
-    "$date": 1628672040000
+    "$date": 1678725267000
   },
   "version": "1"
 }

@@ -8,9 +8,21 @@
     "$date": 1636450790000
   },
   "pkglist": {
-    "name": "codeready-builder-for-rhel-8-x86_64-rpms__8_0_default",
-    "shortname": "codeready-builder-for-rhel-8-x86_64-rpms__8_0_default",
+    "name": "almalinux-8-for-x86_64-baseos-rpms__8_0_default",
+    "shortname": "almalinux-8-for-x86_64-baseos-rpms__8_0_default",
     "packages": [
+      {
+        "name": "libsepol-devel",
+        "version": "2.9",
+        "release": "3.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "libsepol-2.9-3.el8.src.rpm",
+        "filename": "Packages/libsepol-devel-2.9-3.el8.i686.rpm",
+        "sum": "13bbfe95a11a9098468ea0e65dde4d4821d6591c7ef7a1c820cc1f1629cd7568",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "libsepol-static",
         "version": "2.9",
@@ -36,14 +48,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libsepol-static",
+        "name": "libsepol",
         "version": "2.9",
         "release": "3.el8",
         "epoch": "0",
-        "arch": "i686",
+        "arch": "x86_64",
         "src": "libsepol-2.9-3.el8.src.rpm",
-        "filename": "libsepol-static-2.9-3.el8.i686.rpm",
-        "sum": "a9528073bf059f0b0bbe370fd6b0a43c192606d92d13877b0b963fdda9e87c97",
+        "filename": "libsepol-2.9-3.el8.x86_64.rpm",
+        "sum": "55bfbf557e668657b3d8e9b7389c9ec89944c9c21957eecb5e311a9d50a7708d",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -64,10 +76,10 @@
         "version": "2.9",
         "release": "3.el8",
         "epoch": "0",
-        "arch": "i686",
+        "arch": "x86_64",
         "src": "libsepol-2.9-3.el8.src.rpm",
-        "filename": "Packages/libsepol-devel-2.9-3.el8.i686.rpm",
-        "sum": "13bbfe95a11a9098468ea0e65dde4d4821d6591c7ef7a1c820cc1f1629cd7568",
+        "filename": "libsepol-devel-2.9-3.el8.x86_64.rpm",
+        "sum": "bf7296b0ec33968e01014c1b5097b51c085bf393e11574b85d194c0f5555c292",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -124,6 +136,18 @@
         "version": "2.9",
         "release": "3.el8",
         "epoch": "0",
+        "arch": "i686",
+        "src": "libsepol-2.9-3.el8.src.rpm",
+        "filename": "libsepol-static-2.9-3.el8.i686.rpm",
+        "sum": "a9528073bf059f0b0bbe370fd6b0a43c192606d92d13877b0b963fdda9e87c97",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libsepol-static",
+        "version": "2.9",
+        "release": "3.el8",
+        "epoch": "0",
         "arch": "ppc64le",
         "src": "libsepol-2.9-3.el8.src.rpm",
         "filename": "libsepol-static-2.9-3.el8.ppc64le.rpm",
@@ -161,6 +185,12 @@
   "pushcount": "3",
   "references": [
     {
+      "href": "https://errata.almalinux.org/8/ALSA-2021-4513.html",
+      "type": "self",
+      "id": "ALSA-2021-4513",
+      "title": "ALSA-2021-4513"
+    },
+    {
       "href": "https://vulners.com/cve/CVE-2021-36084",
       "type": "cve",
       "id": "CVE-2021-36084",
@@ -186,7 +216,7 @@
     }
   ],
   "release": "0",
-  "rights": "Copyright 2021 AlmaLinux OS",
+  "rights": "Copyright 2022 AlmaLinux OS",
   "severity": "Moderate",
   "solution": "",
   "status": "final",
@@ -194,7 +224,7 @@
   "title": "Moderate: libsepol security update",
   "type": "security",
   "updated_date": {
-    "$date": 1636712461000
+    "$date": 1678725237000
   },
   "version": "2"
 }

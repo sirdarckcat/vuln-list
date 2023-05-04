@@ -36,18 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "xz-lzma-compat",
-        "version": "5.2.4",
-        "release": "4.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "xz-5.2.4-4.el8_6.src.rpm",
-        "filename": "xz-lzma-compat-5.2.4-4.el8_6.x86_64.rpm",
-        "sum": "bc2cd3adfd82ecfc1efda8aa75e566ca7ab7d0e10cda91d9e68e8bd37f310844",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "xz-devel",
         "version": "5.2.4",
         "release": "4.el8_6",
@@ -116,6 +104,18 @@
         "src": "xz-5.2.4-4.el8_6.src.rpm",
         "filename": "xz-libs-5.2.4-4.el8_6.aarch64.rpm",
         "sum": "eb1bf61e0b1635d73c0f8abda8a892d3facb8112fa5dbeb0865a7bdfacb4298a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xz-lzma-compat",
+        "version": "5.2.4",
+        "release": "4.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "xz-5.2.4-4.el8_6.src.rpm",
+        "filename": "xz-lzma-compat-5.2.4-4.el8_6.x86_64.rpm",
+        "sum": "bc2cd3adfd82ecfc1efda8aa75e566ca7ab7d0e10cda91d9e68e8bd37f310844",
         "sum_type": 5,
         "reboot_suggested": 0
       },

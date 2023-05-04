@@ -8,21 +8,9 @@
     "$date": 1666656000000
   },
   "pkglist": {
-    "name": "almalinux-8-for-x86_64-powertools-rpms__8_6_default",
-    "shortname": "almalinux-8-for-x86_64-powertools-rpms__8_6_default",
+    "name": "almalinux-8-for-x86_64-baseos-rpms__8_6_default",
+    "shortname": "almalinux-8-for-x86_64-baseos-rpms__8_6_default",
     "packages": [
-      {
-        "name": "kernel-tools-libs-devel",
-        "version": "4.18.0",
-        "release": "372.32.1.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "kernel-4.18.0-372.32.1.el8_6.src.rpm",
-        "filename": "kernel-tools-libs-devel-4.18.0-372.32.1.el8_6.x86_64.rpm",
-        "sum": "bdb9dded3cb3c474082028232d599f3f3dddfce5fffaaf025b24dc144d5f267b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "perf",
         "version": "4.18.0",
@@ -452,6 +440,18 @@
         "src": "kernel-4.18.0-372.32.1.el8_6.src.rpm",
         "filename": "kernel-tools-4.18.0-372.32.1.el8_6.aarch64.rpm",
         "sum": "daf9693d098f968d0f1f0badbf650784c0616b11c56259cb1704c6fb49804db1",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "kernel-tools-libs-devel",
+        "version": "4.18.0",
+        "release": "372.32.1.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "kernel-4.18.0-372.32.1.el8_6.src.rpm",
+        "filename": "kernel-tools-libs-devel-4.18.0-372.32.1.el8_6.x86_64.rpm",
+        "sum": "bdb9dded3cb3c474082028232d599f3f3dddfce5fffaaf025b24dc144d5f267b",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -980,7 +980,7 @@
   "title": "Important: kernel security, bug fix, and enhancement update",
   "type": "security",
   "updated_date": {
-    "$date": 1666864586000
+    "$date": 1666864607000
   },
   "version": "1"
 }

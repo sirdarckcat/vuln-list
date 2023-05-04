@@ -8,33 +8,9 @@
     "$date": 1667865600000
   },
   "pkglist": {
-    "name": "almalinux-8-for-i686-appstream-rpms__8_6_default",
-    "shortname": "almalinux-8-for-i686-appstream-rpms__8_6_default",
+    "name": "almalinux-8-for-i686-powertools-rpms__8_6_default",
+    "shortname": "almalinux-8-for-i686-powertools-rpms__8_6_default",
     "packages": [
-      {
-        "name": "openblas",
-        "version": "0.3.15",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "openblas-0.3.15-4.el8.src.rpm",
-        "filename": "openblas-0.3.15-4.el8.i686.rpm",
-        "sum": "81e86f50962c0f1d0ae92b4533170e33b4bc1d906309e58efed5934108010764",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "openblas-threads",
-        "version": "0.3.15",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "openblas-0.3.15-4.el8.src.rpm",
-        "filename": "openblas-threads-0.3.15-4.el8.i686.rpm",
-        "sum": "dacee90ba7face40cd34199e15155320c96d91eedc5189522fc2470d0f05005b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "openblas-openmp",
         "version": "0.3.15",
@@ -68,6 +44,30 @@
         "src": "openblas-0.3.15-4.el8.src.rpm",
         "filename": "openblas-devel-0.3.15-4.el8.i686.rpm",
         "sum": "c781dbba451c61f4b619dea968ec1926dff27046420af2a13f5d148197fde4fb",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "openblas",
+        "version": "0.3.15",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "openblas-0.3.15-4.el8.src.rpm",
+        "filename": "openblas-0.3.15-4.el8.i686.rpm",
+        "sum": "81e86f50962c0f1d0ae92b4533170e33b4bc1d906309e58efed5934108010764",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "openblas-threads",
+        "version": "0.3.15",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "openblas-0.3.15-4.el8.src.rpm",
+        "filename": "openblas-threads-0.3.15-4.el8.i686.rpm",
+        "sum": "dacee90ba7face40cd34199e15155320c96d91eedc5189522fc2470d0f05005b",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -456,26 +456,26 @@
         "reboot_suggested": 0
       },
       {
-        "name": "openblas-threads",
-        "version": "0.3.15",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "openblas-0.3.15-4.el8.src.rpm",
-        "filename": "openblas-threads-0.3.15-4.el8.x86_64.rpm",
-        "sum": "3738cab791019f23382b886d4e03fe529aa405c870644f60576f50e09aee7313",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "openblas",
         "version": "0.3.15",
         "release": "4.el8",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "s390x",
         "src": "openblas-0.3.15-4.el8.src.rpm",
-        "filename": "openblas-0.3.15-4.el8.x86_64.rpm",
-        "sum": "ce16d162cdba88f90ce633acf724a801b516f89c44445f6dcbc364e45c0878b0",
+        "filename": "openblas-0.3.15-4.el8.s390x.rpm",
+        "sum": "2ee5205c472337b4814d8133ff85abe95913a80b94033db4b192384b4b7c8965",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "openblas-threads",
+        "version": "0.3.15",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "openblas-0.3.15-4.el8.src.rpm",
+        "filename": "openblas-threads-0.3.15-4.el8.s390x.rpm",
+        "sum": "ec7f2a79db0334c78e4141b5d8a0227698000dac4b899d775c5fa9a309fe69da",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -600,26 +600,26 @@
         "reboot_suggested": 0
       },
       {
-        "name": "openblas",
-        "version": "0.3.15",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "openblas-0.3.15-4.el8.src.rpm",
-        "filename": "openblas-0.3.15-4.el8.s390x.rpm",
-        "sum": "2ee5205c472337b4814d8133ff85abe95913a80b94033db4b192384b4b7c8965",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "openblas-threads",
         "version": "0.3.15",
         "release": "4.el8",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "x86_64",
         "src": "openblas-0.3.15-4.el8.src.rpm",
-        "filename": "openblas-threads-0.3.15-4.el8.s390x.rpm",
-        "sum": "ec7f2a79db0334c78e4141b5d8a0227698000dac4b899d775c5fa9a309fe69da",
+        "filename": "openblas-threads-0.3.15-4.el8.x86_64.rpm",
+        "sum": "3738cab791019f23382b886d4e03fe529aa405c870644f60576f50e09aee7313",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "openblas",
+        "version": "0.3.15",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "openblas-0.3.15-4.el8.src.rpm",
+        "filename": "openblas-0.3.15-4.el8.x86_64.rpm",
+        "sum": "ce16d162cdba88f90ce633acf724a801b516f89c44445f6dcbc364e45c0878b0",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -686,7 +686,7 @@
   "title": "Moderate: openblas security update",
   "type": "security",
   "updated_date": {
-    "$date": 1668205124000
+    "$date": 1668205125000
   },
   "version": "1"
 }

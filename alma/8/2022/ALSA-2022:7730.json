@@ -72,30 +72,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "python3-ldb-devel",
-        "version": "2.5.2",
-        "release": "2.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "libldb-2.5.2-2.el8.src.rpm",
-        "filename": "python3-ldb-devel-2.5.2-2.el8.x86_64.rpm",
-        "sum": "209085051927e6cc51c9a935fa159bd53c21a8cb663ce65da78d0f60c24db293",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "python-ldb-devel-common",
-        "version": "2.5.2",
-        "release": "2.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "libldb-2.5.2-2.el8.src.rpm",
-        "filename": "python-ldb-devel-common-2.5.2-2.el8.x86_64.rpm",
-        "sum": "2b2c95752f13f60460d21ef764acbafe544b09a47689a65d5f015916d54d2fc7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libldb-devel",
         "version": "2.5.2",
         "release": "2.el8",
@@ -188,6 +164,30 @@
         "src": "libldb-2.5.2-2.el8.src.rpm",
         "filename": "libldb-2.5.2-2.el8.aarch64.rpm",
         "sum": "db5a7291d27052dbb4996d777daa06afe314b12f40c7b9ed6e3ecf3355de2fdd",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "python3-ldb-devel",
+        "version": "2.5.2",
+        "release": "2.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "libldb-2.5.2-2.el8.src.rpm",
+        "filename": "python3-ldb-devel-2.5.2-2.el8.x86_64.rpm",
+        "sum": "209085051927e6cc51c9a935fa159bd53c21a8cb663ce65da78d0f60c24db293",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "python-ldb-devel-common",
+        "version": "2.5.2",
+        "release": "2.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "libldb-2.5.2-2.el8.src.rpm",
+        "filename": "python-ldb-devel-common-2.5.2-2.el8.x86_64.rpm",
+        "sum": "2b2c95752f13f60460d21ef764acbafe544b09a47689a65d5f015916d54d2fc7",
         "sum_type": 5,
         "reboot_suggested": 0
       },

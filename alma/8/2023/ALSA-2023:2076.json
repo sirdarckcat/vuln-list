@@ -60,30 +60,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libwebp",
-        "version": "1.0.0",
-        "release": "8.el8_7",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "libwebp-1.0.0-8.el8_7.src.rpm",
-        "filename": "libwebp-1.0.0-8.el8_7.x86_64.rpm",
-        "sum": "7e34819b2c6e169f5b4b87c4cc141a0f0d6ed61ce49fd33ea3c49062882a51c0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libwebp-devel",
-        "version": "1.0.0",
-        "release": "8.el8_7",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "libwebp-1.0.0-8.el8_7.src.rpm",
-        "filename": "libwebp-devel-1.0.0-8.el8_7.x86_64.rpm",
-        "sum": "fa1eb37361bd7f98f5281480ee16bed57e160080b66916942b159512d098f1dc",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libwebp-devel",
         "version": "1.0.0",
         "release": "8.el8_7",
@@ -104,6 +80,30 @@
         "src": "libwebp-1.0.0-8.el8_7.src.rpm",
         "filename": "libwebp-1.0.0-8.el8_7.s390x.rpm",
         "sum": "a23566d5c5e6d29f3b9d5dcfeb03d6b7e46eee81109a7d5b35179780bdd50241",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwebp",
+        "version": "1.0.0",
+        "release": "8.el8_7",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "libwebp-1.0.0-8.el8_7.src.rpm",
+        "filename": "libwebp-1.0.0-8.el8_7.x86_64.rpm",
+        "sum": "7e34819b2c6e169f5b4b87c4cc141a0f0d6ed61ce49fd33ea3c49062882a51c0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwebp-devel",
+        "version": "1.0.0",
+        "release": "8.el8_7",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "libwebp-1.0.0-8.el8_7.src.rpm",
+        "filename": "libwebp-devel-1.0.0-8.el8_7.x86_64.rpm",
+        "sum": "fa1eb37361bd7f98f5281480ee16bed57e160080b66916942b159512d098f1dc",
         "sum_type": 5,
         "reboot_suggested": 0
       },

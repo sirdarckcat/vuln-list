@@ -8,9 +8,21 @@
     "$date": 1667865600000
   },
   "pkglist": {
-    "name": "almalinux-8-for-i686-appstream-rpms__8_6_default",
-    "shortname": "almalinux-8-for-i686-appstream-rpms__8_6_default",
+    "name": "almalinux-8-for-i686-powertools-rpms__8_6_default",
+    "shortname": "almalinux-8-for-i686-powertools-rpms__8_6_default",
     "packages": [
+      {
+        "name": "openjpeg2-devel",
+        "version": "2.4.0",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "openjpeg2-2.4.0-5.el8.src.rpm",
+        "filename": "openjpeg2-devel-2.4.0-5.el8.i686.rpm",
+        "sum": "fda4b663d32503e88c0685350e5351a208bcb7cecaea2f22276807d512b389da",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "openjpeg2-tools",
         "version": "2.4.0",
@@ -44,18 +56,6 @@
         "src": "openjpeg2-2.4.0-5.el8.src.rpm",
         "filename": "openjpeg2-2.4.0-5.el8.i686.rpm",
         "sum": "c025846bed36fa097ecad812f98ca199bff45f2c320bc1df150efafd1f1e96d2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "openjpeg2-devel",
-        "version": "2.4.0",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "openjpeg2-2.4.0-5.el8.src.rpm",
-        "filename": "openjpeg2-devel-2.4.0-5.el8.i686.rpm",
-        "sum": "fda4b663d32503e88c0685350e5351a208bcb7cecaea2f22276807d512b389da",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -124,10 +124,10 @@
         "version": "2.4.0",
         "release": "5.el8",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "s390x",
         "src": "openjpeg2-2.4.0-5.el8.src.rpm",
-        "filename": "openjpeg2-tools-2.4.0-5.el8.x86_64.rpm",
-        "sum": "3dc65cc90cb7b2c3392e6f92f178fe9538673d10f6dbcd9c1427413e77dd8383",
+        "filename": "openjpeg2-tools-2.4.0-5.el8.s390x.rpm",
+        "sum": "78938fd9191edc8ba03e9ce8b4782d925e353122cd39d8afc89c975cf095a6f4",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -136,10 +136,10 @@
         "version": "2.4.0",
         "release": "5.el8",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "s390x",
         "src": "openjpeg2-2.4.0-5.el8.src.rpm",
-        "filename": "openjpeg2-2.4.0-5.el8.x86_64.rpm",
-        "sum": "87a77a9c0d317710befb60d1df9e49970278d3dfc4aba050f1a84ee9d15b5ce1",
+        "filename": "openjpeg2-2.4.0-5.el8.s390x.rpm",
+        "sum": "79c7c449fa8faac6d3bca00e389e9aca723f63041a1d22d2b632a91e3ed45cd6",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -160,10 +160,10 @@
         "version": "2.4.0",
         "release": "5.el8",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "x86_64",
         "src": "openjpeg2-2.4.0-5.el8.src.rpm",
-        "filename": "openjpeg2-tools-2.4.0-5.el8.s390x.rpm",
-        "sum": "78938fd9191edc8ba03e9ce8b4782d925e353122cd39d8afc89c975cf095a6f4",
+        "filename": "openjpeg2-tools-2.4.0-5.el8.x86_64.rpm",
+        "sum": "3dc65cc90cb7b2c3392e6f92f178fe9538673d10f6dbcd9c1427413e77dd8383",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -172,10 +172,10 @@
         "version": "2.4.0",
         "release": "5.el8",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "x86_64",
         "src": "openjpeg2-2.4.0-5.el8.src.rpm",
-        "filename": "openjpeg2-2.4.0-5.el8.s390x.rpm",
-        "sum": "79c7c449fa8faac6d3bca00e389e9aca723f63041a1d22d2b632a91e3ed45cd6",
+        "filename": "openjpeg2-2.4.0-5.el8.x86_64.rpm",
+        "sum": "87a77a9c0d317710befb60d1df9e49970278d3dfc4aba050f1a84ee9d15b5ce1",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -242,7 +242,7 @@
   "title": "Low: openjpeg2 security update",
   "type": "security",
   "updated_date": {
-    "$date": 1668203268000
+    "$date": 1668203261000
   },
   "version": "1"
 }
