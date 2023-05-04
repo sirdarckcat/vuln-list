@@ -7,9 +7,6 @@
       "CVE-2022-31107",
       "CVE-2022-39201",
       "CVE-2022-31123"
-    ],
-    "7.5.21-r0": [
-      "CVE-2023-28119"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
