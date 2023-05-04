@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-04-25T19:57:07Z",
   "Package": {
     "Ecosystem": "NPM",
@@ -36,13 +36,13 @@
     "Description": "Uncaught Exception in GitHub repository eemeli/yaml starting at version 2.0.0-5 and prior to 2.2.2.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-04-24T15:30:34Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "Uncaught Exception in yaml",
-    "UpdatedAt": "2023-04-25T19:57:07Z",
+    "UpdatedAt": "2023-05-03T18:36:54Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
     }
   },
   "Versions": [
