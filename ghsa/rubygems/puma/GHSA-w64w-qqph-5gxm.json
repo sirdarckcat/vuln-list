@@ -32,6 +32,9 @@
         "Url": "https://lists.debian.org/debian-lts-announce/2020/10/msg00009.html"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/puma/CVE-2020-11077.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-w64w-qqph-5gxm"
       }
     ],
@@ -50,7 +53,7 @@
     "PublishedAt": "2020-05-22T14:55:09Z",
     "Severity": "MODERATE",
     "Summary": "HTTP Smuggling via Transfer-Encoding Header in Puma",
-    "UpdatedAt": "2023-03-03T23:20:46Z",
+    "UpdatedAt": "2023-05-04T19:53:13Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.8,

@@ -44,11 +44,11 @@
     "PublishedAt": "2023-04-20T21:33:27Z",
     "Severity": "MODERATE",
     "Summary": "pretalx allows path traversal in HTML export",
-    "UpdatedAt": "2023-04-21T21:19:53Z",
+    "UpdatedAt": "2023-05-04T20:05:14Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 4.3,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:N"
     }
   },
   "Versions": [

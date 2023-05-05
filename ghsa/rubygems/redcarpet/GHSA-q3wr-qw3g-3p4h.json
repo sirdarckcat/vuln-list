@@ -30,6 +30,9 @@
       },
       {
         "Url": "https://www.debian.org/security/2021/dsa-4831"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/redcarpet/CVE-2020-26298.yml"
       }
     ],
     "Identifiers": [
@@ -47,7 +50,7 @@
     "PublishedAt": "2021-01-11T19:06:10Z",
     "Severity": "MODERATE",
     "Summary": "Injection/XSS in Redcarpet",
-    "UpdatedAt": "2023-01-28T05:04:48Z",
+    "UpdatedAt": "2023-05-04T20:02:58Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.8,

@@ -29,6 +29,9 @@
         "Url": "https://www.debian.org/security/2021/dsa-5005"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/kaminari/CVE-2020-11082.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-r5jw-62xg-j433"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2020-05-28T21:10:11Z",
     "Severity": "MODERATE",
     "Summary": "Cross-Site Scripting in Kaminari",
-    "UpdatedAt": "2023-02-01T05:03:06Z",
+    "UpdatedAt": "2023-05-04T19:29:51Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.4,

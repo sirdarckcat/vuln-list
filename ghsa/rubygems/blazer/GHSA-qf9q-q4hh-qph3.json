@@ -23,6 +23,9 @@
         "Url": "https://github.com/ankane/blazer/commit/f49fbfed7b9e406a69eb78c463c3aa5d35006d8d\""
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/blazer/CVE-2022-29498.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-qf9q-q4hh-qph3"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2022-04-22T00:00:36Z",
     "Severity": "HIGH",
     "Summary": "SQL injection in blazer",
-    "UpdatedAt": "2023-04-28T17:27:53Z",
+    "UpdatedAt": "2023-05-04T19:30:56Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

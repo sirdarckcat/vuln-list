@@ -29,6 +29,9 @@
         "Url": "http://lists.opensuse.org/opensuse-security-announce/2020-01/msg00062.html"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/excon/CVE-2019-16779.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-q58g-455p-8vw9"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2019-12-16T19:30:17Z",
     "Severity": "MODERATE",
     "Summary": "In RubyGem excon, interrupted Persistent Connections May Leak Response Data",
-    "UpdatedAt": "2023-02-01T05:02:40Z",
+    "UpdatedAt": "2023-05-04T19:47:39Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.8,

@@ -26,6 +26,9 @@
         "Url": "https://github.com/fluent/fluentd/commit/5482a3d049dab351de0be68f4b4bc562319d8511"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/fluentd/CVE-2021-41186.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-hwhf-64mh-r662"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2021-11-01T19:16:31Z",
     "Severity": "MODERATE",
     "Summary": "ReDoS vulnerability in parser_apache2",
-    "UpdatedAt": "2023-04-06T21:37:24Z",
+    "UpdatedAt": "2023-05-04T19:33:42Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.9,

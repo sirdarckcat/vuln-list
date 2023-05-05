@@ -20,6 +20,9 @@
         "Url": "https://www.whitesourcesoftware.com/vulnerability-database/CVE-2021-25973"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/publify_core/CVE-2021-25973.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-x24j-87x9-jvv5"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2021-11-03T17:34:22Z",
     "Severity": "MODERATE",
     "Summary": "Publify `guest` role users can self-register even when the admin does not allow it",
-    "UpdatedAt": "2023-01-30T05:02:48Z",
+    "UpdatedAt": "2023-05-04T19:52:21Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,

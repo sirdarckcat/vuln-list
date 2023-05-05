@@ -41,11 +41,11 @@
     "PublishedAt": "2023-04-27T23:09:21Z",
     "Severity": "MODERATE",
     "Summary": "Cross-site Scripting (XSS) in DataObject Any Getter grid operator",
-    "UpdatedAt": "2023-04-27T23:09:21Z",
+    "UpdatedAt": "2023-05-04T21:40:13Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 6.1,
-      "VectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
+      "Score": 5.4,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [

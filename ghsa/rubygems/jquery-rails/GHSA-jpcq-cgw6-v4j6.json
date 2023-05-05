@@ -1,9 +1,9 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2020-04-29T22:15:52Z",
+  "UpdatedAt": "2023-05-04T19:30:22Z",
   "Package": {
-    "Ecosystem": "NPM",
-    "Name": "jquery"
+    "Ecosystem": "RUBYGEMS",
+    "Name": "jquery-rails"
   },
   "Advisory": {
     "DatabaseId": 2074,
@@ -240,9 +240,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "3.5.0"
+        "Identifier": "4.4.0"
       },
-      "VulnerableVersionRange": "\u003e= 1.0.3, \u003c 3.5.0"
+      "VulnerableVersionRange": "\u003c 4.4.0"
     }
   ]
 }

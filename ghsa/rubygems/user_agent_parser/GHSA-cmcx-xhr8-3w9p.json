@@ -1,9 +1,9 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2020-02-20T23:09:34Z",
+  "UpdatedAt": "2023-05-04T20:02:26Z",
   "Package": {
-    "Ecosystem": "NPM",
-    "Name": "uap-core"
+    "Ecosystem": "RUBYGEMS",
+    "Name": "user_agent_parser"
   },
   "Advisory": {
     "DatabaseId": 1943,
@@ -54,9 +54,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "0.7.3"
+        "Identifier": "2.6.0"
       },
-      "VulnerableVersionRange": "\u003c 0.7.3"
+      "VulnerableVersionRange": "\u003c 2.6.0"
     }
   ]
 }

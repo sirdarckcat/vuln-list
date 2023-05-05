@@ -23,6 +23,9 @@
         "Url": "https://rubygems.org/gems/omniauth-auth0"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/omniauth-auth0/CVE-2020-15240.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-58r4-h6v8-jcvm"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2020-11-03T02:31:38Z",
     "Severity": "HIGH",
     "Summary": "Regression in JWT Signature Validation",
-    "UpdatedAt": "2023-02-01T05:04:59Z",
+    "UpdatedAt": "2023-05-04T19:55:01Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.4,

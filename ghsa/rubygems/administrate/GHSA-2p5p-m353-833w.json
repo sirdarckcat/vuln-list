@@ -21,6 +21,9 @@
       },
       {
         "Url": "https://github.com/advisories/GHSA-2p5p-m353-833w"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/administrate/CVE-2020-5257.yml"
       }
     ],
     "Identifiers": [
@@ -38,7 +41,7 @@
     "PublishedAt": "2020-03-13T21:05:44Z",
     "Severity": "HIGH",
     "Summary": "Sort order SQL injection in Administrate",
-    "UpdatedAt": "2023-01-09T05:02:17Z",
+    "UpdatedAt": "2023-05-04T19:47:29Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.7,

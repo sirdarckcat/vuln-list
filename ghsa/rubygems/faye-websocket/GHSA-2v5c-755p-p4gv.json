@@ -47,6 +47,9 @@
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2020-15133"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/faye-websocket/CVE-2020-15133.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-2v5c-755p-p4gv"
       }
     ],
@@ -65,7 +68,7 @@
     "PublishedAt": "2020-07-31T17:40:04Z",
     "Severity": "HIGH",
     "Summary": "Missing TLS certificate verification in faye-websocket",
-    "UpdatedAt": "2023-02-01T05:04:30Z",
+    "UpdatedAt": "2023-05-04T19:37:33Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8,

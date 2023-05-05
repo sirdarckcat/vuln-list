@@ -33,6 +33,9 @@
       },
       {
         "Url": "https://usn.ubuntu.com/3739-1/"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/nokogiri/CVE-2017-18258.yml"
       }
     ],
     "Identifiers": [
@@ -49,8 +52,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2018-04-13T16:17:46Z",
     "Severity": "MODERATE",
-    "Summary": "Moderate severity vulnerability that affects nokogiri",
-    "UpdatedAt": "2023-02-01T05:03:24Z",
+    "Summary": "Uncontrolled resource consumption in nokogiri",
+    "UpdatedAt": "2023-05-04T19:56:41Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,

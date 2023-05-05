@@ -21,6 +21,9 @@
       },
       {
         "Url": "https://lists.debian.org/debian-lts-announce/2022/05/msg00034.html"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/puma/CVE-2019-16770.yml"
       }
     ],
     "Identifiers": [
@@ -38,7 +41,7 @@
     "PublishedAt": "2019-12-05T19:26:37Z",
     "Severity": "MODERATE",
     "Summary": "A poorly-behaved client could use keepalive requests to monopolize Puma's reactor and create a denial of service attack",
-    "UpdatedAt": "2023-02-01T05:03:24Z",
+    "UpdatedAt": "2023-05-04T19:53:00Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.3,

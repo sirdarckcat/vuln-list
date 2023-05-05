@@ -30,6 +30,9 @@
       },
       {
         "Url": "https://github.com/advisories/GHSA-q27f-v3r6-9v77"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/em-http-request/CVE-2020-13482.yml"
       }
     ],
     "Identifiers": [
@@ -47,7 +50,7 @@
     "PublishedAt": "2021-05-24T18:13:13Z",
     "Severity": "HIGH",
     "Summary": "Improper Certificate Validation in EM-HTTP-Request",
-    "UpdatedAt": "2023-04-13T17:59:13Z",
+    "UpdatedAt": "2023-05-04T19:46:33Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.4,

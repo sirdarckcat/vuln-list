@@ -20,6 +20,9 @@
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2020-11020"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/faye/CVE-2020-11020.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-qpg4-4w7w-2mq5"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2020-04-29T17:41:15Z",
     "Severity": "HIGH",
     "Summary": "Authentication and extension bypass in Faye",
-    "UpdatedAt": "2023-01-09T05:02:30Z",
+    "UpdatedAt": "2023-05-04T19:47:09Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.5,

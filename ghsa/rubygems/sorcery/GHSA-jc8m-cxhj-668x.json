@@ -26,6 +26,9 @@
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2020-11052"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/sorcery/CVE-2020-11052.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-jc8m-cxhj-668x"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2020-05-07T21:16:46Z",
     "Severity": "HIGH",
     "Summary": "Improper Restriction of Excessive Authentication Attempts in Sorcery",
-    "UpdatedAt": "2023-01-09T05:02:30Z",
+    "UpdatedAt": "2023-05-04T20:01:53Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.3,

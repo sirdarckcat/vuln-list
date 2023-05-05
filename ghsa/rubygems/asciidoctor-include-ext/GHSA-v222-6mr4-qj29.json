@@ -23,6 +23,9 @@
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2022-24803"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/asciidoctor-include-ext/CVE-2022-24803.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-v222-6mr4-qj29"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2022-03-31T23:27:15Z",
     "Severity": "CRITICAL",
     "Summary": "Command Injection vulnerability in asciidoctor-include-ext",
-    "UpdatedAt": "2023-01-27T05:01:18Z",
+    "UpdatedAt": "2023-05-04T19:32:33Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 10,

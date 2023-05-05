@@ -17,6 +17,9 @@
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2020-5241"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/matestack-ui-core/CVE-2020-5241.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-3jqw-vv45-mjhh"
       }
     ],
@@ -35,7 +38,7 @@
     "PublishedAt": "2020-02-12T23:37:46Z",
     "Severity": "HIGH",
     "Summary": "XSS/Script injection vulnerability in matestack",
-    "UpdatedAt": "2023-01-09T05:02:20Z",
+    "UpdatedAt": "2023-05-04T19:56:51Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.7,

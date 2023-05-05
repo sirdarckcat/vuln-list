@@ -23,6 +23,12 @@
         "Url": "https://lists.debian.org/debian-lts-announce/2022/10/msg00034.html"
       },
       {
+        "Url": "https://github.com/sinatra/sinatra/pull/1683"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/sinatra/CVE-2022-29970.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-qp49-3pvw-x4m5"
       }
     ],
@@ -41,7 +47,7 @@
     "PublishedAt": "2022-05-03T00:00:43Z",
     "Severity": "HIGH",
     "Summary": "sinatra does not validate expanded path matches",
-    "UpdatedAt": "2023-01-30T05:00:29Z",
+    "UpdatedAt": "2023-05-04T20:02:38Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

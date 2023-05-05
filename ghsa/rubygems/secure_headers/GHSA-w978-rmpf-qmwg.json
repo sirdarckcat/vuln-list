@@ -20,6 +20,9 @@
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2020-5216"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/secure_headers/CVE-2020-5216.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-w978-rmpf-qmwg"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2020-01-23T02:27:53Z",
     "Severity": "MODERATE",
     "Summary": "Limited header injection when using dynamic overrides with user input in RubyGems secure_headers",
-    "UpdatedAt": "2023-01-09T05:01:59Z",
+    "UpdatedAt": "2023-05-04T19:49:54Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.4,

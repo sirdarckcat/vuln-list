@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2023-04-12T23:07:15Z",
+  "UpdatedAt": "2023-05-04T21:13:10Z",
   "Package": {
     "Ecosystem": "NUGET",
     "Name": "Oracle.ManagedDataAccess"
@@ -41,7 +41,7 @@
     "PublishedAt": "2023-01-18T00:30:16Z",
     "Severity": "HIGH",
     "Summary": "Component takeover in Oracle Data Provider for .NET",
-    "UpdatedAt": "2023-05-01T19:29:38Z",
+    "UpdatedAt": "2023-05-04T21:13:11Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
@@ -51,9 +51,15 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
+        "Identifier": "19.18.0"
+      },
+      "VulnerableVersionRange": "\u003e= 19.0.0, \u003c 19.18.0"
+    },
+    {
+      "FirstPatchedVersion": {
         "Identifier": "21.9.0"
       },
-      "VulnerableVersionRange": "\u003c 21.9.0"
+      "VulnerableVersionRange": "\u003e= 21.0.0, \u003c 21.9.0"
     }
   ]
 }

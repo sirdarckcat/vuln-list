@@ -26,6 +26,9 @@
         "Url": "https://github.com/github/view_component/releases/tag/v2.49.1"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/view_component/CVE-2022-24722.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-cm9w-c4rj-r2cf"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2022-03-02T22:24:05Z",
     "Severity": "HIGH",
     "Summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in view_component",
-    "UpdatedAt": "2023-02-03T05:06:42Z",
+    "UpdatedAt": "2023-05-04T19:59:06Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.1,

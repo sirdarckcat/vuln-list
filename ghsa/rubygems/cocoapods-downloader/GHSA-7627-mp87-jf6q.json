@@ -29,6 +29,9 @@
         "Url": "https://github.com/CocoaPods/cocoapods-downloader/commit/b70bc39c75645aa6d4a01a3ca6de40477c84f4b5"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/cocoapods-downloader/CVE-2022-24440.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-7627-mp87-jf6q"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2022-04-02T00:00:13Z",
     "Severity": "HIGH",
     "Summary": "Command injection in cocoapods-downloader",
-    "UpdatedAt": "2023-03-30T23:38:00Z",
+    "UpdatedAt": "2023-05-04T19:32:09Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.1,

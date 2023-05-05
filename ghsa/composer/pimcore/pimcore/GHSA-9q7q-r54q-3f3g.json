@@ -41,11 +41,11 @@
     "PublishedAt": "2023-04-27T17:11:55Z",
     "Severity": "MODERATE",
     "Summary": "Cross-site Scripting (XSS) in DataObject Classification Store",
-    "UpdatedAt": "2023-04-27T17:11:57Z",
+    "UpdatedAt": "2023-05-04T21:44:38Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 5.2,
-      "VectorString": "CVSS:3.0/AV:L/AC:L/PR:H/UI:R/S:C/C:L/I:L/A:L"
+      "Score": 5.4,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [

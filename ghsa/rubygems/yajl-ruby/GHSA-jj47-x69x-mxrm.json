@@ -23,6 +23,9 @@
         "Url": "https://github.com/brianmario/yajl-ruby/blob/7168bd79b888900aa94523301126f968a93eb3a6/ext/yajl/yajl_buf.c#L64"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/yajl-ruby/CVE-2022-24795.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-jj47-x69x-mxrm"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2022-04-05T15:55:51Z",
     "Severity": "MODERATE",
     "Summary": "Buffer Overflow in yajl-ruby",
-    "UpdatedAt": "2023-01-27T05:01:20Z",
+    "UpdatedAt": "2023-05-04T19:58:57Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.9,

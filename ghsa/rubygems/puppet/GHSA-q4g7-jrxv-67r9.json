@@ -20,6 +20,9 @@
         "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/62SELE7EKVKZL4GABFMVYMIIUZ7FPEF7/"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/puppet/CVE-2021-27025.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-q4g7-jrxv-67r9"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2021-12-02T17:54:25Z",
     "Severity": "MODERATE",
     "Summary": "Silent Configuration Failure in Puppet Agent",
-    "UpdatedAt": "2023-02-01T05:06:28Z",
+    "UpdatedAt": "2023-05-04T19:51:20Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,

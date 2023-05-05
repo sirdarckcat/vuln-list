@@ -33,6 +33,9 @@
       },
       {
         "Url": "https://github.com/advisories/GHSA-jxhc-q857-3j6g"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/addressable/CVE-2021-32740.yml"
       }
     ],
     "Identifiers": [
@@ -50,7 +53,7 @@
     "PublishedAt": "2021-07-12T16:58:33Z",
     "Severity": "HIGH",
     "Summary": "Regular Expression Denial of Service in Addressable templates",
-    "UpdatedAt": "2023-01-27T05:04:40Z",
+    "UpdatedAt": "2023-05-04T19:34:32Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

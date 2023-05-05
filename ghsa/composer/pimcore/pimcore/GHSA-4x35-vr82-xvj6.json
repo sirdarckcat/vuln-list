@@ -41,11 +41,11 @@
     "PublishedAt": "2023-04-27T17:15:18Z",
     "Severity": "HIGH",
     "Summary": "SQL Injection in AssetController",
-    "UpdatedAt": "2023-04-27T17:15:18Z",
+    "UpdatedAt": "2023-05-04T21:39:57Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 7.2,
-      "VectorString": "CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H"
+      "Score": 8.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

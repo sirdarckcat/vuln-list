@@ -41,11 +41,11 @@
     "PublishedAt": "2023-04-27T23:09:36Z",
     "Severity": "MODERATE",
     "Summary": "Cross-site Scripting (XSS) in DataObject columns grid",
-    "UpdatedAt": "2023-04-27T23:09:36Z",
+    "UpdatedAt": "2023-05-04T21:42:58Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 6.1,
-      "VectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
+      "Score": 5.4,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [

@@ -26,6 +26,9 @@
         "Url": "https://stackoverflow.com/questions/42170239/security-of-rand-in-ruby-compared-to-other-methods/42170560"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/random_password_generator/CVE-2019-25061.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-ggfx-h9xj-5v9c"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2022-05-19T00:00:40Z",
     "Severity": "HIGH",
     "Summary": "Insecure PRNG use in random_password_generator",
-    "UpdatedAt": "2023-01-27T05:01:41Z",
+    "UpdatedAt": "2023-05-04T19:51:19Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

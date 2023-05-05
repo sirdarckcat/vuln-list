@@ -50,6 +50,9 @@
         "Url": "http://seclists.org/fulldisclosure/2022/Dec/23"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/nokogiri/CVE-2022-24836.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-crjr-9rc5-ghw8"
       }
     ],
@@ -68,7 +71,7 @@
     "PublishedAt": "2022-04-11T21:18:06Z",
     "Severity": "HIGH",
     "Summary": "Nokogiri Inefficient Regular Expression Complexity",
-    "UpdatedAt": "2023-01-29T05:06:19Z",
+    "UpdatedAt": "2023-05-04T19:54:00Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

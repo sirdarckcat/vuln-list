@@ -23,6 +23,9 @@
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2021-29435"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/trestle-auth/CVE-2021-29435.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-h8hx-2c5r-32cf"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2021-04-13T17:01:50Z",
     "Severity": "HIGH",
     "Summary": "Cross-Site Request Forgery (CSRF) in trestle-auth",
-    "UpdatedAt": "2023-02-01T05:05:35Z",
+    "UpdatedAt": "2023-05-04T20:00:19Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.1,

@@ -41,6 +41,9 @@
         "Url": "https://lists.debian.org/debian-lts-announce/2022/10/msg00018.html"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/nokogiri/CVE-2020-26247.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-vr8q-g5c7-m54m"
       }
     ],
@@ -59,7 +62,7 @@
     "PublishedAt": "2020-12-30T18:35:06Z",
     "Severity": "MODERATE",
     "Summary": "Nokogiri::XML::Schema trusts input by default, exposing risk of XXE vulnerability",
-    "UpdatedAt": "2023-02-02T05:06:38Z",
+    "UpdatedAt": "2023-05-04T19:54:50Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.3,

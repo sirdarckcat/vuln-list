@@ -41,6 +41,9 @@
         "Url": "http://www.openwall.com/lists/oss-security/2020/04/09/2"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/rack/CVE-2019-16782.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-hrqr-hxpp-chr3"
       }
     ],
@@ -59,7 +62,7 @@
     "PublishedAt": "2019-12-18T19:01:31Z",
     "Severity": "MODERATE",
     "Summary": "Possible Information Leak / Session Hijack Vulnerability in Rack",
-    "UpdatedAt": "2023-02-01T05:02:37Z",
+    "UpdatedAt": "2023-05-04T19:51:19Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.3,

@@ -29,6 +29,9 @@
         "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/UTOJGS5IEFDK3UOO7IY4OTTFGHGLSWZF/"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/date/CVE-2021-41817.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-qg54-694p-wgpp"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2021-11-16T00:32:30Z",
     "Severity": "HIGH",
     "Summary": "Regular expression denial of service vulnerability (ReDoS) in date",
-    "UpdatedAt": "2023-02-01T05:06:32Z",
+    "UpdatedAt": "2023-05-04T19:33:19Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

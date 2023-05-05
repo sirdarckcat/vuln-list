@@ -35,6 +35,9 @@
         "Url": "http://seclists.org/fulldisclosure/2022/Dec/23"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/nokogiri/CVE-2022-29181.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-xh29-r2w5-wx8m"
       }
     ],
@@ -53,7 +56,7 @@
     "PublishedAt": "2022-05-23T23:15:15Z",
     "Severity": "HIGH",
     "Summary": "Nokogiri Improperly Handles Unexpected Data Type",
-    "UpdatedAt": "2023-01-29T05:06:19Z",
+    "UpdatedAt": "2023-05-04T19:53:50Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.2,

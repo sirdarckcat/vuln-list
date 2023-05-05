@@ -35,6 +35,12 @@
         "Url": "https://www.debian.org/security/2023/dsa-5372"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionpack/CVE-2022-23633.yml"
+      },
+      {
+        "Url": "https://groups.google.com/g/ruby-security-ann/c/FkTM-_7zSNA/m/K2RiMJBlBAAJ"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-wh98-p28r-vrc9"
       }
     ],
@@ -53,7 +59,7 @@
     "PublishedAt": "2022-02-11T20:49:14Z",
     "Severity": "HIGH",
     "Summary": "Exposure of information in Action Pack",
-    "UpdatedAt": "2023-03-14T16:05:42Z",
+    "UpdatedAt": "2023-05-04T19:47:49Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.4,

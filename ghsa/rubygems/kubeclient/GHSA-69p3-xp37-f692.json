@@ -26,6 +26,9 @@
         "Url": "https://github.com/ManageIQ/kubeclient/commit/109ea71de5a8881748f03ebbe103b49f0f1c7887"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/kubeclient/CVE-2022-0759.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-69p3-xp37-f692"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2022-03-26T00:00:29Z",
     "Severity": "HIGH",
     "Summary": "Improper Certificate Validation in kubeclient",
-    "UpdatedAt": "2023-04-17T19:01:26Z",
+    "UpdatedAt": "2023-05-04T19:57:06Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.1,

@@ -29,6 +29,9 @@
         "Url": "https://usn.ubuntu.com/4543-1/"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/sanitize/CVE-2020-4054.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-p4x4-rw2p-8j8m"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2020-06-16T22:08:06Z",
     "Severity": "HIGH",
     "Summary": "Cross-site Scripting in Sanitize ",
-    "UpdatedAt": "2023-01-09T05:02:56Z",
+    "UpdatedAt": "2023-05-04T20:03:17Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.3,

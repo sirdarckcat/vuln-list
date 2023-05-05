@@ -23,6 +23,9 @@
         "Url": "https://github.com/solidusio/solidus/commit/a1b9bf7f24f9b8684fc4d943eacb02b1926c77c6"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/solidus_frontend/CVE-2021-43846.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-h3fg-h5v3-vf8m"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2022-01-06T18:33:44Z",
     "Severity": "MODERATE",
     "Summary": "CSRF forgery protection bypass in solidus_frontend",
-    "UpdatedAt": "2023-02-03T05:04:05Z",
+    "UpdatedAt": "2023-05-04T19:59:16Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.3,
