@@ -41,7 +41,7 @@
     "PublishedAt": "2023-04-12T20:36:51Z",
     "Severity": "CRITICAL",
     "Summary": "org.xwiki.platform:xwiki-platform-flamingo-theme-ui vulnerable to privilege escalation",
-    "UpdatedAt": "2023-04-18T14:35:22Z",
+    "UpdatedAt": "2023-05-05T05:00:56Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.9,
