@@ -1,6 +1,6 @@
 {
   "id": "PYSEC-2023-46",
-  "modified": "2023-05-04T03:49:47.987510Z",
+  "modified": "2023-05-04T18:47:00Z",
   "published": "2023-03-26T19:15:00Z",
   "aliases": [
     "CVE-2023-28859"
@@ -21,7 +21,13 @@
               "introduced": "0"
             },
             {
-              "fixed": "5.0.0b1"
+              "fixed": "4.4.4"
+            },
+            {
+              "introduced": "4.5.0"
+            },
+            {
+              "fixed": "4.5.4"
             }
           ]
         }
@@ -128,12 +134,10 @@
         "4.4.1",
         "4.4.2",
         "4.4.3",
-        "4.4.4",
         "4.5.0",
         "4.5.1",
         "4.5.2",
-        "4.5.3",
-        "4.5.4"
+        "4.5.3"
       ],
       "database_specific": {
         "source": "https://github.com/pypa/advisory-database/blob/main/vulns/redis/PYSEC-2023-46.yaml"
