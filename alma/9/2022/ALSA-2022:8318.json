@@ -36,42 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "python3-ldb",
-        "version": "2.5.2",
-        "release": "1.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "libldb-2.5.2-1.el9.src.rpm",
-        "filename": "python3-ldb-2.5.2-1.el9.ppc64le.rpm",
-        "sum": "530391b39bd1c5e4b5c6923b899f4f7b243127cc84c6d036f4b8dda53a0b6608",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "ldb-tools",
-        "version": "2.5.2",
-        "release": "1.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "libldb-2.5.2-1.el9.src.rpm",
-        "filename": "ldb-tools-2.5.2-1.el9.ppc64le.rpm",
-        "sum": "a20d21d3e45bcd8052da534d1bbc16ed926acb3dcb9375df52a5352b124a5a78",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libldb",
-        "version": "2.5.2",
-        "release": "1.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "libldb-2.5.2-1.el9.src.rpm",
-        "filename": "libldb-2.5.2-1.el9.ppc64le.rpm",
-        "sum": "eb60835b22480ef4d37b19a24888b5d6efe3180e0145f022e0ee3b81371cdcfa",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "ldb-tools",
         "version": "2.5.2",
         "release": "1.el9",
@@ -156,6 +120,42 @@
         "reboot_suggested": 0
       },
       {
+        "name": "python3-ldb",
+        "version": "2.5.2",
+        "release": "1.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "libldb-2.5.2-1.el9.src.rpm",
+        "filename": "python3-ldb-2.5.2-1.el9.ppc64le.rpm",
+        "sum": "530391b39bd1c5e4b5c6923b899f4f7b243127cc84c6d036f4b8dda53a0b6608",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "ldb-tools",
+        "version": "2.5.2",
+        "release": "1.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "libldb-2.5.2-1.el9.src.rpm",
+        "filename": "ldb-tools-2.5.2-1.el9.ppc64le.rpm",
+        "sum": "a20d21d3e45bcd8052da534d1bbc16ed926acb3dcb9375df52a5352b124a5a78",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libldb",
+        "version": "2.5.2",
+        "release": "1.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "libldb-2.5.2-1.el9.src.rpm",
+        "filename": "libldb-2.5.2-1.el9.ppc64le.rpm",
+        "sum": "eb60835b22480ef4d37b19a24888b5d6efe3180e0145f022e0ee3b81371cdcfa",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "ldb-tools",
         "version": "2.5.2",
         "release": "1.el9",
@@ -196,10 +196,10 @@
         "version": "2.5.2",
         "release": "1.el9",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "s390x",
         "src": "libldb-2.5.2-1.el9.src.rpm",
-        "filename": "libldb-devel-2.5.2-1.el9.x86_64.rpm",
-        "sum": "36762194bf74dd975fde569d096013964d957caee6c3a8e905dc65252713f83c",
+        "filename": "libldb-devel-2.5.2-1.el9.s390x.rpm",
+        "sum": "751ce6d17bbb85c3ee396d4c36ba09e83a8c2c264e3e0feab868bbae601c5969",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -232,10 +232,10 @@
         "version": "2.5.2",
         "release": "1.el9",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "x86_64",
         "src": "libldb-2.5.2-1.el9.src.rpm",
-        "filename": "libldb-devel-2.5.2-1.el9.s390x.rpm",
-        "sum": "751ce6d17bbb85c3ee396d4c36ba09e83a8c2c264e3e0feab868bbae601c5969",
+        "filename": "libldb-devel-2.5.2-1.el9.x86_64.rpm",
+        "sum": "36762194bf74dd975fde569d096013964d957caee6c3a8e905dc65252713f83c",
         "sum_type": 5,
         "reboot_suggested": 0
       }

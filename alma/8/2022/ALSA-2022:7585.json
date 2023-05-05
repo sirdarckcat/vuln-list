@@ -40,18 +40,6 @@
         "version": "4.0.9",
         "release": "23.el8",
         "epoch": "0",
-        "arch": "x86_64",
-        "src": "libtiff-4.0.9-23.el8.src.rpm",
-        "filename": "libtiff-tools-4.0.9-23.el8.x86_64.rpm",
-        "sum": "f4cd100292617ac1569d1b2bb9f6d4de4f0f47d6bf8fd5e9c98df9b24eac8af9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libtiff-tools",
-        "version": "4.0.9",
-        "release": "23.el8",
-        "epoch": "0",
         "arch": "aarch64",
         "src": "libtiff-4.0.9-23.el8.src.rpm",
         "filename": "libtiff-tools-4.0.9-23.el8.aarch64.rpm",
@@ -64,10 +52,10 @@
         "version": "4.0.9",
         "release": "23.el8",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "x86_64",
         "src": "libtiff-4.0.9-23.el8.src.rpm",
-        "filename": "libtiff-tools-4.0.9-23.el8.ppc64le.rpm",
-        "sum": "8efcbaae6b1269a72651a5bed5cc4f36e75b6eaeae9fb711584233420cab03cf",
+        "filename": "libtiff-tools-4.0.9-23.el8.x86_64.rpm",
+        "sum": "f4cd100292617ac1569d1b2bb9f6d4de4f0f47d6bf8fd5e9c98df9b24eac8af9",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -96,6 +84,30 @@
         "reboot_suggested": 0
       },
       {
+        "name": "libtiff-tools",
+        "version": "4.0.9",
+        "release": "23.el8",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "libtiff-4.0.9-23.el8.src.rpm",
+        "filename": "libtiff-tools-4.0.9-23.el8.ppc64le.rpm",
+        "sum": "8efcbaae6b1269a72651a5bed5cc4f36e75b6eaeae9fb711584233420cab03cf",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libtiff-tools",
+        "version": "4.0.9",
+        "release": "23.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libtiff-4.0.9-23.el8.src.rpm",
+        "filename": "libtiff-tools-4.0.9-23.el8.s390x.rpm",
+        "sum": "8391ea7ea01b560518327f247351ee9316c98e738b3f025edd3259862e7bbacb",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "libtiff",
         "version": "4.0.9",
         "release": "23.el8",
@@ -116,18 +128,6 @@
         "src": "libtiff-4.0.9-23.el8.src.rpm",
         "filename": "libtiff-devel-4.0.9-23.el8.s390x.rpm",
         "sum": "2feef590fccb0c2bc88ee556507938e194580b785cfca2439c0c43272794d659",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libtiff-tools",
-        "version": "4.0.9",
-        "release": "23.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "libtiff-4.0.9-23.el8.src.rpm",
-        "filename": "libtiff-tools-4.0.9-23.el8.s390x.rpm",
-        "sum": "8391ea7ea01b560518327f247351ee9316c98e738b3f025edd3259862e7bbacb",
         "sum_type": 5,
         "reboot_suggested": 0
       },

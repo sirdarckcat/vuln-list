@@ -36,6 +36,54 @@
         "reboot_suggested": 0
       },
       {
+        "name": "fribidi",
+        "version": "1.0.10",
+        "release": "6.el9.2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "fribidi-1.0.10-6.el9.2.src.rpm",
+        "filename": "fribidi-1.0.10-6.el9.2.x86_64.rpm",
+        "sum": "b4763ca410f8479b2775efb55ba09e6722948af7526180a56309e3e090c27010",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "fribidi-devel",
+        "version": "1.0.10",
+        "release": "6.el9.2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "fribidi-1.0.10-6.el9.2.src.rpm",
+        "filename": "fribidi-devel-1.0.10-6.el9.2.x86_64.rpm",
+        "sum": "e25eb68a0a64e26411a270c935c08d2121a51c8f17a7926508ad9e631b009437",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "fribidi-devel",
+        "version": "1.0.10",
+        "release": "6.el9.2",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "fribidi-1.0.10-6.el9.2.src.rpm",
+        "filename": "fribidi-devel-1.0.10-6.el9.2.s390x.rpm",
+        "sum": "660912a3044253e97aca9d9f7219f4343ba3fe0d0e632de881c70539ab34e2cd",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "fribidi",
+        "version": "1.0.10",
+        "release": "6.el9.2",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "fribidi-1.0.10-6.el9.2.src.rpm",
+        "filename": "fribidi-1.0.10-6.el9.2.s390x.rpm",
+        "sum": "7013b1a3add62222f2fabebf5c1e99780979f8b2c6ee5c53971815066dae49af",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "fribidi-devel",
         "version": "1.0.10",
         "release": "6.el9.2",
@@ -64,30 +112,6 @@
         "version": "1.0.10",
         "release": "6.el9.2",
         "epoch": "0",
-        "arch": "x86_64",
-        "src": "fribidi-1.0.10-6.el9.2.src.rpm",
-        "filename": "fribidi-1.0.10-6.el9.2.x86_64.rpm",
-        "sum": "b4763ca410f8479b2775efb55ba09e6722948af7526180a56309e3e090c27010",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "fribidi-devel",
-        "version": "1.0.10",
-        "release": "6.el9.2",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "fribidi-1.0.10-6.el9.2.src.rpm",
-        "filename": "fribidi-devel-1.0.10-6.el9.2.x86_64.rpm",
-        "sum": "e25eb68a0a64e26411a270c935c08d2121a51c8f17a7926508ad9e631b009437",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "fribidi",
-        "version": "1.0.10",
-        "release": "6.el9.2",
-        "epoch": "0",
         "arch": "aarch64",
         "src": "fribidi-1.0.10-6.el9.2.src.rpm",
         "filename": "fribidi-1.0.10-6.el9.2.aarch64.rpm",
@@ -104,30 +128,6 @@
         "src": "fribidi-1.0.10-6.el9.2.src.rpm",
         "filename": "fribidi-devel-1.0.10-6.el9.2.aarch64.rpm",
         "sum": "f954b65faa4f3e9d10938fb2aba0c490bcf7af9b1196be21e43327d05857f5a4",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "fribidi-devel",
-        "version": "1.0.10",
-        "release": "6.el9.2",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "fribidi-1.0.10-6.el9.2.src.rpm",
-        "filename": "fribidi-devel-1.0.10-6.el9.2.s390x.rpm",
-        "sum": "660912a3044253e97aca9d9f7219f4343ba3fe0d0e632de881c70539ab34e2cd",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "fribidi",
-        "version": "1.0.10",
-        "release": "6.el9.2",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "fribidi-1.0.10-6.el9.2.src.rpm",
-        "filename": "fribidi-1.0.10-6.el9.2.s390x.rpm",
-        "sum": "7013b1a3add62222f2fabebf5c1e99780979f8b2c6ee5c53971815066dae49af",
         "sum_type": 5,
         "reboot_suggested": 0
       }

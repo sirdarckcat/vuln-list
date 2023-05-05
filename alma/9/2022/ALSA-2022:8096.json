@@ -36,6 +36,54 @@
         "reboot_suggested": 0
       },
       {
+        "name": "redis",
+        "version": "6.2.7",
+        "release": "1.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "redis-6.2.7-1.el9.src.rpm",
+        "filename": "redis-6.2.7-1.el9.x86_64.rpm",
+        "sum": "57a9f6a8531b7d443cba4c73032962da474d5cbc35e93ca9ab28929c32c45c68",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "redis-devel",
+        "version": "6.2.7",
+        "release": "1.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "redis-6.2.7-1.el9.src.rpm",
+        "filename": "redis-devel-6.2.7-1.el9.x86_64.rpm",
+        "sum": "61d0783787f472866d8adf69d7ceeb80bba0f42165675efedf4f2d22bada5f9c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "redis-devel",
+        "version": "6.2.7",
+        "release": "1.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "redis-6.2.7-1.el9.src.rpm",
+        "filename": "redis-devel-6.2.7-1.el9.s390x.rpm",
+        "sum": "17036c47134ffcbed862a422ef7d397ef1f07c8549e843c6eb2790ace8935bb8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "redis",
+        "version": "6.2.7",
+        "release": "1.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "redis-6.2.7-1.el9.src.rpm",
+        "filename": "redis-6.2.7-1.el9.s390x.rpm",
+        "sum": "c8fdc219bf77d509dfbc0c17c2a93e2e8be945384c9c281cc8fb22dc6bd2ba56",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "redis-devel",
         "version": "6.2.7",
         "release": "1.el9",
@@ -64,30 +112,6 @@
         "version": "6.2.7",
         "release": "1.el9",
         "epoch": "0",
-        "arch": "x86_64",
-        "src": "redis-6.2.7-1.el9.src.rpm",
-        "filename": "redis-6.2.7-1.el9.x86_64.rpm",
-        "sum": "57a9f6a8531b7d443cba4c73032962da474d5cbc35e93ca9ab28929c32c45c68",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "redis-devel",
-        "version": "6.2.7",
-        "release": "1.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "redis-6.2.7-1.el9.src.rpm",
-        "filename": "redis-devel-6.2.7-1.el9.x86_64.rpm",
-        "sum": "61d0783787f472866d8adf69d7ceeb80bba0f42165675efedf4f2d22bada5f9c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "redis",
-        "version": "6.2.7",
-        "release": "1.el9",
-        "epoch": "0",
         "arch": "aarch64",
         "src": "redis-6.2.7-1.el9.src.rpm",
         "filename": "redis-6.2.7-1.el9.aarch64.rpm",
@@ -104,30 +128,6 @@
         "src": "redis-6.2.7-1.el9.src.rpm",
         "filename": "redis-devel-6.2.7-1.el9.aarch64.rpm",
         "sum": "ce8c061d66961a97d2fba567733884e17f854e687a024db00b2b1892634f3954",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "redis-devel",
-        "version": "6.2.7",
-        "release": "1.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "redis-6.2.7-1.el9.src.rpm",
-        "filename": "redis-devel-6.2.7-1.el9.s390x.rpm",
-        "sum": "17036c47134ffcbed862a422ef7d397ef1f07c8549e843c6eb2790ace8935bb8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "redis",
-        "version": "6.2.7",
-        "release": "1.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "redis-6.2.7-1.el9.src.rpm",
-        "filename": "redis-6.2.7-1.el9.s390x.rpm",
-        "sum": "c8fdc219bf77d509dfbc0c17c2a93e2e8be945384c9c281cc8fb22dc6bd2ba56",
         "sum_type": 5,
         "reboot_suggested": 0
       }

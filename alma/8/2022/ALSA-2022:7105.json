@@ -8,21 +8,9 @@
     "$date": 1666656000000
   },
   "pkglist": {
-    "name": "almalinux-8-for-i686-baseos-rpms__8_6_default",
-    "shortname": "almalinux-8-for-i686-baseos-rpms__8_6_default",
+    "name": "almalinux-8-for-i686-appstream-rpms__8_6_default",
+    "shortname": "almalinux-8-for-i686-appstream-rpms__8_6_default",
     "packages": [
-      {
-        "name": "gnutls",
-        "version": "3.6.16",
-        "release": "5.el8_6",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "gnutls-3.6.16-5.el8_6.src.rpm",
-        "filename": "gnutls-3.6.16-5.el8_6.i686.rpm",
-        "sum": "5c928999c36f8386e36655919d51fae6c7ce8549944a811e6a397fae396237ab",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "gnutls-c++",
         "version": "3.6.16",
@@ -64,6 +52,18 @@
         "version": "3.6.16",
         "release": "5.el8_6",
         "epoch": "0",
+        "arch": "i686",
+        "src": "gnutls-3.6.16-5.el8_6.src.rpm",
+        "filename": "gnutls-3.6.16-5.el8_6.i686.rpm",
+        "sum": "5c928999c36f8386e36655919d51fae6c7ce8549944a811e6a397fae396237ab",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gnutls",
+        "version": "3.6.16",
+        "release": "5.el8_6",
+        "epoch": "0",
         "arch": "x86_64",
         "src": "gnutls-3.6.16-5.el8_6.src.rpm",
         "filename": "gnutls-3.6.16-5.el8_6.x86_64.rpm",
@@ -92,18 +92,6 @@
         "src": "gnutls-3.6.16-5.el8_6.src.rpm",
         "filename": "gnutls-3.6.16-5.el8_6.ppc64le.rpm",
         "sum": "2683e681679d1ea7292dff1bf3c3f882470ca14d10fb6287e648559b705747e8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gnutls",
-        "version": "3.6.16",
-        "release": "5.el8_6",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "gnutls-3.6.16-5.el8_6.src.rpm",
-        "filename": "gnutls-3.6.16-5.el8_6.s390x.rpm",
-        "sum": "94f9c5a60b8c469e379a540d39c91849a06789a604c8e495fa0a280e08eb4264",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -152,6 +140,18 @@
         "src": "gnutls-3.6.16-5.el8_6.src.rpm",
         "filename": "gnutls-c++-3.6.16-5.el8_6.aarch64.rpm",
         "sum": "ee7bc74475c948582901b55fb062856ccdf694bcee31ac6dc846e0ff35cca5a4",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gnutls",
+        "version": "3.6.16",
+        "release": "5.el8_6",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "gnutls-3.6.16-5.el8_6.src.rpm",
+        "filename": "gnutls-3.6.16-5.el8_6.s390x.rpm",
+        "sum": "94f9c5a60b8c469e379a540d39c91849a06789a604c8e495fa0a280e08eb4264",
         "sum_type": 5,
         "reboot_suggested": 0
       },

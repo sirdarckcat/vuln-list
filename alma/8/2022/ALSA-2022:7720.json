@@ -8,9 +8,21 @@
     "$date": 1667865600000
   },
   "pkglist": {
-    "name": "almalinux-8-for-i686-baseos-rpms__8_6_default",
-    "shortname": "almalinux-8-for-i686-baseos-rpms__8_6_default",
+    "name": "almalinux-8-for-i686-powertools-rpms__8_6_default",
+    "shortname": "almalinux-8-for-i686-powertools-rpms__8_6_default",
     "packages": [
+      {
+        "name": "libss-devel",
+        "version": "1.45.6",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
+        "filename": "libss-devel-1.45.6-5.el8.i686.rpm",
+        "sum": "47988b4caf05c78cd43bb7aa2a1507df2479430b93c75eef64e267fd20d5ad30",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "e2fsprogs-libs",
         "version": "1.45.6",
@@ -68,18 +80,6 @@
         "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
         "filename": "libss-1.45.6-5.el8.i686.rpm",
         "sum": "5410dc41b7fe5ff1d9d3429c74dcdf6326c197d2e60f6defe0877123301c200b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libss-devel",
-        "version": "1.45.6",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
-        "filename": "libss-devel-1.45.6-5.el8.i686.rpm",
-        "sum": "47988b4caf05c78cd43bb7aa2a1507df2479430b93c75eef64e267fd20d5ad30",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -232,10 +232,10 @@
         "version": "1.45.6",
         "release": "5.el8",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "aarch64",
         "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
-        "filename": "libss-devel-1.45.6-5.el8.x86_64.rpm",
-        "sum": "67dbb958a2167069958760e093a9c4cb48a532bfad58339de6fdec5adcbc3649",
+        "filename": "libss-devel-1.45.6-5.el8.aarch64.rpm",
+        "sum": "30a0e8c526024e0b39fad2e31955369031805705f0d5d0397c992e5d7bfbee46",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -244,10 +244,10 @@
         "version": "1.45.6",
         "release": "5.el8",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "x86_64",
         "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
-        "filename": "libss-devel-1.45.6-5.el8.aarch64.rpm",
-        "sum": "30a0e8c526024e0b39fad2e31955369031805705f0d5d0397c992e5d7bfbee46",
+        "filename": "libss-devel-1.45.6-5.el8.x86_64.rpm",
+        "sum": "67dbb958a2167069958760e093a9c4cb48a532bfad58339de6fdec5adcbc3649",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -320,18 +320,6 @@
         "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
         "filename": "e2fsprogs-libs-1.45.6-5.el8.ppc64le.rpm",
         "sum": "f9d3bd2465efd5fc2d580808954caf2e94e42f26ecd21fe28d86cf3bf3a61611",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libss-devel",
-        "version": "1.45.6",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
-        "filename": "libss-devel-1.45.6-5.el8.ppc64le.rpm",
-        "sum": "3a75d03b141bce02571d1d6202f7a26c1ea968eb4871da530a670d12918d6f3a",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -412,6 +400,18 @@
         "version": "1.45.6",
         "release": "5.el8",
         "epoch": "0",
+        "arch": "ppc64le",
+        "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
+        "filename": "libss-devel-1.45.6-5.el8.ppc64le.rpm",
+        "sum": "3a75d03b141bce02571d1d6202f7a26c1ea968eb4871da530a670d12918d6f3a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libss-devel",
+        "version": "1.45.6",
+        "release": "5.el8",
+        "epoch": "0",
         "arch": "s390x",
         "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
         "filename": "libss-devel-1.45.6-5.el8.s390x.rpm",
@@ -458,7 +458,7 @@
   "title": "Moderate: e2fsprogs security and bug fix update",
   "type": "security",
   "updated_date": {
-    "$date": 1668197045000
+    "$date": 1668197042000
   },
   "version": "1"
 }

@@ -468,30 +468,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libreoffice-sdk",
-        "version": "6.4.7.2",
-        "release": "12.el8_7.alma",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "libreoffice-6.4.7.2-12.el8_7.alma.src.rpm",
-        "filename": "libreoffice-sdk-6.4.7.2-12.el8_7.alma.ppc64le.rpm",
-        "sum": "5fb0c33af7aa68a4df4bacc2e4533d2c6e8b979915e7d2759c8639af5378e22a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libreoffice-sdk-doc",
-        "version": "6.4.7.2",
-        "release": "12.el8_7.alma",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "libreoffice-6.4.7.2-12.el8_7.alma.src.rpm",
-        "filename": "libreoffice-sdk-doc-6.4.7.2-12.el8_7.alma.ppc64le.rpm",
-        "sum": "979f7d3633c5a67b7551ff43b3f17b6ae9450b8f8463d6209bd3bbcf23a97b73",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libreoffice-graphicfilter",
         "version": "6.4.7.2",
         "release": "12.el8_7.alma",
@@ -620,6 +596,30 @@
         "src": "libreoffice-6.4.7.2-12.el8_7.alma.src.rpm",
         "filename": "libreoffice-langpack-en-6.4.7.2-12.el8_7.alma.aarch64.rpm",
         "sum": "efe6d78989ade0e6d718ea094271c3e5dfc99b6447948f19feaa4cad9672265f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libreoffice-sdk",
+        "version": "6.4.7.2",
+        "release": "12.el8_7.alma",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "libreoffice-6.4.7.2-12.el8_7.alma.src.rpm",
+        "filename": "libreoffice-sdk-6.4.7.2-12.el8_7.alma.ppc64le.rpm",
+        "sum": "5fb0c33af7aa68a4df4bacc2e4533d2c6e8b979915e7d2759c8639af5378e22a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libreoffice-sdk-doc",
+        "version": "6.4.7.2",
+        "release": "12.el8_7.alma",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "libreoffice-6.4.7.2-12.el8_7.alma.src.rpm",
+        "filename": "libreoffice-sdk-doc-6.4.7.2-12.el8_7.alma.ppc64le.rpm",
+        "sum": "979f7d3633c5a67b7551ff43b3f17b6ae9450b8f8463d6209bd3bbcf23a97b73",
         "sum_type": 5,
         "reboot_suggested": 0
       },

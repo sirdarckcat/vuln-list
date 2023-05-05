@@ -8,21 +8,9 @@
     "$date": 1673827200000
   },
   "pkglist": {
-    "name": "almalinux-8-for-i686-baseos-rpms__8_7_default",
-    "shortname": "almalinux-8-for-i686-baseos-rpms__8_7_default",
+    "name": "almalinux-8-for-i686-appstream-rpms__8_7_default",
+    "shortname": "almalinux-8-for-i686-appstream-rpms__8_7_default",
     "packages": [
-      {
-        "name": "libxml2",
-        "version": "2.9.7",
-        "release": "15.el8_7.1",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "libxml2-2.9.7-15.el8_7.1.src.rpm",
-        "filename": "libxml2-2.9.7-15.el8_7.1.i686.rpm",
-        "sum": "f0d478a49d639f29ccebbfbf5c063cfdc7407c6ef8c806f78705178d88b016f8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "libxml2-devel",
         "version": "2.9.7",
@@ -32,6 +20,18 @@
         "src": "libxml2-2.9.7-15.el8_7.1.src.rpm",
         "filename": "libxml2-devel-2.9.7-15.el8_7.1.i686.rpm",
         "sum": "0c4e9bc66f6a0d7bd4a36bf18e0affd4a5ec242e470799fa250a810f720112cb",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libxml2",
+        "version": "2.9.7",
+        "release": "15.el8_7.1",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "libxml2-2.9.7-15.el8_7.1.src.rpm",
+        "filename": "libxml2-2.9.7-15.el8_7.1.i686.rpm",
+        "sum": "f0d478a49d639f29ccebbfbf5c063cfdc7407c6ef8c806f78705178d88b016f8",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -108,6 +108,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "libxml2-devel",
+        "version": "2.9.7",
+        "release": "15.el8_7.1",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "libxml2-2.9.7-15.el8_7.1.src.rpm",
+        "filename": "libxml2-devel-2.9.7-15.el8_7.1.aarch64.rpm",
+        "sum": "15defb22325157b3926128551071185df6d118ab49a9b5378077740d9f3f3668",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "libxml2",
         "version": "2.9.7",
         "release": "15.el8_7.1",
@@ -128,18 +140,6 @@
         "src": "libxml2-2.9.7-15.el8_7.1.src.rpm",
         "filename": "python3-libxml2-2.9.7-15.el8_7.1.s390x.rpm",
         "sum": "cf14d1de7b54f2a0be219f7da8aefe05a2a4784cb70076b3b705e0175cab925d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libxml2-devel",
-        "version": "2.9.7",
-        "release": "15.el8_7.1",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "libxml2-2.9.7-15.el8_7.1.src.rpm",
-        "filename": "libxml2-devel-2.9.7-15.el8_7.1.aarch64.rpm",
-        "sum": "15defb22325157b3926128551071185df6d118ab49a9b5378077740d9f3f3668",
         "sum_type": 5,
         "reboot_suggested": 0
       },

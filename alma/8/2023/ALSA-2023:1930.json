@@ -8,21 +8,9 @@
     "$date": 1682294400000
   },
   "pkglist": {
-    "name": "almalinux-8-for-i686-baseos-rpms__8_7_default",
-    "shortname": "almalinux-8-for-i686-baseos-rpms__8_7_default",
+    "name": "almalinux-8-for-i686-appstream-rpms__8_7_default",
+    "shortname": "almalinux-8-for-i686-appstream-rpms__8_7_default",
     "packages": [
-      {
-        "name": "emacs-filesystem",
-        "version": "26.1",
-        "release": "7.el8_7.1",
-        "epoch": "1",
-        "arch": "noarch",
-        "src": "emacs-26.1-7.el8_7.1.src.rpm",
-        "filename": "emacs-filesystem-26.1-7.el8_7.1.noarch.rpm",
-        "sum": "29044f58647d90a08a950e61e8edddaaf42ddbce97bd657ed1f701d0089c846a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "emacs-terminal",
         "version": "26.1",
@@ -32,6 +20,18 @@
         "src": "emacs-26.1-7.el8_7.1.src.rpm",
         "filename": "emacs-terminal-26.1-7.el8_7.1.noarch.rpm",
         "sum": "fc8b0a8236d9b7cdf6182b128f4c8a697092372b83b5bc623460769fa8f50b62",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "emacs-filesystem",
+        "version": "26.1",
+        "release": "7.el8_7.1",
+        "epoch": "1",
+        "arch": "noarch",
+        "src": "emacs-26.1-7.el8_7.1.src.rpm",
+        "filename": "emacs-filesystem-26.1-7.el8_7.1.noarch.rpm",
+        "sum": "29044f58647d90a08a950e61e8edddaaf42ddbce97bd657ed1f701d0089c846a",
         "sum_type": 5,
         "reboot_suggested": 0
       },

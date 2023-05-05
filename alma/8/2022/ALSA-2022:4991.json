@@ -112,10 +112,10 @@
         "version": "5.2.4",
         "release": "4.el8_6",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "aarch64",
         "src": "xz-5.2.4-4.el8_6.src.rpm",
-        "filename": "xz-lzma-compat-5.2.4-4.el8_6.x86_64.rpm",
-        "sum": "bc2cd3adfd82ecfc1efda8aa75e566ca7ab7d0e10cda91d9e68e8bd37f310844",
+        "filename": "xz-lzma-compat-5.2.4-4.el8_6.aarch64.rpm",
+        "sum": "0825579af8d2b66ac200a3b9f4088107f2ceef91bc7685e55c97b01f04c94a56",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -124,10 +124,10 @@
         "version": "5.2.4",
         "release": "4.el8_6",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "x86_64",
         "src": "xz-5.2.4-4.el8_6.src.rpm",
-        "filename": "xz-lzma-compat-5.2.4-4.el8_6.aarch64.rpm",
-        "sum": "0825579af8d2b66ac200a3b9f4088107f2ceef91bc7685e55c97b01f04c94a56",
+        "filename": "xz-lzma-compat-5.2.4-4.el8_6.x86_64.rpm",
+        "sum": "bc2cd3adfd82ecfc1efda8aa75e566ca7ab7d0e10cda91d9e68e8bd37f310844",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -168,18 +168,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "xz-lzma-compat",
-        "version": "5.2.4",
-        "release": "4.el8_6",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "xz-5.2.4-4.el8_6.src.rpm",
-        "filename": "xz-lzma-compat-5.2.4-4.el8_6.ppc64le.rpm",
-        "sum": "2cea51500e791f8c380491cc0965d83a85e9fc69496a6a6835d304bfa356c6a6",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "xz-devel",
         "version": "5.2.4",
         "release": "4.el8_6",
@@ -212,6 +200,18 @@
         "src": "xz-5.2.4-4.el8_6.src.rpm",
         "filename": "xz-5.2.4-4.el8_6.s390x.rpm",
         "sum": "c1cadbf7e74ccbf1d469ff2fe4c55790bb510825ec4c44b15d7b621bb808389b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xz-lzma-compat",
+        "version": "5.2.4",
+        "release": "4.el8_6",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "xz-5.2.4-4.el8_6.src.rpm",
+        "filename": "xz-lzma-compat-5.2.4-4.el8_6.ppc64le.rpm",
+        "sum": "2cea51500e791f8c380491cc0965d83a85e9fc69496a6a6835d304bfa356c6a6",
         "sum_type": 5,
         "reboot_suggested": 0
       },

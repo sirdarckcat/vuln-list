@@ -8,21 +8,9 @@
     "$date": 1663200000000
   },
   "pkglist": {
-    "name": "almalinux-8-for-x86_64-powertools-rpms__8_6_default",
-    "shortname": "almalinux-8-for-x86_64-powertools-rpms__8_6_default",
+    "name": "almalinux-8-for-aarch64-powertools-rpms__8_6_default",
+    "shortname": "almalinux-8-for-aarch64-powertools-rpms__8_6_default",
     "packages": [
-      {
-        "name": "dotnet-sdk-6.0-source-built-artifacts",
-        "version": "6.0.109",
-        "release": "1.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "dotnet6.0-6.0.109-1.el8_6.src.rpm",
-        "filename": "dotnet-sdk-6.0-source-built-artifacts-6.0.109-1.el8_6.x86_64.rpm",
-        "sum": "c8147c7964e81c5ce6f58a0db338fc61c7e0f442be44872ef4cf8284213fce6f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "dotnet-sdk-6.0-source-built-artifacts",
         "version": "6.0.109",
@@ -32,6 +20,18 @@
         "src": "dotnet6.0-6.0.109-1.el8_6.src.rpm",
         "filename": "dotnet-sdk-6.0-source-built-artifacts-6.0.109-1.el8_6.aarch64.rpm",
         "sum": "ceb44c2ee435c57c05cf6f8af8728e3ccecf7f6489e9b3c26807be4c4b13f1b7",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dotnet-sdk-6.0-source-built-artifacts",
+        "version": "6.0.109",
+        "release": "1.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "dotnet6.0-6.0.109-1.el8_6.src.rpm",
+        "filename": "dotnet-sdk-6.0-source-built-artifacts-6.0.109-1.el8_6.x86_64.rpm",
+        "sum": "c8147c7964e81c5ce6f58a0db338fc61c7e0f442be44872ef4cf8284213fce6f",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -168,6 +168,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "dotnet-sdk-6.0-source-built-artifacts",
+        "version": "6.0.109",
+        "release": "1.el8_6",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "dotnet6.0-6.0.109-1.el8_6.src.rpm",
+        "filename": "dotnet-sdk-6.0-source-built-artifacts-6.0.109-1.el8_6.s390x.rpm",
+        "sum": "7d21bb620d8bc71d318459d18ea89dd85e37e10ed65e8a30f93a94e9a0cb688f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "dotnet-apphost-pack-6.0",
         "version": "6.0.9",
         "release": "1.el8_6",
@@ -296,18 +308,6 @@
         "src": "dotnet6.0-6.0.109-1.el8_6.src.rpm",
         "filename": "dotnet-templates-6.0-6.0.109-1.el8_6.s390x.rpm",
         "sum": "d68b6c21630c7e661add73dd199174c758157bd912caff5c83222b03c94e82c1",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dotnet-sdk-6.0-source-built-artifacts",
-        "version": "6.0.109",
-        "release": "1.el8_6",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "dotnet6.0-6.0.109-1.el8_6.src.rpm",
-        "filename": "dotnet-sdk-6.0-source-built-artifacts-6.0.109-1.el8_6.s390x.rpm",
-        "sum": "7d21bb620d8bc71d318459d18ea89dd85e37e10ed65e8a30f93a94e9a0cb688f",
         "sum_type": 5,
         "reboot_suggested": 0
       },

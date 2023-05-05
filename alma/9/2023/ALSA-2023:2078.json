@@ -36,30 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libwebp",
-        "version": "1.2.0",
-        "release": "6.el9_1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
-        "filename": "libwebp-1.2.0-6.el9_1.ppc64le.rpm",
-        "sum": "2cf05f737395ca06292128afc7ac91fb6a965711eddcdee5437939a15b62c8da",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libwebp-devel",
-        "version": "1.2.0",
-        "release": "6.el9_1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
-        "filename": "libwebp-devel-1.2.0-6.el9_1.ppc64le.rpm",
-        "sum": "44b2654868922eaa3924ab3cc85703467d322fdef60d2154260f92832fd618fe",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libwebp-devel",
         "version": "1.2.0",
         "release": "6.el9_1",
@@ -88,30 +64,6 @@
         "version": "1.2.0",
         "release": "6.el9_1",
         "epoch": "0",
-        "arch": "aarch64",
-        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
-        "filename": "libwebp-1.2.0-6.el9_1.aarch64.rpm",
-        "sum": "ac60aa1ce9131009acf6c137d00f78c9a323cfa4881093e1464c36fd22bce35d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libwebp-devel",
-        "version": "1.2.0",
-        "release": "6.el9_1",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
-        "filename": "libwebp-devel-1.2.0-6.el9_1.aarch64.rpm",
-        "sum": "f6a8492d7074870a63f23baf5bf299f1b34e4f4a4b8f1572791127e694c1037d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libwebp",
-        "version": "1.2.0",
-        "release": "6.el9_1",
-        "epoch": "0",
         "arch": "s390x",
         "src": "libwebp-1.2.0-6.el9_1.src.rpm",
         "filename": "libwebp-1.2.0-6.el9_1.s390x.rpm",
@@ -128,6 +80,54 @@
         "src": "libwebp-1.2.0-6.el9_1.src.rpm",
         "filename": "libwebp-devel-1.2.0-6.el9_1.s390x.rpm",
         "sum": "d1b813e0ed40aa7b7c705ca5663129290a91f56350664645e5b238eba4682725",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwebp",
+        "version": "1.2.0",
+        "release": "6.el9_1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
+        "filename": "libwebp-1.2.0-6.el9_1.ppc64le.rpm",
+        "sum": "2cf05f737395ca06292128afc7ac91fb6a965711eddcdee5437939a15b62c8da",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwebp-devel",
+        "version": "1.2.0",
+        "release": "6.el9_1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
+        "filename": "libwebp-devel-1.2.0-6.el9_1.ppc64le.rpm",
+        "sum": "44b2654868922eaa3924ab3cc85703467d322fdef60d2154260f92832fd618fe",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwebp",
+        "version": "1.2.0",
+        "release": "6.el9_1",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
+        "filename": "libwebp-1.2.0-6.el9_1.aarch64.rpm",
+        "sum": "ac60aa1ce9131009acf6c137d00f78c9a323cfa4881093e1464c36fd22bce35d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwebp-devel",
+        "version": "1.2.0",
+        "release": "6.el9_1",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
+        "filename": "libwebp-devel-1.2.0-6.el9_1.aarch64.rpm",
+        "sum": "f6a8492d7074870a63f23baf5bf299f1b34e4f4a4b8f1572791127e694c1037d",
         "sum_type": 5,
         "reboot_suggested": 0
       }

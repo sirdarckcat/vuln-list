@@ -8,45 +8,9 @@
     "$date": 1663027200000
   },
   "pkglist": {
-    "name": "almalinux-8-for-i686-baseos-rpms__8_6_default",
-    "shortname": "almalinux-8-for-i686-baseos-rpms__8_6_default",
+    "name": "almalinux-8-for-i686-appstream-rpms__8_6_default",
+    "shortname": "almalinux-8-for-i686-appstream-rpms__8_6_default",
     "packages": [
-      {
-        "name": "python3-libs",
-        "version": "3.6.8",
-        "release": "47.el8_6.alma",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
-        "filename": "python3-libs-3.6.8-47.el8_6.alma.i686.rpm",
-        "sum": "3fcb4b16111965ebaf297da6efa024ea3385dcf07cb476c10fb9fe231355e666",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "platform-python",
-        "version": "3.6.8",
-        "release": "47.el8_6.alma",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
-        "filename": "platform-python-3.6.8-47.el8_6.alma.i686.rpm",
-        "sum": "551171b1f1bef7a2c000b7aece127ea74ec3ebef3c7b6e8370d02af08a596a7b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "python3-test",
-        "version": "3.6.8",
-        "release": "47.el8_6.alma",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
-        "filename": "python3-test-3.6.8-47.el8_6.alma.i686.rpm",
-        "sum": "8b44fbcfbe8510211d4223da7f587b4e53b432e8c745091eb467fe905cbc61e2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "python3-tkinter",
         "version": "3.6.8",
@@ -92,6 +56,42 @@
         "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
         "filename": "platform-python-debug-3.6.8-47.el8_6.alma.i686.rpm",
         "sum": "f8bd3fcbe1fc8a20712675d3eef6e13b5caae3ca6038435ae5e89e394e5d1e04",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "python3-libs",
+        "version": "3.6.8",
+        "release": "47.el8_6.alma",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
+        "filename": "python3-libs-3.6.8-47.el8_6.alma.i686.rpm",
+        "sum": "3fcb4b16111965ebaf297da6efa024ea3385dcf07cb476c10fb9fe231355e666",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "platform-python",
+        "version": "3.6.8",
+        "release": "47.el8_6.alma",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
+        "filename": "platform-python-3.6.8-47.el8_6.alma.i686.rpm",
+        "sum": "551171b1f1bef7a2c000b7aece127ea74ec3ebef3c7b6e8370d02af08a596a7b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "python3-test",
+        "version": "3.6.8",
+        "release": "47.el8_6.alma",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
+        "filename": "python3-test-3.6.8-47.el8_6.alma.i686.rpm",
+        "sum": "8b44fbcfbe8510211d4223da7f587b4e53b432e8c745091eb467fe905cbc61e2",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -204,42 +204,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "python3-test",
-        "version": "3.6.8",
-        "release": "47.el8_6.alma",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
-        "filename": "python3-test-3.6.8-47.el8_6.alma.s390x.rpm",
-        "sum": "923dcee22b67b0ed694dbbae9dff5a95260460f2aa2c7550bc154143c13350da",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "python3-libs",
-        "version": "3.6.8",
-        "release": "47.el8_6.alma",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
-        "filename": "python3-libs-3.6.8-47.el8_6.alma.s390x.rpm",
-        "sum": "b87473f17400d38bd306f7535d89a1325117f115be1734ce674e853ffef3e137",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "platform-python",
-        "version": "3.6.8",
-        "release": "47.el8_6.alma",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
-        "filename": "platform-python-3.6.8-47.el8_6.alma.s390x.rpm",
-        "sum": "f021ef8b8f4f4119dd6dca46eed7e5adeb26828dfa8b64e732bd3f9132d7baa5",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "python3-idle",
         "version": "3.6.8",
         "release": "47.el8_6.alma",
@@ -284,6 +248,42 @@
         "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
         "filename": "platform-python-debug-3.6.8-47.el8_6.alma.aarch64.rpm",
         "sum": "e9e64ed9a2396a65605b6366967d706c7d4dd738802004651ba233ebd42ae423",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "python3-test",
+        "version": "3.6.8",
+        "release": "47.el8_6.alma",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
+        "filename": "python3-test-3.6.8-47.el8_6.alma.s390x.rpm",
+        "sum": "923dcee22b67b0ed694dbbae9dff5a95260460f2aa2c7550bc154143c13350da",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "python3-libs",
+        "version": "3.6.8",
+        "release": "47.el8_6.alma",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
+        "filename": "python3-libs-3.6.8-47.el8_6.alma.s390x.rpm",
+        "sum": "b87473f17400d38bd306f7535d89a1325117f115be1734ce674e853ffef3e137",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "platform-python",
+        "version": "3.6.8",
+        "release": "47.el8_6.alma",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "python3-3.6.8-47.el8_6.alma.src.rpm",
+        "filename": "platform-python-3.6.8-47.el8_6.alma.s390x.rpm",
+        "sum": "f021ef8b8f4f4119dd6dca46eed7e5adeb26828dfa8b64e732bd3f9132d7baa5",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -482,7 +482,7 @@
   "title": "Moderate: python3 security update",
   "type": "security",
   "updated_date": {
-    "$date": 1668450078000
+    "$date": 1665135100000
   },
   "version": "1"
 }

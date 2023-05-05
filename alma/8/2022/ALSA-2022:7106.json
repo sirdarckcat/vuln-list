@@ -64,10 +64,10 @@
         "version": "1.2.11",
         "release": "19.el8_6",
         "epoch": "0",
-        "arch": "i686",
+        "arch": "aarch64",
         "src": "zlib-1.2.11-19.el8_6.src.rpm",
-        "filename": "zlib-static-1.2.11-19.el8_6.i686.rpm",
-        "sum": "ada217ae3d9cf92b1ca700203564acb319a869c750f6216bc95c63ce8cf22d53",
+        "filename": "zlib-static-1.2.11-19.el8_6.aarch64.rpm",
+        "sum": "040f3083e365dce75573fb58e837d94530d488cabb9db22891a07ccf2da4df6d",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -76,10 +76,10 @@
         "version": "1.2.11",
         "release": "19.el8_6",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "i686",
         "src": "zlib-1.2.11-19.el8_6.src.rpm",
-        "filename": "zlib-static-1.2.11-19.el8_6.aarch64.rpm",
-        "sum": "040f3083e365dce75573fb58e837d94530d488cabb9db22891a07ccf2da4df6d",
+        "filename": "zlib-static-1.2.11-19.el8_6.i686.rpm",
+        "sum": "ada217ae3d9cf92b1ca700203564acb319a869c750f6216bc95c63ce8cf22d53",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -108,18 +108,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "zlib-static",
-        "version": "1.2.11",
-        "release": "19.el8_6",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "zlib-1.2.11-19.el8_6.src.rpm",
-        "filename": "zlib-static-1.2.11-19.el8_6.ppc64le.rpm",
-        "sum": "c42fb3bb4ce72490687c9eaaaf6c5d78e3be63f3f9aa1595730abc966df7d418",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "zlib",
         "version": "1.2.11",
         "release": "19.el8_6",
@@ -140,6 +128,18 @@
         "src": "zlib-1.2.11-19.el8_6.src.rpm",
         "filename": "zlib-devel-1.2.11-19.el8_6.s390x.rpm",
         "sum": "ac80a8849bfca92cd1f05a4c587c3d53e30508e70abde9ba2c0a62b298740979",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "zlib-static",
+        "version": "1.2.11",
+        "release": "19.el8_6",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "zlib-1.2.11-19.el8_6.src.rpm",
+        "filename": "zlib-static-1.2.11-19.el8_6.ppc64le.rpm",
+        "sum": "c42fb3bb4ce72490687c9eaaaf6c5d78e3be63f3f9aa1595730abc966df7d418",
         "sum_type": 5,
         "reboot_suggested": 0
       },
