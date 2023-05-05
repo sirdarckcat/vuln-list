@@ -108,54 +108,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "nodejs",
-        "version": "18.12.1",
-        "release": "1.module_el9.1.0+16+91bc168f",
-        "epoch": "1",
-        "arch": "s390x",
-        "src": "nodejs-18.12.1-1.module_el9.1.0+16+91bc168f.src.rpm",
-        "filename": "nodejs-18.12.1-1.module_el9.1.0+16+91bc168f.s390x.rpm",
-        "sum": "2735183018960fe14822e17d2ef00447489715c709238489fdc2595fad4bdeb7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "npm",
-        "version": "8.19.2",
-        "release": "1.18.12.1.1.module_el9.1.0+16+91bc168f",
-        "epoch": "1",
-        "arch": "s390x",
-        "src": "nodejs-18.12.1-1.module_el9.1.0+16+91bc168f.src.rpm",
-        "filename": "npm-8.19.2-1.18.12.1.1.module_el9.1.0+16+91bc168f.s390x.rpm",
-        "sum": "67f46e815e87cb89182a0c8e25b8bbb87e54ab47b17c97fb4905d0f94e8aa33e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "nodejs-devel",
-        "version": "18.12.1",
-        "release": "1.module_el9.1.0+16+91bc168f",
-        "epoch": "1",
-        "arch": "s390x",
-        "src": "nodejs-18.12.1-1.module_el9.1.0+16+91bc168f.src.rpm",
-        "filename": "nodejs-devel-18.12.1-1.module_el9.1.0+16+91bc168f.s390x.rpm",
-        "sum": "7a765e6553a73589c788cc5ac3a8633e7c2a8d39af327f208bb1f675cbac98e2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "nodejs-full-i18n",
-        "version": "18.12.1",
-        "release": "1.module_el9.1.0+16+91bc168f",
-        "epoch": "1",
-        "arch": "s390x",
-        "src": "nodejs-18.12.1-1.module_el9.1.0+16+91bc168f.src.rpm",
-        "filename": "nodejs-full-i18n-18.12.1-1.module_el9.1.0+16+91bc168f.s390x.rpm",
-        "sum": "c0260b2416cc6d95dfc555455e6a5334122bdf036dd02c17e30d4f1d2c41a668",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "npm",
         "version": "8.19.2",
         "release": "1.18.12.1.1.module_el9.1.0+16+91bc168f",
@@ -248,6 +200,54 @@
         "src": "nodejs-18.12.1-1.module_el9.1.0+16+91bc168f.src.rpm",
         "filename": "npm-8.19.2-1.18.12.1.1.module_el9.1.0+16+91bc168f.aarch64.rpm",
         "sum": "c89736dc9708f81dba2ad3cbf0345bea777be2bb6f657343afd13f569e14fae8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs",
+        "version": "18.12.1",
+        "release": "1.module_el9.1.0+16+91bc168f",
+        "epoch": "1",
+        "arch": "s390x",
+        "src": "nodejs-18.12.1-1.module_el9.1.0+16+91bc168f.src.rpm",
+        "filename": "nodejs-18.12.1-1.module_el9.1.0+16+91bc168f.s390x.rpm",
+        "sum": "2735183018960fe14822e17d2ef00447489715c709238489fdc2595fad4bdeb7",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "npm",
+        "version": "8.19.2",
+        "release": "1.18.12.1.1.module_el9.1.0+16+91bc168f",
+        "epoch": "1",
+        "arch": "s390x",
+        "src": "nodejs-18.12.1-1.module_el9.1.0+16+91bc168f.src.rpm",
+        "filename": "npm-8.19.2-1.18.12.1.1.module_el9.1.0+16+91bc168f.s390x.rpm",
+        "sum": "67f46e815e87cb89182a0c8e25b8bbb87e54ab47b17c97fb4905d0f94e8aa33e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs-devel",
+        "version": "18.12.1",
+        "release": "1.module_el9.1.0+16+91bc168f",
+        "epoch": "1",
+        "arch": "s390x",
+        "src": "nodejs-18.12.1-1.module_el9.1.0+16+91bc168f.src.rpm",
+        "filename": "nodejs-devel-18.12.1-1.module_el9.1.0+16+91bc168f.s390x.rpm",
+        "sum": "7a765e6553a73589c788cc5ac3a8633e7c2a8d39af327f208bb1f675cbac98e2",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs-full-i18n",
+        "version": "18.12.1",
+        "release": "1.module_el9.1.0+16+91bc168f",
+        "epoch": "1",
+        "arch": "s390x",
+        "src": "nodejs-18.12.1-1.module_el9.1.0+16+91bc168f.src.rpm",
+        "filename": "nodejs-full-i18n-18.12.1-1.module_el9.1.0+16+91bc168f.s390x.rpm",
+        "sum": "c0260b2416cc6d95dfc555455e6a5334122bdf036dd02c17e30d4f1d2c41a668",
         "sum_type": 5,
         "reboot_suggested": 0
       }

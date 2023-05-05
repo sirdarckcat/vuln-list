@@ -36,30 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "firefox-x11",
-        "version": "102.10.0",
-        "release": "1.el9_1.alma",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "firefox-102.10.0-1.el9_1.alma.src.rpm",
-        "filename": "firefox-x11-102.10.0-1.el9_1.alma.s390x.rpm",
-        "sum": "0b9b27465612b2226c8690b1d573dc6f6cc1410a0dbc48dde290211deb8a7756",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "firefox",
-        "version": "102.10.0",
-        "release": "1.el9_1.alma",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "firefox-102.10.0-1.el9_1.alma.src.rpm",
-        "filename": "firefox-102.10.0-1.el9_1.alma.s390x.rpm",
-        "sum": "bbe61a936af73e4ddddcf6ed45283de4b8e4df072e9df5dc74502eebdd42c0ed",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "firefox",
         "version": "102.10.0",
         "release": "1.el9_1.alma",
@@ -104,6 +80,30 @@
         "src": "firefox-102.10.0-1.el9_1.alma.src.rpm",
         "filename": "firefox-x11-102.10.0-1.el9_1.alma.aarch64.rpm",
         "sum": "c80b783b250357de80fa7d710147f5e210bcd858487930ecb5814eba09c465dc",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "firefox-x11",
+        "version": "102.10.0",
+        "release": "1.el9_1.alma",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "firefox-102.10.0-1.el9_1.alma.src.rpm",
+        "filename": "firefox-x11-102.10.0-1.el9_1.alma.s390x.rpm",
+        "sum": "0b9b27465612b2226c8690b1d573dc6f6cc1410a0dbc48dde290211deb8a7756",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "firefox",
+        "version": "102.10.0",
+        "release": "1.el9_1.alma",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "firefox-102.10.0-1.el9_1.alma.src.rpm",
+        "filename": "firefox-102.10.0-1.el9_1.alma.s390x.rpm",
+        "sum": "bbe61a936af73e4ddddcf6ed45283de4b8e4df072e9df5dc74502eebdd42c0ed",
         "sum_type": 5,
         "reboot_suggested": 0
       }

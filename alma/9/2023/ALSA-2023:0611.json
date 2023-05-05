@@ -192,66 +192,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "git-core",
-        "version": "2.31.1",
-        "release": "3.el9_1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "git-2.31.1-3.el9_1.src.rpm",
-        "filename": "git-core-2.31.1-3.el9_1.s390x.rpm",
-        "sum": "1b5767e73c33b9c7db4c26c6601ff129b959a7aa13e51a6b08571a6afa83c542",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git",
-        "version": "2.31.1",
-        "release": "3.el9_1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "git-2.31.1-3.el9_1.src.rpm",
-        "filename": "git-2.31.1-3.el9_1.s390x.rpm",
-        "sum": "24236337fd49b0a17631600a97150d1e25811644732db11efcb63a287aa0b0ef",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git-subtree",
-        "version": "2.31.1",
-        "release": "3.el9_1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "git-2.31.1-3.el9_1.src.rpm",
-        "filename": "git-subtree-2.31.1-3.el9_1.s390x.rpm",
-        "sum": "2831514a132cf1eadef90efa8d2410404e7c5899f9628a1c4e7c4cbdeec4dede",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git-daemon",
-        "version": "2.31.1",
-        "release": "3.el9_1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "git-2.31.1-3.el9_1.src.rpm",
-        "filename": "git-daemon-2.31.1-3.el9_1.s390x.rpm",
-        "sum": "c968e456e6ed95a0433195ea57154f2502db72fc7156617e59fe0d885b06633a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git-credential-libsecret",
-        "version": "2.31.1",
-        "release": "3.el9_1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "git-2.31.1-3.el9_1.src.rpm",
-        "filename": "git-credential-libsecret-2.31.1-3.el9_1.s390x.rpm",
-        "sum": "d98cf1ecd294c805b2aaa0687521e3d52c41d52709e1defecacb4d30ac15d972",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "git-subtree",
         "version": "2.31.1",
         "release": "3.el9_1",
@@ -368,6 +308,66 @@
         "src": "git-2.31.1-3.el9_1.src.rpm",
         "filename": "git-daemon-2.31.1-3.el9_1.aarch64.rpm",
         "sum": "ca57c5eb3731ea8f46f4b254acdd28c7ed80dc7f6c2978b991b509f9af001bea",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-core",
+        "version": "2.31.1",
+        "release": "3.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "git-2.31.1-3.el9_1.src.rpm",
+        "filename": "git-core-2.31.1-3.el9_1.s390x.rpm",
+        "sum": "1b5767e73c33b9c7db4c26c6601ff129b959a7aa13e51a6b08571a6afa83c542",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git",
+        "version": "2.31.1",
+        "release": "3.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "git-2.31.1-3.el9_1.src.rpm",
+        "filename": "git-2.31.1-3.el9_1.s390x.rpm",
+        "sum": "24236337fd49b0a17631600a97150d1e25811644732db11efcb63a287aa0b0ef",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-subtree",
+        "version": "2.31.1",
+        "release": "3.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "git-2.31.1-3.el9_1.src.rpm",
+        "filename": "git-subtree-2.31.1-3.el9_1.s390x.rpm",
+        "sum": "2831514a132cf1eadef90efa8d2410404e7c5899f9628a1c4e7c4cbdeec4dede",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-daemon",
+        "version": "2.31.1",
+        "release": "3.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "git-2.31.1-3.el9_1.src.rpm",
+        "filename": "git-daemon-2.31.1-3.el9_1.s390x.rpm",
+        "sum": "c968e456e6ed95a0433195ea57154f2502db72fc7156617e59fe0d885b06633a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-credential-libsecret",
+        "version": "2.31.1",
+        "release": "3.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "git-2.31.1-3.el9_1.src.rpm",
+        "filename": "git-credential-libsecret-2.31.1-3.el9_1.s390x.rpm",
+        "sum": "d98cf1ecd294c805b2aaa0687521e3d52c41d52709e1defecacb4d30ac15d972",
         "sum_type": 5,
         "reboot_suggested": 0
       }

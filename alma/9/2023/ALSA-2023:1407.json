@@ -28,18 +28,6 @@
         "version": "102.9.0",
         "release": "1.el9_1.alma",
         "epoch": "0",
-        "arch": "s390x",
-        "src": "thunderbird-102.9.0-1.el9_1.alma.src.rpm",
-        "filename": "thunderbird-102.9.0-1.el9_1.alma.s390x.rpm",
-        "sum": "466527c63581bc5360ab6c4b0520d6d2298ff45b68e05448d0b9dce8e2a208ec",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "thunderbird",
-        "version": "102.9.0",
-        "release": "1.el9_1.alma",
-        "epoch": "0",
         "arch": "x86_64",
         "src": "thunderbird-102.9.0-1.el9_1.alma.src.rpm",
         "filename": "thunderbird-102.9.0-1.el9_1.alma.x86_64.rpm",
@@ -56,6 +44,18 @@
         "src": "thunderbird-102.9.0-1.el9_1.alma.src.rpm",
         "filename": "thunderbird-102.9.0-1.el9_1.alma.aarch64.rpm",
         "sum": "1c59b0a6aecf349f4ffc115a84cb036fb23a142a9ab7a3438529bd006920b791",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "thunderbird",
+        "version": "102.9.0",
+        "release": "1.el9_1.alma",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "thunderbird-102.9.0-1.el9_1.alma.src.rpm",
+        "filename": "thunderbird-102.9.0-1.el9_1.alma.s390x.rpm",
+        "sum": "466527c63581bc5360ab6c4b0520d6d2298ff45b68e05448d0b9dce8e2a208ec",
         "sum_type": 5,
         "reboot_suggested": 0
       }

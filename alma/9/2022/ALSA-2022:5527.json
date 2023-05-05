@@ -28,18 +28,6 @@
         "version": "5.2",
         "release": "1.el9_0.1",
         "epoch": "7",
-        "arch": "s390x",
-        "src": "squid-5.2-1.el9_0.1.src.rpm",
-        "filename": "squid-5.2-1.el9_0.1.s390x.rpm",
-        "sum": "7df384b54cb6fd1394e05d220d400324b307abe46cf75b19119b576f4ab68400",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "squid",
-        "version": "5.2",
-        "release": "1.el9_0.1",
-        "epoch": "7",
         "arch": "x86_64",
         "src": "squid-5.2-1.el9_0.1.src.rpm",
         "filename": "squid-5.2-1.el9_0.1.x86_64.rpm",
@@ -56,6 +44,18 @@
         "src": "squid-5.2-1.el9_0.1.src.rpm",
         "filename": "squid-5.2-1.el9_0.1.aarch64.rpm",
         "sum": "61debed15088bbd352f8fea33ceb0ac11ce4f7374c1c0d924a08e6648da2368e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "squid",
+        "version": "5.2",
+        "release": "1.el9_0.1",
+        "epoch": "7",
+        "arch": "s390x",
+        "src": "squid-5.2-1.el9_0.1.src.rpm",
+        "filename": "squid-5.2-1.el9_0.1.s390x.rpm",
+        "sum": "7df384b54cb6fd1394e05d220d400324b307abe46cf75b19119b576f4ab68400",
         "sum_type": 5,
         "reboot_suggested": 0
       }

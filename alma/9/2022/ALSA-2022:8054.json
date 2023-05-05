@@ -108,54 +108,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "webkit2gtk3",
-        "version": "2.36.7",
-        "release": "1.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "webkit2gtk3-2.36.7-1.el9.src.rpm",
-        "filename": "webkit2gtk3-2.36.7-1.el9.s390x.rpm",
-        "sum": "0ceb985d97ccce1541d74573406d6a53b6ec88212d7d30c0e5d02f41597af006",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-jsc-devel",
-        "version": "2.36.7",
-        "release": "1.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "webkit2gtk3-2.36.7-1.el9.src.rpm",
-        "filename": "webkit2gtk3-jsc-devel-2.36.7-1.el9.s390x.rpm",
-        "sum": "43bee5b981d46acb279044a44076126e4d604d86ce0623db83e71c88d8898a8f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-jsc",
-        "version": "2.36.7",
-        "release": "1.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "webkit2gtk3-2.36.7-1.el9.src.rpm",
-        "filename": "webkit2gtk3-jsc-2.36.7-1.el9.s390x.rpm",
-        "sum": "6e52744ede860bc272d0a8459b507cb344f4a77a8a1ab80d3bc4d77f29ddca6b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-devel",
-        "version": "2.36.7",
-        "release": "1.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "webkit2gtk3-2.36.7-1.el9.src.rpm",
-        "filename": "webkit2gtk3-devel-2.36.7-1.el9.s390x.rpm",
-        "sum": "9a9be167370aa235a3e99f3016c93aa85a2e96e83b8b542e0d43bb2f5522a479",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "webkit2gtk3-devel",
         "version": "2.36.7",
         "release": "1.el9",
@@ -248,6 +200,54 @@
         "src": "webkit2gtk3-2.36.7-1.el9.src.rpm",
         "filename": "webkit2gtk3-jsc-2.36.7-1.el9.aarch64.rpm",
         "sum": "f4dc1236b85b1f1717ae56e886194a2fe02cf3094ca50c453dfb4a76de64f630",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3",
+        "version": "2.36.7",
+        "release": "1.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "webkit2gtk3-2.36.7-1.el9.src.rpm",
+        "filename": "webkit2gtk3-2.36.7-1.el9.s390x.rpm",
+        "sum": "0ceb985d97ccce1541d74573406d6a53b6ec88212d7d30c0e5d02f41597af006",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-jsc-devel",
+        "version": "2.36.7",
+        "release": "1.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "webkit2gtk3-2.36.7-1.el9.src.rpm",
+        "filename": "webkit2gtk3-jsc-devel-2.36.7-1.el9.s390x.rpm",
+        "sum": "43bee5b981d46acb279044a44076126e4d604d86ce0623db83e71c88d8898a8f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-jsc",
+        "version": "2.36.7",
+        "release": "1.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "webkit2gtk3-2.36.7-1.el9.src.rpm",
+        "filename": "webkit2gtk3-jsc-2.36.7-1.el9.s390x.rpm",
+        "sum": "6e52744ede860bc272d0a8459b507cb344f4a77a8a1ab80d3bc4d77f29ddca6b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-devel",
+        "version": "2.36.7",
+        "release": "1.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "webkit2gtk3-2.36.7-1.el9.src.rpm",
+        "filename": "webkit2gtk3-devel-2.36.7-1.el9.s390x.rpm",
+        "sum": "9a9be167370aa235a3e99f3016c93aa85a2e96e83b8b542e0d43bb2f5522a479",
         "sum_type": 5,
         "reboot_suggested": 0
       }

@@ -60,30 +60,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libwebp",
-        "version": "1.2.0",
-        "release": "6.el9_1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
-        "filename": "libwebp-1.2.0-6.el9_1.s390x.rpm",
-        "sum": "bbd3325877c0b1aa5eeb874644cd460a33aed09c5532b656c37ff5d23540f384",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libwebp-devel",
-        "version": "1.2.0",
-        "release": "6.el9_1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
-        "filename": "libwebp-devel-1.2.0-6.el9_1.s390x.rpm",
-        "sum": "d1b813e0ed40aa7b7c705ca5663129290a91f56350664645e5b238eba4682725",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libwebp-devel",
         "version": "1.2.0",
         "release": "6.el9_1",
@@ -128,6 +104,30 @@
         "src": "libwebp-1.2.0-6.el9_1.src.rpm",
         "filename": "libwebp-devel-1.2.0-6.el9_1.aarch64.rpm",
         "sum": "f6a8492d7074870a63f23baf5bf299f1b34e4f4a4b8f1572791127e694c1037d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwebp",
+        "version": "1.2.0",
+        "release": "6.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
+        "filename": "libwebp-1.2.0-6.el9_1.s390x.rpm",
+        "sum": "bbd3325877c0b1aa5eeb874644cd460a33aed09c5532b656c37ff5d23540f384",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwebp-devel",
+        "version": "1.2.0",
+        "release": "6.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
+        "filename": "libwebp-devel-1.2.0-6.el9_1.s390x.rpm",
+        "sum": "d1b813e0ed40aa7b7c705ca5663129290a91f56350664645e5b238eba4682725",
         "sum_type": 5,
         "reboot_suggested": 0
       }

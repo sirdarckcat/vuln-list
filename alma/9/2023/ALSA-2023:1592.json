@@ -96,54 +96,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "tigervnc",
-        "version": "1.12.0",
-        "release": "5.el9_1.2",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "tigervnc-1.12.0-5.el9_1.2.src.rpm",
-        "filename": "tigervnc-1.12.0-5.el9_1.2.s390x.rpm",
-        "sum": "1f284c30cefc0e8473eeeafd49c699069a85c031bb9a420f1a7e5c520a0d1939",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "tigervnc-server-module",
-        "version": "1.12.0",
-        "release": "5.el9_1.2",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "tigervnc-1.12.0-5.el9_1.2.src.rpm",
-        "filename": "tigervnc-server-module-1.12.0-5.el9_1.2.s390x.rpm",
-        "sum": "48ac903d2915a13aa7d47c230c9ce76e1cfad9db5ccec829d99a7d20d2276ff4",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "tigervnc-server-minimal",
-        "version": "1.12.0",
-        "release": "5.el9_1.2",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "tigervnc-1.12.0-5.el9_1.2.src.rpm",
-        "filename": "tigervnc-server-minimal-1.12.0-5.el9_1.2.s390x.rpm",
-        "sum": "c201b12cfb50585f6d5652f56fd62839456c7285503e7557a72cb54bacfb350a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "tigervnc-server",
-        "version": "1.12.0",
-        "release": "5.el9_1.2",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "tigervnc-1.12.0-5.el9_1.2.src.rpm",
-        "filename": "tigervnc-server-1.12.0-5.el9_1.2.s390x.rpm",
-        "sum": "d0909531c9e21c60766800f0cb5b69bd0dfd93f1839d777df998a76a5165b38f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "tigervnc-server-minimal",
         "version": "1.12.0",
         "release": "5.el9_1.2",
@@ -236,6 +188,54 @@
         "src": "tigervnc-1.12.0-5.el9_1.2.src.rpm",
         "filename": "tigervnc-server-module-1.12.0-5.el9_1.2.aarch64.rpm",
         "sum": "90be87790cef422f0d5321dc41e6757493479d98228a8d7257012e46241b788f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "tigervnc",
+        "version": "1.12.0",
+        "release": "5.el9_1.2",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "tigervnc-1.12.0-5.el9_1.2.src.rpm",
+        "filename": "tigervnc-1.12.0-5.el9_1.2.s390x.rpm",
+        "sum": "1f284c30cefc0e8473eeeafd49c699069a85c031bb9a420f1a7e5c520a0d1939",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "tigervnc-server-module",
+        "version": "1.12.0",
+        "release": "5.el9_1.2",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "tigervnc-1.12.0-5.el9_1.2.src.rpm",
+        "filename": "tigervnc-server-module-1.12.0-5.el9_1.2.s390x.rpm",
+        "sum": "48ac903d2915a13aa7d47c230c9ce76e1cfad9db5ccec829d99a7d20d2276ff4",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "tigervnc-server-minimal",
+        "version": "1.12.0",
+        "release": "5.el9_1.2",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "tigervnc-1.12.0-5.el9_1.2.src.rpm",
+        "filename": "tigervnc-server-minimal-1.12.0-5.el9_1.2.s390x.rpm",
+        "sum": "c201b12cfb50585f6d5652f56fd62839456c7285503e7557a72cb54bacfb350a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "tigervnc-server",
+        "version": "1.12.0",
+        "release": "5.el9_1.2",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "tigervnc-1.12.0-5.el9_1.2.src.rpm",
+        "filename": "tigervnc-server-1.12.0-5.el9_1.2.s390x.rpm",
+        "sum": "d0909531c9e21c60766800f0cb5b69bd0dfd93f1839d777df998a76a5165b38f",
         "sum_type": 5,
         "reboot_suggested": 0
       }

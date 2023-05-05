@@ -64,30 +64,6 @@
         "version": "3.5.13",
         "release": "8.el9_1",
         "epoch": "0",
-        "arch": "s390x",
-        "src": "libXpm-3.5.13-8.el9_1.src.rpm",
-        "filename": "libXpm-devel-3.5.13-8.el9_1.s390x.rpm",
-        "sum": "0cca6f2f73e7ec44b03f451dd95fab137fad7a494aaecb57b19a423fcb28f797",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libXpm",
-        "version": "3.5.13",
-        "release": "8.el9_1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "libXpm-3.5.13-8.el9_1.src.rpm",
-        "filename": "libXpm-3.5.13-8.el9_1.s390x.rpm",
-        "sum": "16796c5d0b7d3e6586db4730349bd9c3f34ba872cfeebe0450628a1f08517a51",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libXpm-devel",
-        "version": "3.5.13",
-        "release": "8.el9_1",
-        "epoch": "0",
         "arch": "x86_64",
         "src": "libXpm-3.5.13-8.el9_1.src.rpm",
         "filename": "libXpm-devel-3.5.13-8.el9_1.x86_64.rpm",
@@ -128,6 +104,30 @@
         "src": "libXpm-3.5.13-8.el9_1.src.rpm",
         "filename": "libXpm-3.5.13-8.el9_1.aarch64.rpm",
         "sum": "b61a699c5c664d0262b279e12a2c32690fdc8428856480b18b91611bb6611c55",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libXpm-devel",
+        "version": "3.5.13",
+        "release": "8.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libXpm-3.5.13-8.el9_1.src.rpm",
+        "filename": "libXpm-devel-3.5.13-8.el9_1.s390x.rpm",
+        "sum": "0cca6f2f73e7ec44b03f451dd95fab137fad7a494aaecb57b19a423fcb28f797",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libXpm",
+        "version": "3.5.13",
+        "release": "8.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libXpm-3.5.13-8.el9_1.src.rpm",
+        "filename": "libXpm-3.5.13-8.el9_1.s390x.rpm",
+        "sum": "16796c5d0b7d3e6586db4730349bd9c3f34ba872cfeebe0450628a1f08517a51",
         "sum_type": 5,
         "reboot_suggested": 0
       }

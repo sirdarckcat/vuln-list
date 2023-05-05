@@ -28,18 +28,6 @@
         "version": "2.4.17",
         "release": "3.el9_1.2",
         "epoch": "0",
-        "arch": "s390x",
-        "src": "haproxy-2.4.17-3.el9_1.2.src.rpm",
-        "filename": "haproxy-2.4.17-3.el9_1.2.s390x.rpm",
-        "sum": "9db25d4d75528f1104434f9c8407f603a6b760dc32eb34b8f8de86dbd85e479d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "haproxy",
-        "version": "2.4.17",
-        "release": "3.el9_1.2",
-        "epoch": "0",
         "arch": "x86_64",
         "src": "haproxy-2.4.17-3.el9_1.2.src.rpm",
         "filename": "haproxy-2.4.17-3.el9_1.2.x86_64.rpm",
@@ -56,6 +44,18 @@
         "src": "haproxy-2.4.17-3.el9_1.2.src.rpm",
         "filename": "haproxy-2.4.17-3.el9_1.2.aarch64.rpm",
         "sum": "d8296c983dfdac15d81dbe8ac568c4ea2905991afa5bf90b7efc58aff27459e1",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "haproxy",
+        "version": "2.4.17",
+        "release": "3.el9_1.2",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "haproxy-2.4.17-3.el9_1.2.src.rpm",
+        "filename": "haproxy-2.4.17-3.el9_1.2.s390x.rpm",
+        "sum": "9db25d4d75528f1104434f9c8407f603a6b760dc32eb34b8f8de86dbd85e479d",
         "sum_type": 5,
         "reboot_suggested": 0
       }
