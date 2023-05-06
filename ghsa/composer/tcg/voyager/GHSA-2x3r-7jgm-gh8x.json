@@ -1,5 +1,5 @@
 {
-  "Severity": "HIGH",
+  "Severity": "CRITICAL",
   "UpdatedAt": "2023-04-27T14:00:39Z",
   "Package": {
     "Ecosystem": "COMPOSER",
@@ -12,6 +12,9 @@
     "References": [
       {
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2020-36070"
+      },
+      {
+        "Url": "https://github.com/the-control-group/voyager/"
       },
       {
         "Url": "https://github.com/advisories/GHSA-2x3r-7jgm-gh8x"
@@ -30,13 +33,13 @@
     "Description": "Insecure Permission vulnerability found in Voyager v.1.4 and before allows a remote attacker to execute arbitrary code via a crafted .php file to the media component.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-04-26T21:30:37Z",
-    "Severity": "HIGH",
+    "Severity": "CRITICAL",
     "Summary": "Remote code execution in Voyager",
-    "UpdatedAt": "2023-04-27T14:00:39Z",
+    "UpdatedAt": "2023-05-05T20:33:40Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

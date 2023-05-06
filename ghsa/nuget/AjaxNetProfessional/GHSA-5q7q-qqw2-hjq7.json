@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2022-01-04T21:21:18Z",
+  "UpdatedAt": "2023-05-05T21:42:45Z",
   "Package": {
     "Ecosystem": "NUGET",
     "Name": "AjaxNetProfessional"
@@ -41,7 +41,7 @@
     "PublishedAt": "2022-01-06T18:32:24Z",
     "Severity": "HIGH",
     "Summary": "AjaxNetProfessional deserializes arbitrary JavaScript objects",
-    "UpdatedAt": "2023-01-30T05:02:59Z",
+    "UpdatedAt": "2023-05-05T21:42:45Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.7,
@@ -53,7 +53,7 @@
       "FirstPatchedVersion": {
         "Identifier": "21.12.22.1"
       },
-      "VulnerableVersionRange": "\u003c= 21.12.21.1"
+      "VulnerableVersionRange": "\u003c 21.12.22.1"
     }
   ]
 }

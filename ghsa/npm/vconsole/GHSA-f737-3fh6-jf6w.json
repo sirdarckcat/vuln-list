@@ -1,5 +1,5 @@
 {
-  "Severity": "HIGH",
+  "Severity": "CRITICAL",
   "UpdatedAt": "2023-04-27T13:58:24Z",
   "Package": {
     "Ecosystem": "NPM",
@@ -36,13 +36,13 @@
     "Description": "vConsole v3.15.0 was discovered to contain a prototype pollution due to incorrect key and value resolution in setOptions in core.ts.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-04-26T21:30:37Z",
-    "Severity": "HIGH",
+    "Severity": "CRITICAL",
     "Summary": "Prototype Pollution in vConsole",
-    "UpdatedAt": "2023-04-27T13:58:24Z",
+    "UpdatedAt": "2023-05-05T20:33:52Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

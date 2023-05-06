@@ -38,11 +38,11 @@
     "PublishedAt": "2023-04-28T15:30:18Z",
     "Severity": "MODERATE",
     "Summary": "Missing secure cookie parameters",
-    "UpdatedAt": "2023-04-28T20:40:06Z",
+    "UpdatedAt": "2023-05-05T20:34:01Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 5.3,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N"
     }
   },
   "Versions": [

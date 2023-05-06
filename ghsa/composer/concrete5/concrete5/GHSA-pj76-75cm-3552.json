@@ -1,5 +1,5 @@
 {
-  "Severity": "HIGH",
+  "Severity": "CRITICAL",
   "UpdatedAt": "2023-05-01T13:44:38Z",
   "Package": {
     "Ecosystem": "COMPOSER",
@@ -36,13 +36,13 @@
     "Description": "Concrete CMS (previously concrete5) before 9.2 is vulnerable to possible Auth bypass in the jobs section.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-04-28T15:30:18Z",
-    "Severity": "HIGH",
+    "Severity": "CRITICAL",
     "Summary": "Authenication bypass",
-    "UpdatedAt": "2023-05-01T13:44:38Z",
+    "UpdatedAt": "2023-05-05T20:34:11Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

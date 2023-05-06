@@ -38,11 +38,11 @@
     "PublishedAt": "2023-04-28T15:30:18Z",
     "Severity": "MODERATE",
     "Summary": "Stored cross site scripting on saved presets",
-    "UpdatedAt": "2023-05-01T13:45:01Z",
+    "UpdatedAt": "2023-05-05T20:34:18Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 5.4,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [

@@ -95,6 +95,24 @@
         "Url": "https://xalan.apache.org"
       },
       {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/H4YNJSJ64NPCNKFPNBYITNZU5H3L4D6L/"
+      },
+      {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/I5OZNAZJ4YHLOKRRRZSWRT5OJ25E4XLM/"
+      },
+      {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/JN3EVGR7FD3ZLV5SBTJXUIDCMSK4QUE2/"
+      },
+      {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/KO3DXNKZ4EU3UZBT6AAR4XRKCD73KLMO/"
+      },
+      {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/L3XPOTPPBZIPFBZHQE5E7OW6PDACUMCJ/"
+      },
+      {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/YULPNO3PAWMEQQZV2C54I3H3ZOXFZUTB/"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-9339-86wc-4qgf"
       }
     ],
@@ -113,7 +131,7 @@
     "PublishedAt": "2022-07-20T00:00:18Z",
     "Severity": "HIGH",
     "Summary": "Apache Xalan Java XSLT library integer truncation issue when processing malicious XSLT stylesheets",
-    "UpdatedAt": "2023-04-27T19:58:22Z",
+    "UpdatedAt": "2023-05-05T20:33:26Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
