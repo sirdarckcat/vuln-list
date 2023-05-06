@@ -41,9 +41,29 @@
       "Name": "tcl"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26115001",
+      "Version": "1",
+      "Name": "protobuf-c"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26092001",
       "Version": "0",
       "Name": "grpc"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26089001",
+      "Version": "1",
+      "Name": "erlang"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26086001",
+      "Version": "1",
+      "Name": "boost"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26044001",
+      "Version": "1",
+      "Name": "qt5-qtbase"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26043001",
