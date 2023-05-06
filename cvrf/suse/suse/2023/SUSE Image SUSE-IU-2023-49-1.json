@@ -9,7 +9,7 @@
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2023-05-05T06:25:46Z",
+        "Date": "2023-05-06T06:28:47Z",
         "Description": "current"
       }
     ]
@@ -3496,9 +3496,7 @@
       "ProductStatuses": [
         {
           "Type": "Fixed",
-          "ProductID": [
-            "Public Cloud Image google/sles-15-sp4-hardened-byos-v20230201-x86-64:python3-setuptools-44.1.1-150400.3.3.1"
-          ]
+          "ProductID": null
         }
       ],
       "CVSSScoreSets": {}

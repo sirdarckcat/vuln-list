@@ -9,7 +9,7 @@
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2023-05-05T06:26:00Z",
+        "Date": "2023-05-06T06:29:03Z",
         "Description": "current"
       }
     ]
@@ -2945,9 +2945,7 @@
       "ProductStatuses": [
         {
           "Type": "Fixed",
-          "ProductID": [
-            "Public Cloud Image google/sles-15-sp4-v20230205-arm64:python3-setuptools-44.1.1-150400.3.3.1"
-          ]
+          "ProductID": null
         }
       ],
       "CVSSScoreSets": {}
