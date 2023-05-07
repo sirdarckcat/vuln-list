@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Container suse/sle-micro-rancher/5.3:latest-2023-879,Container suse/sle-micro-rancher/5.4:latest-2023-879,SUSE-2023-879,SUSE-SLE-Micro-5.3-2023-879,SUSE-SLE-Module-Basesystem-15-SP4-2023-879,SUSE-SLE-Module-Server-Applications-15-SP4-2023-879,openSUSE-Leap-Micro-5.3-2023-879,openSUSE-SLE-15.4-2023-879",
+      "Text": "Container suse/sle-micro-rancher/5.3:latest-2023-879,Container suse/sle-micro-rancher/5.4:latest-2023-879,Image SLES15-SP4-EC2-ECS-HVM-2023-879,SUSE-2023-879,SUSE-SLE-Micro-5.3-2023-879,SUSE-SLE-Module-Basesystem-15-SP4-2023-879,SUSE-SLE-Module-Server-Applications-15-SP4-2023-879,openSUSE-Leap-Micro-5.3-2023-879,openSUSE-SLE-15.4-2023-879",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -46,6 +46,11 @@
       {
         "ProductReference": "qemu-guest-agent-6.2.0-150400.37.14.2",
         "RelatesToProductReference": "Container suse/sle-micro-rancher/5.4:latest",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "qemu-tools-6.2.0-150400.37.14.2",
+        "RelatesToProductReference": "Image SLES15-SP4-EC2-ECS-HVM",
         "RelationType": "Default Component Of"
       },
       {
@@ -731,6 +736,7 @@
           "ProductID": [
             "Container suse/sle-micro-rancher/5.3:latest:qemu-guest-agent-6.2.0-150400.37.14.2",
             "Container suse/sle-micro-rancher/5.4:latest:qemu-guest-agent-6.2.0-150400.37.14.2",
+            "Image SLES15-SP4-EC2-ECS-HVM:qemu-tools-6.2.0-150400.37.14.2",
             "SUSE Linux Enterprise Micro 5.3:qemu-6.2.0-150400.37.14.2",
             "SUSE Linux Enterprise Micro 5.3:qemu-accel-tcg-x86-6.2.0-150400.37.14.2",
             "SUSE Linux Enterprise Micro 5.3:qemu-arm-6.2.0-150400.37.14.2",
@@ -886,6 +892,7 @@
           "ProductID": [
             "Container suse/sle-micro-rancher/5.3:latest:qemu-guest-agent-6.2.0-150400.37.14.2",
             "Container suse/sle-micro-rancher/5.4:latest:qemu-guest-agent-6.2.0-150400.37.14.2",
+            "Image SLES15-SP4-EC2-ECS-HVM:qemu-tools-6.2.0-150400.37.14.2",
             "SUSE Linux Enterprise Micro 5.3:qemu-6.2.0-150400.37.14.2",
             "SUSE Linux Enterprise Micro 5.3:qemu-accel-tcg-x86-6.2.0-150400.37.14.2",
             "SUSE Linux Enterprise Micro 5.3:qemu-arm-6.2.0-150400.37.14.2",

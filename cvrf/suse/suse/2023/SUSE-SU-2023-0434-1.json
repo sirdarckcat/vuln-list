@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Container bci/openjdk-devel:11-2023-434,Container bci/openjdk-devel:latest-2023-434,Container bci/openjdk:11-2023-434,Container bci/openjdk:latest-2023-434,Container rancher/elemental-teal/5.3:latest-2023-434,Container suse/389-ds:latest-2023-434,Container suse/pcp:latest-2023-434,Container suse/sle-micro-rancher/5.3:latest-2023-434,Container suse/sle-micro-rancher/5.4:latest-2023-434,Image SLES15-SP4-2023-434,Image SLES15-SP4-BYOS-2023-434,Image SLES15-SP4-BYOS-EC2-2023-434,Image SLES15-SP4-BYOS-GCE-2023-434,Image SLES15-SP4-EC2-2023-434,Image SLES15-SP4-EC2-ECS-HVM-2023-434,Image SLES15-SP4-GCE-2023-434,Image SLES15-SP4-HPC-BYOS-2023-434,Image SLES15-SP4-HPC-BYOS-EC2-2023-434,Image SLES15-SP4-HPC-EC2-2023-434,Image SLES15-SP4-Hardened-BYOS-2023-434,Image SLES15-SP4-Hardened-BYOS-EC2-2023-434,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-2023-434,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-Azure-2023-434,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-EC2-2023-434,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-GCE-2023-434,Image SLES15-SP4-Manager-Server-4-3-BYOS-2023-434,Image SLES15-SP4-Manager-Server-4-3-BYOS-Azure-2023-434,Image SLES15-SP4-Manager-Server-4-3-BYOS-EC2-2023-434,Image SLES15-SP4-Manager-Server-4-3-BYOS-GCE-2023-434,Image SLES15-SP4-Micro-5-3-2023-434,Image SLES15-SP4-Micro-5-3-Azure-2023-434,Image SLES15-SP4-Micro-5-3-BYOS-2023-434,Image SLES15-SP4-Micro-5-3-BYOS-Azure-2023-434,Image SLES15-SP4-Micro-5-3-BYOS-EC2-2023-434,Image SLES15-SP4-Micro-5-3-BYOS-GCE-2023-434,Image SLES15-SP4-Micro-5-3-EC2-2023-434,Image SLES15-SP4-Micro-5-3-GCE-2023-434,Image SLES15-SP4-SAP-2023-434,Image SLES15-SP4-SAP-Azure-2023-434,Image SLES15-SP4-SAP-Azure-LI-BYOS-2023-434,Image SLES15-SP4-SAP-Azure-LI-BYOS-Production-2023-434,Image SLES15-SP4-SAP-Azure-VLI-BYOS-2023-434,Image SLES15-SP4-SAP-Azure-VLI-BYOS-Production-2023-434,Image SLES15-SP4-SAP-BYOS-2023-434,Image SLES15-SP4-SAP-BYOS-EC2-2023-434,Image SLES15-SP4-SAP-BYOS-GCE-2023-434,Image SLES15-SP4-SAP-EC2-2023-434,Image SLES15-SP4-SAP-GCE-2023-434,Image SLES15-SP4-SAP-Hardened-2023-434,Image SLES15-SP4-SAP-Hardened-Azure-2023-434,Image SLES15-SP4-SAP-Hardened-BYOS-2023-434,Image SLES15-SP4-SAP-Hardened-BYOS-Azure-2023-434,Image SLES15-SP4-SAP-Hardened-BYOS-EC2-2023-434,Image SLES15-SP4-SAP-Hardened-BYOS-GCE-2023-434,Image SLES15-SP4-SAP-Hardened-EC2-2023-434,Image SLES15-SP4-SAP-Hardened-GCE-2023-434,Image SLES15-SP4-SAPCAL-2023-434,Image SLES15-SP4-SAPCAL-Azure-2023-434,Image SLES15-SP4-SAPCAL-EC2-2023-434,Image SLES15-SP4-SAPCAL-GCE-2023-434,SUSE-2023-434,SUSE-SLE-Micro-5.3-2023-434,SUSE-SLE-Module-Basesystem-15-SP4-2023-434,openSUSE-Leap-Micro-5.3-2023-434,openSUSE-SLE-15.4-2023-434",
+      "Text": "Container bci/openjdk-devel:11-2023-434,Container bci/openjdk-devel:latest-2023-434,Container bci/openjdk:11-2023-434,Container bci/openjdk:latest-2023-434,Container rancher/elemental-teal/5.3:latest-2023-434,Container suse/389-ds:latest-2023-434,Container suse/pcp:latest-2023-434,Container suse/sle-micro-rancher/5.3:latest-2023-434,Container suse/sle-micro-rancher/5.4:latest-2023-434,Image SLES15-SP4-2023-434,Image SLES15-SP4-Azure-Basic-2023-434,Image SLES15-SP4-Azure-Standard-2023-434,Image SLES15-SP4-BYOS-2023-434,Image SLES15-SP4-BYOS-Azure-2023-434,Image SLES15-SP4-BYOS-EC2-2023-434,Image SLES15-SP4-BYOS-GCE-2023-434,Image SLES15-SP4-EC2-2023-434,Image SLES15-SP4-EC2-ECS-HVM-2023-434,Image SLES15-SP4-GCE-2023-434,Image SLES15-SP4-HPC-2023-434,Image SLES15-SP4-HPC-Azure-2023-434,Image SLES15-SP4-HPC-BYOS-2023-434,Image SLES15-SP4-HPC-BYOS-Azure-2023-434,Image SLES15-SP4-HPC-BYOS-EC2-2023-434,Image SLES15-SP4-HPC-BYOS-GCE-2023-434,Image SLES15-SP4-HPC-EC2-2023-434,Image SLES15-SP4-HPC-GCE-2023-434,Image SLES15-SP4-Hardened-BYOS-2023-434,Image SLES15-SP4-Hardened-BYOS-Azure-2023-434,Image SLES15-SP4-Hardened-BYOS-EC2-2023-434,Image SLES15-SP4-Hardened-BYOS-GCE-2023-434,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-2023-434,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-Azure-2023-434,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-EC2-2023-434,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-GCE-2023-434,Image SLES15-SP4-Manager-Server-4-3-BYOS-2023-434,Image SLES15-SP4-Manager-Server-4-3-BYOS-Azure-2023-434,Image SLES15-SP4-Manager-Server-4-3-BYOS-EC2-2023-434,Image SLES15-SP4-Manager-Server-4-3-BYOS-GCE-2023-434,Image SLES15-SP4-Micro-5-3-2023-434,Image SLES15-SP4-Micro-5-3-Azure-2023-434,Image SLES15-SP4-Micro-5-3-BYOS-2023-434,Image SLES15-SP4-Micro-5-3-BYOS-Azure-2023-434,Image SLES15-SP4-Micro-5-3-BYOS-EC2-2023-434,Image SLES15-SP4-Micro-5-3-BYOS-GCE-2023-434,Image SLES15-SP4-Micro-5-3-EC2-2023-434,Image SLES15-SP4-Micro-5-3-GCE-2023-434,Image SLES15-SP4-Micro-5-4-2023-434,Image SLES15-SP4-Micro-5-4-EC2-2023-434,Image SLES15-SP4-SAP-2023-434,Image SLES15-SP4-SAP-Azure-2023-434,Image SLES15-SP4-SAP-Azure-LI-BYOS-2023-434,Image SLES15-SP4-SAP-Azure-LI-BYOS-Production-2023-434,Image SLES15-SP4-SAP-Azure-VLI-BYOS-2023-434,Image SLES15-SP4-SAP-Azure-VLI-BYOS-Production-2023-434,Image SLES15-SP4-SAP-BYOS-2023-434,Image SLES15-SP4-SAP-BYOS-Azure-2023-434,Image SLES15-SP4-SAP-BYOS-EC2-2023-434,Image SLES15-SP4-SAP-BYOS-GCE-2023-434,Image SLES15-SP4-SAP-EC2-2023-434,Image SLES15-SP4-SAP-GCE-2023-434,Image SLES15-SP4-SAP-Hardened-2023-434,Image SLES15-SP4-SAP-Hardened-Azure-2023-434,Image SLES15-SP4-SAP-Hardened-BYOS-2023-434,Image SLES15-SP4-SAP-Hardened-BYOS-Azure-2023-434,Image SLES15-SP4-SAP-Hardened-BYOS-EC2-2023-434,Image SLES15-SP4-SAP-Hardened-BYOS-GCE-2023-434,Image SLES15-SP4-SAP-Hardened-EC2-2023-434,Image SLES15-SP4-SAP-Hardened-GCE-2023-434,Image SLES15-SP4-SAPCAL-2023-434,Image SLES15-SP4-SAPCAL-Azure-2023-434,Image SLES15-SP4-SAPCAL-EC2-2023-434,Image SLES15-SP4-SAPCAL-GCE-2023-434,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-2023-434,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2-2023-434,SUSE-2023-434,SUSE-SLE-Micro-5.3-2023-434,SUSE-SLE-Module-Basesystem-15-SP4-2023-434,openSUSE-Leap-Micro-5.3-2023-434,openSUSE-SLE-15.4-2023-434",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -290,7 +290,22 @@
       },
       {
         "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Azure-Basic",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Azure-Standard",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
         "RelatesToProductReference": "Image SLES15-SP4-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-BYOS-Azure",
         "RelationType": "Default Component Of"
       },
       {
@@ -320,7 +335,22 @@
       },
       {
         "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-HPC",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-HPC-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
         "RelatesToProductReference": "Image SLES15-SP4-HPC-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-HPC-BYOS-Azure",
         "RelationType": "Default Component Of"
       },
       {
@@ -330,10 +360,20 @@
       },
       {
         "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-HPC-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
         "RelatesToProductReference": "Image SLES15-SP4-HPC-EC2",
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-HPC-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "libfreebl3-3.79.4-150400.3.26.1",
         "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS",
         "RelationType": "Default Component Of"
@@ -370,6 +410,41 @@
       },
       {
         "ProductReference": "libfreebl3-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libfreebl3-hmac-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsoftokn3-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsoftokn3-hmac-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-tools-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libfreebl3-3.79.4-150400.3.26.1",
         "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-EC2",
         "RelationType": "Default Component Of"
       },
@@ -405,6 +480,41 @@
       },
       {
         "ProductReference": "libfreebl3-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libfreebl3-hmac-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsoftokn3-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsoftokn3-hmac-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-tools-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Hardened-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libfreebl3-3.79.4-150400.3.26.1",
         "RelatesToProductReference": "Image SLES15-SP4-Manager-Proxy-4-3-BYOS",
         "RelationType": "Default Component Of"
       },
@@ -725,6 +835,46 @@
       },
       {
         "ProductReference": "libfreebl3-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsoftokn3-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libfreebl3-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsoftokn3-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libfreebl3-3.79.4-150400.3.26.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAP",
         "RelationType": "Default Component Of"
       },
@@ -886,6 +1036,31 @@
       {
         "ProductReference": "mozilla-nss-tools-3.79.4-150400.3.26.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libfreebl3-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsoftokn3-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-tools-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS-Azure",
         "RelationType": "Default Component Of"
       },
       {
@@ -1336,6 +1511,16 @@
       {
         "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mozilla-nss-certs-3.79.4-150400.3.26.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2",
         "RelationType": "Default Component Of"
       },
       {
@@ -1660,15 +1845,30 @@
             "Container suse/sle-micro-rancher/5.4:latest:libsoftokn3-3.79.4-150400.3.26.1",
             "Container suse/sle-micro-rancher/5.4:latest:mozilla-nss-3.79.4-150400.3.26.1",
             "Container suse/sle-micro-rancher/5.4:latest:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Azure-Basic:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Azure-Standard:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-BYOS-Azure:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-BYOS-EC2:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-BYOS-GCE:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-BYOS:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-EC2-ECS-HVM:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-EC2:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-GCE:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-HPC-Azure:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-HPC-BYOS-Azure:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-HPC-BYOS-EC2:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-HPC-BYOS-GCE:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-HPC-BYOS:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-HPC-EC2:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-HPC-GCE:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-HPC:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-Azure:libfreebl3-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-Azure:libfreebl3-hmac-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-Azure:libsoftokn3-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-Azure:libsoftokn3-hmac-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-Azure:mozilla-nss-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-Azure:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-Azure:mozilla-nss-tools-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-Hardened-BYOS-EC2:libfreebl3-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-Hardened-BYOS-EC2:libfreebl3-hmac-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-Hardened-BYOS-EC2:libsoftokn3-3.79.4-150400.3.26.1",
@@ -1676,6 +1876,13 @@
             "Image SLES15-SP4-Hardened-BYOS-EC2:mozilla-nss-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-Hardened-BYOS-EC2:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-Hardened-BYOS-EC2:mozilla-nss-tools-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-GCE:libfreebl3-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-GCE:libfreebl3-hmac-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-GCE:libsoftokn3-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-GCE:libsoftokn3-hmac-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-GCE:mozilla-nss-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-GCE:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Hardened-BYOS-GCE:mozilla-nss-tools-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-Hardened-BYOS:libfreebl3-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-Hardened-BYOS:libfreebl3-hmac-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-Hardened-BYOS:libsoftokn3-3.79.4-150400.3.26.1",
@@ -1747,6 +1954,14 @@
             "Image SLES15-SP4-Micro-5-3:libsoftokn3-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-Micro-5-3:mozilla-nss-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-Micro-5-3:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Micro-5-4-EC2:libfreebl3-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Micro-5-4-EC2:libsoftokn3-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Micro-5-4-EC2:mozilla-nss-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Micro-5-4-EC2:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Micro-5-4:libfreebl3-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Micro-5-4:libsoftokn3-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Micro-5-4:mozilla-nss-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-Micro-5-4:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-SAP-Azure-LI-BYOS-Production:libfreebl3-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-SAP-Azure-LI-BYOS-Production:libsoftokn3-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-SAP-Azure-LI-BYOS-Production:mozilla-nss-3.79.4-150400.3.26.1",
@@ -1771,6 +1986,11 @@
             "Image SLES15-SP4-SAP-Azure:libsoftokn3-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-SAP-Azure:mozilla-nss-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-SAP-Azure:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-SAP-BYOS-Azure:libfreebl3-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-SAP-BYOS-Azure:libsoftokn3-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-SAP-BYOS-Azure:mozilla-nss-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-SAP-BYOS-Azure:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-SAP-BYOS-Azure:mozilla-nss-tools-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-SAP-BYOS-EC2:libfreebl3-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-SAP-BYOS-EC2:libsoftokn3-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-SAP-BYOS-EC2:mozilla-nss-3.79.4-150400.3.26.1",
@@ -1870,6 +2090,8 @@
             "Image SLES15-SP4-SAPCAL:libsoftokn3-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-SAPCAL:mozilla-nss-3.79.4-150400.3.26.1",
             "Image SLES15-SP4-SAPCAL:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2:mozilla-nss-certs-3.79.4-150400.3.26.1",
+            "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "Image SLES15-SP4:mozilla-nss-certs-3.79.4-150400.3.26.1",
             "SUSE Linux Enterprise Micro 5.3:libfreebl3-3.79.4-150400.3.26.1",
             "SUSE Linux Enterprise Micro 5.3:libfreebl3-hmac-3.79.4-150400.3.26.1",

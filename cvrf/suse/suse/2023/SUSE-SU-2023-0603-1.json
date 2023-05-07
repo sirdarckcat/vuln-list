@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Image SLES12-SP5-GCE-BYOS-2023-603,Image SLES12-SP5-GCE-SAP-BYOS-2023-603,Image SLES12-SP5-GCE-SAP-On-Demand-2023-603,SUSE-2023-603,SUSE-SLE-Module-Public-Cloud-12-2023-603",
+      "Text": "Image SLES12-SP5-GCE-BYOS-2023-603,Image SLES12-SP5-GCE-On-Demand-2023-603,Image SLES12-SP5-GCE-SAP-BYOS-2023-603,Image SLES12-SP5-GCE-SAP-On-Demand-2023-603,SUSE-2023-603,SUSE-SLE-Module-Public-Cloud-12-2023-603",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -41,6 +41,11 @@
       {
         "ProductReference": "google-guest-agent-20230221.00-1.29.1",
         "RelatesToProductReference": "Image SLES12-SP5-GCE-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "google-guest-agent-20230221.00-1.29.1",
+        "RelatesToProductReference": "Image SLES12-SP5-GCE-On-Demand",
         "RelationType": "Default Component Of"
       },
       {
@@ -139,6 +144,7 @@
           "Type": "Fixed",
           "ProductID": [
             "Image SLES12-SP5-GCE-BYOS:google-guest-agent-20230221.00-1.29.1",
+            "Image SLES12-SP5-GCE-On-Demand:google-guest-agent-20230221.00-1.29.1",
             "Image SLES12-SP5-GCE-SAP-BYOS:google-guest-agent-20230221.00-1.29.1",
             "Image SLES12-SP5-GCE-SAP-On-Demand:google-guest-agent-20230221.00-1.29.1",
             "SUSE Linux Enterprise Module for Public Cloud 12:google-guest-agent-20230221.00-1.29.1"
@@ -179,6 +185,7 @@
           "Type": "Fixed",
           "ProductID": [
             "Image SLES12-SP5-GCE-BYOS:google-guest-agent-20230221.00-1.29.1",
+            "Image SLES12-SP5-GCE-On-Demand:google-guest-agent-20230221.00-1.29.1",
             "Image SLES12-SP5-GCE-SAP-BYOS:google-guest-agent-20230221.00-1.29.1",
             "Image SLES12-SP5-GCE-SAP-On-Demand:google-guest-agent-20230221.00-1.29.1",
             "SUSE Linux Enterprise Module for Public Cloud 12:google-guest-agent-20230221.00-1.29.1"

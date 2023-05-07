@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Image SLES12-SP5-Azure-Basic-On-Demand-2023-1659,Image SLES12-SP5-Azure-HPC-BYOS-2023-1659,Image SLES12-SP5-Azure-HPC-On-Demand-2023-1659,Image SLES12-SP5-Azure-SAP-On-Demand-2023-1659,Image SLES12-SP5-Azure-Standard-On-Demand-2023-1659,Image SLES12-SP5-GCE-BYOS-2023-1659,Image SLES12-SP5-GCE-SAP-BYOS-2023-1659,Image SLES12-SP5-GCE-SAP-On-Demand-2023-1659,SUSE-2023-1659,SUSE-SLE-SDK-12-SP5-2023-1659,SUSE-SLE-SERVER-12-SP5-2023-1659",
+      "Text": "Image SLES12-SP5-Azure-Basic-On-Demand-2023-1659,Image SLES12-SP5-Azure-HPC-BYOS-2023-1659,Image SLES12-SP5-Azure-HPC-On-Demand-2023-1659,Image SLES12-SP5-Azure-SAP-On-Demand-2023-1659,Image SLES12-SP5-Azure-Standard-On-Demand-2023-1659,Image SLES12-SP5-EC2-BYOS-2023-1659,Image SLES12-SP5-EC2-SAP-BYOS-2023-1659,Image SLES12-SP5-GCE-BYOS-2023-1659,Image SLES12-SP5-GCE-On-Demand-2023-1659,Image SLES12-SP5-GCE-SAP-BYOS-2023-1659,Image SLES12-SP5-GCE-SAP-On-Demand-2023-1659,SUSE-2023-1659,SUSE-SLE-SDK-12-SP5-2023-1659,SUSE-SLE-SERVER-12-SP5-2023-1659",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -65,7 +65,22 @@
       },
       {
         "ProductReference": "sudo-1.8.27-4.38.1",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "sudo-1.8.27-4.38.1",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "sudo-1.8.27-4.38.1",
         "RelatesToProductReference": "Image SLES12-SP5-GCE-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "sudo-1.8.27-4.38.1",
+        "RelatesToProductReference": "Image SLES12-SP5-GCE-On-Demand",
         "RelationType": "Default Component Of"
       },
       {
@@ -162,7 +177,10 @@
             "Image SLES12-SP5-Azure-HPC-On-Demand:sudo-1.8.27-4.38.1",
             "Image SLES12-SP5-Azure-SAP-On-Demand:sudo-1.8.27-4.38.1",
             "Image SLES12-SP5-Azure-Standard-On-Demand:sudo-1.8.27-4.38.1",
+            "Image SLES12-SP5-EC2-BYOS:sudo-1.8.27-4.38.1",
+            "Image SLES12-SP5-EC2-SAP-BYOS:sudo-1.8.27-4.38.1",
             "Image SLES12-SP5-GCE-BYOS:sudo-1.8.27-4.38.1",
+            "Image SLES12-SP5-GCE-On-Demand:sudo-1.8.27-4.38.1",
             "Image SLES12-SP5-GCE-SAP-BYOS:sudo-1.8.27-4.38.1",
             "Image SLES12-SP5-GCE-SAP-On-Demand:sudo-1.8.27-4.38.1",
             "SUSE Linux Enterprise Server 12 SP5:sudo-1.8.27-4.38.1",
@@ -201,7 +219,10 @@
             "Image SLES12-SP5-Azure-HPC-On-Demand:sudo-1.8.27-4.38.1",
             "Image SLES12-SP5-Azure-SAP-On-Demand:sudo-1.8.27-4.38.1",
             "Image SLES12-SP5-Azure-Standard-On-Demand:sudo-1.8.27-4.38.1",
+            "Image SLES12-SP5-EC2-BYOS:sudo-1.8.27-4.38.1",
+            "Image SLES12-SP5-EC2-SAP-BYOS:sudo-1.8.27-4.38.1",
             "Image SLES12-SP5-GCE-BYOS:sudo-1.8.27-4.38.1",
+            "Image SLES12-SP5-GCE-On-Demand:sudo-1.8.27-4.38.1",
             "Image SLES12-SP5-GCE-SAP-BYOS:sudo-1.8.27-4.38.1",
             "Image SLES12-SP5-GCE-SAP-On-Demand:sudo-1.8.27-4.38.1",
             "SUSE Linux Enterprise Server 12 SP5:sudo-1.8.27-4.38.1",

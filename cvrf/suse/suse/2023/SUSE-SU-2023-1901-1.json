@@ -31,13 +31,23 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "SUSE-2023-1901,SUSE-SLE-Module-Containers-15-SP4-2023-1901,SUSE-SLE-Module-Packagehub-Subpackages-15-SP4-2023-1901,openSUSE-SLE-15.4-2023-1901",
+      "Text": "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-2023-1901,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2-2023-1901,SUSE-2023-1901,SUSE-SLE-Module-Containers-15-SP4-2023-1901,SUSE-SLE-Module-Packagehub-Subpackages-15-SP4-2023-1901,openSUSE-SLE-15.4-2023-1901",
       "Title": "Patchnames",
       "Type": "Details"
     }
   ],
   "ProductTree": {
     "Relationships": [
+      {
+        "ProductReference": "helm-3.11.2-150000.1.19.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "helm-3.11.2-150000.1.19.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2",
+        "RelationType": "Default Component Of"
+      },
       {
         "ProductReference": "helm-3.11.2-150000.1.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Module for Containers 15 SP4",

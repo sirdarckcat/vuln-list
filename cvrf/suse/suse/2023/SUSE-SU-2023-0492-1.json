@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Image SLES15-SP4-SAP-BYOS-2023-492,Image SLES15-SP4-SAP-BYOS-EC2-2023-492,Image SLES15-SP4-SAP-BYOS-GCE-2023-492,Image SLES15-SP4-SAP-Hardened-2023-492,Image SLES15-SP4-SAP-Hardened-Azure-2023-492,Image SLES15-SP4-SAP-Hardened-EC2-2023-492,Image SLES15-SP4-SAP-Hardened-GCE-2023-492,SUSE-2023-492,SUSE-SLE-Product-HA-15-SP1-2023-492,SUSE-SLE-Product-HA-15-SP2-2023-492,SUSE-SLE-Product-HA-15-SP3-2023-492,SUSE-SLE-Product-HA-15-SP4-2023-492,openSUSE-SLE-15.4-2023-492",
+      "Text": "Image SLES15-SP4-SAP-BYOS-2023-492,Image SLES15-SP4-SAP-BYOS-Azure-2023-492,Image SLES15-SP4-SAP-BYOS-EC2-2023-492,Image SLES15-SP4-SAP-BYOS-GCE-2023-492,Image SLES15-SP4-SAP-Hardened-2023-492,Image SLES15-SP4-SAP-Hardened-Azure-2023-492,Image SLES15-SP4-SAP-Hardened-EC2-2023-492,Image SLES15-SP4-SAP-Hardened-GCE-2023-492,SUSE-2023-492,SUSE-SLE-Product-HA-15-SP1-2023-492,SUSE-SLE-Product-HA-15-SP2-2023-492,SUSE-SLE-Product-HA-15-SP3-2023-492,SUSE-SLE-Product-HA-15-SP4-2023-492,openSUSE-SLE-15.4-2023-492",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -41,6 +41,11 @@
       {
         "ProductReference": "ruby2.5-rubygem-activerecord-5_1-5.1.4-150000.5.6.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ruby2.5-rubygem-activerecord-5_1-5.1.4-150000.5.6.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS-Azure",
         "RelationType": "Default Component Of"
       },
       {
@@ -146,6 +151,7 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-SAP-BYOS-Azure:ruby2.5-rubygem-activerecord-5_1-5.1.4-150000.5.6.1",
             "Image SLES15-SP4-SAP-BYOS-EC2:ruby2.5-rubygem-activerecord-5_1-5.1.4-150000.5.6.1",
             "Image SLES15-SP4-SAP-BYOS-GCE:ruby2.5-rubygem-activerecord-5_1-5.1.4-150000.5.6.1",
             "Image SLES15-SP4-SAP-BYOS:ruby2.5-rubygem-activerecord-5_1-5.1.4-150000.5.6.1",

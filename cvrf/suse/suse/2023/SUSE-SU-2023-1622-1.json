@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Container suse/sles12sp5:latest-2023-1622,Image SLES12-SP5-Azure-Basic-On-Demand-2023-1622,Image SLES12-SP5-Azure-HPC-BYOS-2023-1622,Image SLES12-SP5-Azure-HPC-On-Demand-2023-1622,Image SLES12-SP5-Azure-SAP-On-Demand-2023-1622,Image SLES12-SP5-Azure-Standard-On-Demand-2023-1622,Image SLES12-SP5-GCE-BYOS-2023-1622,Image SLES12-SP5-GCE-SAP-BYOS-2023-1622,Image SLES12-SP5-GCE-SAP-On-Demand-2023-1622,SUSE-2023-1622,SUSE-SLE-SDK-12-SP5-2023-1622,SUSE-SLE-SERVER-12-SP5-2023-1622",
+      "Text": "Container suse/sles12sp5:latest-2023-1622,Image SLES12-SP5-Azure-Basic-On-Demand-2023-1622,Image SLES12-SP5-Azure-HPC-BYOS-2023-1622,Image SLES12-SP5-Azure-HPC-On-Demand-2023-1622,Image SLES12-SP5-Azure-SAP-On-Demand-2023-1622,Image SLES12-SP5-Azure-Standard-On-Demand-2023-1622,Image SLES12-SP5-EC2-BYOS-2023-1622,Image SLES12-SP5-EC2-SAP-BYOS-2023-1622,Image SLES12-SP5-GCE-BYOS-2023-1622,Image SLES12-SP5-GCE-On-Demand-2023-1622,Image SLES12-SP5-GCE-SAP-BYOS-2023-1622,Image SLES12-SP5-GCE-SAP-On-Demand-2023-1622,SUSE-2023-1622,SUSE-SLE-SDK-12-SP5-2023-1622,SUSE-SLE-SERVER-12-SP5-2023-1622",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -175,6 +175,56 @@
       },
       {
         "ProductReference": "libsystemd0-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libudev1-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-sysvinit-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "udev-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsystemd0-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libudev1-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-sysvinit-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "udev-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsystemd0-228-157.52.1",
         "RelatesToProductReference": "Image SLES12-SP5-GCE-BYOS",
         "RelationType": "Default Component Of"
       },
@@ -196,6 +246,31 @@
       {
         "ProductReference": "udev-228-157.52.1",
         "RelatesToProductReference": "Image SLES12-SP5-GCE-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsystemd0-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-GCE-On-Demand",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libudev1-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-GCE-On-Demand",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-GCE-On-Demand",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-sysvinit-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-GCE-On-Demand",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "udev-228-157.52.1",
+        "RelatesToProductReference": "Image SLES12-SP5-GCE-On-Demand",
         "RelationType": "Default Component Of"
       },
       {
@@ -451,11 +526,26 @@
             "Image SLES12-SP5-Azure-Standard-On-Demand:systemd-228-157.52.1",
             "Image SLES12-SP5-Azure-Standard-On-Demand:systemd-sysvinit-228-157.52.1",
             "Image SLES12-SP5-Azure-Standard-On-Demand:udev-228-157.52.1",
+            "Image SLES12-SP5-EC2-BYOS:libsystemd0-228-157.52.1",
+            "Image SLES12-SP5-EC2-BYOS:libudev1-228-157.52.1",
+            "Image SLES12-SP5-EC2-BYOS:systemd-228-157.52.1",
+            "Image SLES12-SP5-EC2-BYOS:systemd-sysvinit-228-157.52.1",
+            "Image SLES12-SP5-EC2-BYOS:udev-228-157.52.1",
+            "Image SLES12-SP5-EC2-SAP-BYOS:libsystemd0-228-157.52.1",
+            "Image SLES12-SP5-EC2-SAP-BYOS:libudev1-228-157.52.1",
+            "Image SLES12-SP5-EC2-SAP-BYOS:systemd-228-157.52.1",
+            "Image SLES12-SP5-EC2-SAP-BYOS:systemd-sysvinit-228-157.52.1",
+            "Image SLES12-SP5-EC2-SAP-BYOS:udev-228-157.52.1",
             "Image SLES12-SP5-GCE-BYOS:libsystemd0-228-157.52.1",
             "Image SLES12-SP5-GCE-BYOS:libudev1-228-157.52.1",
             "Image SLES12-SP5-GCE-BYOS:systemd-228-157.52.1",
             "Image SLES12-SP5-GCE-BYOS:systemd-sysvinit-228-157.52.1",
             "Image SLES12-SP5-GCE-BYOS:udev-228-157.52.1",
+            "Image SLES12-SP5-GCE-On-Demand:libsystemd0-228-157.52.1",
+            "Image SLES12-SP5-GCE-On-Demand:libudev1-228-157.52.1",
+            "Image SLES12-SP5-GCE-On-Demand:systemd-228-157.52.1",
+            "Image SLES12-SP5-GCE-On-Demand:systemd-sysvinit-228-157.52.1",
+            "Image SLES12-SP5-GCE-On-Demand:udev-228-157.52.1",
             "Image SLES12-SP5-GCE-SAP-BYOS:libsystemd0-228-157.52.1",
             "Image SLES12-SP5-GCE-SAP-BYOS:libudev1-228-157.52.1",
             "Image SLES12-SP5-GCE-SAP-BYOS:systemd-228-157.52.1",

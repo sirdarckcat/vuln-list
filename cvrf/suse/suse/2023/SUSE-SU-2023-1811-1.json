@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Container suse/sle-micro-rancher/5.2:latest-2023-1811,SUSE-2023-1811,SUSE-SLE-Module-Live-Patching-15-SP3-2023-1811,SUSE-SLE-Product-HA-15-SP3-2023-1811,SUSE-SLE-Product-HPC-15-SP3-ESPOS-2023-1811,SUSE-SLE-Product-HPC-15-SP3-LTSS-2023-1811,SUSE-SLE-Product-RT-15-SP3-2023-1811,SUSE-SLE-Product-SLES-15-SP3-LTSS-2023-1811,SUSE-SLE-Product-SLES_SAP-15-SP3-2023-1811,SUSE-SLE-Product-SUSE-Manager-Proxy-4.2-2023-1811,SUSE-SLE-Product-SUSE-Manager-Server-4.2-2023-1811,SUSE-SUSE-MicroOS-5.1-2023-1811,SUSE-SUSE-MicroOS-5.2-2023-1811,SUSE-Storage-7.1-2023-1811,openSUSE-SLE-15.4-2023-1811",
+      "Text": "Container suse/sle-micro-rancher/5.2:latest-2023-1811,Image SLES15-SP3-Micro-5-1-BYOS-Azure-2023-1811,Image SLES15-SP3-Micro-5-1-BYOS-GCE-2023-1811,Image SLES15-SP3-Micro-5-2-BYOS-Azure-2023-1811,Image SLES15-SP3-Micro-5-2-BYOS-GCE-2023-1811,SUSE-2023-1811,SUSE-SLE-Module-Live-Patching-15-SP3-2023-1811,SUSE-SLE-Product-HA-15-SP3-2023-1811,SUSE-SLE-Product-HPC-15-SP3-ESPOS-2023-1811,SUSE-SLE-Product-HPC-15-SP3-LTSS-2023-1811,SUSE-SLE-Product-RT-15-SP3-2023-1811,SUSE-SLE-Product-SLES-15-SP3-LTSS-2023-1811,SUSE-SLE-Product-SLES_SAP-15-SP3-2023-1811,SUSE-SLE-Product-SUSE-Manager-Proxy-4.2-2023-1811,SUSE-SLE-Product-SUSE-Manager-Server-4.2-2023-1811,SUSE-SUSE-MicroOS-5.1-2023-1811,SUSE-SUSE-MicroOS-5.2-2023-1811,SUSE-Storage-7.1-2023-1811,openSUSE-SLE-15.4-2023-1811",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -41,6 +41,26 @@
       {
         "ProductReference": "kernel-default-5.3.18-150300.59.118.1",
         "RelatesToProductReference": "Container suse/sle-micro-rancher/5.2:latest",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-default-5.3.18-150300.59.118.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-1-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-default-5.3.18-150300.59.118.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-1-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-default-5.3.18-150300.59.118.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-2-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-default-5.3.18-150300.59.118.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-2-BYOS-GCE",
         "RelationType": "Default Component Of"
       },
       {
@@ -862,6 +882,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -1000,6 +1024,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -1139,6 +1167,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -1252,7 +1284,7 @@
     },
     {
       "CVE": "CVE-2023-0461",
-      "Description": "There is a use-after-free vulnerability in the Linux Kernel which can be exploited to achieve local privilege escalation. To reach the vulnerability kernel configuration flag CONFIG_TLS or CONFIG_XFRM_ESPINTCP has to be configured, but the operation does not require any privilege. There is a use-after-free bug of icsk_ulp_data of a struct inet_connection_sock. When CONFIG_TLS is enabled, user can install a tls context (struct tls_context) on a connected tcp socket. The context is not cleared if this socket is disconnected and reused as a listener. If a new socket is created from the listener, the context is inherited and vulnerable. The setsockopt TCP_ULP operation does not require any privilege. We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c",
+      "Description": "There is a use-after-free vulnerability in the Linux Kernel which can be exploited to achieve local privilege escalation. To reach the vulnerability kernel configuration flag CONFIG_TLS or CONFIG_XFRM_ESPINTCP has to be configured, but the operation does not require any privilege.\n\nThere is a use-after-free bug of icsk_ulp_data of a struct inet_connection_sock.\n\nWhen CONFIG_TLS is enabled, user can install a tls context (struct tls_context) on a connected tcp socket. The context is not cleared if this socket is disconnected and reused as a listener. If a new socket is created from the listener, the context is inherited and vulnerable.\n\nThe setsockopt TCP_ULP operation does not require any privilege.\n\nWe recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c",
       "Threats": [
         {
           "Type": "Impact",
@@ -1278,6 +1310,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -1413,6 +1449,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -1548,6 +1588,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -1687,6 +1731,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -1822,6 +1870,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -1969,6 +2021,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -2104,6 +2160,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -2243,6 +2303,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -2378,6 +2442,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -2513,6 +2581,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -2648,6 +2720,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -2787,6 +2863,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -2922,6 +3002,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -3057,6 +3141,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -3174,7 +3262,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -3185,6 +3273,10 @@
         {
           "URL": "https://bugzilla.suse.com/1209052",
           "Description": "SUSE Bug 1209052"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1211111",
+          "Description": "SUSE Bug 1211111"
         }
       ],
       "ProductStatuses": [
@@ -3192,6 +3284,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -3331,6 +3427,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",
@@ -3448,7 +3548,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -3459,6 +3559,10 @@
         {
           "URL": "https://bugzilla.suse.com/1209549",
           "Description": "SUSE Bug 1209549"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1211110",
+          "Description": "SUSE Bug 1211110"
         }
       ],
       "ProductStatuses": [
@@ -3466,6 +3570,10 @@
           "Type": "Fixed",
           "ProductID": [
             "Container suse/sle-micro-rancher/5.2:latest:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-Azure:kernel-default-5.3.18-150300.59.118.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-GCE:kernel-default-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-64kb-devel-5.3.18-150300.59.118.1",
             "SUSE Enterprise Storage 7.1:kernel-default-5.3.18-150300.59.118.1",

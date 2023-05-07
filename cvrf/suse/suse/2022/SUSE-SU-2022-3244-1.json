@@ -409,27 +409,12 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAP",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAP",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "samba-client-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAP",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAP",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAP",
         "RelationType": "Default Component Of"
       },
@@ -599,27 +584,12 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAP-EC2",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAP-EC2",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "samba-client-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAP-EC2",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAP-EC2",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAP-EC2",
         "RelationType": "Default Component Of"
       },
@@ -789,27 +759,12 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "samba-client-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
         "RelationType": "Default Component Of"
       },
@@ -859,27 +814,12 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-EC2",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-EC2",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "samba-client-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-EC2",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-EC2",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-EC2",
         "RelationType": "Default Component Of"
       },
@@ -1335,11 +1275,8 @@
             "Image SLES15-SP4-SAP-BYOS:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-BYOS:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-EC2:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAP-EC2:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-EC2:samba-client-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAP-EC2:samba-client-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-EC2:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAP-EC2:samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-EC2:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-GCE:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-GCE:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
@@ -1373,11 +1310,8 @@
             "Image SLES15-SP4-SAP-Hardened:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-Hardened:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAP:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP:samba-client-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAP:samba-client-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAP:samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-Azure:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-Azure:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
@@ -1387,11 +1321,8 @@
             "Image SLES15-SP4-SAPCAL-Azure:samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-Azure:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-EC2:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAPCAL-EC2:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-EC2:samba-client-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAPCAL-EC2:samba-client-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-EC2:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAPCAL-EC2:samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-EC2:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-GCE:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-GCE:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
@@ -1401,11 +1332,8 @@
             "Image SLES15-SP4-SAPCAL-GCE:samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-GCE:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAPCAL:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL:samba-client-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAPCAL:samba-client-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAPCAL:samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
@@ -1594,11 +1522,8 @@
             "Image SLES15-SP4-SAP-BYOS:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-BYOS:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-EC2:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAP-EC2:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-EC2:samba-client-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAP-EC2:samba-client-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-EC2:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAP-EC2:samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-EC2:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-GCE:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-GCE:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
@@ -1632,11 +1557,8 @@
             "Image SLES15-SP4-SAP-Hardened:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP-Hardened:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAP:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP:samba-client-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAP:samba-client-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAP:samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAP:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-Azure:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-Azure:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
@@ -1646,11 +1568,8 @@
             "Image SLES15-SP4-SAPCAL-Azure:samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-Azure:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-EC2:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAPCAL-EC2:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-EC2:samba-client-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAPCAL-EC2:samba-client-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-EC2:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAPCAL-EC2:samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-EC2:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-GCE:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-GCE:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
@@ -1660,11 +1579,8 @@
             "Image SLES15-SP4-SAPCAL-GCE:samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL-GCE:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL:samba-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAPCAL:samba-client-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL:samba-client-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAPCAL:samba-client-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
-            "Image SLES15-SP4-SAPCAL:samba-libs-32bit-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4-SAPCAL:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4:samba-client-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",
             "Image SLES15-SP4:samba-libs-4.15.8+git.527.8d0c05d313e-150400.3.14.1",

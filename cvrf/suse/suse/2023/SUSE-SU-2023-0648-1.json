@@ -31,13 +31,23 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "SUSE-2023-648,SUSE-SLE-Module-Public-Cloud-12-2023-648",
+      "Text": "Image SLES12-SP5-EC2-BYOS-2023-648,Image SLES12-SP5-EC2-SAP-BYOS-2023-648,SUSE-2023-648,SUSE-SLE-Module-Public-Cloud-12-2023-648",
       "Title": "Patchnames",
       "Type": "Details"
     }
   ],
   "ProductTree": {
     "Relationships": [
+      {
+        "ProductReference": "python-rsa-3.1.4-12.19.2",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python-rsa-3.1.4-12.19.2",
+        "RelatesToProductReference": "Image SLES12-SP5-EC2-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
       {
         "ProductReference": "python-rsa-3.1.4-12.19.2",
         "RelatesToProductReference": "SUSE Linux Enterprise Module for Public Cloud 12",
@@ -91,6 +101,8 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-EC2-BYOS:python-rsa-3.1.4-12.19.2",
+            "Image SLES12-SP5-EC2-SAP-BYOS:python-rsa-3.1.4-12.19.2",
             "SUSE Linux Enterprise Module for Public Cloud 12:python-rsa-3.1.4-12.19.2"
           ]
         }

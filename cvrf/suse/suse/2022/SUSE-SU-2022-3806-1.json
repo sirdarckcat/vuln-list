@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Container bci/bci-init:15.5-2022-3806,Container bci/bci-init:latest-2022-3806,Container rancher/elemental-builder-image/5.3:latest-2022-3806,Container rancher/elemental-iso/5.3:latest-2022-3806,Container rancher/elemental-teal/5.3:latest-2022-3806,Container suse/manager/4.3/proxy-httpd:latest-2022-3806,Container suse/pcp:latest-2022-3806,Container suse/postgres:12-2022-3806,Container suse/postgres:13-2022-3806,Container suse/postgres:14-2022-3806,Container suse/postgres:latest-2022-3806,Container suse/sle-micro-rancher/5.3:latest-2022-3806,Container suse/sle-micro-rancher/5.4:latest-2022-3806,Container suse/sle-micro/5.3/toolbox:latest-2022-3806,Container suse/sle-micro/5.4/toolbox:latest-2022-3806,Container suse/sles/15.5/cdi-importer:1.55.0-2022-3806,Container suse/sles/15.5/libguestfs-tools:0.58.0-2022-3806,Container suse/sles/15.5/virt-handler:0.58.0-2022-3806,Container suse/sles/15.5/virt-launcher:0.58.0-2022-3806,Image SLES15-SP4-2022-3806,Image SLES15-SP4-Azure-Basic-2022-3806,Image SLES15-SP4-Azure-Standard-2022-3806,Image SLES15-SP4-BYOS-2022-3806,Image SLES15-SP4-BYOS-Azure-2022-3806,Image SLES15-SP4-BYOS-EC2-2022-3806,Image SLES15-SP4-BYOS-GCE-2022-3806,Image SLES15-SP4-CHOST-BYOS-2022-3806,Image SLES15-SP4-CHOST-BYOS-Aliyun-2022-3806,Image SLES15-SP4-CHOST-BYOS-Azure-2022-3806,Image SLES15-SP4-CHOST-BYOS-EC2-2022-3806,Image SLES15-SP4-CHOST-BYOS-GCE-2022-3806,Image SLES15-SP4-CHOST-BYOS-SAP-CCloud-2022-3806,Image SLES15-SP4-EC2-2022-3806,Image SLES15-SP4-EC2-ECS-HVM-2022-3806,Image SLES15-SP4-GCE-2022-3806,Image SLES15-SP4-HPC-2022-3806,Image SLES15-SP4-HPC-Azure-2022-3806,Image SLES15-SP4-HPC-BYOS-2022-3806,Image SLES15-SP4-HPC-BYOS-Azure-2022-3806,Image SLES15-SP4-HPC-BYOS-EC2-2022-3806,Image SLES15-SP4-HPC-BYOS-GCE-2022-3806,Image SLES15-SP4-HPC-EC2-2022-3806,Image SLES15-SP4-HPC-GCE-2022-3806,Image SLES15-SP4-Hardened-BYOS-2022-3806,Image SLES15-SP4-Hardened-BYOS-Azure-2022-3806,Image SLES15-SP4-Hardened-BYOS-EC2-2022-3806,Image SLES15-SP4-Hardened-BYOS-GCE-2022-3806,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-2022-3806,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-Azure-2022-3806,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-EC2-2022-3806,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-GCE-2022-3806,Image SLES15-SP4-Manager-Server-4-3-BYOS-2022-3806,Image SLES15-SP4-Manager-Server-4-3-BYOS-Azure-2022-3806,Image SLES15-SP4-Manager-Server-4-3-BYOS-EC2-2022-3806,Image SLES15-SP4-Manager-Server-4-3-BYOS-GCE-2022-3806,Image SLES15-SP4-Micro-5-3-2022-3806,Image SLES15-SP4-Micro-5-3-Azure-2022-3806,Image SLES15-SP4-Micro-5-3-BYOS-2022-3806,Image SLES15-SP4-Micro-5-3-BYOS-Azure-2022-3806,Image SLES15-SP4-Micro-5-3-BYOS-EC2-2022-3806,Image SLES15-SP4-Micro-5-3-BYOS-GCE-2022-3806,Image SLES15-SP4-Micro-5-3-EC2-2022-3806,Image SLES15-SP4-Micro-5-3-GCE-2022-3806,Image SLES15-SP4-Micro-5-4-BYOS-2022-3806,Image SLES15-SP4-Micro-5-4-BYOS-Azure-2022-3806,Image SLES15-SP4-Micro-5-4-BYOS-EC2-2022-3806,Image SLES15-SP4-Micro-5-4-BYOS-GCE-2022-3806,Image SLES15-SP4-SAP-2022-3806,Image SLES15-SP4-SAP-Azure-2022-3806,Image SLES15-SP4-SAP-Azure-LI-BYOS-2022-3806,Image SLES15-SP4-SAP-Azure-LI-BYOS-Production-2022-3806,Image SLES15-SP4-SAP-Azure-VLI-BYOS-2022-3806,Image SLES15-SP4-SAP-Azure-VLI-BYOS-Production-2022-3806,Image SLES15-SP4-SAP-BYOS-2022-3806,Image SLES15-SP4-SAP-BYOS-Azure-2022-3806,Image SLES15-SP4-SAP-BYOS-EC2-2022-3806,Image SLES15-SP4-SAP-BYOS-GCE-2022-3806,Image SLES15-SP4-SAP-EC2-2022-3806,Image SLES15-SP4-SAP-GCE-2022-3806,Image SLES15-SP4-SAP-Hardened-2022-3806,Image SLES15-SP4-SAP-Hardened-Azure-2022-3806,Image SLES15-SP4-SAP-Hardened-BYOS-2022-3806,Image SLES15-SP4-SAP-Hardened-BYOS-Azure-2022-3806,Image SLES15-SP4-SAP-Hardened-BYOS-EC2-2022-3806,Image SLES15-SP4-SAP-Hardened-BYOS-GCE-2022-3806,Image SLES15-SP4-SAP-Hardened-EC2-2022-3806,Image SLES15-SP4-SAP-Hardened-GCE-2022-3806,Image SLES15-SP4-SAPCAL-2022-3806,Image SLES15-SP4-SAPCAL-Azure-2022-3806,Image SLES15-SP4-SAPCAL-EC2-2022-3806,Image SLES15-SP4-SAPCAL-GCE-2022-3806,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-2022-3806,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2-2022-3806,SUSE-2022-3806,SUSE-SLE-Micro-5.3-2022-3806,SUSE-SLE-Module-Basesystem-15-SP4-2022-3806,openSUSE-SLE-15.4-2022-3806",
+      "Text": "Container bci/bci-init:15.5-2022-3806,Container bci/bci-init:latest-2022-3806,Container rancher/elemental-builder-image/5.3:latest-2022-3806,Container rancher/elemental-iso/5.3:latest-2022-3806,Container rancher/elemental-teal/5.3:latest-2022-3806,Container suse/manager/4.3/proxy-httpd:latest-2022-3806,Container suse/pcp:latest-2022-3806,Container suse/postgres:12-2022-3806,Container suse/postgres:13-2022-3806,Container suse/postgres:14-2022-3806,Container suse/postgres:latest-2022-3806,Container suse/sle-micro-rancher/5.3:latest-2022-3806,Container suse/sle-micro-rancher/5.4:latest-2022-3806,Container suse/sle-micro/5.3/toolbox:latest-2022-3806,Container suse/sle-micro/5.4/toolbox:latest-2022-3806,Container suse/sles/15.5/cdi-importer:1.55.0-2022-3806,Container suse/sles/15.5/libguestfs-tools:0.58.0-2022-3806,Container suse/sles/15.5/virt-handler:0.58.0-2022-3806,Container suse/sles/15.5/virt-launcher:0.58.0-2022-3806,Image SLES15-SP4-2022-3806,Image SLES15-SP4-Azure-Basic-2022-3806,Image SLES15-SP4-Azure-Standard-2022-3806,Image SLES15-SP4-BYOS-2022-3806,Image SLES15-SP4-BYOS-Azure-2022-3806,Image SLES15-SP4-BYOS-EC2-2022-3806,Image SLES15-SP4-BYOS-GCE-2022-3806,Image SLES15-SP4-CHOST-BYOS-2022-3806,Image SLES15-SP4-CHOST-BYOS-Aliyun-2022-3806,Image SLES15-SP4-CHOST-BYOS-Azure-2022-3806,Image SLES15-SP4-CHOST-BYOS-EC2-2022-3806,Image SLES15-SP4-CHOST-BYOS-GCE-2022-3806,Image SLES15-SP4-CHOST-BYOS-SAP-CCloud-2022-3806,Image SLES15-SP4-EC2-2022-3806,Image SLES15-SP4-EC2-ECS-HVM-2022-3806,Image SLES15-SP4-GCE-2022-3806,Image SLES15-SP4-HPC-2022-3806,Image SLES15-SP4-HPC-Azure-2022-3806,Image SLES15-SP4-HPC-BYOS-2022-3806,Image SLES15-SP4-HPC-BYOS-Azure-2022-3806,Image SLES15-SP4-HPC-BYOS-EC2-2022-3806,Image SLES15-SP4-HPC-BYOS-GCE-2022-3806,Image SLES15-SP4-HPC-EC2-2022-3806,Image SLES15-SP4-HPC-GCE-2022-3806,Image SLES15-SP4-Hardened-BYOS-2022-3806,Image SLES15-SP4-Hardened-BYOS-Azure-2022-3806,Image SLES15-SP4-Hardened-BYOS-EC2-2022-3806,Image SLES15-SP4-Hardened-BYOS-GCE-2022-3806,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-2022-3806,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-Azure-2022-3806,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-EC2-2022-3806,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-GCE-2022-3806,Image SLES15-SP4-Manager-Server-4-3-BYOS-2022-3806,Image SLES15-SP4-Manager-Server-4-3-BYOS-Azure-2022-3806,Image SLES15-SP4-Manager-Server-4-3-BYOS-EC2-2022-3806,Image SLES15-SP4-Manager-Server-4-3-BYOS-GCE-2022-3806,Image SLES15-SP4-Micro-5-3-2022-3806,Image SLES15-SP4-Micro-5-3-Azure-2022-3806,Image SLES15-SP4-Micro-5-3-BYOS-2022-3806,Image SLES15-SP4-Micro-5-3-BYOS-Azure-2022-3806,Image SLES15-SP4-Micro-5-3-BYOS-EC2-2022-3806,Image SLES15-SP4-Micro-5-3-BYOS-GCE-2022-3806,Image SLES15-SP4-Micro-5-3-EC2-2022-3806,Image SLES15-SP4-Micro-5-3-GCE-2022-3806,Image SLES15-SP4-Micro-5-4-2022-3806,Image SLES15-SP4-Micro-5-4-Azure-2022-3806,Image SLES15-SP4-Micro-5-4-BYOS-2022-3806,Image SLES15-SP4-Micro-5-4-BYOS-Azure-2022-3806,Image SLES15-SP4-Micro-5-4-BYOS-EC2-2022-3806,Image SLES15-SP4-Micro-5-4-BYOS-GCE-2022-3806,Image SLES15-SP4-Micro-5-4-EC2-2022-3806,Image SLES15-SP4-Micro-5-4-GCE-2022-3806,Image SLES15-SP4-SAP-2022-3806,Image SLES15-SP4-SAP-Azure-2022-3806,Image SLES15-SP4-SAP-Azure-LI-BYOS-2022-3806,Image SLES15-SP4-SAP-Azure-LI-BYOS-Production-2022-3806,Image SLES15-SP4-SAP-Azure-VLI-BYOS-2022-3806,Image SLES15-SP4-SAP-Azure-VLI-BYOS-Production-2022-3806,Image SLES15-SP4-SAP-BYOS-2022-3806,Image SLES15-SP4-SAP-BYOS-Azure-2022-3806,Image SLES15-SP4-SAP-BYOS-EC2-2022-3806,Image SLES15-SP4-SAP-BYOS-GCE-2022-3806,Image SLES15-SP4-SAP-EC2-2022-3806,Image SLES15-SP4-SAP-GCE-2022-3806,Image SLES15-SP4-SAP-Hardened-2022-3806,Image SLES15-SP4-SAP-Hardened-Azure-2022-3806,Image SLES15-SP4-SAP-Hardened-BYOS-2022-3806,Image SLES15-SP4-SAP-Hardened-BYOS-Azure-2022-3806,Image SLES15-SP4-SAP-Hardened-BYOS-EC2-2022-3806,Image SLES15-SP4-SAP-Hardened-BYOS-GCE-2022-3806,Image SLES15-SP4-SAP-Hardened-EC2-2022-3806,Image SLES15-SP4-SAP-Hardened-GCE-2022-3806,Image SLES15-SP4-SAPCAL-2022-3806,Image SLES15-SP4-SAPCAL-Azure-2022-3806,Image SLES15-SP4-SAPCAL-EC2-2022-3806,Image SLES15-SP4-SAPCAL-GCE-2022-3806,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-2022-3806,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2-2022-3806,SUSE-2022-3806,SUSE-SLE-Micro-5.3-2022-3806,SUSE-SLE-Module-Basesystem-15-SP4-2022-3806,openSUSE-SLE-15.4-2022-3806",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -670,6 +670,26 @@
       },
       {
         "ProductReference": "dbus-1-1.12.2-150400.18.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-150400.18.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-150400.18.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-150400.18.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-150400.18.5.1",
         "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4-BYOS",
         "RelationType": "Default Component Of"
       },
@@ -706,6 +726,26 @@
       {
         "ProductReference": "libdbus-1-3-1.12.2-150400.18.5.1",
         "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-150400.18.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-150400.18.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-150400.18.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-150400.18.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-Micro-5-4-GCE",
         "RelationType": "Default Component Of"
       },
       {
@@ -720,11 +760,6 @@
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-150400.18.5.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAP",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-32bit-1.12.2-150400.18.5.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAP",
         "RelationType": "Default Component Of"
       },
@@ -844,11 +879,6 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libdbus-1-3-32bit-1.12.2-150400.18.5.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAP-EC2",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "dbus-1-1.12.2-150400.18.5.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAP-GCE",
         "RelationType": "Default Component Of"
@@ -964,11 +994,6 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libdbus-1-3-32bit-1.12.2-150400.18.5.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "dbus-1-1.12.2-150400.18.5.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-Azure",
         "RelationType": "Default Component Of"
@@ -1000,11 +1025,6 @@
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-150400.18.5.1",
-        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-EC2",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-32bit-1.12.2-150400.18.5.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-EC2",
         "RelationType": "Default Component Of"
       },
@@ -1315,6 +1335,8 @@
             "Image SLES15-SP4-Micro-5-3-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-3:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-3:libdbus-1-3-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-Azure:dbus-1-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-Azure:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS-Azure:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS-Azure:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS-EC2:dbus-1-1.12.2-150400.18.5.1",
@@ -1323,6 +1345,12 @@
             "Image SLES15-SP4-Micro-5-4-BYOS-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS:libdbus-1-3-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-EC2:dbus-1-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-EC2:libdbus-1-3-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-GCE:dbus-1-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4:dbus-1-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-Azure-LI-BYOS-Production:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-Azure-LI-BYOS-Production:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-Azure-LI-BYOS:dbus-1-1.12.2-150400.18.5.1",
@@ -1346,7 +1374,6 @@
             "Image SLES15-SP4-SAP-EC2:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-EC2:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-EC2:libdbus-1-3-1.12.2-150400.18.5.1",
-            "Image SLES15-SP4-SAP-EC2:libdbus-1-3-32bit-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-GCE:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-GCE:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
@@ -1370,7 +1397,6 @@
             "Image SLES15-SP4-SAP:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP:libdbus-1-3-1.12.2-150400.18.5.1",
-            "Image SLES15-SP4-SAP:libdbus-1-3-32bit-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-Azure:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-Azure:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-Azure:libdbus-1-3-1.12.2-150400.18.5.1",
@@ -1378,7 +1404,6 @@
             "Image SLES15-SP4-SAPCAL-EC2:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-EC2:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-EC2:libdbus-1-3-1.12.2-150400.18.5.1",
-            "Image SLES15-SP4-SAPCAL-EC2:libdbus-1-3-32bit-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-GCE:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-GCE:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
@@ -1386,7 +1411,6 @@
             "Image SLES15-SP4-SAPCAL:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL:libdbus-1-3-1.12.2-150400.18.5.1",
-            "Image SLES15-SP4-SAPCAL:libdbus-1-3-32bit-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS:dbus-1-1.12.2-150400.18.5.1",
@@ -1560,6 +1584,8 @@
             "Image SLES15-SP4-Micro-5-3-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-3:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-3:libdbus-1-3-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-Azure:dbus-1-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-Azure:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS-Azure:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS-Azure:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS-EC2:dbus-1-1.12.2-150400.18.5.1",
@@ -1568,6 +1594,12 @@
             "Image SLES15-SP4-Micro-5-4-BYOS-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS:libdbus-1-3-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-EC2:dbus-1-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-EC2:libdbus-1-3-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-GCE:dbus-1-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4:dbus-1-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-Azure-LI-BYOS-Production:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-Azure-LI-BYOS-Production:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-Azure-LI-BYOS:dbus-1-1.12.2-150400.18.5.1",
@@ -1591,7 +1623,6 @@
             "Image SLES15-SP4-SAP-EC2:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-EC2:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-EC2:libdbus-1-3-1.12.2-150400.18.5.1",
-            "Image SLES15-SP4-SAP-EC2:libdbus-1-3-32bit-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-GCE:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-GCE:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
@@ -1615,7 +1646,6 @@
             "Image SLES15-SP4-SAP:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP:libdbus-1-3-1.12.2-150400.18.5.1",
-            "Image SLES15-SP4-SAP:libdbus-1-3-32bit-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-Azure:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-Azure:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-Azure:libdbus-1-3-1.12.2-150400.18.5.1",
@@ -1623,7 +1653,6 @@
             "Image SLES15-SP4-SAPCAL-EC2:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-EC2:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-EC2:libdbus-1-3-1.12.2-150400.18.5.1",
-            "Image SLES15-SP4-SAPCAL-EC2:libdbus-1-3-32bit-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-GCE:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-GCE:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
@@ -1631,7 +1660,6 @@
             "Image SLES15-SP4-SAPCAL:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL:libdbus-1-3-1.12.2-150400.18.5.1",
-            "Image SLES15-SP4-SAPCAL:libdbus-1-3-32bit-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS:dbus-1-1.12.2-150400.18.5.1",
@@ -1805,6 +1833,8 @@
             "Image SLES15-SP4-Micro-5-3-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-3:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-3:libdbus-1-3-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-Azure:dbus-1-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-Azure:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS-Azure:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS-Azure:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS-EC2:dbus-1-1.12.2-150400.18.5.1",
@@ -1813,6 +1843,12 @@
             "Image SLES15-SP4-Micro-5-4-BYOS-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-Micro-5-4-BYOS:libdbus-1-3-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-EC2:dbus-1-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-EC2:libdbus-1-3-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-GCE:dbus-1-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4:dbus-1-1.12.2-150400.18.5.1",
+            "Image SLES15-SP4-Micro-5-4:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-Azure-LI-BYOS-Production:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-Azure-LI-BYOS-Production:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-Azure-LI-BYOS:dbus-1-1.12.2-150400.18.5.1",
@@ -1836,7 +1872,6 @@
             "Image SLES15-SP4-SAP-EC2:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-EC2:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-EC2:libdbus-1-3-1.12.2-150400.18.5.1",
-            "Image SLES15-SP4-SAP-EC2:libdbus-1-3-32bit-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-GCE:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-GCE:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
@@ -1860,7 +1895,6 @@
             "Image SLES15-SP4-SAP:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAP:libdbus-1-3-1.12.2-150400.18.5.1",
-            "Image SLES15-SP4-SAP:libdbus-1-3-32bit-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-Azure:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-Azure:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-Azure:libdbus-1-3-1.12.2-150400.18.5.1",
@@ -1868,7 +1902,6 @@
             "Image SLES15-SP4-SAPCAL-EC2:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-EC2:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-EC2:libdbus-1-3-1.12.2-150400.18.5.1",
-            "Image SLES15-SP4-SAPCAL-EC2:libdbus-1-3-32bit-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-GCE:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-GCE:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL-GCE:libdbus-1-3-1.12.2-150400.18.5.1",
@@ -1876,7 +1909,6 @@
             "Image SLES15-SP4-SAPCAL:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL:dbus-1-x11-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SAPCAL:libdbus-1-3-1.12.2-150400.18.5.1",
-            "Image SLES15-SP4-SAPCAL:libdbus-1-3-32bit-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2:dbus-1-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2:libdbus-1-3-1.12.2-150400.18.5.1",
             "Image SLES15-SP4-SUSE-Rancher-Setup-BYOS:dbus-1-1.12.2-150400.18.5.1",

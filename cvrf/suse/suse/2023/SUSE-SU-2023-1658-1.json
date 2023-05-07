@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Container bci/php-apache:8-2023-1658,Container suse/registry:latest-2023-1658,SUSE-2023-1658,SUSE-SLE-Module-Basesystem-15-SP4-2023-1658,SUSE-SLE-Module-Packagehub-Subpackages-15-SP4-2023-1658,SUSE-SLE-Module-Server-Applications-15-SP4-2023-1658,openSUSE-SLE-15.4-2023-1658",
+      "Text": "Container bci/php-apache:8-2023-1658,Container suse/registry:latest-2023-1658,Image SLES15-SP4-SAP-2023-1658,Image SLES15-SP4-SAP-EC2-2023-1658,Image SLES15-SP4-SAPCAL-2023-1658,Image SLES15-SP4-SAPCAL-EC2-2023-1658,SUSE-2023-1658,SUSE-SLE-Module-Basesystem-15-SP4-2023-1658,SUSE-SLE-Module-Packagehub-Subpackages-15-SP4-2023-1658,SUSE-SLE-Module-Server-Applications-15-SP4-2023-1658,openSUSE-SLE-15.4-2023-1658",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -56,6 +56,66 @@
       {
         "ProductReference": "apache2-utils-2.4.51-150400.6.11.1",
         "RelatesToProductReference": "Container suse/registry:latest",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-2.4.51-150400.6.11.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-prefork-2.4.51-150400.6.11.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-utils-2.4.51-150400.6.11.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-2.4.51-150400.6.11.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-prefork-2.4.51-150400.6.11.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-utils-2.4.51-150400.6.11.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-2.4.51-150400.6.11.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-prefork-2.4.51-150400.6.11.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-utils-2.4.51-150400.6.11.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-2.4.51-150400.6.11.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-prefork-2.4.51-150400.6.11.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-utils-2.4.51-150400.6.11.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-EC2",
         "RelationType": "Default Component Of"
       },
       {
@@ -201,6 +261,18 @@
             "Container bci/php-apache:8:apache2-prefork-2.4.51-150400.6.11.1",
             "Container bci/php-apache:8:apache2-utils-2.4.51-150400.6.11.1",
             "Container suse/registry:latest:apache2-utils-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAP-EC2:apache2-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAP-EC2:apache2-prefork-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAP-EC2:apache2-utils-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAP:apache2-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAP:apache2-prefork-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAP:apache2-utils-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAPCAL-EC2:apache2-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAPCAL-EC2:apache2-prefork-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAPCAL-EC2:apache2-utils-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAPCAL:apache2-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAPCAL:apache2-prefork-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAPCAL:apache2-utils-2.4.51-150400.6.11.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP4:apache2-2.4.51-150400.6.11.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP4:apache2-prefork-2.4.51-150400.6.11.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP4:apache2-utils-2.4.51-150400.6.11.1",
@@ -248,6 +320,18 @@
             "Container bci/php-apache:8:apache2-prefork-2.4.51-150400.6.11.1",
             "Container bci/php-apache:8:apache2-utils-2.4.51-150400.6.11.1",
             "Container suse/registry:latest:apache2-utils-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAP-EC2:apache2-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAP-EC2:apache2-prefork-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAP-EC2:apache2-utils-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAP:apache2-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAP:apache2-prefork-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAP:apache2-utils-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAPCAL-EC2:apache2-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAPCAL-EC2:apache2-prefork-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAPCAL-EC2:apache2-utils-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAPCAL:apache2-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAPCAL:apache2-prefork-2.4.51-150400.6.11.1",
+            "Image SLES15-SP4-SAPCAL:apache2-utils-2.4.51-150400.6.11.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP4:apache2-2.4.51-150400.6.11.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP4:apache2-prefork-2.4.51-150400.6.11.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP4:apache2-utils-2.4.51-150400.6.11.1",

@@ -939,7 +939,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -950,6 +950,10 @@
         {
           "URL": "https://bugzilla.suse.com/1209052",
           "Description": "SUSE Bug 1209052"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1211111",
+          "Description": "SUSE Bug 1211111"
         }
       ],
       "ProductStatuses": [
@@ -982,7 +986,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -993,6 +997,10 @@
         {
           "URL": "https://bugzilla.suse.com/1209549",
           "Description": "SUSE Bug 1209549"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1211110",
+          "Description": "SUSE Bug 1211110"
         }
       ],
       "ProductStatuses": [
