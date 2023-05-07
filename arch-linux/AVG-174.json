@@ -1,8 +1,8 @@
 {
   "name": "AVG-174",
   "packages": [
-    "vim",
-    "gvim"
+    "gvim",
+    "vim"
   ],
   "status": "Fixed",
   "severity": "Medium",
@@ -14,8 +14,6 @@
   ],
   "advisories": [
     "ASA-201702-12",
-    "ASA-201702-12",
-    "ASA-201702-13",
     "ASA-201702-13"
   ]
 }
