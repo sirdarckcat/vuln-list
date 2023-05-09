@@ -38,6 +38,9 @@
         "Url": "https://www.github.com/tauri-apps/tauri/commit/fa90214b052b1a5d38d54fbf1ca422b4c37cfd1f"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2023-31134"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-4wm2-cwcf-wwvp"
       }
     ],
@@ -56,7 +59,7 @@
     "PublishedAt": "2023-05-03T21:57:22Z",
     "Severity": "MODERATE",
     "Summary": "Tauri Open Redirect Vulnerability Possibly Exposes IPC to External Sites",
-    "UpdatedAt": "2023-05-03T21:57:23Z",
+    "UpdatedAt": "2023-05-09T16:22:54Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.8,

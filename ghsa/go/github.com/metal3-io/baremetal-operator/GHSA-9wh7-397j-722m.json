@@ -38,7 +38,7 @@
     "PublishedAt": "2023-04-26T19:46:00Z",
     "Severity": "MODERATE",
     "Summary": "Ironic and ironic-inspector may expose as ConfigMaps",
-    "UpdatedAt": "2023-04-26T22:13:09Z",
+    "UpdatedAt": "2023-05-09T16:22:54Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6,

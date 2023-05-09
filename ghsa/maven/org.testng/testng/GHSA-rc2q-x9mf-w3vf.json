@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2023-05-01T20:10:57Z",
+  "UpdatedAt": "2023-05-09T17:53:33Z",
   "Package": {
     "Ecosystem": "MAVEN",
     "Name": "org.testng:testng"
@@ -35,6 +35,12 @@
         "Url": "https://vuldb.com/?ctiid.214027"
       },
       {
+        "Url": "https://github.com/testng-team/testng/pull/2899"
+      },
+      {
+        "Url": "https://github.com/testng-team/testng/releases/tag/7.5.1"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-rc2q-x9mf-w3vf"
       }
     ],
@@ -48,12 +54,12 @@
         "Value": "CVE-2022-4065"
       }
     ],
-    "Description": "### Impact\n\nAffected by this vulnerability is the function `testngXmlExistsInJar` of the file `testng-core/src/main/java/org/testng/JarFileUtils.java` of the component `XML File Parser`.\n\nThe manipulation leads to path traversal only for `.xml`, `.yaml` and `.yml` files by default. The attack implies running an unsafe test JAR. However since that JAR can also contain executable code itself, the path traversal is unlikely to be the main attack.\n\n### Patches\n\nA patch is available in [version 7.7.0](https://github.com/cbeust/testng/releases/tag/7.7.0) at commit 9150736cd2c123a6a3b60e6193630859f9f0422b. It is recommended to apply a patch to fix this issue. The patch was pushed into the master branch but no releases have yet been made with the patch included.\n\n### Workaround\n\n* Specify which tests to run when invoking TestNG by configuring them on the CLI or in the build tool controlling the run.\n* Do not run tests with untrusted JARs on the classpath, this includes pull requests on open source projects.",
+    "Description": "### Impact\n\nAffected by this vulnerability is the function `testngXmlExistsInJar` of the file `testng-core/src/main/java/org/testng/JarFileUtils.java` of the component `XML File Parser`.\n\nThe manipulation leads to path traversal only for `.xml`, `.yaml` and `.yml` files by default. The attack implies running an unsafe test JAR. However since that JAR can also contain executable code itself, the path traversal is unlikely to be the main attack.\n\n### Patches\n\nA patch is available in [version 7.7.0](https://github.com/cbeust/testng/releases/tag/7.7.0) at commit 9150736cd2c123a6a3b60e6193630859f9f0422b. It is recommended to apply a patch to fix this issue. The patch was pushed into the master branch but no releases have yet been made with the patch included.\n\nA backport of the fix is available in [version 7.5.1]((https://github.com/cbeust/testng/releases/tag/7.5.1) for Java 8 projects.\n\n### Workaround\n\n* Specify which tests to run when invoking TestNG by configuring them on the CLI or in the build tool controlling the run.\n* Do not run tests with untrusted JARs on the classpath, this includes pull requests on open source projects.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2022-11-19T21:30:25Z",
     "Severity": "HIGH",
     "Summary": "TestNG is vulnerable to Path Traversal",
-    "UpdatedAt": "2023-05-01T20:10:57Z",
+    "UpdatedAt": "2023-05-09T17:53:33Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.8,
@@ -65,7 +71,13 @@
       "FirstPatchedVersion": {
         "Identifier": "7.7.0"
       },
-      "VulnerableVersionRange": "\u003e= 6.13, \u003c 7.7.0"
+      "VulnerableVersionRange": "\u003e= 7.6.0, \u003c 7.7.0"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.5.1"
+      },
+      "VulnerableVersionRange": "\u003e= 6.13, \u003c 7.5.1"
     }
   ]
 }
