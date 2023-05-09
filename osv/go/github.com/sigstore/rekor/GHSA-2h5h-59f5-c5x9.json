@@ -1,6 +1,6 @@
 {
   "id": "GHSA-2h5h-59f5-c5x9",
-  "modified": "2023-05-03T21:56:23Z",
+  "modified": "2023-05-09T16:40:11Z",
   "published": "2023-05-03T21:56:23Z",
   "aliases": [
     "CVE-2023-30551"
@@ -36,6 +36,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/sigstore/rekor/security/advisories/GHSA-2h5h-59f5-c5x9"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-30551"
     },
     {
       "type": "WEB",
