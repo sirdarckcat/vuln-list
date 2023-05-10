@@ -98,6 +98,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package python2 is earlier than  2.7.18-13, affected by CVE-2018-25032",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:26116000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:26116001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:26116002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package protobuf-c is earlier than 1.3.2-2, affected by CVE-2022-48468",
       "ID": "oval:com.microsoft.cbl-mariner:tst:26115000",
       "Version": "1",
@@ -130,6 +142,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:26089002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package ccache is earlier than 3.6-3, affected by CVE-2018-25032",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:26087000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:26087001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:26087002"
       }
     },
     {
