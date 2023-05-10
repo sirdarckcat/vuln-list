@@ -1,5 +1,5 @@
 {
-  "Severity": "HIGH",
+  "Severity": "MODERATE",
   "UpdatedAt": "2023-05-02T23:13:23Z",
   "Package": {
     "Ecosystem": "COMPOSER",
@@ -33,13 +33,13 @@
     "Description": "RosarioSIS 10.8.4 is vulnerable to CSV injection via the Periods Module.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-02T18:30:20Z",
-    "Severity": "HIGH",
+    "Severity": "MODERATE",
     "Summary": "RosarioSIS vulnerable to CSV Injection",
-    "UpdatedAt": "2023-05-02T23:13:23Z",
+    "UpdatedAt": "2023-05-10T00:34:44Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 5.4,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [

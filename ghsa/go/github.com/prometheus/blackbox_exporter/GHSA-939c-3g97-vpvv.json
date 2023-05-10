@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-04-26T15:56:46Z",
   "Package": {
     "Ecosystem": "GO",
@@ -48,13 +48,13 @@
     "Description": "blackbox_exporter v0.23.0 was discovered to contain an access control issue in its probe interface. This vulnerability allows attackers to detect intranet ports and services, as well as download resources.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-04-26T00:30:21Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "Access control issues in blackbox_exporter",
-    "UpdatedAt": "2023-04-28T20:05:20Z",
+    "UpdatedAt": "2023-05-09T20:30:36Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
     }
   },
   "Versions": [

@@ -44,11 +44,11 @@
     "PublishedAt": "2022-08-06T09:33:38Z",
     "Severity": "HIGH",
     "Summary": "Drupal core arbitrary PHP code execution",
-    "UpdatedAt": "2023-04-26T16:58:13Z",
+    "UpdatedAt": "2023-05-10T00:36:31Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.2,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

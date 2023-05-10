@@ -17,6 +17,15 @@
         "Url": "https://github.com/xwiki/xwiki-platform/commit/28905f7f518cc6f21ea61fe37e9e1ed97ef36f01"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2023-32071"
+      },
+      {
+        "Url": "https://app.intigriti.com/company/submissions/e95a7ad5-7029-4627-abf0-3e3e3ea0b4ce/XWIKI-E93DFEYK"
+      },
+      {
+        "Url": "https://jira.xwiki.org/browse/XWIKI-20340"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-j9h5-vcgv-2jfm"
       }
     ],
@@ -35,7 +44,7 @@
     "PublishedAt": "2023-05-09T17:46:22Z",
     "Severity": "CRITICAL",
     "Summary": "XWiki Platform vulnerable to RXSS via editor parameter - importinline template",
-    "UpdatedAt": "2023-05-09T17:46:23Z",
+    "UpdatedAt": "2023-05-09T18:44:14Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9,

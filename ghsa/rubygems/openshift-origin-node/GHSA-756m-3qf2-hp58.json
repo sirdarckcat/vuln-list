@@ -26,6 +26,9 @@
         "Url": "https://bugzilla.redhat.com/show_bug.cgi?id=1065198"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/openshift-origin-node/CVE-2014-0084.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-756m-3qf2-hp58"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2022-05-17T19:57:04Z",
     "Severity": "MODERATE",
     "Summary": "openshift-origin-node Improper Input Validation vulnerability",
-    "UpdatedAt": "2023-02-08T19:59:03Z",
+    "UpdatedAt": "2023-05-10T00:35:29Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.5,

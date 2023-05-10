@@ -41,11 +41,11 @@
     "PublishedAt": "2023-05-04T03:30:22Z",
     "Severity": "MODERATE",
     "Summary": "Stored cross site scripting in Microbin",
-    "UpdatedAt": "2023-05-05T02:22:41Z",
+    "UpdatedAt": "2023-05-09T18:48:42Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 5.4,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [
