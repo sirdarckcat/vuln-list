@@ -36,12 +36,12 @@
         "Value": "CVE-2023-2327"
       }
     ],
-    "Description": "### Impact\nThis vulnerability has the potential to steal a user's cookie and gain unauthorized access to that user's account through the stolen cookie or redirect users to other malicious sites.\n\n### Patches\nUpdate to version 10.5.21 or apply this patch manually https://github.com/pimcore/pimcore/commit/fb3056a21d439135480ee299bf1ab646867b5f4f.patch\n\n### Workarounds\nApply patch https://github.com/pimcore/pimcore/commit/fb3056a21d439135480ee299bf1ab646867b5f4f.patch manually.\n\n### References\nhttps://huntr.dev/bounties/7336b71f-a36f-4ce7-a26d-c8335ac713d6/",
+    "Description": "### Impact\nThis vulnerability has the potential to steal a user's cookie and gain unauthorized access to that user's account through the stolen cookie or redirect users to other malicious sites.\n\n### Patches\nUpdate to version 10.5.21 or apply this patch manually https://github.com/pimcore/pimcore/commit/fb3056a21d439135480ee299bf1ab646867b5f4f.patch\n\n### Workarounds\nApply patch https://github.com/pimcore/pimcore/commit/fb3056a21d439135480ee299bf1ab646867b5f4f.patch manually.\n\n### References\nhttps://huntr.dev/bounties/7336b71f-a36f-4ce7-a26d-c8335ac713d6/\n",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-04-27T19:37:24Z",
     "Severity": "MODERATE",
-    "Summary": "Cross-site Scripting (XSS) in DataObject Class date fields",
-    "UpdatedAt": "2023-04-27T19:37:27Z",
+    "Summary": "Cross-site Scripting (XSS) in pimcore via DataObject Class date fields",
+    "UpdatedAt": "2023-05-10T00:43:02Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4,

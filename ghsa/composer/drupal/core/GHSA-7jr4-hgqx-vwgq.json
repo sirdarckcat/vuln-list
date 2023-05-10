@@ -35,11 +35,11 @@
     "PublishedAt": "2023-04-26T15:30:21Z",
     "Severity": "MODERATE",
     "Summary": "Access bypass in Drupal core",
-    "UpdatedAt": "2023-04-26T19:14:42Z",
+    "UpdatedAt": "2023-05-10T00:37:35Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 5.4,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N"
     }
   },
   "Versions": [

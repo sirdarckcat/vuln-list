@@ -36,12 +36,12 @@
         "Value": "CVE-2023-2361"
       }
     ],
-    "Description": "### Impact\nAn attacker can use XSS to send a malicious script to any user.\n\n### Patches\nUpdate to version 10.5.21 or apply this patch manually https://github.com/pimcore/pimcore/commit/6970649f5d3790a1db9ef4324bece0d4cb95366a.patch\n\n### Workarounds\nApply patch https://github.com/pimcore/pimcore/commit/6970649f5d3790a1db9ef4324bece0d4cb95366a.patch manually.\n\n\n### References\nhttps://huntr.dev/bounties/24d91b83-c3df-48f5-a713-9def733f2de7/\n",
+    "Description": "### Impact\nAn attacker can use XSS to send a malicious script to any user.\n\n### Patches\nUpdate to version 10.5.21 or apply this patch manually https://github.com/pimcore/pimcore/commit/6970649f5d3790a1db9ef4324bece0d4cb95366a.patch\n\n### Workarounds\nApply patch https://github.com/pimcore/pimcore/commit/6970649f5d3790a1db9ef4324bece0d4cb95366a.patch manually.\n\n### References\nhttps://huntr.dev/bounties/24d91b83-c3df-48f5-a713-9def733f2de7/\n",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-01T13:43:38Z",
     "Severity": "MODERATE",
     "Summary": "Cross-site Scripting (XSS) in pimcore",
-    "UpdatedAt": "2023-05-05T08:13:33Z",
+    "UpdatedAt": "2023-05-10T00:40:40Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.4,
