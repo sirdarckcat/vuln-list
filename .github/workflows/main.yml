@@ -25,14 +25,20 @@ jobs:
         run: |
           git remote update
           git push
-      # - name: Obtain RedHat CVEs
-      #   run: |
-      #     jq '(.|select(.package_state[].package_name=="kernel")|{cve:.name,references:(.references|map(.|split("\n"))),commits:(.references|map(capture("(?<commit>[0-9a-f]{40})";"gi")|.commit))})' redhat/*/CVE-* 2>/dev/null | jq -s . > redhat_kernel.json
       - name: Obtain Ubuntu CVEs
         run: |
           jq '.|select(.Patches.linux)|{cve:.Candidate,references:.References,commits:(.References|map(capture("(?<commit>[0-9a-f]{40})")|.commit)|unique_by(.))}' ubuntu/*/CVE-* | jq -s . > ubuntu_kernel.json
+      - name: Obtain RedHat CVEs
+        run: |
+          wget https://github.com/aquasecurity/vuln-list-redhat/archive/refs/heads/main.zip
+          unzip main.zip -d redhat
+          rm main.zip
+          jq '(.|select(.package_state[].package_name=="kernel")|{cve:.name,references:(.references|map(.|split("\n"))),commits:(.references|map(capture("(?<commit>[0-9a-f]{40})";"gi")|.commit))})' redhat/*/CVE-* 2>/dev/null | jq -s . > redhat_kernel.json
       - name: Obtain NVD CVEs
         run: |
+          rm -rf nvd
+          wget https://github.com/aquasecurity/vuln-list-debian/archive/refs/heads/main.zip
+          unzip main.zip -d nvd
           jq '{cve:.cve.CVE_data_meta.ID,references:(.cve.references.reference_data|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))' $(grep -ril kernel nvd) | jq -s . > nvd_kernel.json
       - name: Obtain nluedtke CVEs
         run: |
