@@ -29,7 +29,7 @@ jobs:
           git push
       - name: Obtain Ubuntu CVEs
         run: |
-          jq '.|select(.Patches.linux)|{cve:.Candidate,references:.References,commits:(.References|map(capture("(?<commit>[0-9a-f]{40})")|.commit)|unique_by(.))}' ubuntu/*/CVE-* | jq -s . > ubuntu_kernel.json
+          jq '.|select(.Patches.linux)|{cve:.Candidate,references:.References,commits:(.References|map(capture("(?<commit>\b[0-9a-f]{40}\b)")|.commit)|unique_by(.))}' ubuntu/*/CVE-* | jq -s . > ubuntu_kernel.json
       - name: Obtain RedHat CVEs
         run: |
           wget https://github.com/aquasecurity/vuln-list-redhat/archive/refs/heads/main.zip
