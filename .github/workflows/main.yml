@@ -31,15 +31,15 @@ jobs:
       - name: Obtain RedHat CVEs
         run: |
           wget https://github.com/aquasecurity/vuln-list-redhat/archive/refs/heads/main.zip
-          unzip main.zip -d redhat
+          unzip main.zip
           rm main.zip
-          jq '(.|select(.package_state[].package_name=="kernel")|{cve:.name,references:(.references|map(.|split("\n"))),commits:(.references|map(capture("(?<commit>[0-9a-f]{40})";"gi")|.commit))})' redhat/*/CVE-* 2>/dev/null | jq -s . > redhat_kernel.json
+          jq '(.|select(.package_state[].package_name=="kernel")|{cve:.name,references:(.references|map(.|split("\n"))),commits:(.references|map(capture("(?<commit>[0-9a-f]{40})";"gi")|.commit))})' vuln-list-redhat-main/*/CVE-* 2>/dev/null | jq -s . > redhat_kernel.json
       - name: Obtain NVD CVEs
         run: |
-          rm -rf nvd
-          wget https://github.com/aquasecurity/vuln-list-debian/archive/refs/heads/main.zip
-          unzip main.zip -d nvd
-          jq '{cve:.cve.CVE_data_meta.ID,references:(.cve.references.reference_data|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))' $(grep -ril kernel nvd) | jq -s . > nvd_kernel.json
+          wget https://github.com/aquasecurity/vuln-list-nvd/archive/refs/heads/main.zip
+          unzip main.zip
+          rm main.zip
+          jq '{cve:.cve.CVE_data_meta.ID,references:(.cve.references.reference_data|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))' $(grep -ril kernel vuln-list-nvd-main) | jq -s . > nvd_kernel.json
       - name: Obtain nluedtke CVEs
         run: |
           wget https://github.com/nluedtke/linux_kernel_cves/raw/master/data/CVEs.txt
@@ -49,7 +49,7 @@ jobs:
           jq -r '.[]|.cve as $cve|.commits[]|[$cve, .]' *_kernel.json | jq -sr '([["cve","commit"]]+unique_by(.))|.[]|@csv' > cve.csv
       - uses: 'google-github-actions/auth@v0'
         with:
-          workload_identity_provider: 'projects/799795028847/locations/global/workloadIdentityPools/github-pool/providers/github-provider'
+          workload_identity_provider: 'projects/799795028847/locations/global/workloadIdentityPools/github-pool/providers/github-provider-new'
           service_account: 'github@sdcpocs.iam.gserviceaccount.com'
 
       - uses: 'google-github-actions/upload-cloud-storage@v0'
