@@ -46,6 +46,9 @@ jobs:
         run: |
           wget https://github.com/nluedtke/linux_kernel_cves/raw/master/data/CVEs.txt
           jq --slurp --raw-input '.|split("\n")|map(split(": ")|{cve:.[0],commits:(.[1]|select(.)|split(" - ")|(.[1]|select(.)|split(" "))[0:1]|select(.[0]|test("[0-9a-f]{40}")))})' CVEs.txt > nluedtke_kernel.json
+      - name: Obtain kernelCTF CVEs
+        run: |
+          curl -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS1REdTA29OJftst8xN5B5x8iIUcxuK6bXdzF8G1UXCmRtoNsoQ9MbebdRdFnj6qZ0Yd7LwQfvYC2oF/pub?gid=2095368189&single=true&output=tsv' | jq --slurp --raw-input '. | split("\n") | map(split("\t")|(.[6] | scan("[0-9a-f]{40,}")) as $commit | .[8] | scan("CVE-[0-9]+-[0-9]+") | ({cve:., commits: [$commit]})) | unique_by(.)' > kernelctf_kernel.json
       - name: Merge CVEs
         run: |
           jq -r '.[]|.cve as $cve|.commits[]|[$cve, .]' *_kernel.json | jq -sr '([["cve","commit"]]+unique_by(.))|.[]|@csv' > cve.csv
