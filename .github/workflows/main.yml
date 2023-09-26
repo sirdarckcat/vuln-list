@@ -23,7 +23,8 @@ jobs:
 
       - name: Update mirror
         run: |
-          git remote update
+          git fetch upstream
+          git merge upstream/main
           git push
       - name: Obtain Ubuntu CVEs
         run: |
