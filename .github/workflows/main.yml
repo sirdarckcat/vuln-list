@@ -1,0 +1,54 @@
+name: Sync
+
+on:
+  schedule:
+    - cron: '57/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: 'write'
+      id-token: 'write'
+
+    env:
+      BUCKET_NAME: linux-mirror-db
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: main
+
+      - name: Update mirror
+        run: |
+          git remote update
+          git push
+      # - name: Obtain RedHat CVEs
+      #   run: |
+      #     jq '(.|select(.package_state[].package_name=="kernel")|{cve:.name,references:(.references|map(.|split("\n"))),commits:(.references|map(capture("(?<commit>[0-9a-f]{40})";"gi")|.commit))})' redhat/*/CVE-* 2>/dev/null | jq -s . > redhat_kernel.json
+      - name: Obtain Ubuntu CVEs
+        run: |
+          jq '.|select(.Patches.linux)|{cve:.Candidate,references:.References,commits:(.References|map(capture("(?<commit>[0-9a-f]{40})")|.commit)|unique_by(.))}' ubuntu/*/CVE-* | jq -s . > ubuntu_kernel.json
+      - name: Obtain NVD CVEs
+        run: |
+          jq '{cve:.cve.CVE_data_meta.ID,references:(.cve.references.reference_data|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))' $(grep -ril kernel nvd) | jq -s . > nvd_kernel.json
+      - name: Obtain nluedtke CVEs
+        run: |
+          wget https://github.com/nluedtke/linux_kernel_cves/raw/master/data/CVEs.txt
+          jq --slurp --raw-input '.|split("\n")|map(split(": ")|{cve:.[0],commits:(.[1]|select(.)|split(" - ")|(.[1]|select(.)|split(" "))[0:1]|select(.[0]|test("[0-9a-f]{40}")))})' CVEs.txt > nluedtke_kernel.json
+      - name: Merge CVEs
+        run: |
+          jq -r '.[]|.cve as $cve|.commits[]|[$cve, .]' *_kernel.json | jq -sr '([["cve","commit"]]+unique_by(.))|.[]|@csv' > cve.csv
+      - uses: 'google-github-actions/auth@v0'
+        with:
+          workload_identity_provider: 'projects/799795028847/locations/global/workloadIdentityPools/github-pool/providers/github-provider'
+          service_account: 'github@sdcpocs.iam.gserviceaccount.com'
+
+      - uses: 'google-github-actions/upload-cloud-storage@v0'
+        with:
+          destination: '${{ env.BUCKET_NAME }}/'
+          path: ./cve.csv
+          headers: |-
+            cache-control: no-cache
