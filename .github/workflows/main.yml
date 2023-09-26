@@ -23,6 +23,7 @@ jobs:
 
       - name: Update mirror
         run: |
+          git remote add upstream https://github.com/aquasecurity/vuln-list.git
           git fetch upstream
           git merge upstream/main
           git push
