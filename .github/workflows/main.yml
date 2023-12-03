@@ -26,7 +26,7 @@ jobs:
           git config --global user.name gha
           git remote add upstream https://github.com/aquasecurity/vuln-list.git
           git fetch upstream
-          git merge --allow-unrelated-histories upstream/main
+          git merge --allow-unrelated-histories -Xtheirs upstream/main
           git push
       - name: Obtain Ubuntu CVEs
         run: |
