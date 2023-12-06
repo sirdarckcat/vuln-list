@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2022-06-30T16:23:28Z",
+  "UpdatedAt": "2023-12-06T15:05:51Z",
   "Package": {
     "Ecosystem": "MAVEN",
     "Name": "org.jenkins-ci.plugins:ssh-credentials"
@@ -23,6 +23,9 @@
         "Url": "https://github.com/jenkinsci/ssh-credentials-plugin/commits/ssh-credentials-1.14"
       },
       {
+        "Url": "https://github.com/jenkinsci/credentials-plugin/commit/23fbd6de33cc3cb74eafd44e7b27dd87b52c8904"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-cwcf-5m5w-mq2w"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2022-05-14T03:07:03Z",
     "Severity": "MODERATE",
     "Summary": "Exposure of Sensitive Information to an Unauthorized Actor in Jenkins SSH Credentials Plugin",
-    "UpdatedAt": "2023-01-27T05:02:38Z",
+    "UpdatedAt": "2023-12-06T15:05:51Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,

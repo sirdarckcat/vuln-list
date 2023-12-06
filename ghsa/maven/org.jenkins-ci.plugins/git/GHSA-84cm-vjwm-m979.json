@@ -23,6 +23,12 @@
         "Url": "https://github.com/jenkinsci/git-plugin/commit/b295606e0b865c298fde27bea14f9b7535a976e6"
       },
       {
+        "Url": "https://github.com/jenkinsci/mercurial-plugin/commit/55904fbb8c9d3e0b36fc26330374904cb68e8758"
+      },
+      {
+        "Url": "https://github.com/jenkinsci/repo-plugin/commit/3c8e6236b1088fc138a1a3e6af5ebbcb8b616f2f"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-84cm-vjwm-m979"
       }
     ],
@@ -40,8 +46,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2022-05-18T00:00:39Z",
     "Severity": "HIGH",
-    "Summary": "Path traversal in Jenkins Git Plugin",
-    "UpdatedAt": "2023-10-27T17:19:31Z",
+    "Summary": "Path traversal in Jenkins Git Mercurial and Repo Plugins",
+    "UpdatedAt": "2023-12-06T15:20:48Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
