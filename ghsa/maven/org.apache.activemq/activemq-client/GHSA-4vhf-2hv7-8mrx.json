@@ -1,6 +1,6 @@
 {
   "Severity": "CRITICAL",
-  "UpdatedAt": "2022-07-07T22:38:49Z",
+  "UpdatedAt": "2023-12-20T19:11:57Z",
   "Package": {
     "Ecosystem": "MAVEN",
     "Name": "org.apache.activemq:activemq-client"
@@ -29,6 +29,9 @@
         "Url": "http://seclists.org/oss-sec/2015/q1/427"
       },
       {
+        "Url": "https://github.com/apache/activemq/commit/3e5ac6326db59f524a0e71f6b717428607d7b67d"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-4vhf-2hv7-8mrx"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2022-05-14T01:14:52Z",
     "Severity": "CRITICAL",
     "Summary": "Improper Restriction of XML External Entity Reference in Apache ActiveMQ",
-    "UpdatedAt": "2023-01-27T05:02:36Z",
+    "UpdatedAt": "2023-12-20T19:11:57Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,
