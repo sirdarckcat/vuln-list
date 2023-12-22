@@ -32,6 +32,15 @@
         "Url": "https://security.netapp.com/advisory/ntap-20231103-0007/"
       },
       {
+        "Url": "https://github.com/apache/tomcat/commit/59583245639d8c42ae0009f4a4a70464d3ea70a0"
+      },
+      {
+        "Url": "https://github.com/apache/tomcat/commit/8ecff306507be8e4fd3adee1ae5de1ea6661a8f4"
+      },
+      {
+        "Url": "https://github.com/apache/tomcat/commit/eb5c094e5560764cda436362254997511a3ca1f6"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-r6j3-px5g-cq3x"
       }
     ],
@@ -50,7 +59,7 @@
     "PublishedAt": "2023-10-10T21:31:12Z",
     "Severity": "MODERATE",
     "Summary": "Apache Tomcat Improper Input Validation vulnerability",
-    "UpdatedAt": "2023-11-04T06:34:06Z",
+    "UpdatedAt": "2023-12-21T22:00:37Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.3,
