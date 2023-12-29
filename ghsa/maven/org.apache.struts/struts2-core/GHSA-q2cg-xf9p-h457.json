@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2022-11-03T21:10:05Z",
+  "UpdatedAt": "2023-12-28T19:21:52Z",
   "Package": {
     "Ecosystem": "MAVEN",
     "Name": "org.apache.struts:struts2-core"
@@ -15,6 +15,9 @@
       },
       {
         "Url": "https://struts.apache.org/docs/s2-024.html"
+      },
+      {
+        "Url": "https://github.com/apache/struts/commit/d832747d647df343ed07a58b1b5e540a05a4d51b"
       },
       {
         "Url": "https://github.com/advisories/GHSA-q2cg-xf9p-h457"
@@ -35,7 +38,7 @@
     "PublishedAt": "2022-05-17T00:50:08Z",
     "Severity": "HIGH",
     "Summary": "Incomplete exclude pattern in Apache Struts",
-    "UpdatedAt": "2023-02-01T05:04:27Z",
+    "UpdatedAt": "2023-12-28T19:21:52Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
@@ -47,7 +50,7 @@
       "FirstPatchedVersion": {
         "Identifier": "2.3.20.1"
       },
-      "VulnerableVersionRange": "\u003c 2.3.20.1"
+      "VulnerableVersionRange": "\u003e= 2.0.0, \u003c 2.3.20.1"
     }
   ]
 }
