@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2024-7",
-  "modified": "2024-01-21T20:41:31.464534Z",
+  "modified": "2024-01-22T21:41:39.147283Z",
   "published": "2024-01-21T17:15:00Z",
   "aliases": [
-    "CVE-2024-23731"
+    "CVE-2024-23731",
+    "GHSA-rhhj-5436-95vf"
   ],
   "details": "The OpenAPI loader in Embedchain before 0.1.57 allows attackers to execute arbitrary code, related to the openapi.py yaml.load function argument.",
   "affected": [
