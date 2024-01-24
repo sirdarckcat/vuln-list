@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2024-12",
-  "modified": "2024-01-23T02:26:47.331591Z",
+  "modified": "2024-01-23T20:26:22.550551Z",
   "published": "2024-01-22T01:15:00Z",
   "aliases": [
-    "CVE-2024-23751"
+    "CVE-2024-23751",
+    "GHSA-2jxw-4hm4-6w87"
   ],
   "details": "LlamaIndex (aka llama_index) through 0.9.34 allows SQL injection via the Text-to-SQL feature in NLSQLTableQueryEngine, SQLTableRetrieverQueryEngine, NLSQLRetriever, RetrieverQueryEngine, and PGVectorSQLQueryEngine. For example, an attacker might be able to delete this year's student records via \"Drop the Students table\" within English language input.",
   "affected": [
