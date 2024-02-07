@@ -1,10 +1,11 @@
 {
   "id": "GHSA-5r3q-93q3-f978",
-  "modified": "2023-12-21T08:11:21.277090Z",
+  "modified": "2024-02-06T22:41:28.305198Z",
   "published": "2023-12-20T06:30:25Z",
   "aliases": [
     "BIT-mlflow-2023-6909",
-    "CVE-2023-6909"
+    "CVE-2023-6909",
+    "PYSEC-2023-252"
   ],
   "summary": "MLflow Path Traversal Vulnerability",
   "details": "Path Traversal: '\\..\\filename' in GitHub repository mlflow/mlflow prior to 2.9.2.",
