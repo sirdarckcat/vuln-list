@@ -1,7 +1,7 @@
 {
   "name": "sqlpad",
   "secfixes": {
-    "0": [
+    "7.4.1-r1": [
       "CVE-2023-42282",
       "GHSA-78xj-cgh5-2h22"
     ]
