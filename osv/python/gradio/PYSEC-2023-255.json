@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2023-255",
-  "modified": "2024-02-28T16:56:37.238965Z",
+  "modified": "2024-02-28T19:26:26.212484Z",
   "published": "2023-12-14T14:15:00Z",
   "aliases": [
-    "CVE-2023-6572"
+    "CVE-2023-6572",
+    "GHSA-gqvf-3hgp-5hxv"
   ],
   "details": "Command Injection in GitHub repository gradio-app/gradio prior to main.",
   "affected": [
