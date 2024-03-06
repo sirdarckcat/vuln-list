@@ -20,6 +20,12 @@
         "Url": "https://stackblitz.com/edit/angularjs-vulnerability-ng-srcset-redos"
       },
       {
+        "Url": "https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSBOWER-6241746"
+      },
+      {
+        "Url": "https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-6241747"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-4w4v-5hc9-xrr2"
       }
     ],
@@ -38,7 +44,7 @@
     "PublishedAt": "2024-02-10T06:30:19Z",
     "Severity": "HIGH",
     "Summary": "angular vulnerable to super-linear runtime due to backtracking",
-    "UpdatedAt": "2024-02-13T15:08:22Z",
+    "UpdatedAt": "2024-03-06T16:03:40Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
