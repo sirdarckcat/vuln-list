@@ -4,6 +4,9 @@
     "0": [
       "CVE-2021-25743",
       "GHSA-f9jg-8p32-2f55"
+    ],
+    "2.9.6-r1": [
+      "GHSA-c5q2-7r4c-mv6g"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
