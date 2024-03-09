@@ -1,0 +1,15 @@
+{
+  "name": "policy-controller-fips",
+  "secfixes": {
+    "0.8.4-r2": [
+      "GHSA-c5q2-7r4c-mv6g"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
