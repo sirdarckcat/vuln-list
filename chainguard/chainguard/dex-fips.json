@@ -1,11 +1,7 @@
 {
-  "name": "ko-fips",
+  "name": "dex-fips",
   "secfixes": {
-    "0.15.1-r3": [
-      "CVE-2023-48795",
-      "GHSA-45x7-px36-x8w8"
-    ],
-    "0.15.1-r5": [
+    "2.38.0-r2": [
       "GHSA-c5q2-7r4c-mv6g"
     ]
   },
