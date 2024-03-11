@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2023-02-22T00:12:08Z",
+  "UpdatedAt": "2024-03-11T17:42:22Z",
   "Package": {
     "Ecosystem": "MAVEN",
     "Name": "commons-fileupload:commons-fileupload"
@@ -35,6 +35,30 @@
         "Url": "https://www.debian.org/security/2023/dsa-5522"
       },
       {
+        "Url": "https://github.com/apache/tomcat/commit/8a2285f13affa961cc65595aad999db5efae45ce"
+      },
+      {
+        "Url": "https://github.com/apache/tomcat/commit/9ca96c8c1eba86c0aaa2e6be581ba2a7d4d4ae6e"
+      },
+      {
+        "Url": "https://github.com/apache/tomcat/commit/cf77cc545de0488fb89e24294151504a7432df74"
+      },
+      {
+        "Url": "https://github.com/apache/tomcat/commit/d53d8e7f77042cc32a3b98f589496a1ef5088e38"
+      },
+      {
+        "Url": "https://tomcat.apache.org/security-10.html"
+      },
+      {
+        "Url": "https://tomcat.apache.org/security-11.html"
+      },
+      {
+        "Url": "https://tomcat.apache.org/security-8.html"
+      },
+      {
+        "Url": "https://tomcat.apache.org/security-9.html"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-hfrx-6qgj-fp6c"
       }
     ],
@@ -53,7 +77,7 @@
     "PublishedAt": "2023-02-20T18:30:17Z",
     "Severity": "HIGH",
     "Summary": "Apache Commons FileUpload denial of service vulnerability",
-    "UpdatedAt": "2023-10-13T19:45:09Z",
+    "UpdatedAt": "2024-03-11T17:42:22Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
