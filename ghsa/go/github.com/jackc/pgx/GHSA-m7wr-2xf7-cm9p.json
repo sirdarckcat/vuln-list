@@ -35,7 +35,7 @@
     "PublishedAt": "2024-03-04T20:13:11Z",
     "Severity": "MODERATE",
     "Summary": "pgx SQL Injection via Line Comment Creation",
-    "UpdatedAt": "2024-03-04T20:13:12Z",
+    "UpdatedAt": "2024-03-12T15:15:00Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
