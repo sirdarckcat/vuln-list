@@ -1,0 +1,16 @@
+{
+  "name": "telegraf-1.30",
+  "secfixes": {
+    "1.30.0-r2": [
+      "CVE-2024-27289",
+      "GHSA-m7wr-2xf7-cm9p"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.wolfi.dev",
+  "reponame": "os"
+}
