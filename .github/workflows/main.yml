@@ -43,7 +43,7 @@ jobs:
           wget https://github.com/aquasecurity/vuln-list-nvd/archive/refs/heads/main.zip
           unzip main.zip
           rm main.zip
-          jq '{cve:.cve.CVE_data_meta.ID,references:(.cve.references.reference_data|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))' $(grep -ril kernel vuln-list-nvd-main) | jq -s . > nvd_kernel.json
+          jq '{cve:.id,references:(.references|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))' $(grep -ril kernel vuln-list-nvd-main/api) | jq -s . >> nvd_kernel.json
       - name: Obtain nluedtke CVEs
         run: |
           wget https://github.com/nluedtke/linux_kernel_cves/raw/master/data/CVEs.txt
