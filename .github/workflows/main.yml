@@ -49,7 +49,7 @@ jobs:
           wget -nv https://github.com/CVEProject/cvelistV5/archive/refs/heads/main.zip
           unzip main.zip
           rm main.zip
-          (echo cvelistV5-main/cves/*/*/*.json | xargs -n 1 jq '(.|select(.cveMetadata.assignerShortName=="Linux"))|{cve:.cveMetadata.cveId,references:(.containers.cna.references|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))') | jq -s . >> mitre_kernel.json
+          jq '(.|select(.cveMetadata.assignerShortName=="Linux"))|{cve:.cveMetadata.cveId,references:(.containers.cna.references|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))' $(grep -ril Linux cvelistV5-main/cves) | jq -s . > mitre_kernel.json
       - name: Obtain nluedtke CVEs
         run: |
           wget -nv https://github.com/nluedtke/linux_kernel_cves/raw/master/data/CVEs.txt
