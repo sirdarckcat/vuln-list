@@ -34,19 +34,25 @@ jobs:
           jq '.|select(.Patches.linux)|{cve:.Candidate,references:.References,commits:(.References|map(capture("(?<commit>\b[0-9a-f]{40}\b)")|.commit)|unique_by(.))}' ubuntu/*/CVE-* | jq -s . > ubuntu_kernel.json
       - name: Obtain RedHat CVEs
         run: |
-          wget https://github.com/aquasecurity/vuln-list-redhat/archive/refs/heads/main.zip
+          wget -nv https://github.com/aquasecurity/vuln-list-redhat/archive/refs/heads/main.zip
           unzip main.zip
           rm main.zip
           jq '(.|select(.package_state[].package_name=="kernel")|{cve:.name,references:(.references|map(.|split("\n"))),commits:(.references|map(capture("(?<commit>[0-9a-f]{40})";"gi")|.commit))})' vuln-list-redhat-main/*/CVE-* 2>/dev/null | jq -s . > redhat_kernel.json
       - name: Obtain NVD CVEs
         run: |
-          wget https://github.com/aquasecurity/vuln-list-nvd/archive/refs/heads/main.zip
+          wget -nv https://github.com/aquasecurity/vuln-list-nvd/archive/refs/heads/main.zip
           unzip main.zip
           rm main.zip
           jq '{cve:.id,references:(.references|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))' $(grep -ril kernel vuln-list-nvd-main/api) | jq -s . >> nvd_kernel.json
+      - name: Obtain MITRE CVEs
+        run: |
+          wget -nv https://github.com/CVEProject/cvelistV5/archive/refs/heads/main.zip
+          unzip main.zip
+          rm main.zip
+          (echo cvelistV5-main/cves/*/*/*.json | xargs -n 1 jq '(.|select(.cveMetadata.assignerShortName=="Linux"))|{cve:.cveMetadata.cveId,references:(.containers.cna.references|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))') | jq -s . >> mitre_kernel.json
       - name: Obtain nluedtke CVEs
         run: |
-          wget https://github.com/nluedtke/linux_kernel_cves/raw/master/data/CVEs.txt
+          wget -nv https://github.com/nluedtke/linux_kernel_cves/raw/master/data/CVEs.txt
           jq --slurp --raw-input '.|split("\n")|map(split(": ")|{cve:.[0],commits:(.[1]|select(.)|split(" - ")|(.[1]|select(.)|split(" "))[0:1]|select(.[0]|test("[0-9a-f]{40}")))})' CVEs.txt > nluedtke_kernel.json
       - name: Obtain kernelCTF CVEs
         run: |
