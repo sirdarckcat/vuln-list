@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2009-9",
-  "modified": "2023-11-08T03:56:52.844893Z",
+  "modified": "2024-04-01T20:11:37.258525Z",
   "published": "2009-08-07T19:30:00Z",
   "aliases": [
-    "CVE-2009-0669"
+    "CVE-2009-0669",
+    "GHSA-5432-c996-hvhj"
   ],
   "details": "Zope Object Database (ZODB) before 3.8.2, when certain Zope Enterprise Objects (ZEO) database sharing is enabled, allows remote attackers to bypass authentication via vectors involving the ZEO network protocol.",
   "affected": [
