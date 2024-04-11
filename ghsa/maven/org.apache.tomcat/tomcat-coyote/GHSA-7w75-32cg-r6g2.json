@@ -1,9 +1,9 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2024-03-15T16:27:57Z",
+  "UpdatedAt": "2024-04-11T16:14:14Z",
   "Package": {
     "Ecosystem": "MAVEN",
-    "Name": "org.apache.tomcat.embed:tomcat-embed-core"
+    "Name": "org.apache.tomcat:tomcat-coyote"
   },
   "Advisory": {
     "DatabaseId": 237464,
@@ -63,15 +63,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "11.0.0-M17"
+        "Identifier": "8.5.99"
       },
-      "VulnerableVersionRange": "\u003e= 11.0.0-M1, \u003c= 11.0.0-M16"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "10.1.19"
-      },
-      "VulnerableVersionRange": "\u003e= 10.1.0-M1, \u003c= 10.1.18"
+      "VulnerableVersionRange": "\u003e= 8.5.0, \u003c= 8.5.98"
     },
     {
       "FirstPatchedVersion": {
@@ -81,9 +75,15 @@
     },
     {
       "FirstPatchedVersion": {
-        "Identifier": "8.5.99"
+        "Identifier": "10.1.19"
       },
-      "VulnerableVersionRange": "\u003e= 8.5.0, \u003c= 8.5.98"
+      "VulnerableVersionRange": "\u003e= 10.1.0-M1, \u003c= 10.1.18"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "11.0.0-M17"
+      },
+      "VulnerableVersionRange": "\u003e= 11.0.0-M1, \u003c= 11.0.0-M16"
     }
   ]
 }
