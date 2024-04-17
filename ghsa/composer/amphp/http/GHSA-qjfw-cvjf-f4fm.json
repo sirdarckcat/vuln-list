@@ -29,6 +29,12 @@
         "Url": "https://www.kb.cert.org/vuls/id/421644"
       },
       {
+        "Url": "https://github.com/FriendsOfPHP/security-advisories/blob/master/amphp/http-client/CVE-2024-2653.yaml"
+      },
+      {
+        "Url": "https://github.com/FriendsOfPHP/security-advisories/blob/master/amphp/http/CVE-2024-2653.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-qjfw-cvjf-f4fm"
       }
     ],
@@ -47,7 +53,7 @@
     "PublishedAt": "2024-04-03T18:06:45Z",
     "Severity": "HIGH",
     "Summary": "AMPHP Denial of Service via HTTP/2 CONTINUATION Frames",
-    "UpdatedAt": "2024-04-03T18:54:55Z",
+    "UpdatedAt": "2024-04-17T17:05:44Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.2,
