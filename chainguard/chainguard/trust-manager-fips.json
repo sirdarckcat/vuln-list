@@ -1,7 +1,7 @@
 {
-  "name": "kyverno-fips",
+  "name": "trust-manager-fips",
   "secfixes": {
-    "1.11.4-r5": [
+    "0.9.2-r3": [
       "CVE-2023-45288",
       "GHSA-4v7x-pqxf-cx7m"
     ]

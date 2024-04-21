@@ -1,7 +1,7 @@
 {
-  "name": "kyverno-fips",
+  "name": "harbor-registry-fips",
   "secfixes": {
-    "1.11.4-r5": [
+    "3.0.0_alpha1-r3": [
       "CVE-2023-45288",
       "GHSA-4v7x-pqxf-cx7m"
     ]
