@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2014-98",
-  "modified": "2023-11-08T03:57:36.223442Z",
+  "modified": "2024-05-01T11:11:29.643507Z",
   "published": "2014-04-30T23:58:00Z",
   "aliases": [
-    "CVE-2014-2260"
+    "CVE-2014-2260",
+    "GHSA-9crx-p357-5vw8"
   ],
   "details": "Cross-site scripting (XSS) vulnerability in plugins/main/content/js/ajenti.coffee in Eugene Pankov Ajenti 1.2.13 allows remote authenticated users to inject arbitrary web script or HTML via the command field in the Cron functionality.",
   "affected": [

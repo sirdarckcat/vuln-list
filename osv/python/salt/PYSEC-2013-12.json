@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2013-12",
-  "modified": "2023-11-08T03:57:23.029997Z",
+  "modified": "2024-05-01T11:41:45.281474Z",
   "published": "2013-11-05T18:55:00Z",
   "aliases": [
-    "CVE-2013-4435"
+    "CVE-2013-4435",
+    "GHSA-v89f-4mc4-h6w9"
   ],
   "details": "Salt (aka SaltStack) 0.15.0 through 0.17.0 allows remote authenticated users who are using external authentication or client ACL to execute restricted routines by embedding the routine in another routine.",
   "affected": [

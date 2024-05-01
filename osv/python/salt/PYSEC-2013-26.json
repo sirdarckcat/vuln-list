@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2013-26",
-  "modified": "2023-11-08T03:57:23.091768Z",
+  "modified": "2024-05-01T11:41:33.131860Z",
   "published": "2013-11-05T18:55:00Z",
   "aliases": [
-    "CVE-2013-4436"
+    "CVE-2013-4436",
+    "GHSA-f22j-37jj-cxw9"
   ],
   "details": "The default configuration for salt-ssh in Salt (aka SaltStack) 0.17.0 does not validate the SSH host key of requests, which allows remote attackers to have unspecified impact via a man-in-the-middle (MITM) attack.",
   "affected": [
