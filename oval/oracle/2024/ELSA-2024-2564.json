@@ -1,19 +1,19 @@
 {
-  "Title": "ELSA-2024-2559:  python-jwcrypto security update (MODERATE)",
-  "Description": "[0.8-5]\n- Address potential DoS with high compression ratio\n  Resolves: RHEL-28698",
+  "Title": "ELSA-2024-2564:  mod_http2 security update (MODERATE)",
+  "Description": "[2.0.26-2]\n- Resolves: RHEL-31855 - mod_http2: httpd: CONTINUATION frames\n  DoS (CVE-2024-27316)\n\n[2.0.26-1]\n- Resolves: RHEL-14691 - mod_http2 rebase to 2.0.26",
   "Platform": [
     "Oracle Linux 9"
   ],
   "References": [
     {
       "Source": "elsa",
-      "URI": "https://linux.oracle.com/errata/ELSA-2024-2559.html",
-      "ID": "ELSA-2024-2559"
+      "URI": "https://linux.oracle.com/errata/ELSA-2024-2564.html",
+      "ID": "ELSA-2024-2564"
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-28102.html",
-      "ID": "CVE-2024-28102"
+      "URI": "https://linux.oracle.com/cve/CVE-2024-27316.html",
+      "ID": "CVE-2024-27316"
     }
   ],
   "Criteria": {
@@ -30,10 +30,10 @@
                 "Criterias": null,
                 "Criterions": [
                   {
-                    "Comment": "python3-jwcrypto is earlier than 0:0.8-5.el9_4"
+                    "Comment": "mod_http2 is earlier than 0:2.0.26-2.el9_4"
                   },
                   {
-                    "Comment": "python3-jwcrypto is signed with the Oracle Linux 9 key"
+                    "Comment": "mod_http2 is signed with the Oracle Linux 9 key"
                   }
                 ]
               }
@@ -52,10 +52,10 @@
                 "Criterias": null,
                 "Criterions": [
                   {
-                    "Comment": "python3-jwcrypto is earlier than 0:0.8-5.el9_4"
+                    "Comment": "mod_http2 is earlier than 0:2.0.26-2.el9_4"
                   },
                   {
-                    "Comment": "python3-jwcrypto is signed with the Oracle Linux 9 key"
+                    "Comment": "mod_http2 is signed with the Oracle Linux 9 key"
                   }
                 ]
               }
@@ -80,8 +80,8 @@
   "Cves": [
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-28102.html",
-      "ID": "CVE-2024-28102"
+      "Href": "https://linux.oracle.com/cve/CVE-2024-27316.html",
+      "ID": "CVE-2024-27316"
     }
   ],
   "Issued": {
