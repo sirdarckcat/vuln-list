@@ -1,0 +1,26 @@
+{
+  "name": "etcd-3.4",
+  "secfixes": {
+    "3.4.30-r1": [
+      "CVE-2024-24786",
+      "GHSA-8r3f-844c-mc37"
+    ],
+    "3.4.31-r1": [
+      "CVE-2023-45288",
+      "GHSA-4v7x-pqxf-cx7m"
+    ],
+    "3.4.32-r1": [
+      "CVE-2024-24787",
+      "GHSA-5fq7-4mxc-535h",
+      "CVE-2024-24788",
+      "GHSA-2jwv-jmq4-4j3r"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
