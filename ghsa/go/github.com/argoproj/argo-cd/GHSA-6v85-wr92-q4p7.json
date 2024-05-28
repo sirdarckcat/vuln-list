@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2024-03-18T20:28:43Z",
+  "UpdatedAt": "2024-05-28T17:58:36Z",
   "Package": {
     "Ecosystem": "GO",
     "Name": "github.com/argoproj/argo-cd"
@@ -47,7 +47,7 @@
     "PublishedAt": "2024-03-18T20:28:42Z",
     "Severity": "HIGH",
     "Summary": "Denial of Service (DoS) Vulnerability Due to Unsafe Array Modification in Multi-threaded Environment",
-    "UpdatedAt": "2024-03-28T05:01:06Z",
+    "UpdatedAt": "2024-05-28T17:58:37Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
@@ -57,21 +57,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "2.10.4"
+        "Identifier": ""
       },
-      "VulnerableVersionRange": "\u003e= 2.10.0, \u003c 2.10.4"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.9.9"
-      },
-      "VulnerableVersionRange": "\u003e= 2.9.0, \u003c 2.9.9"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.8.13"
-      },
-      "VulnerableVersionRange": "\u003c 2.8.13"
+      "VulnerableVersionRange": "\u003c= 1.8.7"
     }
   ]
 }
