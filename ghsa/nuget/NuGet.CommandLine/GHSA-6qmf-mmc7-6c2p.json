@@ -90,6 +90,42 @@
         "Identifier": "6.2.4"
       },
       "VulnerableVersionRange": "\u003e= 6.2.0, \u003c 6.2.4"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "6.6.1"
+      },
+      "VulnerableVersionRange": "= 6.6.0"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "6.0.5"
+      },
+      "VulnerableVersionRange": "\u003e= 6.0.0, \u003c 6.0.5"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "6.5.1"
+      },
+      "VulnerableVersionRange": "= 6.5.0"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "6.4.2"
+      },
+      "VulnerableVersionRange": "\u003e= 6.4.0, \u003c 6.4.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "6.3.3"
+      },
+      "VulnerableVersionRange": "\u003e= 6.3.0, \u003c 6.3.3"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "6.2.4"
+      },
+      "VulnerableVersionRange": "\u003e= 6.2.0, \u003c 6.2.4"
     }
   ]
 }

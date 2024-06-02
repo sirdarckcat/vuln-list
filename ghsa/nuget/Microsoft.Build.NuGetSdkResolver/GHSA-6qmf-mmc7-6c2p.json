@@ -66,6 +66,24 @@
         "Identifier": ""
       },
       "VulnerableVersionRange": "= 5.9.0-rc.7122"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": ""
+      },
+      "VulnerableVersionRange": "= 5.11.0-rc.10"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": ""
+      },
+      "VulnerableVersionRange": "= 5.10.0-rc.7240"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": ""
+      },
+      "VulnerableVersionRange": "= 5.9.0-rc.7122"
     }
   ]
 }
