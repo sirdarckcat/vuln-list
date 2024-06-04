@@ -1,15 +1,11 @@
 {
-  "name": "libarchive",
+  "name": "neuvector-agent",
   "secfixes": {
-    "3.6.1-r2": [
-      "CVE-2022-36227",
-      "GHSA-gpgf-w78r-4pvj"
-    ],
-    "3.7.4-r0": [
-      "CVE-2024-20697",
-      "CVE-2024-26256",
-      "GHSA-2jc9-36w4-pmqw",
-      "GHSA-w6xv-37jv-7cjr"
+    "5.3.2-r1": [
+      "CVE-2023-44487",
+      "GHSA-7ww5-4wqc-m92c",
+      "GHSA-m425-mq94-257g",
+      "GHSA-qppj-fm5r-hxr3"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
