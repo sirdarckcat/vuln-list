@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2024-03-05T20:54:15Z",
+  "UpdatedAt": "2024-06-10T12:32:57Z",
   "Package": {
     "Ecosystem": "RUST",
     "Name": "deno_runtime"
@@ -41,7 +41,7 @@
     "PublishedAt": "2024-03-05T20:54:14Z",
     "Severity": "HIGH",
     "Summary": "Deno's deno_runtime vulnerable to interactive permission prompt spoofing via improper ANSI stripping",
-    "UpdatedAt": "2024-03-21T18:29:23Z",
+    "UpdatedAt": "2024-06-10T12:32:57Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.8,
@@ -51,9 +51,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "1.41"
+        "Identifier": "0.147.0"
       },
-      "VulnerableVersionRange": "\u003e= 1.32.1, \u003c 1.41"
+      "VulnerableVersionRange": "\u003e= 0.103.0, \u003c 0.147.0"
     }
   ]
 }
