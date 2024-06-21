@@ -1,7 +1,10 @@
 {
   "id": "GHSA-85rg-8m6h-825p",
-  "modified": "2024-06-13T19:39:11Z",
+  "modified": "2024-06-20T18:42:38.322540Z",
   "published": "2024-06-13T19:39:11Z",
+  "aliases": [
+    "GO-2024-2923"
+  ],
   "summary": "Vulnerabilities with the k8sGPT",
   "details": "### Summary\nBunch of vulnerabilities found in k8sGPT.  Fixed in release https://github.com/k8sgpt-ai/k8sgpt/releases/tag/v0.3.33",
   "affected": [
