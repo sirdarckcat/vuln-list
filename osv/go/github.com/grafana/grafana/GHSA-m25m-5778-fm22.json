@@ -1,10 +1,11 @@
 {
   "id": "GHSA-m25m-5778-fm22",
-  "modified": "2024-02-01T22:13:50.914586Z",
+  "modified": "2024-07-02T19:57:16.008180Z",
   "published": "2022-05-24T17:16:52Z",
   "aliases": [
     "BIT-grafana-2020-12459",
-    "CVE-2020-12459"
+    "CVE-2020-12459",
+    "GO-2024-2519"
   ],
   "summary": "Grafana world readable configuration files",
   "details": "In certain Red Hat packages for Grafana 6.x through 6.3.6, the configuration files `/etc/grafana/grafana.ini` and `/etc/grafana/ldap.toml` (which contain a secret_key and a bind_password) are world readable.",
