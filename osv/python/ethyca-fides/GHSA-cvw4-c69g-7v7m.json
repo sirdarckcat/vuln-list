@@ -1,6 +1,6 @@
 {
   "id": "GHSA-cvw4-c69g-7v7m",
-  "modified": "2024-07-02T21:42:22.446112Z",
+  "modified": "2024-07-05T21:33:36.099596Z",
   "published": "2024-07-02T21:20:07Z",
   "aliases": [
     "CVE-2024-38537"
@@ -368,12 +368,28 @@
       "url": "https://github.com/ethyca/fides/security/advisories/GHSA-cvw4-c69g-7v7m"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-38537"
+    },
+    {
       "type": "WEB",
       "url": "https://github.com/ethyca/fides/pull/5026"
     },
     {
+      "type": "WEB",
+      "url": "https://github.com/ethyca/fides/commit/868c4d629760572192bd61db34f5a4458ed12005"
+    },
+    {
+      "type": "WEB",
+      "url": "https://fetch.spec.whatwg.org"
+    },
+    {
       "type": "PACKAGE",
       "url": "https://github.com/ethyca/fides"
+    },
+    {
+      "type": "WEB",
+      "url": "https://sansec.io/research/polyfill-supply-chain-attack"
     }
   ]
 }
