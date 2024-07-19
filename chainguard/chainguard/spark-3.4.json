@@ -1,9 +1,11 @@
 {
   "name": "spark-3.4",
   "secfixes": {
-    "0": [
-      "CVE-2019-10172",
-      "GHSA-r6j9-8759-g62w"
+    "3.4.3-r2": [
+      "CVE-2019-10202",
+      "CVE-2022-46337",
+      "GHSA-c27h-mcmw-48hv",
+      "GHSA-rcjc-c4pj-xxrp"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
