@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2019-01-17T13:55:54Z",
+  "UpdatedAt": "2024-08-01T21:03:21Z",
   "Package": {
     "Ecosystem": "NPM",
     "Name": "bootstrap"
@@ -44,9 +44,6 @@
         "Url": "https://access.redhat.com/errata/RHSA-2020:0133"
       },
       {
-        "Url": "https://blog.getbootstrap.com/2018/12/13/bootstrap-3-4-0/"
-      },
-      {
         "Url": "https://lists.apache.org/thread.html/52e0e6b5df827ee7f1e68f7cc3babe61af3b2160f5d74a85469b7b0e@%3Cdev.superset.apache.org%3E"
       },
       {
@@ -54,6 +51,9 @@
       },
       {
         "Url": "https://github.com/twbs/bootstrap/commit/2a5ba23ce8f041f3548317acc992ed8a736b609d"
+      },
+      {
+        "Url": "https://blog.getbootstrap.com/2018/12/13/bootstrap-3-4-0"
       },
       {
         "Url": "https://github.com/advisories/GHSA-ph58-4vrj-w6hr"
@@ -74,7 +74,7 @@
     "PublishedAt": "2019-01-17T13:57:56Z",
     "Severity": "MODERATE",
     "Summary": "bootstrap Cross-site Scripting vulnerability",
-    "UpdatedAt": "2023-04-13T18:24:59Z",
+    "UpdatedAt": "2024-08-01T21:03:21Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,
