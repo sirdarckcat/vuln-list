@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2021-04-22T23:22:12Z",
+  "UpdatedAt": "2024-08-02T19:10:46Z",
   "Package": {
     "Ecosystem": "NPM",
     "Name": "bootstrap-select"
@@ -47,7 +47,7 @@
     "PublishedAt": "2021-05-07T16:47:54Z",
     "Severity": "MODERATE",
     "Summary": "Cross-site scripting in bootstrap-select",
-    "UpdatedAt": "2023-02-01T05:05:38Z",
+    "UpdatedAt": "2024-08-02T19:10:46Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,
