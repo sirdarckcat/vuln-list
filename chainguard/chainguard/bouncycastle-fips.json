@@ -1,7 +1,7 @@
 {
   "name": "bouncycastle-fips",
   "secfixes": {
-    "1.0.2.5-r1": [
+    "2.0.0-r0": [
       "CVE-2024-29857",
       "GHSA-8xfc-gm6g-vgpv"
     ]
