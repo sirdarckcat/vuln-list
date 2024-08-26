@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2019-04-30T15:15:20Z",
+  "UpdatedAt": "2024-08-26T16:17:21Z",
   "Package": {
     "Ecosystem": "PIP",
     "Name": "tensorflow"
@@ -15,6 +15,9 @@
       },
       {
         "Url": "https://github.com/tensorflow/tensorflow/blob/master/tensorflow/security/advisory/tfsa-2018-005.md"
+      },
+      {
+        "Url": "https://github.com/tensorflow/tensorflow/commit/dfa9921e6343727b05f42f8d4a918b19528ff994"
       },
       {
         "Url": "https://github.com/advisories/GHSA-qx2v-j445-g354"
@@ -35,7 +38,7 @@
     "PublishedAt": "2019-04-30T15:37:34Z",
     "Severity": "HIGH",
     "Summary": "Improper Input Validation in Google TensorFlow",
-    "UpdatedAt": "2023-02-01T05:01:42Z",
+    "UpdatedAt": "2024-08-26T16:17:21Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.1,

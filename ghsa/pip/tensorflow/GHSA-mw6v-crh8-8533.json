@@ -38,7 +38,7 @@
     "PublishedAt": "2019-04-30T15:36:41Z",
     "Severity": "CRITICAL",
     "Summary": "Integer Overflow or Wraparound in Google TensorFlow",
-    "UpdatedAt": "2023-09-01T20:02:21Z",
+    "UpdatedAt": "2024-08-26T16:04:50Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,

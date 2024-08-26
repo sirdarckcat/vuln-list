@@ -1,6 +1,6 @@
 {
   "Severity": "CRITICAL",
-  "UpdatedAt": "2019-10-14T20:13:48Z",
+  "UpdatedAt": "2024-08-26T15:52:59Z",
   "Package": {
     "Ecosystem": "NPM",
     "Name": "swagger-ui"
@@ -47,6 +47,12 @@
         "Url": "https://www.oracle.com/security-alerts/cpujul2022.html"
       },
       {
+        "Url": "https://github.com/springfox/springfox/commit/26f72f0d16b166e12c20255a4ee907dc10685cf8"
+      },
+      {
+        "Url": "https://security.snyk.io/vuln/maven?search=CVE-2019-17495"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-c427-hjc3-wrfw"
       }
     ],
@@ -65,7 +71,7 @@
     "PublishedAt": "2019-10-15T19:27:05Z",
     "Severity": "CRITICAL",
     "Summary": "Cross-site scripting in Swagger-UI",
-    "UpdatedAt": "2023-01-27T05:01:59Z",
+    "UpdatedAt": "2024-08-26T15:52:59Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,
