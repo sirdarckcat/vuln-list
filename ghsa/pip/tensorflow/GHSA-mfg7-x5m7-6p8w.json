@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2019-04-30T15:16:26Z",
+  "UpdatedAt": "2024-08-26T19:04:37Z",
   "Package": {
     "Ecosystem": "PIP",
     "Name": "tensorflow"
@@ -17,6 +17,9 @@
         "Url": "https://github.com/tensorflow/tensorflow/blob/master/tensorflow/security/advisory/tfsa-2019-001.md"
       },
       {
+        "Url": "https://github.com/tensorflow/tensorflow/commit/e41cb124cd0b325821af85cdacd9d8a12e206418"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-mfg7-x5m7-6p8w"
       }
     ],
@@ -30,12 +33,12 @@
         "Value": "CVE-2019-9635"
       }
     ],
-    "Description": "NULL pointer dereference in Google TensorFlow before 1.12.2 could cause a denial of service via an invalid GIF file.",
+    "Description": "NULL pointer dereference in Google TensorFlow before 1.12.1 could cause a denial of service via an invalid GIF file.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2019-04-30T15:37:17Z",
     "Severity": "MODERATE",
     "Summary": "NULL Pointer Dereference in Google TensorFlow",
-    "UpdatedAt": "2023-02-01T05:01:37Z",
+    "UpdatedAt": "2024-08-26T19:04:37Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,
