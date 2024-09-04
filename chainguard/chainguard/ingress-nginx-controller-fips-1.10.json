@@ -1,0 +1,16 @@
+{
+  "name": "ingress-nginx-controller-fips-1.10",
+  "secfixes": {
+    "1.10.4-r1": [
+      "CVE-2024-45310",
+      "GHSA-jfvp-7x6p-h2pv"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
