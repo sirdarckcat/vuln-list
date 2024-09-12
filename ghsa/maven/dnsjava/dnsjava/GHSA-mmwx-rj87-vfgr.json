@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2024-07-22T14:47:01Z",
+  "UpdatedAt": "2024-09-12T17:35:41Z",
   "Package": {
     "Ecosystem": "MAVEN",
     "Name": "dnsjava:dnsjava"
@@ -37,7 +37,7 @@
     "PublishedAt": "2024-07-22T14:46:59Z",
     "Severity": "MODERATE",
     "Summary": "DNSJava affected by KeyTrap - NSEC3 closest encloser proof can exhaust CPU resources",
-    "UpdatedAt": "2024-09-04T14:27:35Z",
+    "UpdatedAt": "2024-09-12T17:35:41Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,
@@ -49,7 +49,7 @@
       "FirstPatchedVersion": {
         "Identifier": "3.6.0"
       },
-      "VulnerableVersionRange": "\u003c 3.6.0"
+      "VulnerableVersionRange": "\u003e= 3.5.0, \u003c 3.6.0"
     }
   ]
 }
