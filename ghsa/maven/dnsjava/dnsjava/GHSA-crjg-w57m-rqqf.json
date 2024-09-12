@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2024-07-22T17:30:20Z",
+  "UpdatedAt": "2024-09-11T21:02:22Z",
   "Package": {
     "Ecosystem": "MAVEN",
     "Name": "dnsjava:dnsjava"
@@ -40,7 +40,7 @@
     "PublishedAt": "2024-07-22T17:30:19Z",
     "Severity": "MODERATE",
     "Summary": "DNSJava vulnerable to KeyTrap - Denial-of-Service Algorithmic Complexity Attacks",
-    "UpdatedAt": "2024-09-04T14:29:12Z",
+    "UpdatedAt": "2024-09-11T21:02:22Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,
@@ -52,7 +52,7 @@
       "FirstPatchedVersion": {
         "Identifier": "3.6.0"
       },
-      "VulnerableVersionRange": "\u003c 3.6.0"
+      "VulnerableVersionRange": "\u003e= 3.5.0, \u003c 3.6.0"
     }
   ]
 }
