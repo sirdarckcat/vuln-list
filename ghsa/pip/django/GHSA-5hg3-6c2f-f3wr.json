@@ -42,6 +42,9 @@
       },
       {
         "Url": "https://www.djangoproject.com/weblog/2018/aug/01/security-releases"
+      },
+      {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/django/PYSEC-2018-2.yaml"
       }
     ],
     "Identifiers": [
@@ -59,7 +62,7 @@
     "PublishedAt": "2018-10-04T21:58:46Z",
     "Severity": "MODERATE",
     "Summary": "Django open redirect",
-    "UpdatedAt": "2024-05-07T20:42:25Z",
+    "UpdatedAt": "2024-09-17T15:06:32Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,
@@ -72,12 +75,6 @@
         "Identifier": "2.0.8"
       },
       "VulnerableVersionRange": "\u003e= 2.0, \u003c 2.0.8"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.11.15"
-      },
-      "VulnerableVersionRange": "\u003e= 1.11.0, \u003c 1.11.15"
     }
   ]
 }
