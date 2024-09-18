@@ -41,12 +41,6 @@
         "Url": "http://www.oracle.com/technetwork/topics/security/bulletinoct2015-2511968.html"
       },
       {
-        "Url": "http://www.securityfocus.com/bid/75666"
-      },
-      {
-        "Url": "http://www.securitytracker.com/id/1032820"
-      },
-      {
         "Url": "http://www.ubuntu.com/usn/USN-2671-1"
       },
       {
@@ -60,6 +54,9 @@
       },
       {
         "Url": "https://www.djangoproject.com/weblog/2015/jul/08/security-releases"
+      },
+      {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/django/PYSEC-2015-20.yaml"
       }
     ],
     "Identifiers": [
@@ -77,26 +74,14 @@
     "PublishedAt": "2019-07-05T21:10:39Z",
     "Severity": "HIGH",
     "Summary": "Django Denial-of-service by filling session store",
-    "UpdatedAt": "2024-05-17T05:06:06Z",
+    "UpdatedAt": "2024-09-18T14:45:46Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
     }
   },
   "Versions": [
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.8.3"
-      },
-      "VulnerableVersionRange": "\u003e= 1.8.0, \u003c 1.8.3"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.7.9"
-      },
-      "VulnerableVersionRange": "\u003e= 1.5.0, \u003c 1.7.9"
-    },
     {
       "FirstPatchedVersion": {
         "Identifier": "1.4.21"

@@ -65,6 +65,9 @@
         "Url": "https://www.djangoproject.com/weblog/2015/nov/24/security-releases-issued"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/django/PYSEC-2015-11.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-6wcr-wcqm-3mfh"
       }
     ],
@@ -83,11 +86,11 @@
     "PublishedAt": "2022-05-17T03:25:24Z",
     "Severity": "MODERATE",
     "Summary": "Django settings leak in date template filter",
-    "UpdatedAt": "2024-03-08T20:49:46Z",
+    "UpdatedAt": "2024-09-18T14:37:18Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 2.8,
+      "VectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:L/I:N/A:N"
     }
   },
   "Versions": [
@@ -96,12 +99,6 @@
         "Identifier": "1.9rc2"
       },
       "VulnerableVersionRange": "\u003e= 1.9a1, \u003c 1.9rc2"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.8.7"
-      },
-      "VulnerableVersionRange": "\u003e= 1.8, \u003c 1.8.7"
     },
     {
       "FirstPatchedVersion": {

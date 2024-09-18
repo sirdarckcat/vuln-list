@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2023-08-03T21:12:37Z",
+  "UpdatedAt": "2024-09-18T14:42:14Z",
   "Package": {
     "Ecosystem": "PIP",
     "Name": "django"
@@ -12,9 +12,6 @@
     "References": [
       {
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2015-0219"
-      },
-      {
-        "Url": "https://www.djangoproject.com/weblog/2015/jan/13/security/"
       },
       {
         "Url": "http://advisories.mageia.org/MGASA-2015-0026.html"
@@ -65,6 +62,12 @@
         "Url": "https://web.archive.org/web/20151104201446/http://secunia.com/advisories/62718"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/django/PYSEC-2015-4.yaml"
+      },
+      {
+        "Url": "https://www.djangoproject.com/weblog/2015/jan/13/security"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-7qfw-j7hp-v45g"
       }
     ],
@@ -83,26 +86,14 @@
     "PublishedAt": "2022-05-17T03:20:54Z",
     "Severity": "MODERATE",
     "Summary": "Django WSGI Header Spoofing Vulnerability",
-    "UpdatedAt": "2023-08-03T21:12:37Z",
+    "UpdatedAt": "2024-09-18T14:42:14Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 5.3,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N"
     }
   },
   "Versions": [
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.7.3"
-      },
-      "VulnerableVersionRange": "\u003e= 1.7.0, \u003c 1.7.3"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.6.10"
-      },
-      "VulnerableVersionRange": "\u003e= 1.6.0, \u003c 1.6.10"
-    },
     {
       "FirstPatchedVersion": {
         "Identifier": "1.4.18"
