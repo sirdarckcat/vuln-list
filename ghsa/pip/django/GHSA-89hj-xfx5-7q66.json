@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-08-16T22:56:39Z",
   "Package": {
     "Ecosystem": "PIP",
@@ -41,6 +41,9 @@
         "Url": "https://www.djangoproject.com/weblog/2014/apr/21/security"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/django/PYSEC-2014-2.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-89hj-xfx5-7q66"
       }
     ],
@@ -57,28 +60,16 @@
     "Description": "The caching framework in Django before 1.4.11, 1.5.x before 1.5.6, 1.6.x before 1.6.3, and 1.7.x before 1.7 beta 2 reuses a cached CSRF token for all anonymous users, which allows remote attackers to bypass CSRF protections by reading the CSRF cookie for anonymous users.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2022-05-17T03:07:04Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "Django Reuses Cached CSRF Token",
-    "UpdatedAt": "2024-05-16T18:23:41Z",
+    "UpdatedAt": "2024-09-18T20:01:46Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
     }
   },
   "Versions": [
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.6.3"
-      },
-      "VulnerableVersionRange": "\u003e= 1.6.0, \u003c 1.6.3"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.5.6"
-      },
-      "VulnerableVersionRange": "\u003e= 1.5.0, \u003c 1.5.6"
-    },
     {
       "FirstPatchedVersion": {
         "Identifier": "1.4.11"

@@ -17,9 +17,6 @@
         "Url": "https://github.com/advisories/GHSA-rf4j-j272-fj86"
       },
       {
-        "Url": "http://www.securitytracker.com/id/1040422"
-      },
-      {
         "Url": "https://github.com/django/django/commit/57b95fedad5e0b83fc9c81466b7d1751c6427aae"
       },
       {
@@ -30,6 +27,12 @@
       },
       {
         "Url": "https://www.djangoproject.com/weblog/2018/feb/01/security-releases"
+      },
+      {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/django/PYSEC-2018-4.yaml"
+      },
+      {
+        "Url": "https://web.archive.org/web/20200517143909/http://www.securitytracker.com/id/1040422"
       }
     ],
     "Identifiers": [
@@ -46,8 +49,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2018-10-03T21:13:54Z",
     "Severity": "HIGH",
-    "Summary": "Django Information leakage in AuthenticationForm",
-    "UpdatedAt": "2024-05-07T20:54:55Z",
+    "Summary": "Django vulnerable to information leakage in AuthenticationForm",
+    "UpdatedAt": "2024-09-18T19:46:35Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
@@ -60,12 +63,6 @@
         "Identifier": "1.11.10"
       },
       "VulnerableVersionRange": "\u003e= 1.11.8, \u003c 1.11.10"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.0.2"
-      },
-      "VulnerableVersionRange": "\u003e= 2.0.0, \u003c 2.0.2"
     }
   ]
 }

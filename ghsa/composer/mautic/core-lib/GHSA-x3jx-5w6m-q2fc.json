@@ -20,6 +20,9 @@
         "Url": "https://github.com/mautic/mautic/commit/925aeee7d3dbb6ca67f92d9dc5893d99250f739b"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2022-25768"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-x3jx-5w6m-q2fc"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2024-09-18T17:43:36Z",
     "Severity": "HIGH",
     "Summary": "Mautic vulnerable to Improper Access Control in UI upgrade process",
-    "UpdatedAt": "2024-09-18T17:43:39Z",
+    "UpdatedAt": "2024-09-18T22:40:13Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7,

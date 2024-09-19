@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2023-08-12T05:02:56Z",
+  "UpdatedAt": "2024-09-18T19:55:31Z",
   "Package": {
     "Ecosystem": "PIP",
     "Name": "django"
@@ -12,12 +12,6 @@
     "References": [
       {
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2015-0220"
-      },
-      {
-        "Url": "https://www.djangoproject.com/weblog/2015/jan/13/security/"
-      },
-      {
-        "Url": "http://advisories.mageia.org/MGASA-2015-0026.html"
       },
       {
         "Url": "http://lists.fedoraproject.org/pipermail/package-announce/2015-January/148485.html"
@@ -59,6 +53,12 @@
         "Url": "https://web.archive.org/web/20151104201446/http://secunia.com/advisories/62718"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/django/PYSEC-2015-5.yaml"
+      },
+      {
+        "Url": "https://www.djangoproject.com/weblog/2015/jan/13/security"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-gv98-g628-m9x5"
       }
     ],
@@ -77,26 +77,14 @@
     "PublishedAt": "2022-05-17T03:20:49Z",
     "Severity": "MODERATE",
     "Summary": "Django Cross-site Scripting Vulnerability",
-    "UpdatedAt": "2023-08-12T05:02:56Z",
+    "UpdatedAt": "2024-09-18T19:55:31Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 6.1,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.7.3"
-      },
-      "VulnerableVersionRange": "\u003e= 1.7.0, \u003c 1.7.3"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.6.10"
-      },
-      "VulnerableVersionRange": "\u003e= 1.6.0, \u003c 1.6.10"
-    },
     {
       "FirstPatchedVersion": {
         "Identifier": "1.4.18"
