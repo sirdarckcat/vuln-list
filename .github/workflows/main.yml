@@ -47,7 +47,7 @@ jobs:
       - name: Obtain MITRE CVEs
         run: |
           wget -nv https://github.com/CVEProject/cvelistV5/archive/refs/heads/main.zip
-          unzip main.zip
+          unzip -q main.zip
           rm main.zip
           jq '(.|select(.cveMetadata.assignerShortName=="Linux"))|{cve:.cveMetadata.cveId,references:(.containers.cna.references|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))' $(grep -ril Linux cvelistV5-main/cves) | jq -s . > mitre_kernel.json
       - name: Obtain nluedtke CVEs
