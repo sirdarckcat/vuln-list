@@ -38,18 +38,21 @@ jobs:
           unzip main.zip
           rm main.zip
           jq '(.|select(.package_state[].package_name=="kernel")|{cve:.name,references:(.references|map(.|split("\n"))),commits:(.references|map(capture("(?<commit>[0-9a-f]{40})";"gi")|.commit))})' vuln-list-redhat-main/*/CVE-* 2>/dev/null | jq -s . > redhat_kernel.json
+          rm -rf vuln-list-redhat-main
       - name: Obtain NVD CVEs
         run: |
           wget -nv https://github.com/aquasecurity/vuln-list-nvd/archive/refs/heads/main.zip
-          unzip main.zip
+          unzip -q main.zip -x vuln-list-nvd-main/api/2024/*
           rm main.zip
           jq '{cve:.id,references:(.references|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))' $(grep -ril kernel vuln-list-nvd-main/api) | jq -s . >> nvd_kernel.json
+          rm -rf vuln-list-nvd-main
       - name: Obtain MITRE CVEs
         run: |
           wget -nv https://github.com/CVEProject/cvelistV5/archive/refs/heads/main.zip
           unzip -q main.zip
           rm main.zip
           jq '(.|select(.cveMetadata.assignerShortName=="Linux"))|{cve:.cveMetadata.cveId,references:(.containers.cna.references|map(.url))}|.commits=(.references|map(capture("(?<commit>[0-9a-f]{40})").commit))' $(grep -ril Linux cvelistV5-main/cves) | jq -s . > mitre_kernel.json
+          rm -rf cvelistV5-main
       - name: Obtain nluedtke CVEs
         run: |
           wget -nv https://github.com/nluedtke/linux_kernel_cves/raw/master/data/CVEs.txt
