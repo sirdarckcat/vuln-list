@@ -26,6 +26,9 @@
         "Url": "http://www.openwall.com/lists/oss-security/2012/11/10/1"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/plone/PYSEC-2014-33.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-f8pg-wp5j-rjxx"
       }
     ],
@@ -44,20 +47,14 @@
     "PublishedAt": "2022-05-17T04:32:26Z",
     "Severity": "MODERATE",
     "Summary": "Plone Information Disclosure",
-    "UpdatedAt": "2023-08-29T21:35:55Z",
+    "UpdatedAt": "2024-10-11T20:45:58Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 5.3,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N"
     }
   },
   "Versions": [
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.3b1"
-      },
-      "VulnerableVersionRange": "\u003e= 4.3a1, \u003c 4.3b1"
-    },
     {
       "FirstPatchedVersion": {
         "Identifier": "4.2.3"
