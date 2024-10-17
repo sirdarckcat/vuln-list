@@ -1,9 +1,10 @@
 {
   "id": "GHSA-p8h7-c8gw-6x8c",
-  "modified": "2024-09-13T19:57:44.846487Z",
+  "modified": "2024-10-17T17:57:08.408261Z",
   "published": "2024-06-06T21:30:37Z",
   "aliases": [
-    "CVE-2024-4881"
+    "CVE-2024-4881",
+    "PYSEC-2024-108"
   ],
   "summary": "LoLLMS Path Traversal vulnerability",
   "details": "A path traversal vulnerability exists in the parisneo/lollms application, affecting version 9.4.0 and potentially earlier versions, but fixed in version 9.5.0. The vulnerability arises due to improper validation of file paths between Windows and Linux environments, allowing attackers to traverse beyond the intended directory and read any file on the Windows system. Specifically, the application fails to adequately sanitize file paths containing backslashes (`\\`), which can be exploited to access the root directory and read, or even delete, sensitive files. This issue was discovered in the context of the `/user_infos` endpoint, where a crafted request using backslashes to reference a file (e.g., `\\windows\\win.ini`) could result in unauthorized file access. The impact of this vulnerability includes the potential for attackers to access sensitive information such as environment variables, database files, and configuration files, which could lead to further compromise of the system.",
