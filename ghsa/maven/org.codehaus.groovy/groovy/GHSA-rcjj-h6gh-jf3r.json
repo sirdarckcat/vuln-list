@@ -26,9 +26,6 @@
         "Url": "https://lists.apache.org/thread.html/ra9dab34bf8625511f23692ad0fcee2725f782e9aad6c5cdff6cf4465@%3Cnotifications.groovy.apache.org%3E"
       },
       {
-        "Url": "https://security.netapp.com/advisory/ntap-20201218-0006/"
-      },
-      {
         "Url": "https://www.oracle.com/security-alerts/cpujan2021.html"
       },
       {
@@ -56,6 +53,9 @@
         "Url": "https://www.oracle.com/security-alerts/cpujul2022.html"
       },
       {
+        "Url": "https://security.netapp.com/advisory/ntap-20201218-0006"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-rcjj-h6gh-jf3r"
       }
     ],
@@ -74,7 +74,7 @@
     "PublishedAt": "2020-12-09T19:03:03Z",
     "Severity": "MODERATE",
     "Summary": "Information Disclosure in Apache Groovy",
-    "UpdatedAt": "2023-01-27T05:02:31Z",
+    "UpdatedAt": "2024-10-17T16:18:53Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.5,

@@ -74,7 +74,7 @@
     "PublishedAt": "2022-05-13T01:25:19Z",
     "Severity": "CRITICAL",
     "Summary": "Deserialization of Untrusted Data in Groovy",
-    "UpdatedAt": "2024-05-15T05:09:57Z",
+    "UpdatedAt": "2024-10-17T16:19:10Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,

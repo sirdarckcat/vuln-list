@@ -32,9 +32,6 @@
         "Url": "https://security.gentoo.org/glsa/201610-01"
       },
       {
-        "Url": "https://security.netapp.com/advisory/ntap-20160623-0001/"
-      },
-      {
         "Url": "https://www.oracle.com/security-alerts/cpuapr2020.html"
       },
       {
@@ -68,7 +65,10 @@
         "Url": "http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html"
       },
       {
-        "Url": "http://www.zerodayinitiative.com/advisories/ZDI-15-365/"
+        "Url": "https://security.netapp.com/advisory/ntap-20160623-0001"
+      },
+      {
+        "Url": "http://www.zerodayinitiative.com/advisories/ZDI-15-365"
       },
       {
         "Url": "https://github.com/advisories/GHSA-qg25-hgjv-cg9q"
@@ -89,7 +89,7 @@
     "PublishedAt": "2022-05-13T01:25:41Z",
     "Severity": "CRITICAL",
     "Summary": "Improper Neutralization of Special Elements in Output Used by a Downstream Component in Apache Groovy",
-    "UpdatedAt": "2023-01-27T05:02:15Z",
+    "UpdatedAt": "2024-10-17T16:17:25Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,
