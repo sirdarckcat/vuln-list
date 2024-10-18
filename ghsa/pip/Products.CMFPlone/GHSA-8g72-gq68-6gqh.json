@@ -44,6 +44,9 @@
         "Url": "https://github.com/plone/Products.CMFPlone/commit/7db5b2c8fb684055987b8c4fdedc29289bd26373"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/plone/PYSEC-2018-70.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-8g72-gq68-6gqh"
       }
     ],
@@ -62,7 +65,7 @@
     "PublishedAt": "2022-05-14T03:49:10Z",
     "Severity": "MODERATE",
     "Summary": "Products.CMFPlone Open Redirect Vulnerability",
-    "UpdatedAt": "2023-10-24T20:22:23Z",
+    "UpdatedAt": "2024-10-17T20:58:41Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,
