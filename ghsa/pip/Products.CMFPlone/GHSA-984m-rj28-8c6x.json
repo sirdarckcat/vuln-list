@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-08-16T05:02:13Z",
   "Package": {
     "Ecosystem": "PIP",
@@ -29,7 +29,13 @@
         "Url": "https://github.com/plone/Products.CMFPlone/commit/9f0111f85cd14f3f067044b59b93e2856c99d542"
       },
       {
-        "Url": "https://pypi.org/project/Products.PloneHotfix20150910/"
+        "Url": "https://github.com/zopefoundation/Products.CMFCore/commit/e1d981bfa14b664317285f0f36498f4be4a23406"
+      },
+      {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/plone/PYSEC-2017-52.yaml"
+      },
+      {
+        "Url": "https://pypi.org/project/Products.PloneHotfix20150910"
       },
       {
         "Url": "https://github.com/advisories/GHSA-984m-rj28-8c6x"
@@ -48,9 +54,9 @@
     "Description": "Plone 3.3.0 through 3.3.6, 4.0.0 through 4.0.10, 4.1.0 through 4.1.6, 4.2.0 through 4.2.7, 4.3.0 through 4.3.6, and 5.0rc1 allows remote attackers to add a new member to a Plone site with registration enabled, without acknowledgment of site administrator.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2022-05-17T00:35:46Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "Plone unauthorized member addition vulnerability",
-    "UpdatedAt": "2023-08-16T05:02:13Z",
+    "UpdatedAt": "2024-10-18T21:43:38Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.9,

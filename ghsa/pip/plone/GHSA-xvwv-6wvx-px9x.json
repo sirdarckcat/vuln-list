@@ -21,6 +21,9 @@
       },
       {
         "Url": "https://github.com/plone/Products.CMFPlone/issues/2232"
+      },
+      {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/plone/PYSEC-2018-73.yaml"
       }
     ],
     "Identifiers": [
@@ -38,7 +41,7 @@
     "PublishedAt": "2019-01-04T17:47:21Z",
     "Severity": "MODERATE",
     "Summary": "Plone Open Redirect",
-    "UpdatedAt": "2023-09-01T21:13:19Z",
+    "UpdatedAt": "2024-10-18T21:54:06Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,
@@ -51,12 +54,6 @@
         "Identifier": "5.1.0"
       },
       "VulnerableVersionRange": "\u003e= 5.0.0, \u003c 5.1.0"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.3.16"
-      },
-      "VulnerableVersionRange": "\u003e= 4.0.0, \u003c 4.3.16"
     }
   ]
 }

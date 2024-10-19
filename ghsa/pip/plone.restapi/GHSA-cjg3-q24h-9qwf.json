@@ -32,6 +32,9 @@
         "Url": "https://github.com/plone/plone.restapi/pull/859"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/plone/PYSEC-2020-87.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-cjg3-q24h-9qwf"
       }
     ],
@@ -50,7 +53,7 @@
     "PublishedAt": "2022-05-24T17:07:14Z",
     "Severity": "HIGH",
     "Summary": "Plone Privilege Escallation",
-    "UpdatedAt": "2023-09-01T20:13:43Z",
+    "UpdatedAt": "2024-10-18T21:47:10Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.8,

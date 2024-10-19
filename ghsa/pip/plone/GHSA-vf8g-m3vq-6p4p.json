@@ -29,6 +29,9 @@
         "Url": "https://pypi.org/project/Products.PloneHotfix20150910"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/plone/PYSEC-2017-53.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-vf8g-m3vq-6p4p"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2022-05-17T00:36:01Z",
     "Severity": "MODERATE",
     "Summary": "Plone Cross-site Scripting Vulnerability",
-    "UpdatedAt": "2024-04-22T22:54:36Z",
+    "UpdatedAt": "2024-10-18T21:45:10Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,
@@ -60,36 +63,6 @@
         "Identifier": ""
       },
       "VulnerableVersionRange": "= 5.0rc1"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.3.7"
-      },
-      "VulnerableVersionRange": "\u003e= 4.3.0, \u003c 4.3.7"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.2.8"
-      },
-      "VulnerableVersionRange": "\u003e= 4.2.0, \u003c= 4.2.7"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.1.7"
-      },
-      "VulnerableVersionRange": "\u003e= 4.1.0, \u003c= 4.1.6"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.0.11"
-      },
-      "VulnerableVersionRange": "\u003e= 4.0.0, \u003c= 4.0.10"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "3.3.7"
-      },
-      "VulnerableVersionRange": "\u003e= 3.3.0, \u003c= 3.3.6"
     }
   ]
 }
