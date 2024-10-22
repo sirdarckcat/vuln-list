@@ -23,6 +23,9 @@
         "Url": "https://www.npmjs.com/package/projen"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/projen/PYSEC-2021-111.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-gg2g-m5wc-vccq"
       }
     ],
@@ -41,11 +44,11 @@
     "PublishedAt": "2021-04-06T18:36:40Z",
     "Severity": "HIGH",
     "Summary": "Rebuild-bot workflow may allow unauthorised repository modifications",
-    "UpdatedAt": "2023-02-01T05:05:13Z",
+    "UpdatedAt": "2024-10-21T20:05:49Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 9.4,
-      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L"
+      "Score": 6.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:N"
     }
   },
   "Versions": [
