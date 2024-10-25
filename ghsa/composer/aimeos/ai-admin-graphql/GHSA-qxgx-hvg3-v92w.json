@@ -35,7 +35,7 @@
     "PublishedAt": "2024-10-24T17:48:40Z",
     "Severity": "MODERATE",
     "Summary": "ai-admin-graphql has a Denial of service vulnerability in SaaS and marketplace setups",
-    "UpdatedAt": "2024-10-24T21:45:41Z",
+    "UpdatedAt": "2024-10-25T01:15:03Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.5,
