@@ -23,6 +23,9 @@
         "Url": "https://lists.apache.org/thread.html/ra216b7b0dd82a2c12c2df9d6095e689eb3f3d28164e6b6587da69fae@%3Ccommits.spark.apache.org%3E"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/pyspark/PYSEC-2019-114.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-fp5j-3fpf-mhj5"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2019-08-08T15:18:22Z",
     "Severity": "HIGH",
     "Summary": "Sensitive data written to disk unencrypted in Spark",
-    "UpdatedAt": "2023-02-01T05:02:19Z",
+    "UpdatedAt": "2024-10-24T21:48:37Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
