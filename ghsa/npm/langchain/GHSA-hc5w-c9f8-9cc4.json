@@ -20,6 +20,9 @@
         "Url": "https://huntr.com/bounties/8fe40685-b714-4191-af7a-3de5e5628cee"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/langchain/PYSEC-2024-111.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-hc5w-c9f8-9cc4"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2024-10-29T15:32:05Z",
     "Severity": "MODERATE",
     "Summary": "Langchain Path Traversal vulnerability",
-    "UpdatedAt": "2024-10-29T19:40:08Z",
+    "UpdatedAt": "2024-10-31T19:33:23Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,
