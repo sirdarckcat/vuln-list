@@ -23,6 +23,12 @@
         "Url": "https://github.com/langchain-ai/langchain/commit/9a877c7adbd06f90a2518152f65b562bd90487cc"
       },
       {
+        "Url": "https://github.com/langchain-ai/langchain/commit/73c42306745b0831aa6fe7fe4eeb70d2c2d87a82"
+      },
+      {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/langchain/PYSEC-2024-118.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-3hjh-jh2h-vrg6"
       }
     ],
@@ -41,7 +47,7 @@
     "PublishedAt": "2024-06-06T21:30:36Z",
     "Severity": "MODERATE",
     "Summary": "Denial of service in langchain-community",
-    "UpdatedAt": "2024-10-15T23:34:12Z",
+    "UpdatedAt": "2024-11-04T15:27:58Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.2,

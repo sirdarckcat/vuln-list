@@ -20,6 +20,9 @@
         "Url": "https://huntr.com/bounties/8f4ad910-7fdc-4089-8f0a-b5df5f32e7c5"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/langchain/PYSEC-2024-115.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-45pg-36p6-83v9"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2024-10-29T15:32:05Z",
     "Severity": "LOW",
     "Summary": "Langchain-Community SQL Injection vulnerability",
-    "UpdatedAt": "2024-11-01T21:37:48Z",
+    "UpdatedAt": "2024-11-04T13:50:59Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.9,
