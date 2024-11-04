@@ -1,9 +1,10 @@
 {
   "id": "GHSA-v9q6-fm48-rx74",
-  "modified": "2024-10-15T23:43:25.567197Z",
+  "modified": "2024-11-03T20:42:34.942947Z",
   "published": "2024-06-06T21:30:37Z",
   "aliases": [
-    "CVE-2024-3408"
+    "CVE-2024-3408",
+    "PYSEC-2024-117"
   ],
   "summary": "Authentication bypass in dtale",
   "details": "man-group/dtale version 3.10.0 is vulnerable to an authentication bypass and remote code execution (RCE) due to improper input validation. The vulnerability arises from a hardcoded `SECRET_KEY` in the flask configuration, allowing attackers to forge a session cookie if authentication is enabled. Additionally, the application fails to properly restrict custom filter queries, enabling attackers to execute arbitrary code on the server by bypassing the restriction on the `/update-settings` endpoint, even when `enable_custom_filters` is not enabled. This vulnerability allows attackers to bypass authentication mechanisms and execute remote code on the server.",
