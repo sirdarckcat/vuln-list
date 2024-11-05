@@ -23,6 +23,9 @@
         "Url": "https://github.com/advisories/GHSA-w7hm-hmxv-pvhf"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2024-51502"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-7vm6-qwh5-9x44"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2024-11-04T23:22:33Z",
     "Severity": "HIGH",
     "Summary": "loona-hpack Panic Vulnerability",
-    "UpdatedAt": "2024-11-04T23:22:33Z",
+    "UpdatedAt": "2024-11-05T14:39:35Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
