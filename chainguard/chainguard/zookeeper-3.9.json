@@ -8,6 +8,10 @@
     "3.9.2.0-r4": [
       "CVE-2024-47554",
       "GHSA-78wr-2p64-hpwj"
+    ],
+    "3.9.3.2-r0": [
+      "CVE-2024-8184",
+      "GHSA-g8m5-722r-8whq"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
