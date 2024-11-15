@@ -21,9 +21,11 @@
   },
   "Criteria": {
     "Operator": "AND",
-    "Criterion": {
-      "Comment": "Package kubevirt is earlier than 0.59.0-22, affected by CVE-2023-26484",
-      "TestRef": "oval:com.microsoft.cbl-mariner:tst:25673000"
-    }
+    "Criterion": [
+      {
+        "Comment": "Package kubevirt is earlier than 0.59.0-22, affected by CVE-2023-26484",
+        "TestRef": "oval:com.microsoft.cbl-mariner:tst:25673000"
+      }
+    ]
   }
 }

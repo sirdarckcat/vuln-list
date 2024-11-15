@@ -21,9 +21,11 @@
   },
   "Criteria": {
     "Operator": "AND",
-    "Criterion": {
-      "Comment": "Package reaper is earlier than 3.1.1-14, affected by CVE-2024-48949",
-      "TestRef": "oval:com.microsoft.cbl-mariner:tst:50322000"
-    }
+    "Criterion": [
+      {
+        "Comment": "Package reaper is earlier than 3.1.1-14, affected by CVE-2024-48949",
+        "TestRef": "oval:com.microsoft.cbl-mariner:tst:50322000"
+      }
+    ]
   }
 }

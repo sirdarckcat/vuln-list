@@ -21,9 +21,11 @@
   },
   "Criteria": {
     "Operator": "AND",
-    "Criterion": {
-      "Comment": "Package frr is earlier than 8.5.5-2, affected by CVE-2024-44070",
-      "TestRef": "oval:com.microsoft.cbl-mariner:tst:47862000"
-    }
+    "Criterion": [
+      {
+        "Comment": "Package frr is earlier than 8.5.5-2, affected by CVE-2024-44070",
+        "TestRef": "oval:com.microsoft.cbl-mariner:tst:47862000"
+      }
+    ]
   }
 }

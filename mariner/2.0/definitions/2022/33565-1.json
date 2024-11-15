@@ -21,9 +21,11 @@
   },
   "Criteria": {
     "Operator": "AND",
-    "Criterion": {
-      "Comment": "Package application-gateway-kubernetes-ingress is earlier than 1.4.0-23, affected by CVE-2022-32149",
-      "TestRef": "oval:com.microsoft.cbl-mariner:tst:33565000"
-    }
+    "Criterion": [
+      {
+        "Comment": "Package application-gateway-kubernetes-ingress is earlier than 1.4.0-23, affected by CVE-2022-32149",
+        "TestRef": "oval:com.microsoft.cbl-mariner:tst:33565000"
+      }
+    ]
   }
 }

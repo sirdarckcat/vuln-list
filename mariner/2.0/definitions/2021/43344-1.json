@@ -21,9 +21,11 @@
   },
   "Criteria": {
     "Operator": "AND",
-    "Criterion": {
-      "Comment": "Package moby-buildx is earlier than 0.7.1-21, affected by CVE-2021-43565",
-      "TestRef": "oval:com.microsoft.cbl-mariner:tst:43344000"
-    }
+    "Criterion": [
+      {
+        "Comment": "Package moby-buildx is earlier than 0.7.1-21, affected by CVE-2021-43565",
+        "TestRef": "oval:com.microsoft.cbl-mariner:tst:43344000"
+      }
+    ]
   }
 }
