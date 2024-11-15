@@ -21,9 +21,11 @@
   },
   "Criteria": {
     "Operator": "AND",
-    "Criterion": {
-      "Comment": "Package prometheus-adapter is earlier than 0.10.0-15, affected by CVE-2022-32149",
-      "TestRef": "oval:com.microsoft.cbl-mariner:tst:33632000"
-    }
+    "Criterion": [
+      {
+        "Comment": "Package prometheus-adapter is earlier than 0.10.0-15, affected by CVE-2022-32149",
+        "TestRef": "oval:com.microsoft.cbl-mariner:tst:33632000"
+      }
+    ]
   }
 }

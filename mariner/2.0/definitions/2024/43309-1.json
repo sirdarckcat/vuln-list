@@ -21,9 +21,11 @@
   },
   "Criteria": {
     "Operator": "AND",
-    "Criterion": {
-      "Comment": "Package openssl is earlier than 1.1.1k-35, affected by CVE-2024-5535",
-      "TestRef": "oval:com.microsoft.cbl-mariner:tst:43309000"
-    }
+    "Criterion": [
+      {
+        "Comment": "Package openssl is earlier than 1.1.1k-35, affected by CVE-2024-5535",
+        "TestRef": "oval:com.microsoft.cbl-mariner:tst:43309000"
+      }
+    ]
   }
 }
