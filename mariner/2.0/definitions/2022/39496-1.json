@@ -21,9 +21,11 @@
   },
   "Criteria": {
     "Operator": "AND",
-    "Criterion": {
-      "Comment": "Package ceph is earlier than 16.2.10-4, affected by CVE-2022-3854",
-      "TestRef": "oval:com.microsoft.cbl-mariner:tst:39496000"
-    }
+    "Criterion": [
+      {
+        "Comment": "Package ceph is earlier than 16.2.10-4, affected by CVE-2022-3854",
+        "TestRef": "oval:com.microsoft.cbl-mariner:tst:39496000"
+      }
+    ]
   }
 }

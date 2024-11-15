@@ -21,9 +21,11 @@
   },
   "Criteria": {
     "Operator": "AND",
-    "Criterion": {
-      "Comment": "Package libcontainers-common is earlier than 20210626-7, affected by CVE-2022-32149",
-      "TestRef": "oval:com.microsoft.cbl-mariner:tst:33608000"
-    }
+    "Criterion": [
+      {
+        "Comment": "Package libcontainers-common is earlier than 20210626-7, affected by CVE-2022-32149",
+        "TestRef": "oval:com.microsoft.cbl-mariner:tst:33608000"
+      }
+    ]
   }
 }
