@@ -21,9 +21,11 @@
   },
   "Criteria": {
     "Operator": "AND",
-    "Criterion": {
-      "Comment": "Package containerized-data-importer is earlier than 1.55.0-21, affected by CVE-2022-41717",
-      "TestRef": "oval:com.microsoft.cbl-mariner:tst:33573000"
-    }
+    "Criterion": [
+      {
+        "Comment": "Package containerized-data-importer is earlier than 1.55.0-21, affected by CVE-2022-41717",
+        "TestRef": "oval:com.microsoft.cbl-mariner:tst:33573000"
+      }
+    ]
   }
 }
