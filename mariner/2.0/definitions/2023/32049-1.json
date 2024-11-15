@@ -21,9 +21,11 @@
   },
   "Criteria": {
     "Operator": "AND",
-    "Criterion": {
-      "Comment": "Package libtiff is earlier than 4.6.0-4, affected by CVE-2023-6277",
-      "TestRef": "oval:com.microsoft.cbl-mariner:tst:32049000"
-    }
+    "Criterion": [
+      {
+        "Comment": "Package libtiff is earlier than 4.6.0-4, affected by CVE-2023-6277",
+        "TestRef": "oval:com.microsoft.cbl-mariner:tst:32049000"
+      }
+    ]
   }
 }

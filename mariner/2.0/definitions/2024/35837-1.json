@@ -21,9 +21,11 @@
   },
   "Criteria": {
     "Operator": "AND",
-    "Criterion": {
-      "Comment": "Package cert-manager is earlier than 1.11.2-15, affected by CVE-2024-28180",
-      "TestRef": "oval:com.microsoft.cbl-mariner:tst:35837000"
-    }
+    "Criterion": [
+      {
+        "Comment": "Package cert-manager is earlier than 1.11.2-15, affected by CVE-2024-28180",
+        "TestRef": "oval:com.microsoft.cbl-mariner:tst:35837000"
+      }
+    ]
   }
 }
