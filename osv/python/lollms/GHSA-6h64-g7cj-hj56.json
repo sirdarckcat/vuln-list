@@ -1,9 +1,10 @@
 {
   "id": "GHSA-6h64-g7cj-hj56",
-  "modified": "2024-10-14T18:26:25.609473Z",
+  "modified": "2024-11-15T20:57:13.953338Z",
   "published": "2024-10-11T18:32:50Z",
   "aliases": [
-    "CVE-2024-6985"
+    "CVE-2024-6985",
+    "PYSEC-2024-122"
   ],
   "summary": "Lord of Large Language Models (LoLLMs)  path traversal vulnerability in the api open_personality_folder endpoint",
   "details": "A path traversal vulnerability exists in the api open_personality_folder endpoint of parisneo/lollms. This vulnerability allows an attacker to read any folder in the personality_folder on the victim's computer, even though sanitize_path is set. The issue arises due to improper sanitization of the personality_folder parameter, which can be exploited to traverse directories and access arbitrary files.",
