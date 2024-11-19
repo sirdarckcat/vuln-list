@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2023-06-13T22:32:20Z",
+  "UpdatedAt": "2024-11-19T18:00:39Z",
   "Package": {
     "Ecosystem": "RUST",
     "Name": "wasmtime"
@@ -23,13 +23,19 @@
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2021-39216"
       },
       {
-        "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/Z2Z33FTXFQ6EOINVEQIP4DFBG53G5XIY/"
-      },
-      {
-        "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WAVBRYDDUIY2ZR3K3FO4BVYJKIMJ5TP7/"
-      },
-      {
         "Url": "https://rustsec.org/advisories/RUSTSEC-2021-0110.html"
+      },
+      {
+        "Url": "https://github.com/bytecodealliance/wasmtime-py/compare/0.29.0...0.30.0"
+      },
+      {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/wasmtime/PYSEC-2021-320.yaml"
+      },
+      {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WAVBRYDDUIY2ZR3K3FO4BVYJKIMJ5TP7"
+      },
+      {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/Z2Z33FTXFQ6EOINVEQIP4DFBG53G5XIY"
       },
       {
         "Url": "https://github.com/advisories/GHSA-v4cp-h94r-m7xf"
@@ -50,7 +56,7 @@
     "PublishedAt": "2021-09-20T19:54:05Z",
     "Severity": "MODERATE",
     "Summary": "Use after free passing `externref`s to Wasm in Wasmtime",
-    "UpdatedAt": "2023-06-13T22:32:20Z",
+    "UpdatedAt": "2024-11-19T18:00:39Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.3,
