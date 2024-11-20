@@ -32,6 +32,9 @@
         "Url": "https://rustsec.org/advisories/RUSTSEC-2021-0067.html"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/wasmtime/PYSEC-2021-87.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-hpqh-2wqx-7qp5"
       }
     ],
@@ -50,7 +53,7 @@
     "PublishedAt": "2021-08-25T21:01:55Z",
     "Severity": "HIGH",
     "Summary": "Memory access due to code generation flaw in Cranelift module",
-    "UpdatedAt": "2023-01-25T18:03:21Z",
+    "UpdatedAt": "2024-11-19T19:18:56Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.2,

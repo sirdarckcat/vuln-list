@@ -17,6 +17,9 @@
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2024-52308"
       },
       {
+        "Url": "https://pkg.go.dev/vuln/GO-2024-3269"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-p2h2-3vg9-4p87"
       }
     ],
@@ -35,7 +38,7 @@
     "PublishedAt": "2024-11-14T17:39:01Z",
     "Severity": "HIGH",
     "Summary": "Connecting to a malicious Codespaces via GH CLI could allow command execution on the user's computer",
-    "UpdatedAt": "2024-11-15T01:00:10Z",
+    "UpdatedAt": "2024-11-19T19:37:13Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.1,
