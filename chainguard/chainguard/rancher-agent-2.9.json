@@ -4,6 +4,10 @@
     "2.9.3-r1": [
       "CVE-2024-51744",
       "GHSA-29wx-vh33-7x7r"
+    ],
+    "2.9.4-r0": [
+      "CVE-2024-52280",
+      "GHSA-j5hq-5jcr-xwx7"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
