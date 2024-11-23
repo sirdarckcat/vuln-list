@@ -41,7 +41,7 @@
     "PublishedAt": "2024-01-03T09:30:32Z",
     "Severity": "MODERATE",
     "Summary": "PaddlePaddle segfault in paddle.dot",
-    "UpdatedAt": "2024-11-22T18:15:42Z",
+    "UpdatedAt": "2024-11-22T18:18:15Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.7,
