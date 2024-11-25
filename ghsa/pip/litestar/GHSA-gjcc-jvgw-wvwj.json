@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2024-11-20T21:39:00Z",
+  "UpdatedAt": "2024-11-25T13:47:18Z",
   "Package": {
     "Ecosystem": "PIP",
     "Name": "litestar"
@@ -14,9 +14,6 @@
         "Url": "https://github.com/litestar-org/litestar/security/advisories/GHSA-gjcc-jvgw-wvwj"
       },
       {
-        "Url": "https://github.com/litestar-org/litestar/security/advisories/GHSA-p24m-863f-fm6q)"
-      },
-      {
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2024-52581"
       },
       {
@@ -24,6 +21,9 @@
       },
       {
         "Url": "https://github.com/litestar-org/litestar/blob/main/litestar/_multipart.py#L97"
+      },
+      {
+        "Url": "https://github.com/litestar-org/litestar/security/advisories/GHSA-p24m-863f-fm6q"
       },
       {
         "Url": "https://github.com/advisories/GHSA-gjcc-jvgw-wvwj"
@@ -44,17 +44,17 @@
     "PublishedAt": "2024-11-20T21:38:58Z",
     "Severity": "HIGH",
     "Summary": "Litestar allows unbounded resource consumption (DoS vulnerability) ",
-    "UpdatedAt": "2024-11-20T21:39:00Z",
+    "UpdatedAt": "2024-11-25T13:47:18Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
     }
   },
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": ""
+        "Identifier": "2.13.0"
       },
       "VulnerableVersionRange": "\u003c= 2.12.1"
     }
