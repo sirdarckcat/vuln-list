@@ -39,12 +39,12 @@
         "Value": "CVE-2024-52309"
       }
     ],
-    "Description": "### Impact\n\nOne powerful feature of SFTPGo is the ability to have the EventManager execute scripts or run applications in response to certain events.\nThis feature is very common in all software similar to SFTPGo and is generally unrestricted. \n\nHowever, any SFTPGo administrator with permission to run a script has access to the underlying OS/container with the same permissions as the user running SFTPGo.\n\nThis is unexpected for some SFTPGo administrators who think that there is a clear distinction between accessing the system shell and accessing the SFTPGo WebAdmin UI.\n\n### Patches\n\nTo avoid this confusion, running system commands is now disabled by default, and an allow list has been added so that system administrators configuring SFTPGo must explicitly define which commands are allowed to be configured from the WebAdmin UI.\n\nhttps://github.com/drakkan/sftpgo/commit/88b1850b5806eee81150873d4e565144b21021fb\nhttps://github.com/drakkan/sftpgo/commit/b524da11e9466d05fe03304713ee1c61bb276ec4\n\n### Workarounds\n\nAllow EventManager to be used only by SFTPGo administrators who also have shell access.",
+    "Description": "### Impact\n\nOne powerful feature of SFTPGo is the ability to have the EventManager execute scripts or run applications in response to certain events.\nThis feature is very common in all software similar to SFTPGo and is generally unrestricted. \n\nHowever, any SFTPGo administrator with permission to run a script has access to the underlying OS/container with the same permissions as the user running SFTPGo, so they can access the database and server configurations.\n\nThis is unexpected for some SFTPGo administrators who think that there is a clear distinction between accessing the system shell and accessing the SFTPGo WebAdmin UI.\n\n### Patches\n\nTo avoid this confusion, running system commands is now disabled by default, and an allow list has been added so that system administrators configuring SFTPGo must explicitly define which commands are allowed to be configured from the WebAdmin UI.\n\nhttps://github.com/drakkan/sftpgo/commit/88b1850b5806eee81150873d4e565144b21021fb\nhttps://github.com/drakkan/sftpgo/commit/b524da11e9466d05fe03304713ee1c61bb276ec4\n\n### Workarounds\n\nAllow EventManager to be used only by SFTPGo administrators who also have shell access.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2024-11-21T23:19:07Z",
     "Severity": "MODERATE",
     "Summary": "SFTPGo allows administrators to restrict command execution from the EventManager",
-    "UpdatedAt": "2024-11-21T23:19:07Z",
+    "UpdatedAt": "2024-12-02T18:04:01Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
