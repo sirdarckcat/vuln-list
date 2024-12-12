@@ -1,7 +1,7 @@
 {
-  "name": "vault-csi-provider",
+  "name": "kyverno-fips-1.13",
   "secfixes": {
-    "1.5.0-r3": [
+    "1.13.2-r1": [
       "CVE-2024-45337",
       "GHSA-v778-237x-gjrc"
     ]
