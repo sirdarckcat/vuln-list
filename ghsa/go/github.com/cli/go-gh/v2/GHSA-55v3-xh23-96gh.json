@@ -32,6 +32,9 @@
         "Url": "https://github.com/cli/go-gh/blob/71770357e0cb12867d3e3e288854c0aa09d440b7/pkg/auth/auth.go#L73-L77"
       },
       {
+        "Url": "https://pkg.go.dev/vuln/GO-2024-3295"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-55v3-xh23-96gh"
       }
     ],
@@ -50,7 +53,7 @@
     "PublishedAt": "2024-11-27T21:43:03Z",
     "Severity": "MODERATE",
     "Summary": "`auth.TokenForHost` violates GitHub host security boundary when sourcing authentication token within a codespace",
-    "UpdatedAt": "2024-12-02T19:10:22Z",
+    "UpdatedAt": "2024-12-12T19:17:34Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,
