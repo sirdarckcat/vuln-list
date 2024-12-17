@@ -1,9 +1,9 @@
 {
   "name": "gitlab-ee-17.4",
   "secfixes": {
-    "17.4.2-r1": [
-      "CVE-2023-36308",
-      "GHSA-q7pp-wcgr-pffx"
+    "17.4.6-r1": [
+      "CVE-2024-45337",
+      "GHSA-v778-237x-gjrc"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
