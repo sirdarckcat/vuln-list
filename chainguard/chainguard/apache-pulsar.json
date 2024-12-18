@@ -1,12 +1,9 @@
 {
-  "name": "linkerd2-proxy",
+  "name": "apache-pulsar",
   "secfixes": {
-    "2.271.0-r0": [
-      "GHSA-wwq9-3cpr-mm53"
-    ],
-    "2.272.0-r0": [
-      "CVE-2024-12224",
-      "GHSA-h97m-ww89-6jmq"
+    "4.0.1-r1": [
+      "CVE-2024-53990",
+      "GHSA-mfj5-cf8g-g2fv"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
