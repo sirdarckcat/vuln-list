@@ -1,9 +1,9 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2024-10-25T19:44:46Z",
+  "UpdatedAt": "2024-12-27T19:50:24Z",
   "Package": {
     "Ecosystem": "PIP",
-    "Name": "werkzeug"
+    "Name": "Quart"
   },
   "Advisory": {
     "DatabaseId": 264899,
@@ -57,9 +57,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "3.0.6"
+        "Identifier": "0.20.0"
       },
-      "VulnerableVersionRange": "\u003c= 3.0.5"
+      "VulnerableVersionRange": "\u003c 0.20.0"
     }
   ]
 }
