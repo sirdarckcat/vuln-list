@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2024-12-20T19:50:46Z",
+  "UpdatedAt": "2024-12-20T19:50:45Z",
   "Package": {
     "Ecosystem": "MAVEN",
     "Name": "org.apache.tomcat:tomcat-catalina"
@@ -50,7 +50,7 @@
     "PublishedAt": "2024-12-20T18:31:32Z",
     "Severity": "HIGH",
     "Summary": "Apache Tomcat Time-of-check Time-of-use (TOCTOU) Race Condition vulnerability",
-    "UpdatedAt": "2025-01-03T16:11:00Z",
+    "UpdatedAt": "2025-01-08T16:05:13Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
@@ -58,12 +58,6 @@
     }
   },
   "Versions": [
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "9.0.98"
-      },
-      "VulnerableVersionRange": "\u003e= 9.0.0.M1, \u003c 9.0.98"
-    },
     {
       "FirstPatchedVersion": {
         "Identifier": "10.1.34"
