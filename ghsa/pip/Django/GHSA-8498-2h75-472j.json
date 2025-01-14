@@ -29,6 +29,9 @@
         "Url": "https://lists.debian.org/debian-lts-announce/2024/12/msg00028.html"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/django/PYSEC-2024-156.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-8498-2h75-472j"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2024-12-06T12:30:47Z",
     "Severity": "MODERATE",
     "Summary": "Django denial-of-service in django.utils.html.strip_tags()",
-    "UpdatedAt": "2024-12-31T18:31:52Z",
+    "UpdatedAt": "2025-01-14T15:59:59Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

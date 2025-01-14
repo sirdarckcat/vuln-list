@@ -26,6 +26,9 @@
         "Url": "https://www.djangoproject.com/weblog/2024/dec/04/security-releases"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/django/PYSEC-2024-157.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-m9g8-fxxm-xg86"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2024-12-06T12:30:47Z",
     "Severity": "HIGH",
     "Summary": "Django SQL injection in HasKey(lhs, rhs) on Oracle",
-    "UpdatedAt": "2024-12-06T20:35:02Z",
+    "UpdatedAt": "2025-01-14T16:37:43Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,
