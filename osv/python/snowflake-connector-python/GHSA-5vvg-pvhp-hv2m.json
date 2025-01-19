@@ -1,9 +1,10 @@
 {
   "id": "GHSA-5vvg-pvhp-hv2m",
-  "modified": "2024-10-25T17:09:04.046360Z",
+  "modified": "2025-01-19T10:57:01.284159Z",
   "published": "2024-10-24T22:42:26Z",
   "aliases": [
-    "CVE-2024-49750"
+    "CVE-2024-49750",
+    "PYSEC-2024-191"
   ],
   "related": [
     "CGA-p3ff-x8hj-4v9v"
