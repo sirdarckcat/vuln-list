@@ -23,6 +23,12 @@
         "Url": "https://github.com/apache/streampipes/releases/tag/release%2F0.95.0"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/streampipes/PYSEC-2024-174.yaml"
+      },
+      {
+        "Url": "http://www.openwall.com/lists/oss-security/2024/07/16/11"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-9gr7-gh74-qg9x"
       }
     ],
@@ -41,7 +47,7 @@
     "PublishedAt": "2024-07-17T09:30:49Z",
     "Severity": "MODERATE",
     "Summary": "Apache StreamPipes has possibility of SSRF in pipeline element installation process",
-    "UpdatedAt": "2024-08-04T05:05:46Z",
+    "UpdatedAt": "2025-01-21T18:27:30Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.3,
