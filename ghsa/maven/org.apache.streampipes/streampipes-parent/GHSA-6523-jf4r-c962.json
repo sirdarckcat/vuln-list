@@ -20,6 +20,12 @@
         "Url": "https://github.com/apache/streampipes/releases/tag/release%2F0.95.0"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/streampipes/PYSEC-2024-173.yaml"
+      },
+      {
+        "Url": "http://www.openwall.com/lists/oss-security/2024/07/16/10"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-6523-jf4r-c962"
       }
     ],
@@ -38,7 +44,7 @@
     "PublishedAt": "2024-07-17T12:31:11Z",
     "Severity": "HIGH",
     "Summary": "Apache StreamPipes has potential remote code execution (RCE) via file upload",
-    "UpdatedAt": "2024-08-07T05:04:08Z",
+    "UpdatedAt": "2025-01-21T18:27:23Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.8,
