@@ -1,0 +1,20 @@
+{
+  "name": "localstack",
+  "secfixes": {
+    "4.1.0-r0": [
+      "CVE-2023-45288",
+      "CVE-2024-56201",
+      "CVE-2024-56326",
+      "GHSA-4v7x-pqxf-cx7m",
+      "GHSA-gmj6-6f8f-6699",
+      "GHSA-q2x7-8rv6-6q7h"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
