@@ -1,27 +1,27 @@
 {
-  "Title": "go1.24-1.24rc3-1.1 on GA media",
+  "Title": "go1.22-1.22.12-1.1 on GA media",
   "Tracking": {
-    "ID": "openSUSE-SU-2025:14735-1",
+    "ID": "openSUSE-SU-2025:14745-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2025-02-06T00:00:00Z",
-    "CurrentReleaseDate": "2025-02-06T00:00:00Z",
+    "InitialReleaseDate": "2025-02-08T00:00:00Z",
+    "CurrentReleaseDate": "2025-02-08T00:00:00Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2025-02-06T00:00:00Z",
+        "Date": "2025-02-08T00:00:00Z",
         "Description": "current"
       }
     ]
   },
   "Notes": [
     {
-      "Text": "go1.24-1.24rc3-1.1 on GA media",
+      "Text": "go1.22-1.22.12-1.1 on GA media",
       "Title": "Topic",
       "Type": "Summary"
     },
     {
-      "Text": "These are all security issues fixed in the go1.24-1.24rc3-1.1 package on the GA media of openSUSE Tumbleweed.",
+      "Text": "These are all security issues fixed in the go1.22-1.22.12-1.1 package on the GA media of openSUSE Tumbleweed.",
       "Title": "Details",
       "Type": "General"
     },
@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "openSUSE-Tumbleweed-2025-14735",
+      "Text": "openSUSE-Tumbleweed-2025-14745",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -39,22 +39,22 @@
   "ProductTree": {
     "Relationships": [
       {
-        "ProductReference": "go1.24-1.24rc3-1.1",
+        "ProductReference": "go1.22-1.22.12-1.1",
         "RelatesToProductReference": "openSUSE Tumbleweed",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "go1.24-doc-1.24rc3-1.1",
+        "ProductReference": "go1.22-doc-1.22.12-1.1",
         "RelatesToProductReference": "openSUSE Tumbleweed",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "go1.24-libstd-1.24rc3-1.1",
+        "ProductReference": "go1.22-libstd-1.22.12-1.1",
         "RelatesToProductReference": "openSUSE Tumbleweed",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "go1.24-race-1.24rc3-1.1",
+        "ProductReference": "go1.22-race-1.22.12-1.1",
         "RelatesToProductReference": "openSUSE Tumbleweed",
         "RelationType": "Default Component Of"
       }
@@ -62,20 +62,12 @@
   },
   "References": [
     {
-      "URL": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/thread/LQJSYILFTX3S2O5RES7ORQ4XSV6GWDLY/",
-      "Description": "E-Mail link for openSUSE-SU-2025:14735-1"
-    },
-    {
       "URL": "https://www.suse.com/support/security/rating/",
       "Description": "SUSE Security Ratings"
     },
     {
       "URL": "https://www.suse.com/security/cve/CVE-2025-22866/",
       "Description": "SUSE CVE CVE-2025-22866 page"
-    },
-    {
-      "URL": "https://www.suse.com/security/cve/CVE-2025-22867/",
-      "Description": "SUSE CVE CVE-2025-22867 page"
     }
   ],
   "Vulnerabilities": [
@@ -102,42 +94,10 @@
         {
           "Type": "Fixed",
           "ProductID": [
-            "openSUSE Tumbleweed:go1.24-1.24rc3-1.1",
-            "openSUSE Tumbleweed:go1.24-doc-1.24rc3-1.1",
-            "openSUSE Tumbleweed:go1.24-libstd-1.24rc3-1.1",
-            "openSUSE Tumbleweed:go1.24-race-1.24rc3-1.1"
-          ]
-        }
-      ],
-      "CVSSScoreSets": {}
-    },
-    {
-      "CVE": "CVE-2025-22867",
-      "Description": "On Darwin, building a Go module which contains CGO can trigger arbitrary code execution when using the Apple version of ld, due to usage of the @executable_path, @loader_path, or @rpath special values in a \"#cgo LDFLAGS\" directive. This issue only affected go1.24rc2.",
-      "Threats": [
-        {
-          "Type": "Impact",
-          "Severity": "moderate"
-        }
-      ],
-      "References": [
-        {
-          "URL": "https://www.suse.com/security/cve/CVE-2025-22867.html",
-          "Description": "CVE-2025-22867"
-        },
-        {
-          "URL": "https://bugzilla.suse.com/1236839",
-          "Description": "SUSE Bug 1236839"
-        }
-      ],
-      "ProductStatuses": [
-        {
-          "Type": "Fixed",
-          "ProductID": [
-            "openSUSE Tumbleweed:go1.24-1.24rc3-1.1",
-            "openSUSE Tumbleweed:go1.24-doc-1.24rc3-1.1",
-            "openSUSE Tumbleweed:go1.24-libstd-1.24rc3-1.1",
-            "openSUSE Tumbleweed:go1.24-race-1.24rc3-1.1"
+            "openSUSE Tumbleweed:go1.22-1.22.12-1.1",
+            "openSUSE Tumbleweed:go1.22-doc-1.22.12-1.1",
+            "openSUSE Tumbleweed:go1.22-libstd-1.22.12-1.1",
+            "openSUSE Tumbleweed:go1.22-race-1.22.12-1.1"
           ]
         }
       ],
