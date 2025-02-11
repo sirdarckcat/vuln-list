@@ -3,6 +3,10 @@
   "secfixes": {
     "17.8.1-r0": [
       "GHSA-29qp-crvh-w22m"
+    ],
+    "17.8.1-r1": [
+      "CVE-2025-22866",
+      "GHSA-3whm-j4xm-rv8x"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
