@@ -1,0 +1,16 @@
+{
+  "name": "google-osconfig-agent",
+  "secfixes": {
+    "20250122.00-r2": [
+      "CVE-2024-45339",
+      "GHSA-6wxm-mpqj-6jpf"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}

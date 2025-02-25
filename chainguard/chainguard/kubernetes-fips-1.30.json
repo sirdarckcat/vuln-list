@@ -1,0 +1,40 @@
+{
+  "name": "kubernetes-fips-1.30",
+  "secfixes": {
+    "0": [
+      "CVE-2024-28180",
+      "CVE-2024-5321",
+      "GHSA-82m2-cv7p-4m75",
+      "GHSA-c5q2-7r4c-mv6g"
+    ],
+    "1.30.10-r1": [
+      "CVE-2025-0426",
+      "GHSA-jgfp-53c3-624w"
+    ],
+    "1.30.8-r1": [
+      "CVE-2024-45337",
+      "GHSA-v778-237x-gjrc"
+    ],
+    "1.30.8-r2": [
+      "CVE-2024-45338",
+      "GHSA-w32m-9786-jp63"
+    ],
+    "1.30.9-r1": [
+      "CVE-2024-45336",
+      "CVE-2024-45341",
+      "GHSA-3f6r-qh9c-x6mm",
+      "GHSA-7wrw-r4p8-38rx"
+    ],
+    "1.30.9-r2": [
+      "CVE-2025-22866",
+      "GHSA-3whm-j4xm-rv8x"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}

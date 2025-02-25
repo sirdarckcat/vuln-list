@@ -1,0 +1,37 @@
+{
+  "name": "vault-1.17",
+  "secfixes": {
+    "1.17.2-r0": [
+      "GHSA-xr7q-jx4m-x55m"
+    ],
+    "1.17.6-r1": [
+      "CVE-2024-51744",
+      "GHSA-29wx-vh33-7x7r"
+    ],
+    "1.17.6-r2": [
+      "CVE-2024-45337",
+      "CVE-2024-45338",
+      "GHSA-v778-237x-gjrc",
+      "GHSA-w32m-9786-jp63"
+    ],
+    "1.17.6-r3": [
+      "CVE-2024-45336",
+      "CVE-2024-45341",
+      "CVE-2025-0377",
+      "GHSA-3f6r-qh9c-x6mm",
+      "GHSA-7wrw-r4p8-38rx",
+      "GHSA-wpfp-cm49-9m9q"
+    ],
+    "1.17.6-r4": [
+      "CVE-2025-22866",
+      "GHSA-3whm-j4xm-rv8x"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
