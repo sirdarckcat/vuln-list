@@ -47,7 +47,7 @@
     "PublishedAt": "2025-02-24T22:49:19Z",
     "Severity": "MODERATE",
     "Summary": "DoS in go-jose Parsing",
-    "UpdatedAt": "2025-02-25T18:38:51Z",
+    "UpdatedAt": "2025-02-26T22:16:38Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
