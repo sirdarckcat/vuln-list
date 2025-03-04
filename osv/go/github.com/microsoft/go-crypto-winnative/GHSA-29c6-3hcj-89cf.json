@@ -1,9 +1,10 @@
 {
   "id": "GHSA-29c6-3hcj-89cf",
-  "modified": "2025-02-12T19:27:07.146156Z",
+  "modified": "2025-03-03T19:42:04.879346Z",
   "published": "2025-02-12T19:20:24Z",
   "aliases": [
-    "CVE-2025-25199"
+    "CVE-2025-25199",
+    "GO-2025-3461"
   ],
   "summary": "go-crypto-winnative BCryptGenerateSymmetricKey memory leak",
   "details": "Calls to `cng.TLS1PRF` don't release the key handle, producing a small memory leak every time.",
