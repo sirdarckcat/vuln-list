@@ -1,0 +1,19 @@
+{
+  "name": "agentbeat-fips",
+  "secfixes": {
+    "0": [
+      "CVE-2019-3826",
+      "GHSA-3m87-5598-2v4f"
+    ],
+    "8.17.3-r1": [
+      "CVE-2025-22869"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}

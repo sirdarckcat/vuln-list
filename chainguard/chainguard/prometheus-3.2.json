@@ -1,0 +1,16 @@
+{
+  "name": "prometheus-3.2",
+  "secfixes": {
+    "0": [
+      "CVE-2019-3826",
+      "GHSA-3m87-5598-2v4f"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
