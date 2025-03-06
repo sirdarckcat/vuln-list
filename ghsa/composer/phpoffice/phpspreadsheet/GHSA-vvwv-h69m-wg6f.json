@@ -50,7 +50,7 @@
     "PublishedAt": "2019-11-20T01:39:57Z",
     "Severity": "HIGH",
     "Summary": "XXE in PHPSpreadsheet due to incomplete fix for previous encoding issue",
-    "UpdatedAt": "2024-09-04T20:01:18Z",
+    "UpdatedAt": "2025-03-06T18:02:28Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.8,

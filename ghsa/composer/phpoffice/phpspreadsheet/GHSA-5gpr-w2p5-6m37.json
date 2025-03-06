@@ -47,7 +47,7 @@
     "PublishedAt": "2024-10-07T15:57:38Z",
     "Severity": "HIGH",
     "Summary": "PhpSpreadsheet allows absolute path traversal and Server-Side Request Forgery when opening XLSX file",
-    "UpdatedAt": "2024-10-07T22:29:34Z",
+    "UpdatedAt": "2025-03-06T18:12:44Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.7,

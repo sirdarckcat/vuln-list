@@ -47,7 +47,7 @@
     "PublishedAt": "2021-05-06T18:53:37Z",
     "Severity": "MODERATE",
     "Summary": "Cross-site scripting in phpoffice/phpspreadsheet",
-    "UpdatedAt": "2024-02-02T17:02:10Z",
+    "UpdatedAt": "2025-03-06T18:08:50Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.4,

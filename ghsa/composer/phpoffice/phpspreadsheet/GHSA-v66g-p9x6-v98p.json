@@ -47,7 +47,7 @@
     "PublishedAt": "2024-10-07T14:43:30Z",
     "Severity": "MODERATE",
     "Summary": "PhpSpreadsheet has an Unauthenticated Cross-Site-Scripting (XSS) in sample file",
-    "UpdatedAt": "2024-10-07T22:24:52Z",
+    "UpdatedAt": "2025-03-06T18:11:25Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,
