@@ -1,0 +1,252 @@
+{
+  "Title": "ELSA-2025-20153: Unbreakable Enterprise kernel security update (IMPORTANT)",
+  "Description": "[5.4.17-2136.341.3.1]\n- Revert 'NFSD: Limit the number of concurrent async COPY operations' (Sherry Yang)  [Orabug: 37667080]\n\n[5.4.17-2136.341.3]\n- io_uring: fix possible deadlock in io_register_iowq_max_workers() (Hagar Hemdan)  [Orabug: 37565787]\n- io_uring/rw: fix missing NOWAIT check for O_DIRECT start write (Jens Axboe)  [Orabug: 37565787]\n- io_uring: use kiocb_{start,end}_write() helpers (Amir Goldstein)  [Orabug: 37565787]\n- fs: create kiocb_{start,end}_write() helpers (Amir Goldstein)  [Orabug: 37565787]\n- io_uring: rename kiocb_end_write() local helper (Amir Goldstein)  [Orabug: 37565787]\n- io_uring/sqpoll: close race on waiting for sqring entries (Jens Axboe)  [Orabug: 37565787]\n- io_uring/sqpoll: do not put cpumask on stack (Felix Moessbauer)  [Orabug: 37565787]\n- io_uring/sqpoll: retain test for whether the CPU is valid (Jens Axboe)  [Orabug: 37565787]\n- io_uring/sqpoll: do not allow pinning outside of cpuset (Felix Moessbauer)  [Orabug: 37565787]\n- io_uring/io-wq: limit retrying worker initialisation (Pavel Begunkov)  [Orabug: 37565787]\n- vfs: check dentry is still valid in get_link() (Ian Kent)  [Orabug: 37536393]\n- RDS: avoid queueing delayed work on an offlined cpu (Praveen Kumar Kannoju)  [Orabug: 37260584]\n- NFSD: Limit the number of concurrent async COPY operations (Chuck Lever)  [Orabug: 37206187]\n\n[5.4.17-2136.341.2]\n- LTS tag: v5.4.289 (Sherry Yang)\n- mm: vmscan: account for free pages to prevent infinite Loop in throttle_direct_reclaim() (Seiji Nishikawa)\n- drm: adv7511: Drop dsi single lane support (Biju Das)\n- net/sctp: Prevent autoclose integer overflow in sctp_association_init() (Nikolay Kuratov)\n- sky2: Add device ID 11ab:4373 for Marvell 88E8075 (Pascal Hambourg)\n- pinctrl: mcp23s08: Fix sleeping in atomic context due to regmap locking (Evgenii Shatokhin)\n- RDMA/uverbs: Prevent integer overflow issue (Dan Carpenter)\n- modpost: fix the missed iteration for the max bit in do_input() (Masahiro Yamada)\n- modpost: fix input MODULE_DEVICE_TABLE() built for 64-bit on 32-bit host (Masahiro Yamada)\n- ARC: build: Try to guess GCC variant of cross compiler (Leon Romanovsky)\n- irqchip/gic: Correct declaration of *percpu_base pointer in union gic_base (Uros Bizjak)\n- net: usb: qmi_wwan: add Telit FE910C04 compositions (Daniele Palmas)\n- bpf: fix potential error return (Anton Protopopov)\n- sound: usb: format: don't warn that raw DSD is unsupported (Adrian Ratiu)\n- wifi: mac80211: wake the queues in case of failure in resume (Emmanuel Grumbach)\n- ila: serialize calls to nf_register_net_hooks() (Eric Dumazet)\n- ALSA: usb-audio: US16x08: Initialize array before use (Tanya Agarwal)\n- net: llc: reset skb-\u003etransport_header (Antonio Pastor)\n- netfilter: nft_set_hash: unaligned atomic read on struct nft_set_ext (Pablo Neira Ayuso)\n- netfilter: Replace zero-length array with flexible-array member (Gustavo A. R. Silva)\n- netrom: check buffer length before accessing it (Ilya Shchipletsov)\n- drm/bridge: adv7511_audio: Update Audio InfoFrame properly (Stefan Ekenberg)\n- drm: bridge: adv7511: Enable SPDIF DAI (Bogdan Togorean)\n- RDMA/bnxt_re: Fix max_qp_wrs reported (Selvin Xavier)\n- RDMA/bnxt_re: Fix reporting hw_ver in query_device (Kalesh AP)\n- RDMA/bnxt_re: Add check for path mtu in modify_qp (Saravanan Vajravel)\n- RDMA/mlx5: Enforce same type port association for multiport RoCE (Patrisious Haddad)\n- net/mlx5: Make API mlx5_core_is_ecpf accept const pointer (Parav Pandit)\n- IB/mlx5: Introduce and use mlx5_core_is_vf() (Parav Pandit)\n- Drivers: hv: util: Avoid accessing a ringbuffer not initialized yet (Michael Kelley)\n- selinux: ignore unknown extended permissions (Thiebaud Weksteen)\n- ipv6: prevent possible UAF in ip6_xmit() (Eric Dumazet)\n- skb_expand_head() adjust skb-\u003etruesize incorrectly (Vasily Averin)\n- btrfs: avoid monopolizing a core when activating a swap file (Filipe Manana)\n- tracing: Constify string literal data member in struct trace_event_call (Christian Gottsche)\n- bpf: fix recursive lock when verdict program return SK_PASS (Jiayuan Chen)\n- ipv6: fix possible UAF in ip6_finish_output2() (Eric Dumazet) [Orabug: 37029070] {CVE-2024-44986}\n- ipv6: use skb_expand_head in ip6_xmit (Vasily Averin)\n- ipv6: use skb_expand_head in ip6_finish_output2 (Vasily Averin)\n- skbuff: introduce skb_expand_head() (Vasily Averin)\n- MIPS: Probe toolchain support of -msym32 (Jiaxun Yang)\n- epoll: Add synchronous wakeup support for ep_poll_callback (Xuewen Yan)\n- virtio-blk: don't keep queue frozen during system suspend (Ming Lei)\n- scsi: mpt3sas: Diag-Reset when Doorbell-In-Use bit is set during driver load time (Ranjan Kumar)\n- platform/x86: asus-nb-wmi: Ignore unknown event 0xCF (Armin Wolf)\n- regmap: Use correct format specifier for logging range errors (Mark Brown)\n- scsi: megaraid_sas: Fix for a potential deadlock (Tomas Henzl)\n- scsi: qla1280: Fix hw revision numbering for ISP1020/1040 (Magnus Lindholm)\n- tracing/kprobe: Make trace_kprobe's module callback called after jump_label update (Masami Hiramatsu (Google))\n- dmaengine: at_xdmac: avoid null_prt_deref in at_xdmac_prep_dma_memset (Chen Ridong) [Orabug: 37452681] {CVE-2024-56767}\n- dmaengine: mv_xor: fix child node refcount handling in early exit (Javier Carrasco)\n- phy: core: Fix that API devm_phy_destroy() fails to destroy the phy (Zijun Hu)\n- phy: core: Fix that API devm_phy_put() fails to release the phy (Zijun Hu)\n- phy: core: Fix an OF node refcount leakage in of_phy_provider_lookup() (Zijun Hu)\n- phy: core: Fix an OF node refcount leakage in _of_phy_get() (Zijun Hu)\n- mtd: diskonchip: Cast an operand to prevent potential overflow (Zichen Xie)\n- bpf: Check negative offsets in __bpf_skb_min_len() (Cong Wang)\n- media: dvb-frontends: dib3000mb: fix uninit-value in dib3000_write_reg (Nikita Zhandarovich) [Orabug: 37452687] {CVE-2024-56769}\n- of: Fix refcount leakage for OF node returned by __of_get_dma_parent() (Zijun Hu)\n- of: Fix error path in of_parse_phandle_with_args_map() (Herve Codina)\n- udmabuf: also check for F_SEAL_FUTURE_WRITE (Jann Horn)\n- nilfs2: prevent use of deleted inode (Edward Adam Davis)\n- NFS/pnfs: Fix a live lock between recalled layouts and layoutget (Trond Myklebust)\n- btrfs: tree-checker: reject inline extent items with 0 ref count (Qu Wenruo)\n- zram: refuse to use zero sized block device as backing device (Kairui Song)\n- sh: clk: Fix clk_enable() to return 0 on NULL clk (Geert Uytterhoeven)\n- USB: serial: option: add Telit FE910C04 rmnet compositions (Daniele Palmas)\n- USB: serial: option: add MediaTek T7XX compositions (Jack Wu)\n- USB: serial: option: add Netprisma LCUK54 modules for WWAN Ready (Mank Wang)\n- USB: serial: option: add MeiG Smart SLM770A (Michal Hrusecky)\n- USB: serial: option: add TCL IK512 MBIM \u0026 ECM (Daniel Swanemar)\n- efivarfs: Fix error on non-existent file (James Bottomley)\n- i2c: riic: Always round-up when calculating bus period (Geert Uytterhoeven)\n- chelsio/chtls: prevent potential integer overflow on 32bit (Dan Carpenter)\n- mmc: sdhci-tegra: Remove SDHCI_QUIRK_BROKEN_ADMA_ZEROLEN_DESC quirk (Prathamesh Shete)\n- netfilter: ipset: Fix for recursive locking warning (Phil Sutter)\n- net: ethernet: bgmac-platform: fix an OF node reference leak (Joe Hattori)\n- net: hinic: Fix cleanup in create_rxqs/txqs() (Dan Carpenter)\n- ionic: use ee-\u003eoffset when returning sprom data (Shannon Nelson)\n- net/smc: check sndbuf_space again after NOSPACE flag is set in smc_poll (Guangguan Wang)\n- erofs: fix incorrect symlink detection in fast symlink (Gao Xiang)\n- erofs: fix order \u003e= MAX_ORDER warning due to crafted negative i_size (Gao Xiang)\n- drm/i915: Fix memory leak by correcting cache object name in error handler (Jiasheng Jiang)\n- PCI: Add ACS quirk for Broadcom BCM5760X NIC (Ajit Khaparde)\n- ALSA: usb: Fix UBSAN warning in parse_audio_unit() (Takashi Iwai)\n- PCI/AER: Disable AER service on suspend (Kai-Heng Feng)\n- usb: dwc2: gadget: Don't write invalid mapped sg entries into dma_desc with iommu enabled (Peng Hongchi)\n- net: sched: fix ordering of qlen adjustment (Lion Ackermann) [Orabug: 37433383] {CVE-2024-53164}\n\n[5.4.17-2136.341.1]\n- kpcimgr: fix flush_icache_range arguments (Joe Dobosenski)  [Orabug: 37525298]\n- uek-rpm: Update network stress testing options for embedded2 (Joe Dobosenski)  [Orabug: 37530220]",
+  "Platform": [
+    "Oracle Linux 8"
+  ],
+  "References": [
+    {
+      "Source": "elsa",
+      "URI": "https://linux.oracle.com/errata/ELSA-2025-20153.html",
+      "ID": "ELSA-2025-20153"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-56769.html",
+      "ID": "CVE-2024-56769"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-44986.html",
+      "ID": "CVE-2024-44986"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-56767.html",
+      "ID": "CVE-2024-56767"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53164.html",
+      "ID": "CVE-2024-53164"
+    }
+  ],
+  "Criteria": {
+    "Operator": "AND",
+    "Criterias": [
+      {
+        "Operator": "OR",
+        "Criterias": [
+          {
+            "Operator": "AND",
+            "Criterias": [
+              {
+                "Operator": "OR",
+                "Criterias": [
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-uek is earlier than 0:5.4.17-2136.341.3.1.el8uek"
+                      },
+                      {
+                        "Comment": "kernel-uek is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-uek-debug is earlier than 0:5.4.17-2136.341.3.1.el8uek"
+                      },
+                      {
+                        "Comment": "kernel-uek-debug is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-uek-debug-devel is earlier than 0:5.4.17-2136.341.3.1.el8uek"
+                      },
+                      {
+                        "Comment": "kernel-uek-debug-devel is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-uek-devel is earlier than 0:5.4.17-2136.341.3.1.el8uek"
+                      },
+                      {
+                        "Comment": "kernel-uek-devel is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-uek-doc is earlier than 0:5.4.17-2136.341.3.1.el8uek"
+                      },
+                      {
+                        "Comment": "kernel-uek-doc is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  }
+                ],
+                "Criterions": null
+              }
+            ],
+            "Criterions": [
+              {
+                "Comment": "Oracle Linux arch is aarch64"
+              }
+            ]
+          },
+          {
+            "Operator": "AND",
+            "Criterias": [
+              {
+                "Operator": "OR",
+                "Criterias": [
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-uek is earlier than 0:5.4.17-2136.341.3.1.el8uek"
+                      },
+                      {
+                        "Comment": "kernel-uek is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-uek-container is earlier than 0:5.4.17-2136.341.3.1.el8uek"
+                      },
+                      {
+                        "Comment": "kernel-uek-container is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-uek-container-debug is earlier than 0:5.4.17-2136.341.3.1.el8uek"
+                      },
+                      {
+                        "Comment": "kernel-uek-container-debug is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-uek-debug is earlier than 0:5.4.17-2136.341.3.1.el8uek"
+                      },
+                      {
+                        "Comment": "kernel-uek-debug is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-uek-debug-devel is earlier than 0:5.4.17-2136.341.3.1.el8uek"
+                      },
+                      {
+                        "Comment": "kernel-uek-debug-devel is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-uek-devel is earlier than 0:5.4.17-2136.341.3.1.el8uek"
+                      },
+                      {
+                        "Comment": "kernel-uek-devel is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-uek-doc is earlier than 0:5.4.17-2136.341.3.1.el8uek"
+                      },
+                      {
+                        "Comment": "kernel-uek-doc is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  }
+                ],
+                "Criterions": null
+              }
+            ],
+            "Criterions": [
+              {
+                "Comment": "Oracle Linux arch is x86_64"
+              }
+            ]
+          }
+        ],
+        "Criterions": null
+      }
+    ],
+    "Criterions": [
+      {
+        "Comment": "Oracle Linux 8 is installed"
+      }
+    ]
+  },
+  "Severity": "IMPORTANT",
+  "Cves": [
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-56769.html",
+      "ID": "CVE-2024-56769"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-44986.html",
+      "ID": "CVE-2024-44986"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-56767.html",
+      "ID": "CVE-2024-56767"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53164.html",
+      "ID": "CVE-2024-53164"
+    }
+  ],
+  "Issued": {
+    "Date": "2025-03-10"
+  }
+}
