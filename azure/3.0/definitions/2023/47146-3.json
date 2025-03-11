@@ -27,7 +27,7 @@
         "TestRef": "oval:com.microsoft.azurelinux:tst:47146000"
       },
       {
-        "Comment": "Package golang is greater than 1.23.0, affected by CVE-2023-29404",
+        "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-29404",
         "TestRef": "oval:com.microsoft.azurelinux:tst:47146003"
       }
     ]
