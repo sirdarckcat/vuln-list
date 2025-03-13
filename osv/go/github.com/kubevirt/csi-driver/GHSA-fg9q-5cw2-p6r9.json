@@ -1,9 +1,10 @@
 {
   "id": "GHSA-fg9q-5cw2-p6r9",
-  "modified": "2025-03-11T20:27:15.855281Z",
+  "modified": "2025-03-13T15:25:41.207054Z",
   "published": "2024-03-07T21:30:21Z",
   "aliases": [
-    "CVE-2024-1725"
+    "CVE-2024-1725",
+    "GO-2025-3512"
   ],
   "summary": "kubevirt-csi: PersistentVolume allows access to HCP's root node",
   "details": "A flaw was found in the kubevirt-csi component of OpenShift Virtualization's Hosted Control Plane (HCP). This issue could allow an authenticated attacker to gain access to the root HCP worker node's volume by creating a custom Persistent Volume that matches the name of a worker node.",
