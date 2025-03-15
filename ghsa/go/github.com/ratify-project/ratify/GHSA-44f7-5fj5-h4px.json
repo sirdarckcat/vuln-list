@@ -23,6 +23,9 @@
         "Url": "https://github.com/ratify-project/ratify/commit/0ec0c08490e3d672ae64b1a220c90d5484f1c93f"
       },
       {
+        "Url": "https://pkg.go.dev/vuln/GO-2025-3511"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-44f7-5fj5-h4px"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2025-03-11T15:27:16Z",
     "Severity": "HIGH",
     "Summary": "Ratify Azure authentication providers can leak authentication tokens to non-Azure container registries",
-    "UpdatedAt": "2025-03-11T17:20:01Z",
+    "UpdatedAt": "2025-03-14T20:00:48Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
