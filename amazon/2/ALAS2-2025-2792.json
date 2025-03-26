@@ -1,238 +1,32 @@
 {
   "id": "ALAS2-2025-2792",
-  "title": "Amazon Linux 2 2017.12 - ALAS2-2025-2792: important priority package update for kernel",
+  "title": "Amazon Linux 2 2017.12 - ALAS2-2025-2792: important priority package update for python-jinja2",
   "issued": {
-    "date": "2025-03-03 23:15:00"
+    "date": "2025-03-13 01:30:00"
   },
   "updated": {
-    "date": "2025-03-03 23:15:00"
+    "date": "2025-03-13 01:30:00"
   },
   "severity": "important",
-  "description": "Package updates are available for Amazon Linux 2 that fix the following vulnerabilities:\nCVE-2024-42285:\n\tIn the Linux kernel, the following vulnerability has been resolved:\n\nRDMA/iwcm: Fix a use-after-free related to destroying CM IDs\n\nCVE-2024-42284:\n\tIn the Linux kernel, the following vulnerability has been resolved:\n\ntipc: Return non-zero value from tipc_udp_addr2str() on error\n",
+  "description": "Package updates are available for Amazon Linux 2 that fix the following vulnerabilities:\nCVE-2025-27516:\n\tJinja is an extensible templating engine. Prior to 3.1.6, an oversight in how the Jinja sandboxed environment interacts with the |attr filter allows an attacker that controls the content of a template to execute arbitrary Python code. To exploit the vulnerability, an attacker needs to control the content of a template. Whether that is the case depends on the type of application using Jinja. This vulnerability impacts users of applications which execute untrusted templates. Jinja's sandbox does catch calls to str.format and ensures they don't escape the sandbox. However, it's possible to use the |attr filter to get a reference to a string's plain format method, bypassing the sandbox. After the fix, the |attr filter no longer bypasses the environment's attribute lookup. This vulnerability is fixed in 3.1.6.\n",
   "packages": [
     {
-      "name": "kernel",
+      "name": "python-jinja2",
       "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/kernel-4.14.353-270.569.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "kernel-headers",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/kernel-headers-4.14.353-270.569.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "kernel-debuginfo-common-x86_64",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/kernel-debuginfo-common-x86_64-4.14.353-270.569.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "perf",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/perf-4.14.353-270.569.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "perf-debuginfo",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/perf-debuginfo-4.14.353-270.569.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "python-perf",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/python-perf-4.14.353-270.569.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "python-perf-debuginfo",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/python-perf-debuginfo-4.14.353-270.569.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "kernel-tools",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/kernel-tools-4.14.353-270.569.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "kernel-tools-devel",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/kernel-tools-devel-4.14.353-270.569.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "kernel-tools-debuginfo",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/kernel-tools-debuginfo-4.14.353-270.569.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "kernel-devel",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/kernel-devel-4.14.353-270.569.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "kernel-debuginfo",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/kernel-debuginfo-4.14.353-270.569.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "kernel-livepatch-4.14.353-270.569",
-      "epoch": "0",
-      "version": "1.0",
-      "release": "0.amzn2",
-      "arch": "x86_64",
-      "filename": "Packages/kernel-livepatch-4.14.353-270.569-1.0-0.amzn2.x86_64.rpm"
-    },
-    {
-      "name": "kernel-headers",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "i686",
-      "filename": "Packages/kernel-headers-4.14.353-270.569.amzn2.i686.rpm"
-    },
-    {
-      "name": "kernel",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "aarch64",
-      "filename": "Packages/kernel-4.14.353-270.569.amzn2.aarch64.rpm"
-    },
-    {
-      "name": "kernel-headers",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "aarch64",
-      "filename": "Packages/kernel-headers-4.14.353-270.569.amzn2.aarch64.rpm"
-    },
-    {
-      "name": "kernel-debuginfo-common-aarch64",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "aarch64",
-      "filename": "Packages/kernel-debuginfo-common-aarch64-4.14.353-270.569.amzn2.aarch64.rpm"
-    },
-    {
-      "name": "perf",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "aarch64",
-      "filename": "Packages/perf-4.14.353-270.569.amzn2.aarch64.rpm"
-    },
-    {
-      "name": "perf-debuginfo",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "aarch64",
-      "filename": "Packages/perf-debuginfo-4.14.353-270.569.amzn2.aarch64.rpm"
-    },
-    {
-      "name": "python-perf",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "aarch64",
-      "filename": "Packages/python-perf-4.14.353-270.569.amzn2.aarch64.rpm"
-    },
-    {
-      "name": "python-perf-debuginfo",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "aarch64",
-      "filename": "Packages/python-perf-debuginfo-4.14.353-270.569.amzn2.aarch64.rpm"
-    },
-    {
-      "name": "kernel-tools",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "aarch64",
-      "filename": "Packages/kernel-tools-4.14.353-270.569.amzn2.aarch64.rpm"
-    },
-    {
-      "name": "kernel-tools-devel",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "aarch64",
-      "filename": "Packages/kernel-tools-devel-4.14.353-270.569.amzn2.aarch64.rpm"
-    },
-    {
-      "name": "kernel-tools-debuginfo",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "aarch64",
-      "filename": "Packages/kernel-tools-debuginfo-4.14.353-270.569.amzn2.aarch64.rpm"
-    },
-    {
-      "name": "kernel-devel",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "aarch64",
-      "filename": "Packages/kernel-devel-4.14.353-270.569.amzn2.aarch64.rpm"
-    },
-    {
-      "name": "kernel-debuginfo",
-      "epoch": "0",
-      "version": "4.14.353",
-      "release": "270.569.amzn2",
-      "arch": "aarch64",
-      "filename": "Packages/kernel-debuginfo-4.14.353-270.569.amzn2.aarch64.rpm"
+      "version": "2.7.2",
+      "release": "3.amzn2.0.4",
+      "arch": "noarch",
+      "filename": "Packages/python-jinja2-2.7.2-3.amzn2.0.4.noarch.rpm"
     }
   ],
   "references": [
     {
-      "href": "http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-42284",
-      "id": "CVE-2024-42284",
-      "type": "cve"
-    },
-    {
-      "href": "http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-42285",
-      "id": "CVE-2024-42285",
+      "href": "http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-27516",
+      "id": "CVE-2025-27516",
       "type": "cve"
     }
   ],
   "cveids": [
-    "CVE-2024-42284",
-    "CVE-2024-42285"
+    "CVE-2025-27516"
   ]
 }
