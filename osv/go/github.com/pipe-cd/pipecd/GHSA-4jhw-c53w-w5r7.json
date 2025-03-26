@@ -1,9 +1,10 @@
 {
   "id": "GHSA-4jhw-c53w-w5r7",
-  "modified": "2025-03-24T16:04:17Z",
+  "modified": "2025-03-25T20:22:21.112728Z",
   "published": "2025-03-21T18:31:35Z",
   "aliases": [
-    "CVE-2024-53351"
+    "CVE-2024-53351",
+    "GO-2025-3546"
   ],
   "summary": "PipeCD Vulnerable to Privilege Escalation",
   "details": "Insecure permissions in pipecd v0.49 allow attackers to gain access to the service account's token, leading to escalation of privileges.",
