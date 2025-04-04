@@ -1,6 +1,18 @@
 {
   "name": "linux",
   "secfixes": {
+    "0": [
+      "CVE-2016-0774",
+      "CVE-2017-6264",
+      "CVE-2022-2327",
+      "CVE-2022-3636",
+      "CVE-2023-6270",
+      "GHSA-3xq4-8c55-jfwq",
+      "GHSA-hgvm-qcpm-3g9q",
+      "GHSA-prhq-c3gx-jhwg",
+      "GHSA-qc32-8fv3-qwvw",
+      "GHSA-wp33-7frp-g7vg"
+    ],
     "6.13.7-r0": [
       "CVE-2022-1462",
       "CVE-2024-50067",
