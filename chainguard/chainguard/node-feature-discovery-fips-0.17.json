@@ -1,6 +1,10 @@
 {
   "name": "node-feature-discovery-fips-0.17",
   "secfixes": {
+    "0": [
+      "CVE-2025-1767",
+      "GHSA-3wgm-2gw2-vh5m"
+    ],
     "0.17.2-r1": [
       "CVE-2025-22869"
     ],
