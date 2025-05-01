@@ -1,13 +1,9 @@
 {
-  "name": "blob-csi-1.26",
+  "name": "kubernetes-1.33",
   "secfixes": {
-    "1.26.2-r1": [
-      "CVE-2025-22868",
-      "GHSA-3wqc-mwfx-672p"
-    ],
-    "1.26.2-r2": [
-      "CVE-2025-22872",
-      "GHSA-vvgc-356p-c3xw"
+    "1.33.0-r1": [
+      "CVE-2023-45142",
+      "GHSA-rcjv-mgp8-qvmr"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
