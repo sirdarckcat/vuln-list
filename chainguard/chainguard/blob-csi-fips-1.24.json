@@ -1,11 +1,9 @@
 {
-  "name": "blob-csi-fips-1.23",
+  "name": "blob-csi-fips-1.24",
   "secfixes": {
-    "1.23.11-r2": [
+    "1.24.9-r2": [
       "CVE-2025-22868",
-      "CVE-2025-22872",
-      "GHSA-3wqc-mwfx-672p",
-      "GHSA-vvgc-356p-c3xw"
+      "GHSA-3wqc-mwfx-672p"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
