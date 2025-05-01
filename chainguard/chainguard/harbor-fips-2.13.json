@@ -1,0 +1,22 @@
+{
+  "name": "harbor-fips-2.13",
+  "secfixes": {
+    "2.13.0-r1": [
+      "CVE-2025-22872",
+      "CVE-2025-24358",
+      "CVE-2025-32386",
+      "CVE-2025-32387",
+      "GHSA-4hfp-h4cw-hj8p",
+      "GHSA-5xqw-8hwv-wg92",
+      "GHSA-rq77-p4h8-4crw",
+      "GHSA-vvgc-356p-c3xw"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
