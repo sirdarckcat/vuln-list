@@ -1,10 +1,11 @@
 {
   "id": "RUSTSEC-2022-0016",
-  "modified": "2023-11-08T04:08:36.715355Z",
+  "modified": "2025-05-02T08:58:57.044730Z",
   "published": "2022-03-31T12:00:00Z",
   "aliases": [
     "CVE-2022-24791",
-    "GHSA-gwc9-348x-qwv2"
+    "GHSA-gwc9-348x-qwv2",
+    "RUSTSEC-2022-0099"
   ],
   "summary": "Use after free with `externref`s and epoch interruption in Wasmtime",
   "details": "[Use after free with `externref`s and epoch interruption in Wasmtime](https://github.com/bytecodealliance/wasmtime/security/advisories/GHSA-gwc9-348x-qwv2)",

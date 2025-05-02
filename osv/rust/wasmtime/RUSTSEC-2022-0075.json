@@ -1,10 +1,11 @@
 {
   "id": "RUSTSEC-2022-0075",
-  "modified": "2023-11-08T04:10:20.896620Z",
+  "modified": "2025-05-02T08:59:18.214282Z",
   "published": "2022-11-10T12:00:00Z",
   "aliases": [
     "CVE-2022-39393",
-    "GHSA-wh6w-3828-g9qf"
+    "GHSA-wh6w-3828-g9qf",
+    "RUSTSEC-2022-0098"
   ],
   "summary": "Bug in pooling instance allocator",
   "details": "bug in Wasmtime's implementation of its pooling instance allocator where when a linear memory is reused for another instance the initial heap snapshot of the prior instance can be visible, erroneously to the next instance.\n\nMitigations are described [here](https://github.com/bytecodealliance/wasmtime/security/advisories/GHSA-wh6w-3828-g9qf).",
