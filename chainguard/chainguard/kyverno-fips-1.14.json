@@ -1,0 +1,20 @@
+{
+  "name": "kyverno-fips-1.14",
+  "secfixes": {
+    "1.14.1-r1": [
+      "CVE-2025-22872",
+      "CVE-2025-30204",
+      "CVE-2025-46569",
+      "GHSA-6m8w-jc87-6cr7",
+      "GHSA-mh63-6h87-95cp",
+      "GHSA-vvgc-356p-c3xw"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
