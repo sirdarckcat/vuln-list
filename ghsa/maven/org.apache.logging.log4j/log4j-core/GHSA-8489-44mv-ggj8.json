@@ -29,18 +29,6 @@
         "Url": "http://www.openwall.com/lists/oss-security/2021/12/28/1"
       },
       {
-        "Url": "https://security.netapp.com/advisory/ntap-20220104-0001/"
-      },
-      {
-        "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/EVV25FXL4FU5X6X5BSL7RLQ7T6F65MRA/"
-      },
-      {
-        "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/T57MPJUW3MA6QGWZRTMCHHMMPQNVKGFC/"
-      },
-      {
-        "Url": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd"
-      },
-      {
         "Url": "https://www.oracle.com/security-alerts/cpujan2022.html"
       },
       {
@@ -48,6 +36,18 @@
       },
       {
         "Url": "https://www.oracle.com/security-alerts/cpujul2022.html"
+      },
+      {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/EVV25FXL4FU5X6X5BSL7RLQ7T6F65MRA"
+      },
+      {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/T57MPJUW3MA6QGWZRTMCHHMMPQNVKGFC"
+      },
+      {
+        "Url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd"
+      },
+      {
+        "Url": "https://security.netapp.com/advisory/ntap-20220104-0001"
       },
       {
         "Url": "https://github.com/advisories/GHSA-8489-44mv-ggj8"
@@ -68,7 +68,7 @@
     "PublishedAt": "2022-01-04T16:14:20Z",
     "Severity": "MODERATE",
     "Summary": "Improper Input Validation and Injection in Apache Log4j2",
-    "UpdatedAt": "2023-01-27T05:05:28Z",
+    "UpdatedAt": "2025-05-07T22:18:13Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.6,
