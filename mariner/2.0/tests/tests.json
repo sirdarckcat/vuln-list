@@ -23666,9 +23666,9 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package erlang is earlier than 25.2-2, affected by CVE-2023-48795",
+      "Comment": "Package erlang is earlier than 25.2-1, affected by CVE-2023-48795",
       "ID": "oval:com.microsoft.cbl-mariner:tst:32196000",
-      "Version": "1",
+      "Version": "2",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:32196001"
       },
