@@ -5826,6 +5826,11 @@
       "Name": "openssh"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:43027001",
+      "Version": "0",
+      "Name": "javapackages-bootstrap"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:43021001",
       "Version": "1",
       "Name": "tpm2-tools"
