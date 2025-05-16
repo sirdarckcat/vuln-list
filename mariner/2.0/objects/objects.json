@@ -1,6 +1,11 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:61731001",
+      "Version": "0",
+      "Name": "syslog-ng"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:61567001",
       "Version": "0",
       "Name": "libsoup"
@@ -5824,11 +5829,6 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:43030001",
       "Version": "1",
       "Name": "openssh"
-    },
-    {
-      "ID": "oval:com.microsoft.cbl-mariner:obj:43027001",
-      "Version": "0",
-      "Name": "javapackages-bootstrap"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:43021001",
