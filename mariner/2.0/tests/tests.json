@@ -2,6 +2,18 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package syslog-ng is earlier than 3.33.2-8, affected by CVE-2024-47619",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:61731000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:61731001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:61731002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package libsoup is earlier than 3.0.4-5, affected by CVE-2025-46420",
       "ID": "oval:com.microsoft.cbl-mariner:tst:61567000",
       "Version": "0",
@@ -13978,18 +13990,6 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:43030002"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "Package javapackages-bootstrap is earlier than 1.5.0-6, affected by CVE-2021-26291",
-      "ID": "oval:com.microsoft.cbl-mariner:tst:43027000",
-      "Version": "0",
-      "Object": {
-        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:43027001"
-      },
-      "State": {
-        "StateRef": "oval:com.microsoft.cbl-mariner:ste:43027002"
       }
     },
     {
