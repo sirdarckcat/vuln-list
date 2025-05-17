@@ -17,7 +17,7 @@
     "AdvisoryDate": "2024-06-06T19:53:22Z",
     "AdvisoryID": "34438-1",
     "Severity": "High",
-    "Description": "CVE-2023-3966 affecting package openvswitch for versions less than 2.17.9-1. An upgraded version of the package is available that resolves this issue."
+    "Description": "CVE-2023-3966 affecting package openvswitch for versions less than 2.17.9-1. A patched version of the package is available."
   },
   "Criteria": {
     "Operator": "AND",
