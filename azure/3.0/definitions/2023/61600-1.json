@@ -1,7 +1,7 @@
 {
   "Class": "vulnerability",
   "ID": "oval:com.microsoft.azurelinux:def:61600",
-  "Version": "0",
+  "Version": "1",
   "Metadata": {
     "Title": "CVE-2023-39810 affecting package busybox for versions less than 1.36.1-11",
     "Affected": {
@@ -15,7 +15,7 @@
     },
     "Patchable": "true",
     "AdvisoryDate": "2025-05-06T21:21:58.233Z",
-    "AdvisoryID": "61600",
+    "AdvisoryID": "61600-1",
     "Severity": "High",
     "Description": "CVE-2023-39810 affecting package busybox for versions less than 1.36.1-11. A patched version of the package is available."
   },
