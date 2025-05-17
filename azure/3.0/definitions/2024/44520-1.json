@@ -17,7 +17,7 @@
     "AdvisoryDate": "2025-05-15T21:13:46.397Z",
     "AdvisoryID": "44520-1",
     "Severity": "Medium",
-    "Description": "CVE-2024-39133 affecting package zziplib for versions less than 0.13.74-1. An upgraded version of the package is available that resolves this issue."
+    "Description": "CVE-2024-39133 affecting package zziplib for versions less than 0.13.74-1. A patched version of the package is available."
   },
   "Criteria": {
     "Operator": "AND",
