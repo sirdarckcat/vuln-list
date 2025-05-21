@@ -41,7 +41,7 @@
     "PublishedAt": "2025-05-20T19:35:21Z",
     "Severity": "MODERATE",
     "Summary": "TYPO3 Allows Unrestricted File Upload in File Abstraction Layer",
-    "UpdatedAt": "2025-05-20T19:35:22Z",
+    "UpdatedAt": "2025-05-21T04:39:45Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.4,
