@@ -1,11 +1,9 @@
 {
-  "name": "influxd-2.7",
+  "name": "dask-kubernetes",
   "secfixes": {
-    "0": [
-      "CVE-2024-28180",
-      "CVE-2025-30204",
-      "GHSA-c5q2-7r4c-mv6g",
-      "GHSA-mh63-6h87-95cp"
+    "2025.4.3-r1": [
+      "CVE-2025-47287",
+      "GHSA-7cx3-6m66-7c5m"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
