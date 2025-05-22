@@ -20,6 +20,9 @@
         "Url": "https://typo3.org/security/advisory/typo3-ext-sa-2025-005"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-48203"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-6p8w-pc35-mqv8"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2025-05-21T17:18:16Z",
     "Severity": "MODERATE",
     "Summary": "[clickstorm] SEO (cs_seo) TYPO3 extension Cross-site Scripting (XSS) vulnerability",
-    "UpdatedAt": "2025-05-21T17:18:17Z",
+    "UpdatedAt": "2025-05-21T19:05:01Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.1,
