@@ -1,19 +1,19 @@
 {
-  "Title": "ELSA-2024-9056:  gstreamer1-plugins-base security update (MODERATE)",
-  "Description": "[1.16.1-4.0.1]\n- Update origin URL [Orabug: 36209826]\n\n[1.16.1-4]\n- CVE-2024-4453 gstreamer1: EXIF Metadata Parsing Integer Overflow\n- Resolves: RHEL-38509",
+  "Title": "ELSA-2025-7160:  bootc security update (MODERATE)",
+  "Description": "[1.1.6-3]\n- Backport https://github.com/containers/bootc/pull/1167\n- Resolves: #RHEL-82293\n\n[1.1.5-2]\n- Sync specfile from upstream\n- Resolves: #RHEL-80264\n- Resolves: #RHEL-81981\n\n[1.1.5-1]\n- Update to 1.1.5\n- Resolves: #RHEL-77733\n\n[1.1.4-2]\n- Cherry pick patches for bootc-status-updated\n- Resolves: #RHEL-72862\n\n[1.1.4-1]\n- Update to 1.1.4\n  Resolves: #RHEL-72862",
   "Platform": [
-    "Oracle Linux 8"
+    "Oracle Linux 9"
   ],
   "References": [
     {
       "Source": "elsa",
-      "URI": "https://linux.oracle.com/errata/ELSA-2024-9056.html",
-      "ID": "ELSA-2024-9056"
+      "URI": "https://linux.oracle.com/errata/ELSA-2025-7160.html",
+      "ID": "ELSA-2025-7160"
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-4453.html",
-      "ID": "CVE-2024-4453"
+      "URI": "https://linux.oracle.com/cve/CVE-2025-24898.html",
+      "ID": "CVE-2025-24898"
     }
   ],
   "Criteria": {
@@ -33,10 +33,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "gstreamer1-plugins-base is earlier than 0:1.16.1-4.0.1.el8_10"
+                        "Comment": "bootc is earlier than 0:1.1.6-3.el9_6"
                       },
                       {
-                        "Comment": "gstreamer1-plugins-base is signed with the Oracle Linux 8 key"
+                        "Comment": "bootc is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -45,10 +45,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "gstreamer1-plugins-base-devel is earlier than 0:1.16.1-4.0.1.el8_10"
+                        "Comment": "system-reinstall-bootc is earlier than 0:1.1.6-3.el9_6"
                       },
                       {
-                        "Comment": "gstreamer1-plugins-base-devel is signed with the Oracle Linux 8 key"
+                        "Comment": "system-reinstall-bootc is signed with the Oracle Linux 9 key"
                       }
                     ]
                   }
@@ -73,10 +73,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "gstreamer1-plugins-base-devel is earlier than 0:1.16.1-4.0.1.el8_10"
+                        "Comment": "bootc is earlier than 0:1.1.6-3.el9_6"
                       },
                       {
-                        "Comment": "gstreamer1-plugins-base-devel is signed with the Oracle Linux 8 key"
+                        "Comment": "bootc is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -85,10 +85,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "gstreamer1-plugins-base is earlier than 0:1.16.1-4.0.1.el8_10"
+                        "Comment": "system-reinstall-bootc is earlier than 0:1.1.6-3.el9_6"
                       },
                       {
-                        "Comment": "gstreamer1-plugins-base is signed with the Oracle Linux 8 key"
+                        "Comment": "system-reinstall-bootc is signed with the Oracle Linux 9 key"
                       }
                     ]
                   }
@@ -108,7 +108,7 @@
     ],
     "Criterions": [
       {
-        "Comment": "Oracle Linux 8 is installed"
+        "Comment": "Oracle Linux 9 is installed"
       }
     ]
   },
@@ -116,11 +116,11 @@
   "Cves": [
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-4453.html",
-      "ID": "CVE-2024-4453"
+      "Href": "https://linux.oracle.com/cve/CVE-2025-24898.html",
+      "ID": "CVE-2025-24898"
     }
   ],
   "Issued": {
-    "Date": "2024-11-11"
+    "Date": "2025-05-16"
   }
 }
