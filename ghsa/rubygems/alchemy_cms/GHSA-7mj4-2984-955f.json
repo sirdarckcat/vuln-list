@@ -26,6 +26,9 @@
         "Url": "https://github.com/AlchemyCMS/alchemy_cms/blob/4.1-stable/app/controllers/alchemy/admin/resources_controller.rb#L21"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/alchemy_cms/CVE-2018-18307.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-7mj4-2984-955f"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2022-05-14T01:57:26Z",
     "Severity": "MODERATE",
     "Summary": "AlchemyCMS is vulnerable to stored XSS via the /admin/pictures image field",
-    "UpdatedAt": "2024-03-21T16:02:07Z",
+    "UpdatedAt": "2025-05-22T15:43:59Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.9,

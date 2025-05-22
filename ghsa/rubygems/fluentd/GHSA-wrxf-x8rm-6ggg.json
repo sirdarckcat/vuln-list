@@ -17,6 +17,12 @@
         "Url": "https://github.com/fluent/fluentd/issues/2722"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/fluentd-ui/CVE-2020-21514.yml"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/fluentd/CVE-2020-21514.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-wrxf-x8rm-6ggg"
       }
     ],
@@ -35,7 +41,7 @@
     "PublishedAt": "2023-04-04T15:30:27Z",
     "Severity": "HIGH",
     "Summary": "Fluent Fluentd and Fluent-ui use default password",
-    "UpdatedAt": "2025-02-13T18:45:14Z",
+    "UpdatedAt": "2025-05-22T15:44:54Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.8,
