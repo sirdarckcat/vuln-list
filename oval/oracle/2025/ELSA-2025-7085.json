@@ -1,19 +1,19 @@
 {
-  "Title": "ELSA-2024-9056:  gstreamer1-plugins-base security update (MODERATE)",
-  "Description": "[1.16.1-4.0.1]\n- Update origin URL [Orabug: 36209826]\n\n[1.16.1-4]\n- CVE-2024-4453 gstreamer1: EXIF Metadata Parsing Integer Overflow\n- Resolves: RHEL-38509",
+  "Title": "ELSA-2025-7085:  pcs security update (MODERATE)",
+  "Description": "[0.11.9-2]\n- Fixed restarting bundles\n  Resolves: RHEL-79055\n- Fixed deletion of misconfigured bundles\n  Resolves: RHEL-79160\n- Fixed filtering of resource clones in web console\n  Resolves: RHEL-78653\n- Updated bundled rubygem rack\n  Resolves: RHEL-79500\n\n[0.11.9-1]\n- Rebased pcs to the latest sources (see CHANGELOG.md)\n  Resolves: RHEL-44420\n- Updated pcs-web-ui to 0.1.22\n\n[0.11.8-2]\n- Rebased pcs to the latest sources (see CHANGELOG.md)",
   "Platform": [
-    "Oracle Linux 8"
+    "Oracle Linux 9"
   ],
   "References": [
     {
       "Source": "elsa",
-      "URI": "https://linux.oracle.com/errata/ELSA-2024-9056.html",
-      "ID": "ELSA-2024-9056"
+      "URI": "https://linux.oracle.com/errata/ELSA-2025-7085.html",
+      "ID": "ELSA-2025-7085"
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-4453.html",
-      "ID": "CVE-2024-4453"
+      "URI": "https://linux.oracle.com/cve/CVE-2025-25184.html",
+      "ID": "CVE-2025-25184"
     }
   ],
   "Criteria": {
@@ -33,10 +33,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "gstreamer1-plugins-base is earlier than 0:1.16.1-4.0.1.el8_10"
+                        "Comment": "pcs is earlier than 0:0.11.9-2.el9"
                       },
                       {
-                        "Comment": "gstreamer1-plugins-base is signed with the Oracle Linux 8 key"
+                        "Comment": "pcs is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -45,10 +45,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "gstreamer1-plugins-base-devel is earlier than 0:1.16.1-4.0.1.el8_10"
+                        "Comment": "pcs-snmp is earlier than 0:0.11.9-2.el9"
                       },
                       {
-                        "Comment": "gstreamer1-plugins-base-devel is signed with the Oracle Linux 8 key"
+                        "Comment": "pcs-snmp is signed with the Oracle Linux 9 key"
                       }
                     ]
                   }
@@ -73,10 +73,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "gstreamer1-plugins-base-devel is earlier than 0:1.16.1-4.0.1.el8_10"
+                        "Comment": "pcs is earlier than 0:0.11.9-2.el9"
                       },
                       {
-                        "Comment": "gstreamer1-plugins-base-devel is signed with the Oracle Linux 8 key"
+                        "Comment": "pcs is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -85,10 +85,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "gstreamer1-plugins-base is earlier than 0:1.16.1-4.0.1.el8_10"
+                        "Comment": "pcs-snmp is earlier than 0:0.11.9-2.el9"
                       },
                       {
-                        "Comment": "gstreamer1-plugins-base is signed with the Oracle Linux 8 key"
+                        "Comment": "pcs-snmp is signed with the Oracle Linux 9 key"
                       }
                     ]
                   }
@@ -108,7 +108,7 @@
     ],
     "Criterions": [
       {
-        "Comment": "Oracle Linux 8 is installed"
+        "Comment": "Oracle Linux 9 is installed"
       }
     ]
   },
@@ -116,11 +116,11 @@
   "Cves": [
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-4453.html",
-      "ID": "CVE-2024-4453"
+      "Href": "https://linux.oracle.com/cve/CVE-2025-25184.html",
+      "ID": "CVE-2025-25184"
     }
   ],
   "Issued": {
-    "Date": "2024-11-11"
+    "Date": "2025-05-16"
   }
 }

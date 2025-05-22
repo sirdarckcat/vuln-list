@@ -1,19 +1,19 @@
 {
-  "Title": "ELSA-2024-9056:  gstreamer1-plugins-base security update (MODERATE)",
-  "Description": "[1.16.1-4.0.1]\n- Update origin URL [Orabug: 36209826]\n\n[1.16.1-4]\n- CVE-2024-4453 gstreamer1: EXIF Metadata Parsing Integer Overflow\n- Resolves: RHEL-38509",
+  "Title": "ELSA-2025-7147:  rpm-ostree security update (MODERATE)",
+  "Description": "[2025.5-1]\n- Rebase to 2025.5\n  Resolves: #RHEL-78697\n\n[2025.4-1]\n- Rebase to 2025.4\n  Resolves: #RHEL-68131\n\n[2025.3-1]\n- Rebase to 2025.3\n  Resolves: #RHEL-68131\n\n[2025.2-1]\n- Rebase to 2025.2\n  Resolves: #RHEL-68131\n\n[2025.1-1]\n- Rebase to 2025.1\n  Resolves: #RHEL-68131",
   "Platform": [
-    "Oracle Linux 8"
+    "Oracle Linux 9"
   ],
   "References": [
     {
       "Source": "elsa",
-      "URI": "https://linux.oracle.com/errata/ELSA-2024-9056.html",
-      "ID": "ELSA-2024-9056"
+      "URI": "https://linux.oracle.com/errata/ELSA-2025-7147.html",
+      "ID": "ELSA-2025-7147"
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-4453.html",
-      "ID": "CVE-2024-4453"
+      "URI": "https://linux.oracle.com/cve/CVE-2025-24898.html",
+      "ID": "CVE-2025-24898"
     }
   ],
   "Criteria": {
@@ -33,10 +33,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "gstreamer1-plugins-base is earlier than 0:1.16.1-4.0.1.el8_10"
+                        "Comment": "rpm-ostree is earlier than 0:2025.5-1.el9"
                       },
                       {
-                        "Comment": "gstreamer1-plugins-base is signed with the Oracle Linux 8 key"
+                        "Comment": "rpm-ostree is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -45,10 +45,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "gstreamer1-plugins-base-devel is earlier than 0:1.16.1-4.0.1.el8_10"
+                        "Comment": "rpm-ostree-libs is earlier than 0:2025.5-1.el9"
                       },
                       {
-                        "Comment": "gstreamer1-plugins-base-devel is signed with the Oracle Linux 8 key"
+                        "Comment": "rpm-ostree-libs is signed with the Oracle Linux 9 key"
                       }
                     ]
                   }
@@ -73,10 +73,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "gstreamer1-plugins-base-devel is earlier than 0:1.16.1-4.0.1.el8_10"
+                        "Comment": "rpm-ostree is earlier than 0:2025.5-1.el9"
                       },
                       {
-                        "Comment": "gstreamer1-plugins-base-devel is signed with the Oracle Linux 8 key"
+                        "Comment": "rpm-ostree is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -85,10 +85,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "gstreamer1-plugins-base is earlier than 0:1.16.1-4.0.1.el8_10"
+                        "Comment": "rpm-ostree-libs is earlier than 0:2025.5-1.el9"
                       },
                       {
-                        "Comment": "gstreamer1-plugins-base is signed with the Oracle Linux 8 key"
+                        "Comment": "rpm-ostree-libs is signed with the Oracle Linux 9 key"
                       }
                     ]
                   }
@@ -108,7 +108,7 @@
     ],
     "Criterions": [
       {
-        "Comment": "Oracle Linux 8 is installed"
+        "Comment": "Oracle Linux 9 is installed"
       }
     ]
   },
@@ -116,11 +116,11 @@
   "Cves": [
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-4453.html",
-      "ID": "CVE-2024-4453"
+      "Href": "https://linux.oracle.com/cve/CVE-2025-24898.html",
+      "ID": "CVE-2025-24898"
     }
   ],
   "Issued": {
-    "Date": "2024-11-11"
+    "Date": "2025-05-16"
   }
 }
