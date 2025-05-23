@@ -49,8 +49,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2025-05-16T17:48:55Z",
     "Severity": "CRITICAL",
-    "Summary": "Forgeable Encrypted Session Cookie in Apps Using Auth0-PHP SDK",
-    "UpdatedAt": "2025-05-16T17:48:56Z",
+    "Summary": "Brute Force Authentication Tags of CookieStore Sessions in Auth0-PHP SDK",
+    "UpdatedAt": "2025-05-22T20:03:16Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.1,
