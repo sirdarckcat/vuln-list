@@ -62,7 +62,7 @@
     "PublishedAt": "2021-10-12T17:53:00Z",
     "Severity": "LOW",
     "Summary": "Puma with proxy which forwards LF characters as line endings could allow HTTP request smuggling",
-    "UpdatedAt": "2025-05-27T15:16:15Z",
+    "UpdatedAt": "2025-05-28T16:46:15Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 3.7,
