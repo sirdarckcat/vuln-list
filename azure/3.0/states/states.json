@@ -10,8 +10,26 @@
       }
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:ste:61716002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:8.2.0-16.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:61710002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:8.2.0-16.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:ste:61630002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:3.4.4-5.azl3",
         "Datatype": "evr_string",
@@ -20,7 +38,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:61615002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:3.4.4-5.azl3",
         "Datatype": "evr_string",
@@ -110,7 +128,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:60925002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:8.2.0-14.azl3",
         "Datatype": "evr_string",
@@ -119,7 +137,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:60922002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:8.2.0-14.azl3",
         "Datatype": "evr_string",
@@ -128,7 +146,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:60919002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:8.2.0-14.azl3",
         "Datatype": "evr_string",
@@ -136,8 +154,17 @@
       }
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:ste:60913002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:2.2.2-7.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:ste:60907002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:8.2.0-14.azl3",
         "Datatype": "evr_string",
@@ -146,7 +173,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:60901002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:8.2.0-14.azl3",
         "Datatype": "evr_string",
@@ -158,6 +185,15 @@
       "Version": "1",
       "Evr": {
         "Text": "0:1.7.7-9.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:60886002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:2.11.5-5.azl3",
         "Datatype": "evr_string",
         "Operation": "less than"
       }
@@ -176,6 +212,15 @@
       "Version": "1",
       "Evr": {
         "Text": "0:0.0.10-4.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:60572002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:3.15.2-3.azl3",
         "Datatype": "evr_string",
         "Operation": "less than"
       }
@@ -226,6 +271,24 @@
       }
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:ste:60537002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:1.2.0-17.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:60534002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:1.30.10-7.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:ste:60523002",
       "Version": "1",
       "Evr": {
@@ -244,6 +307,42 @@
       }
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:ste:60492002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:0.37.0-4.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:60485002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:1.31.0-10.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:60479002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:2.7.5-5.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:60474002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:4.0.2-5.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:ste:60458002",
       "Version": "1",
       "Evr": {
@@ -257,6 +356,15 @@
       "Version": "1",
       "Evr": {
         "Text": "0:2.14.1-7.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:60447002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:1.4.0-3.azl3",
         "Datatype": "evr_string",
         "Operation": "less than"
       }
@@ -703,6 +811,15 @@
       }
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:ste:59838002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:3.15.2-3.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:ste:59835002",
       "Version": "1",
       "Evr": {
@@ -743,6 +860,15 @@
       "Version": "1",
       "Evr": {
         "Text": "0:3.1.9-4.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:59740002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:2.11.5-5.azl3",
         "Datatype": "evr_string",
         "Operation": "less than"
       }
@@ -794,7 +920,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:59559002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:3.4.4-5.azl3",
         "Datatype": "evr_string",
@@ -802,8 +928,17 @@
       }
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:ste:59555002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:3.4.4-6.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:ste:59547002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:3.4.4-5.azl3",
         "Datatype": "evr_string",
@@ -812,7 +947,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:59544002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:3.4.4-5.azl3",
         "Datatype": "evr_string",
@@ -821,7 +956,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:59541002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:3.4.4-5.azl3",
         "Datatype": "evr_string",
@@ -1202,6 +1337,15 @@
       "Version": "1",
       "Evr": {
         "Text": "0:2.0.0-8.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:58863002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:0.14.0-5.azl3",
         "Datatype": "evr_string",
         "Operation": "less than"
       }
@@ -6977,7 +7121,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52881005",
-      "Version": "813",
+      "Version": "823",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -6986,7 +7130,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52881002",
-      "Version": "813",
+      "Version": "823",
       "Evr": {
         "Text": "0:1.20.7-1.azl3",
         "Datatype": "evr_string",
@@ -6995,7 +7139,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52878005",
-      "Version": "826",
+      "Version": "836",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7004,7 +7148,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52878002",
-      "Version": "826",
+      "Version": "836",
       "Evr": {
         "Text": "0:1.20.7-1.azl3",
         "Datatype": "evr_string",
@@ -7013,7 +7157,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52875005",
-      "Version": "838",
+      "Version": "848",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7022,7 +7166,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52875002",
-      "Version": "838",
+      "Version": "848",
       "Evr": {
         "Text": "0:1.20.2-1.azl3",
         "Datatype": "evr_string",
@@ -7031,7 +7175,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52863002",
-      "Version": "736",
+      "Version": "746",
       "Evr": {
         "Text": "0:1.18.8-1.azl3",
         "Datatype": "evr_string",
@@ -7040,7 +7184,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52845005",
-      "Version": "818",
+      "Version": "828",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7049,7 +7193,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52845002",
-      "Version": "818",
+      "Version": "828",
       "Evr": {
         "Text": "0: 1.20.10-1.azl3",
         "Datatype": "evr_string",
@@ -7058,7 +7202,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52827005",
-      "Version": "816",
+      "Version": "826",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7067,7 +7211,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52827002",
-      "Version": "816",
+      "Version": "826",
       "Evr": {
         "Text": "0:1.20.7-1.azl3",
         "Datatype": "evr_string",
@@ -7076,7 +7220,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52789005",
-      "Version": "807",
+      "Version": "817",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7085,7 +7229,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52789002",
-      "Version": "807",
+      "Version": "817",
       "Evr": {
         "Text": "0:1.20.7-1.azl3",
         "Datatype": "evr_string",
@@ -7094,7 +7238,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52774005",
-      "Version": "814",
+      "Version": "824",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7103,7 +7247,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52774002",
-      "Version": "814",
+      "Version": "824",
       "Evr": {
         "Text": "0:1.22.9-1.azl3",
         "Datatype": "evr_string",
@@ -7112,7 +7256,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52773005",
-      "Version": "812",
+      "Version": "822",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7121,7 +7265,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52773002",
-      "Version": "812",
+      "Version": "822",
       "Evr": {
         "Text": "0:1.19.12-1.azl3",
         "Datatype": "evr_string",
@@ -7130,7 +7274,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52735005",
-      "Version": "834",
+      "Version": "844",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7139,7 +7283,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52735002",
-      "Version": "834",
+      "Version": "844",
       "Evr": {
         "Text": "0:1.20.10-1.azl3",
         "Datatype": "evr_string",
@@ -7148,7 +7292,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52719005",
-      "Version": "820",
+      "Version": "830",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7157,7 +7301,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52719002",
-      "Version": "820",
+      "Version": "830",
       "Evr": {
         "Text": "0:1.21.0-1.azl3",
         "Datatype": "evr_string",
@@ -7166,7 +7310,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52711005",
-      "Version": "811",
+      "Version": "821",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7175,7 +7319,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52711002",
-      "Version": "811",
+      "Version": "821",
       "Evr": {
         "Text": "0:1.20.7-1.azl3",
         "Datatype": "evr_string",
@@ -7184,7 +7328,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52676005",
-      "Version": "827",
+      "Version": "837",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7193,7 +7337,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52676002",
-      "Version": "827",
+      "Version": "837",
       "Evr": {
         "Text": "0:1.20.7-1.azl3",
         "Datatype": "evr_string",
@@ -7202,7 +7346,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52668005",
-      "Version": "825",
+      "Version": "835",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7211,7 +7355,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52668002",
-      "Version": "825",
+      "Version": "835",
       "Evr": {
         "Text": "0:1.20.7-1.azl3",
         "Datatype": "evr_string",
@@ -7220,7 +7364,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52663005",
-      "Version": "826",
+      "Version": "836",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -7229,7 +7373,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:52663002",
-      "Version": "826",
+      "Version": "836",
       "Evr": {
         "Text": "0:1.22.3-1.azl3",
         "Datatype": "evr_string",
@@ -10796,6 +10940,15 @@
       "Version": "0",
       "Evr": {
         "Text": "0:0.15.0-5.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:49710002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:20240524git3e722403cd16-8.azl3",
         "Datatype": "evr_string",
         "Operation": "less than"
       }
@@ -16229,7 +16382,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:43050002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:8.2.0-14.azl3",
         "Datatype": "evr_string",
@@ -16993,6 +17146,15 @@
       }
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:ste:42310002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:2024.4-3.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:ste:42195002",
       "Version": "1",
       "Evr": {
@@ -17240,6 +17402,15 @@
       "Version": "1",
       "Evr": {
         "Text": "0:3.2.8-1.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:42063002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:20240524git3e722403cd16-8.azl3",
         "Datatype": "evr_string",
         "Operation": "less than"
       }
@@ -18488,7 +18659,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:40375005",
-      "Version": "833",
+      "Version": "843",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -18497,7 +18668,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:40375002",
-      "Version": "833",
+      "Version": "843",
       "Evr": {
         "Text": "0:1.22.3-1.azl3",
         "Datatype": "evr_string",
@@ -18542,7 +18713,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:40346002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:5.1.11-2.azl3",
         "Datatype": "evr_string",
@@ -18551,7 +18722,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:40343002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:5.1.11-2.azl3",
         "Datatype": "evr_string",
@@ -18560,7 +18731,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:40340002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:5.1.11-2.azl3",
         "Datatype": "evr_string",
@@ -18698,6 +18869,15 @@
       "Version": "1",
       "Evr": {
         "Text": "0:1.11.1-2.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:40192002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:20240524git3e722403cd16-8.azl3",
         "Datatype": "evr_string",
         "Operation": "less than"
       }
@@ -21884,6 +22064,24 @@
       "Version": "1",
       "Evr": {
         "Text": "0:3.0-6.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:35395002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:1.3.0-16.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:ste:35384002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:1.3.0-16.azl3",
         "Datatype": "evr_string",
         "Operation": "less than"
       }
@@ -25093,6 +25291,15 @@
       }
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:ste:34806002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:4.1-9.azl3",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:ste:34805002",
       "Version": "1",
       "Evr": {
@@ -25463,7 +25670,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:34745005",
-      "Version": "826",
+      "Version": "838",
       "Evr": {
         "Text": "0:0.0.0.azl3",
         "Datatype": "evr_string",
@@ -25472,7 +25679,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:ste:34745002",
-      "Version": "826",
+      "Version": "838",
       "Evr": {
         "Text": "0:1.20.10-1.azl3",
         "Datatype": "evr_string",
