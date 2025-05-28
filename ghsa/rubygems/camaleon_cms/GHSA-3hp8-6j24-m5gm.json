@@ -31,7 +31,7 @@
     "PublishedAt": "2024-09-23T22:05:58Z",
     "Severity": "HIGH",
     "Summary": "Duplicate Advisory: Camaleon CMS vulnerable to remote code execution through code injection (GHSL-2024-185)",
-    "UpdatedAt": "2025-05-23T20:02:05Z",
+    "UpdatedAt": "2025-05-28T16:43:31Z",
     "WithdrawnAt": "2025-05-23T20:02:04Z",
     "CVSS": {
       "Score": 0,
