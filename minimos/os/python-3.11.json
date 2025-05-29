@@ -1,0 +1,26 @@
+{
+  "name": "python-3.11",
+  "secfixes": {
+    "0": [
+      "CVE-2024-3220",
+      "GHSA-74p9-4v44-wwx5"
+    ],
+    "3.11.11-r0": [
+      "CVE-2024-50602",
+      "CVE-2024-9287",
+      "GHSA-79wf-qgrg-2p6c",
+      "GHSA-grqq-hcc7-crmr"
+    ],
+    "3.11.12-r0": [
+      "CVE-2025-0938",
+      "GHSA-5qjr-cj9f-phrx"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
