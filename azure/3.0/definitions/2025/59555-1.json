@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-05-27T21:13:45.173Z",
+    "AdvisoryDate": "2025-05-28T21:14:38.933Z",
     "AdvisoryID": "59555-1",
     "Severity": "Medium",
     "Description": "CVE-2025-32053 affecting package libsoup for versions less than 3.4.4-6. A patched version of the package is available."
