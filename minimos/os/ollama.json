@@ -1,0 +1,30 @@
+{
+  "name": "ollama",
+  "secfixes": {
+    "0.5.12-r0": [
+      "CVE-2025-1975",
+      "GHSA-wrh5-cmwx-q2qr"
+    ],
+    "0.5.12-r1": [
+      "CVE-2025-22869",
+      "CVE-2025-22870",
+      "GHSA-hcg3-q754-cr77",
+      "GHSA-qxp5-gwg8-xv66"
+    ],
+    "0.6.4-r0": [
+      "CVE-2025-22871",
+      "GHSA-g9pc-8g42-g6vq"
+    ],
+    "0.6.5-r1": [
+      "CVE-2025-22872",
+      "GHSA-vvgc-356p-c3xw"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}

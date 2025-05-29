@@ -1,0 +1,44 @@
+{
+  "name": "grafana-11.6",
+  "secfixes": {
+    "0": [
+      "CVE-2022-31022",
+      "GHSA-9w9f-6mg8-jp7w"
+    ],
+    "11.6.0-r0": [
+      "CVE-2025-3580",
+      "GHSA-gcjf-8x3p-64v2"
+    ],
+    "11.6.0.01-r0": [
+      "CVE-2025-30204",
+      "GHSA-mh63-6h87-95cp"
+    ],
+    "11.6.0.01-r1": [
+      "CVE-2025-22872",
+      "CVE-2025-29923",
+      "GHSA-92cp-5422-2mw7",
+      "GHSA-vvgc-356p-c3xw"
+    ],
+    "11.6.1-r0": [
+      "CVE-2025-4123",
+      "GHSA-q53q-gxq9-mgrj"
+    ],
+    "11.6.2-r0": [
+      "CVE-2025-30153",
+      "CVE-2025-46331",
+      "GHSA-w222-m46c-mgh6",
+      "GHSA-wq9g-9vfc-cfq9"
+    ],
+    "11.6.2-r1": [
+      "CVE-2025-48371",
+      "GHSA-c72g-53hw-82q7"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}

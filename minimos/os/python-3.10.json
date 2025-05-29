@@ -1,0 +1,30 @@
+{
+  "name": "python-3.10",
+  "secfixes": {
+    "0": [
+      "CVE-2023-36632",
+      "CVE-2024-3220",
+      "GHSA-74p9-4v44-wwx5",
+      "GHSA-gv66-v8c8-v69c"
+    ],
+    "3.10.16-r0": [
+      "CVE-2024-11168",
+      "CVE-2024-50602",
+      "CVE-2024-9287",
+      "GHSA-79wf-qgrg-2p6c",
+      "GHSA-grqq-hcc7-crmr",
+      "GHSA-qxg5-mcmp-m3m9"
+    ],
+    "3.10.17-r0": [
+      "CVE-2025-0938",
+      "GHSA-5qjr-cj9f-phrx"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}

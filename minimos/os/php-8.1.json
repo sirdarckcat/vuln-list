@@ -1,0 +1,32 @@
+{
+  "name": "php-8.1",
+  "secfixes": {
+    "0": [
+      "CVE-2017-6485",
+      "CVE-2022-4455",
+      "GHSA-3957-4jhv-xcc7",
+      "GHSA-76rq-rhfj-3qrf"
+    ],
+    "8.1.31-r0": [
+      "CVE-2024-11233",
+      "CVE-2024-11234",
+      "CVE-2024-11236",
+      "CVE-2024-8929",
+      "CVE-2024-8932"
+    ],
+    "8.1.32-r0": [
+      "CVE-2025-1217",
+      "CVE-2025-1219",
+      "CVE-2025-1734",
+      "CVE-2025-1736",
+      "CVE-2025-1861"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "gradle-7",
+  "secfixes": {
+    "7.6.4-r0": [
+      "CVE-2022-46751",
+      "GHSA-2jc4-r94c-rp7h"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
