@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-05-27T21:13:45.173Z",
+    "AdvisoryDate": "2025-05-28T21:14:38.933Z",
     "AdvisoryID": "60537-1",
     "Severity": "Medium",
     "Description": "CVE-2025-22872 affecting package kubevirt for versions less than 1.2.0-17. A patched version of the package is available."
