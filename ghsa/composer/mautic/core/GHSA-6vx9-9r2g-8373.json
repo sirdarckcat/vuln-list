@@ -35,7 +35,7 @@
     "PublishedAt": "2025-05-28T17:39:45Z",
     "Severity": "MODERATE",
     "Summary": "Mautic has an Open Redirect vulnerability on user unlock path.",
-    "UpdatedAt": "2025-05-28T20:04:40Z",
+    "UpdatedAt": "2025-05-29T07:10:08Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.4,
