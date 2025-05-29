@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-05-27T21:13:45.173Z",
+    "AdvisoryDate": "2025-05-28T21:14:38.933Z",
     "AdvisoryID": "34806-1",
     "Severity": "Medium",
     "Description": "CVE-2023-33461 affecting package iniparser for versions less than 4.1-9. A patched version of the package is available."

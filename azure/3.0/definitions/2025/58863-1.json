@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-05-27T21:13:45.173Z",
+    "AdvisoryDate": "2025-05-28T21:14:38.933Z",
     "AdvisoryID": "58863-1",
     "Severity": "Medium",
     "Description": "CVE-2025-0495 affecting package docker-buildx for versions less than 0.14.0-5. A patched version of the package is available."
