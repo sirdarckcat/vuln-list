@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-05-27T21:13:45.173Z",
+    "AdvisoryDate": "2025-05-28T21:14:38.933Z",
     "AdvisoryID": "42310-1",
     "Severity": "Medium",
     "Description": "CVE-2024-2905 affecting package rpm-ostree for versions less than 2024.4-3. A patched version of the package is available."
