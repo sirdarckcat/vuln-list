@@ -1,0 +1,34 @@
+{
+  "name": "apache2",
+  "secfixes": {
+    "0": [
+      "CVE-1999-0289",
+      "CVE-1999-0678",
+      "CVE-1999-1237",
+      "CVE-1999-1412",
+      "CVE-2007-0086",
+      "CVE-2007-0450",
+      "CVE-2007-6421",
+      "CVE-2007-6422",
+      "CVE-2008-2168",
+      "CVE-2025-3891",
+      "GHSA-4425-83hj-m78v",
+      "GHSA-4prh-gqw8-rgh5",
+      "GHSA-65fj-56w9-gr9r",
+      "GHSA-f45g-hj72-h8m6",
+      "GHSA-g65v-mwjw-wg6c",
+      "GHSA-qmrc-358m-f76x",
+      "GHSA-v96g-5j57-774c",
+      "GHSA-vfvv-gfh6-h8qc",
+      "GHSA-w6fh-wrw4-q6vg",
+      "GHSA-wxxw-99hq-72vw"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
