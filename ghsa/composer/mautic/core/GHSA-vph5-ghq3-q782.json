@@ -14,6 +14,9 @@
         "Url": "https://github.com/mautic/mautic/security/advisories/GHSA-vph5-ghq3-q782"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2024-47055"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-vph5-ghq3-q782"
       }
     ],
@@ -32,7 +35,7 @@
     "PublishedAt": "2025-05-28T17:38:58Z",
     "Severity": "MODERATE",
     "Summary": "Mautic segment cloning doesn't have a proper permission check",
-    "UpdatedAt": "2025-05-28T17:38:59Z",
+    "UpdatedAt": "2025-05-28T20:08:20Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.3,
