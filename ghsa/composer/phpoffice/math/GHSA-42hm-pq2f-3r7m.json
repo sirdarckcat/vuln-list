@@ -35,7 +35,7 @@
     "PublishedAt": "2025-05-29T17:27:39Z",
     "Severity": "HIGH",
     "Summary": "PHPOffice Math allows XXE when processing an XML file in the MathML format ",
-    "UpdatedAt": "2025-05-29T17:27:40Z",
+    "UpdatedAt": "2025-05-30T12:10:51Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
