@@ -27,6 +27,10 @@
       {
         "Type": "GHSA",
         "Value": "GHSA-3432-fmrf-7vmh"
+      },
+      {
+        "Type": "CVE",
+        "Value": "CVE-2025-48883"
       }
     ],
     "Description": "### Impact\n\nCSS Selector expressions are not properly encoded, which can lead to XSS (cross-site scripting) vulnerabilities.\n\n### Patches\n\nThis is patched in v1.14.0.\n\n### Workarounds\n\nUsers can apply encoding manually to their selectors, if they are unable to upgrade.",
@@ -34,7 +38,7 @@
     "PublishedAt": "2025-05-28T16:06:03Z",
     "Severity": "MODERATE",
     "Summary": "Chrome PHP is missing encoding in `CssSelector`",
-    "UpdatedAt": "2025-05-28T16:06:05Z",
+    "UpdatedAt": "2025-05-29T21:01:33Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
