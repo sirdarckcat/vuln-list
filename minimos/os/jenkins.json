@@ -24,6 +24,10 @@
       "CVE-2025-31721",
       "GHSA-565r-pf5q-45v6",
       "GHSA-wr6w-jxg7-qpfh"
+    ],
+    "2.512-r2": [
+      "CVE-2025-48734",
+      "GHSA-wxr5-93ph-8wr9"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
