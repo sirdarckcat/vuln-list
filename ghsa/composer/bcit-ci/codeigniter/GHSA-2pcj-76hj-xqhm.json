@@ -1,9 +1,9 @@
 {
   "Severity": "CRITICAL",
-  "UpdatedAt": "2024-04-24T17:49:20Z",
+  "UpdatedAt": "2025-06-02T16:12:45Z",
   "Package": {
     "Ecosystem": "COMPOSER",
-    "Name": "codeigniter4/framework"
+    "Name": "bcit-ci/codeigniter"
   },
   "Advisory": {
     "DatabaseId": 114097,
@@ -38,7 +38,7 @@
     "PublishedAt": "2022-05-17T02:55:21Z",
     "Severity": "CRITICAL",
     "Summary": "CodeIgniter arbitrary code execution",
-    "UpdatedAt": "2024-04-24T17:49:20Z",
+    "UpdatedAt": "2025-06-02T16:12:45Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,
