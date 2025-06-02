@@ -47,7 +47,7 @@
     "PublishedAt": "2025-01-14T15:24:52Z",
     "Severity": "MODERATE",
     "Summary": "TYPO3 Cross-Site Request Forgery in Log Module",
-    "UpdatedAt": "2025-05-20T18:21:00Z",
+    "UpdatedAt": "2025-06-02T07:46:39Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.3,
