@@ -22521,6 +22521,18 @@
   "CVE-2025-37992": {
     "fixed_version": "1"
   },
+  "CVE-2025-37994": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-37995": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-37997": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-37998": {
+    "fixed_version": "1"
+  },
   "CVE-2025-38104": {
     "fixed_version": "1"
   },
