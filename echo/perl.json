@@ -191,7 +191,9 @@
   "CVE-2024-56406": {
     "fixed_version": "5.36.0-7+deb12u2"
   },
-  "CVE-2025-40909": {},
+  "CVE-2025-40909": {
+    "fixed_version": "5.36.0-7+deb12u2-e0"
+  },
   "TEMP-0769606-4AA6CF": {
     "fixed_version": "5.22.0~rc2-1"
   }
