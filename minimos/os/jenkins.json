@@ -25,6 +25,10 @@
       "GHSA-565r-pf5q-45v6",
       "GHSA-wr6w-jxg7-qpfh"
     ],
+    "2.511-r0": [
+      "CVE-2025-22233",
+      "GHSA-4wp7-92pw-q264"
+    ],
     "2.512-r2": [
       "CVE-2025-48734",
       "GHSA-wxr5-93ph-8wr9"
