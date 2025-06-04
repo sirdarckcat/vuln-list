@@ -542,18 +542,6 @@
                         "Criterias": null,
                         "Criterions": [
                           {
-                            "Comment": "python36 is earlier than 0:3.6.8-39.module+el8.10.0+90473+c30184f9"
-                          },
-                          {
-                            "Comment": "python36 is signed with the Oracle Linux 8 key"
-                          }
-                        ]
-                      },
-                      {
-                        "Operator": "AND",
-                        "Criterias": null,
-                        "Criterions": [
-                          {
                             "Comment": "python36-debug is earlier than 0:3.6.8-39.module+el8.10.0+90473+c30184f9"
                           },
                           {
@@ -582,6 +570,18 @@
                           },
                           {
                             "Comment": "python36-rpm-macros is signed with the Oracle Linux 8 key"
+                          }
+                        ]
+                      },
+                      {
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "python36 is earlier than 0:3.6.8-39.module+el8.10.0+90473+c30184f9"
+                          },
+                          {
+                            "Comment": "python36 is signed with the Oracle Linux 8 key"
                           }
                         ]
                       }
