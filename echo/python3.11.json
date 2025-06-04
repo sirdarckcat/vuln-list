@@ -55,14 +55,16 @@
     "fixed_version": "3.11.2-6+deb12u5"
   },
   "CVE-2025-0938": {
-    "fixed_version": "3.11.2-6+deb12u6"
+    "fixed_version": "3.9"
   },
   "CVE-2025-1795": {
-    "fixed_version": "3.11.2-6+deb12u6"
+    "fixed_version": "3.11.2-6+deb12u5-e1"
   },
   "CVE-2025-4138": {},
   "CVE-2025-4330": {},
   "CVE-2025-4435": {},
-  "CVE-2025-4516": {},
+  "CVE-2025-4516": {
+    "fixed_version": "3.11.2-6+deb12u6-e2"
+  },
   "CVE-2025-4517": {}
 }
