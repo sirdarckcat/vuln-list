@@ -1,7 +1,7 @@
 {
   "Class": "vulnerability",
   "ID": "oval:com.microsoft.cbl-mariner:def:61731",
-  "Version": "0",
+  "Version": "1",
   "Metadata": {
     "Title": "CVE-2024-47619 affecting package syslog-ng for versions less than 3.33.2-8",
     "Affected": {
@@ -15,7 +15,7 @@
     },
     "Patchable": "true",
     "AdvisoryDate": "2025-05-15T21:13:19.39Z",
-    "AdvisoryID": "61731",
+    "AdvisoryID": "61731-1",
     "Severity": "High",
     "Description": "CVE-2024-47619 affecting package syslog-ng for versions less than 3.33.2-8. A patched version of the package is available."
   },
