@@ -4,7 +4,7 @@
       "Check": "at least one",
       "Comment": "Package syslog-ng is earlier than 3.33.2-8, affected by CVE-2024-47619",
       "ID": "oval:com.microsoft.cbl-mariner:tst:61731000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:61731001"
       },
@@ -28,7 +28,7 @@
       "Check": "at least one",
       "Comment": "Package busybox is earlier than 1.35.0-14, affected by CVE-2023-39810",
       "ID": "oval:com.microsoft.cbl-mariner:tst:61539000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:61539001"
       },
@@ -130,6 +130,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:60880002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package packer is earlier than 1.9.5-13, affected by CVE-2025-22872",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:60604000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:60604001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:60604002"
       }
     },
     {
