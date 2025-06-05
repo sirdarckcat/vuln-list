@@ -74,7 +74,9 @@
   "CVE-2023-38197": {
     "fixed_version": "5.15.8+dfsg-11+deb12u1"
   },
-  "CVE-2023-45935": {},
+  "CVE-2023-45935": {
+    "fixed_version": "5.15.8+dfsg-11+deb12u3-e1"
+  },
   "CVE-2023-51714": {
     "fixed_version": "5.15.8+dfsg-11+deb12u2"
   },
