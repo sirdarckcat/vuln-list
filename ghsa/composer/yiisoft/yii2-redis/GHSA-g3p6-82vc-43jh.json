@@ -17,6 +17,9 @@
         "Url": "https://github.com/yiisoft/yii2-redis/commit/962252d2c57c187181e67bb66da3f27b4698358d"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-48493"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-g3p6-82vc-43jh"
       }
     ],
@@ -35,7 +38,7 @@
     "PublishedAt": "2025-06-05T16:53:23Z",
     "Severity": "MODERATE",
     "Summary": "Yii 2 Redis may expose AUTH paramters in logs in case of connection failure",
-    "UpdatedAt": "2025-06-05T16:53:24Z",
+    "UpdatedAt": "2025-06-05T20:14:49Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
