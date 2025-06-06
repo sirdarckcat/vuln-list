@@ -9,7 +9,7 @@
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2025-06-03T13:41:52Z",
+        "Date": "2025-06-06T12:52:04Z",
         "Description": "current"
       }
     ]
@@ -10546,7 +10546,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": null,
