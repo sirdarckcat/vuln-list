@@ -37,8 +37,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2025-06-05T16:53:23Z",
     "Severity": "MODERATE",
-    "Summary": "Yii 2 Redis may expose AUTH paramters in logs in case of connection failure",
-    "UpdatedAt": "2025-06-05T20:14:49Z",
+    "Summary": "Yii 2 Redis may expose AUTH parameters in logs in case of connection failure",
+    "UpdatedAt": "2025-06-06T15:59:57Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
