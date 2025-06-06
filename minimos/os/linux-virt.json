@@ -624,6 +624,16 @@
     "6.12.25-r0": [
       "CVE-2025-37838",
       "GHSA-m8p9-q552-5h79"
+    ],
+    "6.12.27-r0": [
+      "CVE-2025-37800",
+      "CVE-2025-37801",
+      "CVE-2025-37802",
+      "CVE-2025-37805",
+      "GHSA-3g6q-j56q-qw54",
+      "GHSA-56c5-8gc7-wj67",
+      "GHSA-fg4q-8p94-mj4j",
+      "GHSA-vp37-f5jx-gpcx"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
