@@ -23,6 +23,9 @@
         "Url": "https://github.com/rack/rack/commit/aed514df37e33907df3c971ed3ca9a0a20ac2901"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/rack/CVE-2025-49007.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-47m2-26rw-j2jw"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2025-06-05T05:21:34Z",
     "Severity": "MODERATE",
     "Summary": "ReDoS Vulnerability in Rack::Multipart handle_mime_head",
-    "UpdatedAt": "2025-06-05T05:21:36Z",
+    "UpdatedAt": "2025-06-05T20:15:09Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
