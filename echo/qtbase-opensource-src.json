@@ -86,5 +86,7 @@
   "CVE-2024-39936": {
     "fixed_version": "5.15.8+dfsg-11+deb12u3"
   },
-  "CVE-2025-5455": {}
+  "CVE-2025-5455": {
+    "fixed_version": "5.15.8+dfsg-11+deb12u3-e2"
+  }
 }
