@@ -41,6 +41,9 @@
         "Url": "http://www.openwall.com/lists/oss-security/2025/06/02/3"
       },
       {
+        "Url": "https://lists.debian.org/debian-lts-announce/2025/06/msg00008.html"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-8j8w-wwqc-x596"
       }
     ],
@@ -59,7 +62,7 @@
     "PublishedAt": "2025-06-02T06:30:32Z",
     "Severity": "CRITICAL",
     "Summary": "Roundcube Webmail Vulnerable to Authenticated RCE via PHP Object Deserialization",
-    "UpdatedAt": "2025-06-06T22:18:42Z",
+    "UpdatedAt": "2025-06-09T06:30:22Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 10,
