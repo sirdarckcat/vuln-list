@@ -23,6 +23,9 @@
         "Url": "https://github.com/bcit-ci/CodeIgniter/commit/800a20d6c4662d99ae0988b2f8f2238bb8bb29db"
       },
       {
+        "Url": "https://www.codeigniter.com/user_guide/changelog.html"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-g434-3q2j-hj4r"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2022-05-14T03:08:36Z",
     "Severity": "CRITICAL",
     "Summary": "CodeIgniter Session Fixation Vulnerability",
-    "UpdatedAt": "2023-07-25T21:29:46Z",
+    "UpdatedAt": "2025-06-09T12:11:15Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,
