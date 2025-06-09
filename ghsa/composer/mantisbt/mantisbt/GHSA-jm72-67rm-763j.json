@@ -40,8 +40,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2022-04-21T01:54:03Z",
     "Severity": "HIGH",
-    "Summary": "MantisBT Insufficient Session Experation allows for credential theft",
-    "UpdatedAt": "2025-05-28T23:02:26Z",
+    "Summary": "MantisBT Insufficient Session Expiration cookie string not reset after logout",
+    "UpdatedAt": "2025-06-09T17:48:34Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.1,
