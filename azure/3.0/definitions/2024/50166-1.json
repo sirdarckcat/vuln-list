@@ -17,7 +17,7 @@
     "AdvisoryDate": "2024-11-08T21:38:16Z",
     "AdvisoryID": "50166-1",
     "Severity": "Low",
-    "Description": "CVE-2024-8925 affecting package php for versions less than 8.3.12-1. An upgraded version of the package is available that resolves this issue."
+    "Description": "CVE-2024-8925 affecting package php for versions less than 8.3.12-1. A patched version of the package is available."
   },
   "Criteria": {
     "Operator": "AND",
