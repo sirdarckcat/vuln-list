@@ -17,6 +17,9 @@
         "Url": "https://github.com/haxtheweb/haxcms-php/blob/b158d8ba1f9602af92ab084fd03b418f953079fd/system/backend/php/lib/HAXCMSSite.php#L1248"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-49138"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-hxrr-x32w-cg8g"
       }
     ],
@@ -35,7 +38,7 @@
     "PublishedAt": "2025-06-09T17:47:06Z",
     "Severity": "MODERATE",
     "Summary": "HAX CMS vulnerable to Local File Inclusion via saveOutline API Location Parameter",
-    "UpdatedAt": "2025-06-09T17:47:07Z",
+    "UpdatedAt": "2025-06-09T21:44:04Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,
