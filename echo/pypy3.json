@@ -11,7 +11,9 @@
   "CVE-2020-27619": {
     "fixed_version": "7.3.5+dfsg-2"
   },
-  "CVE-2020-29651": {},
+  "CVE-2020-29651": {
+    "fixed_version": "7.3.5+dfsg-2+deb11u4"
+  },
   "CVE-2021-23336": {
     "fixed_version": "7.3.3+dfsg-3"
   },

@@ -1,7 +1,13 @@
 {
   "CVE-2021-45907": {},
   "CVE-2021-45908": {},
-  "CVE-2021-45909": {},
-  "CVE-2021-45910": {},
-  "CVE-2021-45911": {}
+  "CVE-2021-45909": {
+    "fixed_version": "1.9+srconly-3+deb11u1"
+  },
+  "CVE-2021-45910": {
+    "fixed_version": "1.9+srconly-3+deb11u1"
+  },
+  "CVE-2021-45911": {
+    "fixed_version": "1.9+srconly-3+deb11u1"
+  }
 }
