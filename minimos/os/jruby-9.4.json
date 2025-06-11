@@ -8,6 +8,10 @@
     "9.4.12.1-r0": [
       "CVE-2025-46551",
       "GHSA-72qj-48g4-5xgx"
+    ],
+    "9.4.13.0-r0": [
+      "CVE-2025-43857",
+      "GHSA-j3g3-5qv5-52mj"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
