@@ -1,17 +1,1 @@
-{
-  "CVE-2002-0825": {
-    "fixed_version": "199-1"
-  },
-  "CVE-2003-0734": {
-    "fixed_version": "207-1"
-  },
-  "CVE-2005-2069": {
-    "fixed_version": "238-1.1"
-  },
-  "CVE-2007-5794": {
-    "fixed_version": "256-1"
-  },
-  "TEMP-0169793-0E1404": {
-    "fixed_version": "199-1"
-  }
-}
+{}
