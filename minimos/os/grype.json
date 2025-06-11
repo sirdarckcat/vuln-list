@@ -12,6 +12,9 @@
     "0.91.0-r1": [
       "CVE-2025-22871",
       "GHSA-g9pc-8g42-g6vq"
+    ],
+    "0.91.1-r0": [
+      "GHSA-2x5j-vhc8-9cwm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
