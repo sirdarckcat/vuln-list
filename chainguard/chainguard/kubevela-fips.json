@@ -1,0 +1,16 @@
+{
+  "name": "kubevela-fips",
+  "secfixes": {
+    "0": [
+      "CVE-2025-30153",
+      "GHSA-wq9g-9vfc-cfq9"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}

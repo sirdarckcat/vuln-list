@@ -1,0 +1,20 @@
+{
+  "name": "apache-nifi-registry",
+  "secfixes": {
+    "2.4.0-r1": [
+      "CVE-2025-4949",
+      "GHSA-vrpq-qp53-qv56"
+    ],
+    "2.4.0-r2": [
+      "CVE-2025-22233",
+      "GHSA-4wp7-92pw-q264"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
