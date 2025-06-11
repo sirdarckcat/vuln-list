@@ -52,6 +52,9 @@
       "CVE-2025-46331",
       "GHSA-w222-m46c-mgh6",
       "GHSA-wq9g-9vfc-cfq9"
+    ],
+    "11.5.5-r3": [
+      "GHSA-2x5j-vhc8-9cwm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
