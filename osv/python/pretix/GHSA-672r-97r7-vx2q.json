@@ -1,9 +1,10 @@
 {
   "id": "GHSA-672r-97r7-vx2q",
-  "modified": "2024-12-04T05:50:48.749647Z",
+  "modified": "2025-06-11T15:57:04.416003Z",
   "published": "2024-02-26T18:30:31Z",
   "aliases": [
-    "CVE-2024-27447"
+    "CVE-2024-27447",
+    "PYSEC-2024-253"
   ],
   "summary": "pretix mishandles file validation",
   "details": "pretix before 2024.1.1 mishandles file validation.",
