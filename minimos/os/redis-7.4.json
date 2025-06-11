@@ -13,6 +13,9 @@
     ],
     "7.4.3-r0": [
       "CVE-2025-21605"
+    ],
+    "7.4.4-r0": [
+      "CVE-2025-27151"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
