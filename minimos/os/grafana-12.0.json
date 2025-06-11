@@ -1,0 +1,17 @@
+{
+  "name": "grafana-12.0",
+  "secfixes": {
+    "12.0.1-r1": [
+      "CVE-2025-48371",
+      "GHSA-2x5j-vhc8-9cwm",
+      "GHSA-c72g-53hw-82q7"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
