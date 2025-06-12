@@ -27,6 +27,10 @@
       "GHSA-rhx6-c78j-4q9w",
       "GHSA-w4m6-x6c2-j5c9",
       "GHSA-wm7h-9275-46v2"
+    ],
+    "2.12.3-r3": [
+      "CVE-2025-5889",
+      "GHSA-v6h2-p8h4-qcjw"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
