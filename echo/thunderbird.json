@@ -2009,9 +2009,6 @@
   "CVE-2025-3875": {
     "fixed_version": "1:128.10.1esr-1~deb12u1"
   },
-  "CVE-2025-3877": {
-    "fixed_version": "1:128.10.1esr-1~deb12u1"
-  },
   "CVE-2025-3909": {
     "fixed_version": "1:128.10.1esr-1~deb12u1"
   },
