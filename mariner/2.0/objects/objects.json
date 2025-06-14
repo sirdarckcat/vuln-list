@@ -8756,11 +8756,6 @@
       "Name": "reaper"
     },
     {
-      "ID": "oval:com.microsoft.cbl-mariner:obj:34438001",
-      "Version": "1",
-      "Name": "openvswitch"
-    },
-    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:34419001",
       "Version": "1",
       "Name": "dnsmasq"
