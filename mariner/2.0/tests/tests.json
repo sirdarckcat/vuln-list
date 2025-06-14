@@ -21014,18 +21014,6 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package openvswitch is earlier than 2.17.9-1, affected by CVE-2023-3966",
-      "ID": "oval:com.microsoft.cbl-mariner:tst:34438000",
-      "Version": "1",
-      "Object": {
-        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:34438001"
-      },
-      "State": {
-        "StateRef": "oval:com.microsoft.cbl-mariner:ste:34438002"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "Package dnsmasq is earlier than 2.90-1, affected by CVE-2023-50387",
       "ID": "oval:com.microsoft.cbl-mariner:tst:34419000",
       "Version": "1",
