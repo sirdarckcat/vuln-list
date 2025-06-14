@@ -44,6 +44,12 @@
         "Url": "https://lists.debian.org/debian-lts-announce/2025/06/msg00008.html"
       },
       {
+        "Url": "https://www.vicarius.io/vsociety/posts/cve-2025-49113-roundcube-mitigation-script"
+      },
+      {
+        "Url": "https://www.vicarius.io/vsociety/posts/cve-2025-49113-roundcube-vulnerability-detection"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-8j8w-wwqc-x596"
       }
     ],
@@ -62,7 +68,7 @@
     "PublishedAt": "2025-06-02T06:30:32Z",
     "Severity": "CRITICAL",
     "Summary": "Roundcube Webmail Vulnerable to Authenticated RCE via PHP Object Deserialization",
-    "UpdatedAt": "2025-06-09T06:30:22Z",
+    "UpdatedAt": "2025-06-13T20:45:45Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 10,
