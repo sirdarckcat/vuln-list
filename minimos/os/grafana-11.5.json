@@ -54,7 +54,13 @@
       "GHSA-wq9g-9vfc-cfq9"
     ],
     "11.5.5-r3": [
-      "GHSA-2x5j-vhc8-9cwm"
+      "CVE-2025-0913",
+      "CVE-2025-22874",
+      "CVE-2025-4673",
+      "GHSA-2x5j-vhc8-9cwm",
+      "GHSA-62jj-gr2r-5c34",
+      "GHSA-6f52-wpx2-hvf2",
+      "GHSA-jw54-c8rr-pjpq"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
