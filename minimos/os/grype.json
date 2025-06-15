@@ -15,6 +15,14 @@
     ],
     "0.91.1-r0": [
       "GHSA-2x5j-vhc8-9cwm"
+    ],
+    "0.93.0-r0": [
+      "CVE-2025-0913",
+      "CVE-2025-22874",
+      "CVE-2025-4673",
+      "GHSA-62jj-gr2r-5c34",
+      "GHSA-6f52-wpx2-hvf2",
+      "GHSA-jw54-c8rr-pjpq"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
