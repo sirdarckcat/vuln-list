@@ -6,6 +6,10 @@
       "CVE-2017-12159",
       "GHSA-7fmw-85qm-h22p",
       "GHSA-v38p-mqq3-m6v5"
+    ],
+    "26.2.5-r1": [
+      "CVE-2025-49146",
+      "GHSA-hq9p-pm7w-8p54"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
