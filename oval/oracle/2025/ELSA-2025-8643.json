@@ -27,11 +27,6 @@
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2025-37785.html",
-      "ID": "CVE-2025-37785"
-    },
-    {
-      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2025-21997.html",
       "ID": "CVE-2025-21997"
     },
@@ -39,6 +34,11 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2025-22055.html",
       "ID": "CVE-2025-22055"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-37785.html",
+      "ID": "CVE-2025-37785"
     }
   ],
   "Criteria": {
@@ -564,11 +564,6 @@
     },
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2025-37785.html",
-      "ID": "CVE-2025-37785"
-    },
-    {
-      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2025-21997.html",
       "ID": "CVE-2025-21997"
     },
@@ -576,6 +571,11 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2025-22055.html",
       "ID": "CVE-2025-22055"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2025-37785.html",
+      "ID": "CVE-2025-37785"
     }
   ],
   "Issued": {
