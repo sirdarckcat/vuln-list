@@ -1,19 +1,9 @@
 {
-  "name": "openjdk-11",
+  "name": "openjdk-23",
   "secfixes": {
-    "11.0.25-r2": [
-      "CVE-2023-21830",
-      "GHSA-xw85-qpwr-ch8h"
-    ],
-    "11.0.26-r0": [
+    "23.0.2-r0": [
       "CVE-2025-21502",
       "GHSA-46mv-5cpj-wjxv"
-    ],
-    "11.0.27-r0": [
-      "CVE-2025-21587",
-      "CVE-2025-30698",
-      "GHSA-3fvx-r9r8-xq97",
-      "GHSA-7f6c-8chx-2vm5"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
