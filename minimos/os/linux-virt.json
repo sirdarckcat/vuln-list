@@ -2,6 +2,12 @@
   "name": "linux-virt",
   "secfixes": {
     "6.12.10-r0": [
+      "CVE-1999-0656",
+      "CVE-2007-4998",
+      "CVE-2010-4563",
+      "CVE-2020-25672",
+      "CVE-2021-3669",
+      "CVE-2022-4543",
       "CVE-2023-6270",
       "CVE-2024-38381",
       "CVE-2025-21794",
@@ -11,10 +17,16 @@
       "CVE-2025-22032",
       "GHSA-238v-q38r-8xqp",
       "GHSA-24cr-7gmf-xxwh",
+      "GHSA-252r-7vwr-8rfh",
+      "GHSA-4337-x4h9-rx8j",
       "GHSA-55m7-vg72-9vx3",
       "GHSA-5f2m-5gjf-8mqg",
+      "GHSA-75cj-jpmc-wm6c",
       "GHSA-8868-h956-r68g",
       "GHSA-c5f2-596r-9c4q",
+      "GHSA-cgrg-f7m4-p242",
+      "GHSA-fr2g-fcjj-v8hc",
+      "GHSA-jm6x-w8xx-hpwq",
       "GHSA-prhq-c3gx-jhwg"
     ],
     "6.12.11-r0": [
