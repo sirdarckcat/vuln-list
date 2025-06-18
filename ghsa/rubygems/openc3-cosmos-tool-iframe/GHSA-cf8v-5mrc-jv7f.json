@@ -20,6 +20,9 @@
         "Url": "https://visionspace.com/openc3-cosmos-a-security-assessment-of-an-open-source-mission-framework"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/openc3-cosmos-tool-iframe/CVE-2025-28382.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-cf8v-5mrc-jv7f"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2025-06-13T15:30:31Z",
     "Severity": "HIGH",
     "Summary": "OpenC3 COSMOS Vulnerable to Directory Traversal via openc3-api/tables endpoint",
-    "UpdatedAt": "2025-06-16T13:04:20Z",
+    "UpdatedAt": "2025-06-17T19:59:29Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
