@@ -16,6 +16,7 @@
     "11.4.3-r0": [
       "CVE-2024-51744",
       "CVE-2024-56323",
+      "CVE-2025-1088",
       "CVE-2025-22869",
       "CVE-2025-22870",
       "CVE-2025-25196",
@@ -27,6 +28,7 @@
       "GHSA-32q6-rr98-cjqv",
       "GHSA-9j65-rv5x-4vrf",
       "GHSA-c6gw-w398-hv78",
+      "GHSA-crvv-6w6h-cv34",
       "GHSA-g4v5-6f5p-m38j",
       "GHSA-hcg3-q754-cr77",
       "GHSA-p2mq-5mvf-j4j6",
