@@ -1,6 +1,6 @@
 {
   "Title": "ELSA-2025-8696:  perl-FCGI:0.78 security update (IMPORTANT)",
-  "Description": "perl-FCGI\n[1:0.78-12]\n- Fix CVE-2025-40907 (integer overflow when parsing FastCGI parameters)\n\nperl-FCGI\n[1:0.78-12]\n- Fix CVE-2025-40907 (integer overflow when parsing FastCGI parameters)\n\nperl-FCGI\n[1:0.78-12]\n- Fix CVE-2025-40907 (integer overflow when parsing FastCGI parameters)\n\nperl-FCGI\n[1:0.78-12]\n- Fix CVE-2025-40907 (integer overflow when parsing FastCGI parameters)\n\nperl-FCGI\n[1:0.78-12]\n- Fix CVE-2025-40907 (integer overflow when parsing FastCGI parameters)\n\nperl-FCGI\n[1:0.78-12]\n- Fix CVE-2025-40907 (integer overflow when parsing FastCGI parameters)",
+  "Description": "perl-FCGI\n[1:0.78-12]\n- Fix CVE-2025-40907 (integer overflow when parsing FastCGI parameters)\n\nperl-FCGI\n[1:0.78-12]\n- Fix CVE-2025-40907 (integer overflow when parsing FastCGI parameters)\n\nperl-FCGI\n[1:0.78-12]\n- Fix CVE-2025-40907 (integer overflow when parsing FastCGI parameters)\n\nperl-FCGI\n[1:0.78-12]\n- Fix CVE-2025-40907 (integer overflow when parsing FastCGI parameters)",
   "Platform": [
     "Oracle Linux 8"
   ],
@@ -189,6 +189,6 @@
     }
   ],
   "Issued": {
-    "Date": "2025-06-10"
+    "Date": "2025-06-18"
   }
 }
