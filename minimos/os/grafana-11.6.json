@@ -26,8 +26,10 @@
       "GHSA-q53q-gxq9-mgrj"
     ],
     "11.6.2-r0": [
+      "CVE-2025-1088",
       "CVE-2025-30153",
       "CVE-2025-46331",
+      "GHSA-crvv-6w6h-cv34",
       "GHSA-w222-m46c-mgh6",
       "GHSA-wq9g-9vfc-cfq9"
     ],
