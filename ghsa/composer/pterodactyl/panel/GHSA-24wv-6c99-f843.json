@@ -20,6 +20,9 @@
         "Url": "https://github.com/pterodactyl/panel/releases/tag/v1.11.11"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-49132"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-24wv-6c99-f843"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2025-06-19T19:55:27Z",
     "Severity": "CRITICAL",
     "Summary": "Pterodactyl Panel Allows Unauthenticated Arbitrary Remote Code Execution",
-    "UpdatedAt": "2025-06-19T19:55:28Z",
+    "UpdatedAt": "2025-06-20T22:21:17Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 10,
