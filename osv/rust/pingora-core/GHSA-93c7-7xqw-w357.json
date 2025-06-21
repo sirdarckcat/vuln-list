@@ -1,7 +1,11 @@
 {
   "id": "GHSA-93c7-7xqw-w357",
-  "modified": "2025-06-20T18:07:47Z",
+  "modified": "2025-06-20T18:42:06.854880Z",
   "published": "2025-06-20T18:07:47Z",
+  "aliases": [
+    "CVE-2025-4366",
+    "RUSTSEC-2025-0037"
+  ],
   "summary": "Pingora has a Request Smuggling Vulnerability",
   "details": "A request smuggling vulnerability identified within Pingora’s proxying framework, pingora-proxy, allows malicious HTTP requests to be injected via manipulated request bodies on cache HITs, leading to unauthorized request execution and potential cache poisoning.\n\n### Fixed in\nhttps://github.com/cloudflare/pingora/commit/fda3317ec822678564d641e7cf1c9b77ee3759ff \n\n### Impact\nThe issue could lead to request smuggling in cases where Pingora’s proxying framework, pingora-proxy, is used for caching allowing an attacker to manipulate headers and URLs in subsequent requests made on the same HTTP/1.1 connection.",
   "affected": [
