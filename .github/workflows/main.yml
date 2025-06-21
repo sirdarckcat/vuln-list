@@ -35,9 +35,9 @@ jobs:
       - name: Obtain RedHat CVEs
         run: |
           wget -nv https://github.com/aquasecurity/vuln-list-redhat/archive/refs/heads/main.zip
-          unzip main.zip
+          unzip main.zip 'vuln-list-redhat-main/*/CVE-202*/*'
           rm main.zip
-          jq '(.|select(.package_state[].package_name=="kernel")|{cve:.name,references:(.references|map(.|split("\n"))),commits:(.references|map(capture("(?<commit>[0-9a-f]{40})";"gi")|.commit))})' vuln-list-redhat-main/*/CVE-202* 2>/dev/null | jq -s . > redhat_kernel.json
+          jq '(.|select(.package_state[].package_name=="kernel")|{cve:.name,references:(.references|map(.|split("\n"))),commits:(.references|map(capture("(?<commit>[0-9a-f]{40})";"gi")|.commit))})' vuln-list-redhat-main/*/CVE-* 2>/dev/null | jq -s . > redhat_kernel.json
           rm -rf vuln-list-redhat-main
       - name: Obtain NVD CVEs
         run: |
