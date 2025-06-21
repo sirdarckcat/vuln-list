@@ -9,6 +9,9 @@
       "GHSA-6f52-wpx2-hvf2",
       "GHSA-jw54-c8rr-pjpq"
     ],
+    "2.10.0-r2": [
+      "GHSA-vrw8-fxc6-2r93"
+    ],
     "2.8.4-r0": [
       "GHSA-2x5j-vhc8-9cwm"
     ],
