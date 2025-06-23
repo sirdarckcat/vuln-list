@@ -8,6 +8,10 @@
       "GHSA-2q66-6w43-8rm9",
       "GHSA-722w-734r-qg74",
       "GHSA-cw9m-pj72-3cj5"
+    ],
+    "3.8.0-r0": [
+      "CVE-2025-5914",
+      "GHSA-7376-x4rm-3v8x"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
