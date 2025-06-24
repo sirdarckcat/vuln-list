@@ -332,7 +332,9 @@
   "CVE-2018-1140": {
     "fixed_version": "2:4.8.4+dfsg-1"
   },
-  "CVE-2018-14628": {},
+  "CVE-2018-14628": {
+    "fixed_version": "2:4.17.12+dfsg-0+deb12u1-e1"
+  },
   "CVE-2018-14629": {
     "fixed_version": "2:4.9.2+dfsg-2"
   },
