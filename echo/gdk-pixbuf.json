@@ -86,5 +86,7 @@
   "CVE-2022-48622": {
     "fixed_version": "2.42.10+dfsg-1+deb12u1"
   },
-  "CVE-2025-6199": {}
+  "CVE-2025-6199": {
+    "fixed_version": "2.42.10+dfsg-1+deb12u2"
+  }
 }
