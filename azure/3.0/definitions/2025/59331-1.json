@@ -17,7 +17,7 @@
     "AdvisoryDate": "2025-04-01T15:08:29.607Z",
     "AdvisoryID": "59331-1",
     "Severity": "Medium",
-    "Description": "CVE-2025-1736 affecting package php for versions less than 8.3.19-1. A patched version of the package is available."
+    "Description": "CVE-2025-1736 affecting package php for versions less than 8.3.19-1. An upgraded version of the package is available that resolves this issue."
   },
   "Criteria": {
     "Operator": "AND",
