@@ -17,7 +17,7 @@
     "AdvisoryDate": "2024-11-08T21:38:16Z",
     "AdvisoryID": "50867-1",
     "Severity": "Medium",
-    "Description": "CVE-2024-47683 affecting package kernel for versions less than 6.6.56.1-5. A patched version of the package is available."
+    "Description": "CVE-2024-47683 affecting package kernel for versions less than 6.6.56.1-5. An upgraded version of the package is available that resolves this issue."
   },
   "Criteria": {
     "Operator": "AND",
