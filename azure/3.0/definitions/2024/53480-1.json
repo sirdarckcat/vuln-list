@@ -17,7 +17,7 @@
     "AdvisoryDate": "2024-12-17T23:15:16Z",
     "AdvisoryID": "53480-1",
     "Severity": "Critical",
-    "Description": "CVE-2024-8932 affecting package php for versions less than 8.3.14-1. A patched version of the package is available."
+    "Description": "CVE-2024-8932 affecting package php for versions less than 8.3.14-1. An upgraded version of the package is available that resolves this issue."
   },
   "Criteria": {
     "Operator": "AND",
