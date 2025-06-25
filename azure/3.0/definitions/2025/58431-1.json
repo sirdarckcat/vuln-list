@@ -17,7 +17,7 @@
     "AdvisoryDate": "2025-04-12T00:00:00Z",
     "AdvisoryID": "58431-1",
     "Severity": "Medium",
-    "Description": "CVE-2025-21490 affecting package mysql for versions less than 8.0.41-1. A patched version of the package is available."
+    "Description": "CVE-2025-21490 affecting package mysql for versions less than 8.0.41-1. An upgraded version of the package is available that resolves this issue."
   },
   "Criteria": {
     "Operator": "AND",
