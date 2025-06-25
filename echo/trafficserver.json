@@ -197,13 +197,19 @@
   "CVE-2024-50306": {
     "fixed_version": "9.2.5+ds-0+deb12u2"
   },
-  "CVE-2024-53868": {},
+  "CVE-2024-53868": {
+    "fixed_version": "9.2.5+ds-0+deb12u3"
+  },
   "CVE-2024-56195": {
     "fixed_version": "9.2.5+ds-0+deb12u2"
   },
   "CVE-2024-56202": {
     "fixed_version": "9.2.5+ds-0+deb12u2"
   },
-  "CVE-2025-31698": {},
-  "CVE-2025-49763": {}
+  "CVE-2025-31698": {
+    "fixed_version": "9.2.5+ds-0+deb12u3"
+  },
+  "CVE-2025-49763": {
+    "fixed_version": "9.2.5+ds-0+deb12u3"
+  }
 }
