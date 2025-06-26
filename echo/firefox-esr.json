@@ -2254,8 +2254,16 @@
   "CVE-2025-5283": {
     "fixed_version": "128.11.0esr-1~deb12u1"
   },
-  "CVE-2025-6424": {},
-  "CVE-2025-6425": {},
-  "CVE-2025-6429": {},
-  "CVE-2025-6430": {}
+  "CVE-2025-6424": {
+    "fixed_version": "128.12.0esr-1~deb12u1"
+  },
+  "CVE-2025-6425": {
+    "fixed_version": "128.12.0esr-1~deb12u1"
+  },
+  "CVE-2025-6429": {
+    "fixed_version": "128.12.0esr-1~deb12u1"
+  },
+  "CVE-2025-6430": {
+    "fixed_version": "128.12.0esr-1~deb12u1"
+  }
 }
