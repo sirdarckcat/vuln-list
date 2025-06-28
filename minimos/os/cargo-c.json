@@ -4,6 +4,10 @@
     "0.10.12-r0": [
       "CVE-2025-4574",
       "GHSA-pg9f-39pc-qf8g"
+    ],
+    "0.10.14-r0": [
+      "CVE-2025-31130",
+      "GHSA-2frx-2596-x5r6"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
