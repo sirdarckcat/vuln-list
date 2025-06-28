@@ -1,6 +1,9 @@
 {
   "name": "kube-state-metrics",
   "secfixes": {
+    "2.15.0-r0": [
+      "GHSA-fv92-fjc5-jj9h"
+    ],
     "2.15.0-r1": [
       "CVE-2025-22869",
       "CVE-2025-22870",
