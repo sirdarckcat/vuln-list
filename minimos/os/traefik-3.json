@@ -70,6 +70,9 @@
       "GHSA-62jj-gr2r-5c34",
       "GHSA-6f52-wpx2-hvf2",
       "GHSA-jw54-c8rr-pjpq"
+    ],
+    "3.4.3-r1": [
+      "GHSA-fv92-fjc5-jj9h"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

@@ -9,6 +9,7 @@
       "CVE-2025-3580",
       "CVE-2025-48371",
       "GHSA-c72g-53hw-82q7",
+      "GHSA-fv92-fjc5-jj9h",
       "GHSA-gcjf-8x3p-64v2"
     ],
     "11.5.3-r0": [
