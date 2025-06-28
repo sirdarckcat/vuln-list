@@ -11,6 +11,9 @@
       "GHSA-6f52-wpx2-hvf2",
       "GHSA-c72g-53hw-82q7",
       "GHSA-jw54-c8rr-pjpq"
+    ],
+    "12.0.2-r1": [
+      "GHSA-fv92-fjc5-jj9h"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
