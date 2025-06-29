@@ -20,6 +20,12 @@
       "GHSA-rq77-p4h8-4crw",
       "GHSA-v778-237x-gjrc",
       "GHSA-vvgc-356p-c3xw"
+    ],
+    "2.11.2-r3": [
+      "CVE-2024-55885",
+      "CVE-2025-30223",
+      "GHSA-2j42-h78h-q4fg",
+      "GHSA-9j3m-fr7q-jxfw"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
