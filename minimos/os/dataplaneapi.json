@@ -1,6 +1,9 @@
 {
   "name": "dataplaneapi",
   "secfixes": {
+    "3.0.4-r0": [
+      "GHSA-fv92-fjc5-jj9h"
+    ],
     "3.0.4-r1": [
       "CVE-2024-45336",
       "CVE-2024-45341",
