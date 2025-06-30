@@ -20,6 +20,9 @@
         "Url": "https://www.zerodayinitiative.com/advisories/ZDI-25-414"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/webrick/CVE-2025-6442.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-r995-q44h-hr64"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2025-06-26T21:31:13Z",
     "Severity": "MODERATE",
     "Summary": "Ruby WEBrick read_headers method can lead to HTTP Request/Response Smuggling",
-    "UpdatedAt": "2025-06-27T21:58:17Z",
+    "UpdatedAt": "2025-06-30T12:53:54Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,
