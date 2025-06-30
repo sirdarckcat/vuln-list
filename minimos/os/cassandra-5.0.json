@@ -44,6 +44,10 @@
     "5.0.4-r0": [
       "CVE-2025-24970",
       "GHSA-4g8c-wm8x-jfhw"
+    ],
+    "5.0.4-r3": [
+      "CVE-2025-52999",
+      "GHSA-h46c-h94j-95f3"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
