@@ -41,7 +41,7 @@
     "PublishedAt": "2025-06-27T15:31:24Z",
     "Severity": "HIGH",
     "Summary": "raspap-webgui has a Directory Traversal vulnerability",
-    "UpdatedAt": "2025-06-27T20:49:38Z",
+    "UpdatedAt": "2025-06-30T12:52:58Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
