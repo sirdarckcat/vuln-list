@@ -45,7 +45,7 @@
       "Type": "General"
     },
     {
-      "Text": "Low",
+      "Text": "High",
       "Title": "Severity",
       "Type": "General"
     },
@@ -142,7 +142,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "None"
+          "Severity": "High"
         }
       ],
       "ProductStatuses": [
