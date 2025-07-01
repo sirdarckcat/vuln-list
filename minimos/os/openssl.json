@@ -1,6 +1,10 @@
 {
   "name": "openssl",
   "secfixes": {
+    "3.3.2-r0": [
+      "CVE-2025-4575",
+      "GHSA-v8qh-5c5w-48pp"
+    ],
     "3.4.0-r0": [
       "CVE-2024-9143",
       "GHSA-q764-r57m-9wp9"
