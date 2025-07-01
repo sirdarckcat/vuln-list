@@ -9,6 +9,31 @@
       "Source": "elsa",
       "URI": "https://linux.oracle.com/errata/ELSA-2025-7499.html",
       "ID": "ELSA-2025-7499"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46956.html",
+      "ID": "CVE-2024-46956"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46954.html",
+      "ID": "CVE-2024-46954"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46951.html",
+      "ID": "CVE-2024-46951"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46952.html",
+      "ID": "CVE-2024-46952"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46953.html",
+      "ID": "CVE-2024-46953"
     }
   ],
   "Criteria": {
@@ -228,7 +253,33 @@
     ]
   },
   "Severity": "MODERATE",
-  "Cves": null,
+  "Cves": [
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46956.html",
+      "ID": "CVE-2024-46956"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46954.html",
+      "ID": "CVE-2024-46954"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46951.html",
+      "ID": "CVE-2024-46951"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46952.html",
+      "ID": "CVE-2024-46952"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46953.html",
+      "ID": "CVE-2024-46953"
+    }
+  ],
   "Issued": {
     "Date": "2025-06-30"
   }
