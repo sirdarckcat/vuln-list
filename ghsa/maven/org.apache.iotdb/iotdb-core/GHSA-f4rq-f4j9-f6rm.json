@@ -23,6 +23,9 @@
         "Url": "https://github.com/apache/iotdb/pull/14365"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/apache-iotdb/PYSEC-2025-59.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-f4rq-f4j9-f6rm"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2025-05-14T12:31:11Z",
     "Severity": "CRITICAL",
     "Summary": "Apache IoTDB Vulnerable to Remote Code Execution",
-    "UpdatedAt": "2025-05-15T17:11:53Z",
+    "UpdatedAt": "2025-07-02T14:29:10Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,
