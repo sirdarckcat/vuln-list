@@ -34154,7 +34154,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package qt5-qtbase is installed with version 5.12.11-15 or earlier",
+      "Comment": "Package qt5-qtbase is installed with version 5.12.11-16 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13829000",
       "Version": "0",
       "Object": {
@@ -34634,7 +34634,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.22.7-3 or earlier",
+      "Comment": "Package golang is installed with version 1.22.7-4 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13730000",
       "Version": "1",
       "Object": {
@@ -35642,7 +35642,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package binutils is installed with version 2.37-14 or earlier",
+      "Comment": "Package binutils is installed with version 2.37-15 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13275000",
       "Version": "0",
       "Object": {
@@ -35654,7 +35654,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package binutils is installed with version 2.37-14 or earlier",
+      "Comment": "Package binutils is installed with version 2.37-15 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13274000",
       "Version": "0",
       "Object": {
@@ -35666,7 +35666,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package binutils is installed with version 2.37-14 or earlier",
+      "Comment": "Package binutils is installed with version 2.37-15 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13273000",
       "Version": "0",
       "Object": {
@@ -35678,7 +35678,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package binutils is installed with version 2.37-14 or earlier",
+      "Comment": "Package binutils is installed with version 2.37-15 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13272000",
       "Version": "0",
       "Object": {
@@ -35690,7 +35690,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package binutils is installed with version 2.37-14 or earlier",
+      "Comment": "Package binutils is installed with version 2.37-15 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13271000",
       "Version": "0",
       "Object": {
@@ -35702,7 +35702,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package binutils is installed with version 2.37-14 or earlier",
+      "Comment": "Package binutils is installed with version 2.37-15 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13270000",
       "Version": "0",
       "Object": {
@@ -35774,7 +35774,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package qt5-qtbase is installed with version 5.12.11-15 or earlier",
+      "Comment": "Package qt5-qtbase is installed with version 5.12.11-16 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13231000",
       "Version": "0",
       "Object": {
@@ -36578,7 +36578,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.182.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.184.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:12989000",
       "Version": "0",
       "Object": {
@@ -37166,7 +37166,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.182.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.184.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11614000",
       "Version": "0",
       "Object": {
@@ -37814,7 +37814,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.182.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.184.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11484000",
       "Version": "0",
       "Object": {
@@ -39626,7 +39626,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.182.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.184.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10903000",
       "Version": "0",
       "Object": {
@@ -39638,7 +39638,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.182.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.184.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10902000",
       "Version": "0",
       "Object": {
