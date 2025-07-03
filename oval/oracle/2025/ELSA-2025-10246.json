@@ -9,6 +9,11 @@
       "Source": "elsa",
       "URI": "https://linux.oracle.com/errata/ELSA-2025-10246.html",
       "ID": "ELSA-2025-10246"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-5986.html",
+      "ID": "CVE-2025-5986"
     }
   ],
   "Criteria": {
@@ -72,7 +77,13 @@
     ]
   },
   "Severity": "IMPORTANT",
-  "Cves": null,
+  "Cves": [
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2025-5986.html",
+      "ID": "CVE-2025-5986"
+    }
+  ],
   "Issued": {
     "Date": "2025-07-02"
   }
