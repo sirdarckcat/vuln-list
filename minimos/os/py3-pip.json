@@ -3,6 +3,8 @@
   "secfixes": {
     "0": [
       "CVE-2018-20225",
+      "CVE-2025-47273",
+      "GHSA-5rjg-fvgr-3xxf",
       "GHSA-7p5p-7qq5-cc86"
     ],
     "24.3.1-r0": [
