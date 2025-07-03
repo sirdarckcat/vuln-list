@@ -1,6 +1,10 @@
 {
   "name": "datadog-agent-7",
   "secfixes": {
+    "0": [
+      "CVE-2025-47273",
+      "GHSA-5rjg-fvgr-3xxf"
+    ],
     "7.66.1-r1": [
       "CVE-2025-0913",
       "CVE-2025-22874",
