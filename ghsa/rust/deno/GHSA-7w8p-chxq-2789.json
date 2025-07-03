@@ -50,11 +50,11 @@
     "PublishedAt": "2025-06-04T21:18:18Z",
     "Severity": "MODERATE",
     "Summary": "Deno.env.toObject() ignores the variables listed in --deny-env and returns all environment variables",
-    "UpdatedAt": "2025-06-04T22:57:04Z",
+    "UpdatedAt": "2025-07-02T18:31:08Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 5.3,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N"
     }
   },
   "Versions": [
