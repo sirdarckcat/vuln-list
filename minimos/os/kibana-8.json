@@ -1,0 +1,22 @@
+{
+  "name": "kibana-8",
+  "secfixes": {
+    "8.18.3-r0": [
+      "CVE-2025-27789",
+      "CVE-2025-47934",
+      "CVE-2025-48387",
+      "CVE-2025-5889",
+      "GHSA-8cj5-5rvv-wf4v",
+      "GHSA-8qff-qr5q-5pr8",
+      "GHSA-968p-4wvh-cqc8",
+      "GHSA-v6h2-p8h4-qcjw"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
