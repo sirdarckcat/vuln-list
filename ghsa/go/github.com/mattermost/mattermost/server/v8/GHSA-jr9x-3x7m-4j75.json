@@ -38,7 +38,7 @@
     "PublishedAt": "2024-08-01T15:32:23Z",
     "Severity": "MODERATE",
     "Summary": "Mattermost allows a remote actor to make an arbitrary local channel read-only",
-    "UpdatedAt": "2025-05-23T16:42:18Z",
+    "UpdatedAt": "2025-07-09T16:14:31Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.1,
