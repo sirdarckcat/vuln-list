@@ -4,6 +4,10 @@
     "2.13.1-r1": [
       "CVE-2025-24358",
       "GHSA-rq77-p4h8-4crw"
+    ],
+    "2.13.1-r2": [
+      "CVE-2025-53547",
+      "GHSA-557j-xg8c-q2mm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
