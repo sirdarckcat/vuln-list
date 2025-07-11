@@ -20,6 +20,9 @@
         "Url": "https://github.com/matrix-org/matrix-rust-sdk/commit/d0c01006e4808db5eb96ad5c496416f284d8bd3c"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-53549"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-275g-g844-73jh"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2025-07-10T17:41:16Z",
     "Severity": "MODERATE",
     "Summary": "Matrix Rust SDK vulnerable to SQL Injection through its EventCache implementation",
-    "UpdatedAt": "2025-07-10T17:41:18Z",
+    "UpdatedAt": "2025-07-10T23:20:49Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
