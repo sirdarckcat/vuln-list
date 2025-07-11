@@ -17,6 +17,9 @@
         "Url": "https://github.com/Universal-Omega/DynamicPageList3/commit/a3dae0c89fb4214390c29ceffa23bbe2099986d6"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-53625"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-7pgw-q3qp-6pgq"
       }
     ],
@@ -35,7 +38,7 @@
     "PublishedAt": "2025-07-10T13:10:20Z",
     "Severity": "HIGH",
     "Summary": "DynamicPageList3 vulnerability exposes hidden/suppressed usernames",
-    "UpdatedAt": "2025-07-10T13:10:21Z",
+    "UpdatedAt": "2025-07-10T23:23:34Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
