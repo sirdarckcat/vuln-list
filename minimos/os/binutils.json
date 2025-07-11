@@ -1,0 +1,16 @@
+{
+  "name": "binutils",
+  "secfixes": {
+    "2.44-r0": [
+      "CVE-2025-0840",
+      "GHSA-c5qp-mx9f-m5c7"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
