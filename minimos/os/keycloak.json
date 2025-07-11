@@ -10,6 +10,10 @@
     "26.2.5-r1": [
       "CVE-2025-49146",
       "GHSA-hq9p-pm7w-8p54"
+    ],
+    "26.3.0-r0": [
+      "CVE-2025-7365",
+      "GHSA-gj52-35xm-gxjh"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
