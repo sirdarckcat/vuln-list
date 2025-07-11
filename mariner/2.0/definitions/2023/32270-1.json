@@ -3,7 +3,7 @@
   "ID": "oval:com.microsoft.cbl-mariner:def:32270",
   "Version": "1",
   "Metadata": {
-    "Title": "CVE-2023-7008 affecting package systemd for versions less than 123",
+    "Title": "CVE-2023-7008 affecting package systemd for versions less than 250.3-22",
     "Affected": {
       "Family": "unix",
       "Platform": "CBL-Mariner"
@@ -14,15 +14,16 @@
       "Source": "CVE"
     },
     "Patchable": "true",
+    "AdvisoryDate": "2025-07-10T15:07:49.817Z",
     "AdvisoryID": "32270-1",
     "Severity": "Medium",
-    "Description": "CVE-2023-7008 affecting package systemd for versions less than 123. A patched version of the package is available."
+    "Description": "CVE-2023-7008 affecting package systemd for versions less than 250.3-22. A patched version of the package is available."
   },
   "Criteria": {
     "Operator": "AND",
     "Criterion": [
       {
-        "Comment": "Package systemd is earlier than 123, affected by CVE-2023-7008",
+        "Comment": "Package systemd is earlier than 250.3-22, affected by CVE-2023-7008",
         "TestRef": "oval:com.microsoft.cbl-mariner:tst:32270000"
       }
     ]
