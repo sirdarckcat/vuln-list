@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-06-03T21:13:37.193Z",
+    "AdvisoryDate": "2025-07-10T15:07:49.817Z",
     "AdvisoryID": "60604-1",
     "Severity": "Medium",
     "Description": "CVE-2025-22872 affecting package packer for versions less than 1.9.5-13. A patched version of the package is available."

@@ -1,6 +1,996 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:64458001",
+      "Version": "1",
+      "Name": "sudo"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:64449001",
+      "Version": "1",
+      "Name": "sudo"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:64355001",
+      "Version": "1",
+      "Name": "rubygem-webrick"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:64352001",
+      "Version": "1",
+      "Name": "ruby"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:64223001",
+      "Version": "1",
+      "Name": "clamav"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:64185001",
+      "Version": "1",
+      "Name": "dasel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:64182001",
+      "Version": "1",
+      "Name": "dasel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:64145001",
+      "Version": "1",
+      "Name": "protobuf"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:64142001",
+      "Version": "1",
+      "Name": "pam"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63801001",
+      "Version": "1",
+      "Name": "nbdkit"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63798001",
+      "Version": "1",
+      "Name": "nbdkit"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63750001",
+      "Version": "1",
+      "Name": "valkey"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63747001",
+      "Version": "1",
+      "Name": "python-requests"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63678001",
+      "Version": "1",
+      "Name": "coredns"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63676001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63673001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63670001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63667001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63664001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63661001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63658001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63655001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63652001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63649001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63646001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63643001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63637001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63634001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63631001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63628001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63625001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63622001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63619001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63616001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63613001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63610001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63607001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63604001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63601001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63598001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63595001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63592001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63589001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63586001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63583001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63580001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63577001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63574001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63571001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63568001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63565001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63562001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63559001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63556001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63553001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63550001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63547001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63544001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63535001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63532001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63529001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63526001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63523001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63520001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63517001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63514001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63511001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63508001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63505001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63502001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63499001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63496001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63493001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63490001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63487001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63484001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63481001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63478001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63475001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63472001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63469001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63466001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63460001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63457001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63454001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63451001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63448001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63445001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63439001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63436001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63433001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63430001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63427001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63424001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63421001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63418001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63415001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63412001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63409001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63406001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63403001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63400001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63397001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63394001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63391001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63388001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63385001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63382001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63379001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63376001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63373001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63370001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63367001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63364001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63361001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63358001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63355001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63352001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63349001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63346001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63343001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63340001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63334001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63331001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63328001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63325001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63322001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63319001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63316001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63313001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63307001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63304001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63301001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63298001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63295001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63292001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63289001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63286001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63283001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63277001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63274001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63271001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63268001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63265001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63262001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63259001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63256001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63253001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63247001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63244001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63241001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63238001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63235001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63232001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63229001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63226001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63223001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63220001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63217001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63214001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63211001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63208001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63205001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63202001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63199001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63196001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63193001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63190001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63184001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63181001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63178001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63175001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63172001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63169001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63166001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63163001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63160001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63157001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63154001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63151001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63148001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63145001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63142001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63139001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63136001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63133001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63130001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63127001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63124001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63121001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63118001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63115001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63103001",
+      "Version": "0",
+      "Name": "squid"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63100001",
+      "Version": "0",
+      "Name": "squid"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63085001",
+      "Version": "0",
+      "Name": "php"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63073001",
+      "Version": "0",
+      "Name": "php"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63070001",
+      "Version": "0",
+      "Name": "php"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63067001",
+      "Version": "1",
+      "Name": "opa"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:63058001",
       "Version": "1",
       "Name": "mysql"
@@ -8,6 +998,11 @@
     {
       "ID": "oval:com.microsoft.azurelinux:obj:63047001",
       "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:63039001",
+      "Version": "0",
       "Name": "mysql"
     },
     {
@@ -49,6 +1044,26 @@
       "ID": "oval:com.microsoft.azurelinux:obj:62925001",
       "Version": "1",
       "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:62764001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:62609001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:62318001",
+      "Version": "1",
+      "Name": "python3"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:62243001",
+      "Version": "1",
+      "Name": "valkey"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:62192001",
@@ -176,9 +1191,109 @@
       "Name": "mysql"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:62064001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:62055001",
+      "Version": "1",
+      "Name": "cmake"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:62038001",
+      "Version": "0",
+      "Name": "cmake"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:62003001",
+      "Version": "1",
+      "Name": "containerd2"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61994001",
+      "Version": "1",
+      "Name": "binutils"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61988001",
+      "Version": "1",
+      "Name": "binutils"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61977001",
+      "Version": "1",
+      "Name": "jq"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61972001",
+      "Version": "1",
+      "Name": "bind"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:61943001",
       "Version": "1",
       "Name": "python-setuptools"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61919001",
+      "Version": "1",
+      "Name": "nodejs"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61913001",
+      "Version": "1",
+      "Name": "nodejs"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61910001",
+      "Version": "1",
+      "Name": "libsoup"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61897001",
+      "Version": "1",
+      "Name": "nodejs"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61888001",
+      "Version": "1",
+      "Name": "net-tools"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61870001",
+      "Version": "1",
+      "Name": "python3"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61845004",
+      "Version": "1",
+      "Name": "rust"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61845001",
+      "Version": "1",
+      "Name": "rust"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61830004",
+      "Version": "1",
+      "Name": "rust"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61830001",
+      "Version": "1",
+      "Name": "rust"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61748001",
+      "Version": "1",
+      "Name": "erlang"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61736001",
+      "Version": "1",
+      "Name": "postgresql"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:61729001",
@@ -194,6 +1309,21 @@
       "ID": "oval:com.microsoft.azurelinux:obj:61710001",
       "Version": "1",
       "Name": "qemu"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61697001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61688001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61685001",
+      "Version": "0",
+      "Name": "kernel"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:61630001",
@@ -214,6 +1344,31 @@
       "ID": "oval:com.microsoft.azurelinux:obj:61516001",
       "Version": "0",
       "Name": "rust"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61475001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61463001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61451001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61448001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:61445001",
+      "Version": "1",
+      "Name": "kernel"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:61405001",
@@ -244,6 +1399,16 @@
       "ID": "oval:com.microsoft.azurelinux:obj:61174001",
       "Version": "0",
       "Name": "rust"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:60982001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:60945001",
+      "Version": "1",
+      "Name": "kernel"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:60939001",
@@ -341,6 +1506,11 @@
       "Name": "kubernetes"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:60528001",
+      "Version": "1",
+      "Name": "cert-manager"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:60523001",
       "Version": "1",
       "Name": "sriov-network-device-plugin"
@@ -356,6 +1526,16 @@
       "Name": "ig"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:60489001",
+      "Version": "0",
+      "Name": "libsoup"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:60486001",
+      "Version": "1",
+      "Name": "containerd2"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:60485001",
       "Version": "1",
       "Name": "telegraf"
@@ -369,6 +1549,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:60474001",
       "Version": "1",
       "Name": "multus"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:60467001",
+      "Version": "1",
+      "Name": "docker-buildx"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:60458001",
@@ -397,6 +1582,11 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:60433001",
+      "Version": "1",
+      "Name": "libsoup"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:60426001",
       "Version": "1",
       "Name": "libsoup"
     },
@@ -504,6 +1694,16 @@
       "ID": "oval:com.microsoft.azurelinux:obj:60258001",
       "Version": "1",
       "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:59991001",
+      "Version": "1",
+      "Name": "cert-manager"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:59979001",
+      "Version": "1",
+      "Name": "cert-manager"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:59949001",
@@ -689,6 +1889,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:59651001",
       "Version": "1",
       "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:59591001",
+      "Version": "1",
+      "Name": "glib"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:59559001",
@@ -1129,6 +2334,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:58360001",
       "Version": "1",
       "Name": "keras"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:58079001",
+      "Version": "1",
+      "Name": "mariadb"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:58067001",
@@ -1726,6 +2936,11 @@
       "Name": "kernel"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:57049001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:57034001",
       "Version": "1",
       "Name": "libcap"
@@ -1789,6 +3004,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:56885001",
       "Version": "1",
       "Name": "gh"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:56873001",
+      "Version": "1",
+      "Name": "elfutils"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:56852001",
@@ -2111,6 +3331,11 @@
       "Name": "golang"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:55965001",
+      "Version": "1",
+      "Name": "glibc"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:55950001",
       "Version": "1",
       "Name": "nodejs"
@@ -2243,6 +3468,11 @@
     {
       "ID": "oval:com.microsoft.azurelinux:obj:55736001",
       "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:55733001",
+      "Version": "0",
       "Name": "kernel"
     },
     {
@@ -2611,6 +3841,11 @@
       "Name": "kernel"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:55183001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:55180001",
       "Version": "1",
       "Name": "kernel"
@@ -2694,6 +3929,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:55123001",
       "Version": "1",
       "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:55066001",
+      "Version": "1",
+      "Name": "frr"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:55063001",
@@ -3861,6 +5101,11 @@
       "Name": "kernel"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:53346001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:53340001",
       "Version": "1",
       "Name": "kernel"
@@ -3959,6 +5204,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:53166001",
       "Version": "1",
       "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:53163001",
+      "Version": "1",
+      "Name": "ansible"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:53162001",
@@ -4142,147 +5392,147 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52881004",
-      "Version": "1279",
+      "Version": "1287",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52881001",
-      "Version": "1279",
+      "Version": "1287",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52878004",
-      "Version": "1296",
+      "Version": "1305",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52878001",
-      "Version": "1296",
+      "Version": "1305",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52875004",
-      "Version": "1312",
+      "Version": "1322",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52875001",
-      "Version": "1312",
+      "Version": "1322",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52863001",
-      "Version": "1203",
+      "Version": "1211",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52845004",
-      "Version": "1289",
+      "Version": "1297",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52845001",
-      "Version": "1289",
+      "Version": "1297",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52827004",
-      "Version": "1287",
+      "Version": "1295",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52827001",
-      "Version": "1287",
+      "Version": "1295",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52789004",
-      "Version": "1276",
+      "Version": "1284",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52789001",
-      "Version": "1276",
+      "Version": "1284",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52774004",
-      "Version": "1284",
+      "Version": "1292",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52774001",
-      "Version": "1284",
+      "Version": "1292",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52773004",
-      "Version": "1277",
+      "Version": "1285",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52773001",
-      "Version": "1277",
+      "Version": "1285",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52735004",
-      "Version": "1310",
+      "Version": "1320",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52735001",
-      "Version": "1310",
+      "Version": "1320",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52719004",
-      "Version": "1289",
+      "Version": "1298",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52719001",
-      "Version": "1289",
+      "Version": "1298",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52711004",
-      "Version": "1281",
+      "Version": "1290",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52711001",
-      "Version": "1281",
+      "Version": "1290",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52676004",
-      "Version": "1298",
+      "Version": "1306",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52676001",
-      "Version": "1298",
+      "Version": "1306",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52668004",
-      "Version": "1296",
+      "Version": "1305",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52668001",
-      "Version": "1296",
+      "Version": "1305",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52663004",
-      "Version": "1302",
+      "Version": "1310",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52663001",
-      "Version": "1302",
+      "Version": "1310",
       "Name": "golang"
     },
     {
@@ -4411,9 +5661,19 @@
       "Name": "kernel"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:52435001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:52423001",
       "Version": "0",
       "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:52417001",
+      "Version": "1",
+      "Name": "ansible"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52414001",
@@ -4514,6 +5774,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:52326001",
       "Version": "1",
       "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:52219001",
+      "Version": "1",
+      "Name": "moby-engine"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52216001",
@@ -4782,6 +6047,11 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:51862001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:51859001",
       "Version": "0",
       "Name": "kernel"
     },
@@ -6031,6 +7301,11 @@
       "Name": "php"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:50166001",
+      "Version": "2",
+      "Name": "php"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:50164001",
       "Version": "1",
       "Name": "php"
@@ -6107,6 +7382,11 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:49921001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:49918001",
       "Version": "0",
       "Name": "kernel"
     },
@@ -6261,6 +7541,11 @@
       "Name": "thrift"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:49725001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:49710001",
       "Version": "1",
       "Name": "edk2"
@@ -6397,6 +7682,11 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:49604001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:49599001",
       "Version": "0",
       "Name": "kernel"
     },
@@ -6736,6 +8026,11 @@
       "Name": "curl"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:49021001",
+      "Version": "1",
+      "Name": "wireshark"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:49015001",
       "Version": "1",
       "Name": "kernel"
@@ -6929,6 +8224,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:48365001",
       "Version": "1",
       "Name": "python-tensorboard"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:48339001",
+      "Version": "1",
+      "Name": "wireshark"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:48333001",
@@ -8706,6 +10006,11 @@
       "Name": "containernetworking-plugins"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:45372001",
+      "Version": "1",
+      "Name": "wireshark"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:45369001",
       "Version": "1",
       "Name": "re2c"
@@ -8804,6 +10109,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:45138001",
       "Version": "1",
       "Name": "libldb"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:45135001",
+      "Version": "1",
+      "Name": "jose"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:45132001",
@@ -8906,6 +10216,11 @@
       "Name": "samba"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:44853001",
+      "Version": "1",
+      "Name": "wireshark"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:44844001",
       "Version": "1",
       "Name": "gssntlmssp"
@@ -8966,6 +10281,11 @@
       "Name": "fltk"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:44619001",
+      "Version": "1",
+      "Name": "wireshark"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:44577001",
       "Version": "1",
       "Name": "openjpeg2"
@@ -9021,6 +10341,11 @@
       "Name": "fltk"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:44337001",
+      "Version": "1",
+      "Name": "wireshark"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:44325001",
       "Version": "1",
       "Name": "fltk"
@@ -9056,6 +10381,11 @@
       "Name": "accountsservice"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:44175001",
+      "Version": "1",
+      "Name": "wireshark"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:44172001",
       "Version": "1",
       "Name": "audiofile"
@@ -9089,6 +10419,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:44079001",
       "Version": "1",
       "Name": "libsass"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:44073001",
+      "Version": "1",
+      "Name": "wireshark"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:44070001",
@@ -9329,6 +10664,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:42996001",
       "Version": "1",
       "Name": "krb5"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:42978001",
+      "Version": "0",
+      "Name": "tpm2-tss"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:42975001",
@@ -9596,6 +10936,11 @@
       "Name": "python3"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:42564001",
+      "Version": "1",
+      "Name": "wireshark"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:42558001",
       "Version": "1",
       "Name": "exiv2"
@@ -9604,6 +10949,16 @@
       "ID": "oval:com.microsoft.azurelinux:obj:42555001",
       "Version": "1",
       "Name": "exiv2"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:42552001",
+      "Version": "1",
+      "Name": "wireshark"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:42549001",
+      "Version": "1",
+      "Name": "wireshark"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:42474001",
@@ -10546,6 +11901,11 @@
       "Name": "glib"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:40396001",
+      "Version": "1",
+      "Name": "libvirt"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:40393001",
       "Version": "1",
       "Name": "fluent-bit"
@@ -10641,9 +12001,24 @@
       "Name": "hyperv-daemons"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:40291001",
+      "Version": "1",
+      "Name": "glibc"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:40288001",
+      "Version": "1",
+      "Name": "glibc"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:40285001",
       "Version": "1",
       "Name": "python-tqdm"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:40282001",
+      "Version": "1",
+      "Name": "glibc"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:40237001",
@@ -10751,6 +12126,11 @@
       "Name": "kernel"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:40061001",
+      "Version": "2",
+      "Name": "php"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:40055001",
       "Version": "1",
       "Name": "php"
@@ -10832,7 +12212,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:39791001",
-      "Version": "0",
+      "Version": "1",
       "Name": "compiler-rt"
     },
     {
@@ -10847,7 +12227,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:39776001",
-      "Version": "0",
+      "Version": "1",
       "Name": "clang"
     },
     {
@@ -10872,7 +12252,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:39728001",
-      "Version": "0",
+      "Version": "1",
       "Name": "lldb"
     },
     {
@@ -10882,7 +12262,7 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:39713001",
-      "Version": "0",
+      "Version": "1",
       "Name": "lld"
     },
     {
@@ -11076,6 +12456,11 @@
       "Name": "moby-engine"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:38872001",
+      "Version": "0",
+      "Name": "glusterfs"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:38845001",
       "Version": "1",
       "Name": "ceph"
@@ -11171,6 +12556,11 @@
       "Name": "python-tensorboard"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:38665001",
+      "Version": "1",
+      "Name": "libvirt"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:38659001",
       "Version": "1",
       "Name": "flannel"
@@ -11209,6 +12599,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:38605001",
       "Version": "1",
       "Name": "httpd"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:38602001",
+      "Version": "1",
+      "Name": "libvirt"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:38599001",
@@ -11729,6 +13124,26 @@
       "ID": "oval:com.microsoft.azurelinux:obj:37060001",
       "Version": "1",
       "Name": "wordnet"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:37059001",
+      "Version": "1",
+      "Name": "wireshark"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:37058001",
+      "Version": "1",
+      "Name": "wireshark"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:37057001",
+      "Version": "1",
+      "Name": "wireshark"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:37056001",
+      "Version": "1",
+      "Name": "wireshark"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:37034001",
@@ -13996,6 +15411,11 @@
       "Name": "kernel"
     },
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:34874001",
+      "Version": "2",
+      "Name": "kernel"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:34873001",
       "Version": "1",
       "Name": "kernel"
@@ -14207,6 +15627,11 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:34813001",
+      "Version": "1",
+      "Name": "javapackages-bootstrap"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:34812001",
       "Version": "1",
       "Name": "javapackages-bootstrap"
     },
@@ -14437,12 +15862,12 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:34745004",
-      "Version": "1308",
+      "Version": "1316",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:34745001",
-      "Version": "1308",
+      "Version": "1316",
       "Name": "golang"
     },
     {
@@ -14454,6 +15879,11 @@
       "ID": "oval:com.microsoft.azurelinux:obj:34739001",
       "Version": "1",
       "Name": "gnutls"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:34738001",
+      "Version": "1",
+      "Name": "glibc"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:34737001",
@@ -14477,6 +15907,11 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:34733001",
+      "Version": "1",
+      "Name": "glibc"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:34732001",
       "Version": "1",
       "Name": "glibc"
     },
