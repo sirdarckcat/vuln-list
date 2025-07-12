@@ -3,7 +3,7 @@
   "UpdatedAt": "2025-07-11T20:45:36Z",
   "Package": {
     "Ecosystem": "RUST",
-    "Name": "matrix-sdk"
+    "Name": "matrix-sdk-sqlite"
   },
   "Advisory": {
     "DatabaseId": 303180,
