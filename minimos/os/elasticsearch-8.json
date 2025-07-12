@@ -15,6 +15,10 @@
       "GHSA-4g8c-wm8x-jfhw",
       "GHSA-pq2g-wx69-c263"
     ],
+    "8.17.4-r0": [
+      "CVE-2025-53864",
+      "GHSA-xwmg-2g98-w7v9"
+    ],
     "8.18.1-r0": [
       "CVE-2025-31672",
       "GHSA-gmg8-593g-7mv3"
