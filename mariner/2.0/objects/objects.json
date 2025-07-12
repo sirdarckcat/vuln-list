@@ -1,6 +1,11 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64806001",
+      "Version": "0",
+      "Name": "redis"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:64464001",
       "Version": "1",
       "Name": "sudo"
@@ -9,6 +14,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:64461001",
       "Version": "1",
       "Name": "sudo"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64404001",
+      "Version": "0",
+      "Name": "ceph"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:64374001",
@@ -34,6 +44,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:64208001",
       "Version": "1",
       "Name": "clamav"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64077001",
+      "Version": "0",
+      "Name": "gdk-pixbuf2"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:63878001",
@@ -1904,6 +1919,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:56103001",
       "Version": "1",
       "Name": "binutils"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:56093001",
+      "Version": "0",
+      "Name": "bind"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:56075001",

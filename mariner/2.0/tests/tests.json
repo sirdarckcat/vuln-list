@@ -2,6 +2,18 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package redis is earlier than 6.2.18-2, affected by CVE-2025-32023",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:64806000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64806001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:64806002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package sudo is earlier than 1.9.17-1, affected by CVE-2025-32463",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64464000",
       "Version": "1",
@@ -22,6 +34,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:64461002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package ceph is earlier than 16.2.10-8, affected by CVE-2025-52939",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:64404000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64404001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:64404002"
       }
     },
     {
@@ -82,6 +106,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:64208002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package gdk-pixbuf2 is earlier than 2.40.0-7, affected by CVE-2025-6199",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:64077000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64077001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:64077002"
       }
     },
     {
@@ -4570,6 +4606,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:56103002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package bind is earlier than 9.16.50-2, affected by CVE-2024-11187",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:56093000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:56093001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:56093002"
       }
     },
     {
