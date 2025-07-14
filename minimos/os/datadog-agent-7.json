@@ -16,6 +16,10 @@
     "7.67.0-r1": [
       "GHSA-2x5j-vhc8-9cwm",
       "GHSA-fv92-fjc5-jj9h"
+    ],
+    "7.68.0-r0": [
+      "CVE-2025-4565",
+      "GHSA-8qvm-5x2c-j2w7"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
