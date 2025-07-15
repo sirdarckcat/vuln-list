@@ -1,0 +1,21 @@
+{
+  "name": "argocd-3.0",
+  "secfixes": {
+    "3.0.11-r1": [
+      "CVE-2025-1767",
+      "CVE-2025-29786",
+      "CVE-2025-4563",
+      "GHSA-2x5j-vhc8-9cwm",
+      "GHSA-3wgm-2gw2-vh5m",
+      "GHSA-93mq-9ffx-83m2",
+      "GHSA-hj2p-8wj8-pfq4"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
