@@ -14,6 +14,18 @@
         "Url": "https://github.com/Shopify/job-iteration/security/advisories/GHSA-6qjf-g333-pv38"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-53623"
+      },
+      {
+        "Url": "https://github.com/Shopify/job-iteration/pull/595"
+      },
+      {
+        "Url": "https://github.com/Shopify/job-iteration/commit/1a7adfdd041105a5e45e774cadc6b973a292ba55"
+      },
+      {
+        "Url": "https://github.com/Shopify/job-iteration/releases/tag/v1.11.0"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-6qjf-g333-pv38"
       }
     ],
@@ -32,7 +44,7 @@
     "PublishedAt": "2025-07-14T17:55:06Z",
     "Severity": "HIGH",
     "Summary": "Job Iteration API is vulnerable to OS Command Injection attack through its CsvEnumerator class",
-    "UpdatedAt": "2025-07-14T17:55:08Z",
+    "UpdatedAt": "2025-07-15T00:34:45Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
