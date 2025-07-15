@@ -1,6 +1,9 @@
 {
   "name": "argocd-2.13",
   "secfixes": {
+    "0": [
+      "GHSA-274v-mgcv-cm8j"
+    ],
     "2.13.8-r1": [
       "CVE-2024-9042",
       "CVE-2025-0426",
