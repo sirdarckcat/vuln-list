@@ -44,7 +44,7 @@
     "PublishedAt": "2025-07-14T17:55:06Z",
     "Severity": "HIGH",
     "Summary": "Job Iteration API is vulnerable to OS Command Injection attack through its CsvEnumerator class",
-    "UpdatedAt": "2025-07-15T00:34:45Z",
+    "UpdatedAt": "2025-07-15T18:03:00Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
