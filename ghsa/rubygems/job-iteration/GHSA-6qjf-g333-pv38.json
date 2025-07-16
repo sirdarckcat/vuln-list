@@ -26,6 +26,9 @@
         "Url": "https://github.com/Shopify/job-iteration/releases/tag/v1.11.0"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/job-iteration/CVE-2025-53623.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-6qjf-g333-pv38"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2025-07-14T17:55:06Z",
     "Severity": "HIGH",
     "Summary": "Job Iteration API is vulnerable to OS Command Injection attack through its CsvEnumerator class",
-    "UpdatedAt": "2025-07-15T18:03:00Z",
+    "UpdatedAt": "2025-07-15T23:07:31Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
