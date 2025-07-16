@@ -14,6 +14,12 @@
     "7.1.1.43-r0": [
       "CVE-2016-10062",
       "GHSA-rvg9-g4rg-6wfj"
+    ],
+    "7.1.2.0-r0": [
+      "CVE-2025-53014",
+      "CVE-2025-53015",
+      "CVE-2025-53019",
+      "CVE-2025-53101"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
