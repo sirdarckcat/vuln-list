@@ -2,6 +2,42 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package gdk-pixbuf2 is earlier than 2.40.0-8, affected by CVE-2025-7345",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65048000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65048001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65048002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package helm is earlier than 3.14.2-7, affected by CVE-2025-53547",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:64877000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64877001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:64877002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package redis is earlier than 6.2.18-3, affected by CVE-2025-48367",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:64809000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64809001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:64809002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package redis is earlier than 6.2.18-2, affected by CVE-2025-32023",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64806000",
       "Version": "0",
@@ -86,6 +122,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package ruby is earlier than 3.1.7-2, affected by CVE-2025-6442",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:64364000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64364001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:64364002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package kernel is earlier than 5.15.184.1-1, affected by CVE-2023-52979",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64332000",
       "Version": "0",
@@ -106,6 +154,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:64208002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package pam is earlier than 1.5.1-8, affected by CVE-2025-6020",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:64113000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64113001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:64113002"
       }
     },
     {
