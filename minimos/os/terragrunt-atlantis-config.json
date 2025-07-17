@@ -1,0 +1,20 @@
+{
+  "name": "terragrunt-atlantis-config",
+  "secfixes": {
+    "1.20.0-r0": [
+      "CVE-2023-48795",
+      "CVE-2024-45337",
+      "CVE-2024-51744",
+      "GHSA-29wx-vh33-7x7r",
+      "GHSA-45x7-px36-x8w8",
+      "GHSA-v778-237x-gjrc"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
