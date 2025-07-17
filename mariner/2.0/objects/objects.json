@@ -1,6 +1,21 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65048001",
+      "Version": "0",
+      "Name": "gdk-pixbuf2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64877001",
+      "Version": "0",
+      "Name": "helm"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64809001",
+      "Version": "0",
+      "Name": "redis"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:64806001",
       "Version": "0",
       "Name": "redis"
@@ -36,6 +51,11 @@
       "Name": "rubygem-webrick"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64364001",
+      "Version": "0",
+      "Name": "ruby"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:64332001",
       "Version": "0",
       "Name": "kernel"
@@ -44,6 +64,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:64208001",
       "Version": "1",
       "Name": "clamav"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64113001",
+      "Version": "0",
+      "Name": "pam"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:64077001",
