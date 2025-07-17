@@ -1,24 +1,24 @@
 {
-  "Title": "ELSA-2025-11335:  tomcat security update (IMPORTANT)",
-  "Description": "[1:9.0.87-3.el9_6.1]\n- Resolves: RHEL-91765\n  tomcat: DoS via malformed HTTP/2 PRIORITY_UPDATE frame (CVE-2025-31650)\n- Resolves: RHEL-71981\n  tomcat: Incomplete fix for CVE-2024-50379 - RCE due to TOCTOU issue in JSP compilation (CVE-2024-56337)\n\n[1:9.0.87-3]\n- Resolves: RHEL-82945\n  tomcat: Potential RCE and/or information disclosure and/or information corruption with partial PUT (CVE-2025-24813)\n- Resolves: RHEL-71723\n  tomcat: RCE due to TOCTOU issue in JSP compilation (CVE-2024-50379)",
+  "Title": "ELSA-2025-11333:  tomcat security update (IMPORTANT)",
+  "Description": "[1:9.0.87-1.el8_10.4]\n- Resolves: RHEL-91761\n  tomcat: DoS via malformed HTTP/2 PRIORITY_UPDATE frame (CVE-2025-31650)\n- Resolves: RHEL-71971\n  tomcat: Incomplete fix for CVE-2024-50379 - RCE due to TOCTOU issue in JSP compilation (CVE-2024-56337)",
   "Platform": [
-    "Oracle Linux 9"
+    "Oracle Linux 8"
   ],
   "References": [
     {
       "Source": "elsa",
-      "URI": "https://linux.oracle.com/errata/ELSA-2025-11335.html",
-      "ID": "ELSA-2025-11335"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2025-31650.html",
-      "ID": "CVE-2025-31650"
+      "URI": "https://linux.oracle.com/errata/ELSA-2025-11333.html",
+      "ID": "ELSA-2025-11333"
     },
     {
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-56337.html",
       "ID": "CVE-2024-56337"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-31650.html",
+      "ID": "CVE-2025-31650"
     }
   ],
   "Criteria": {
@@ -38,10 +38,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -50,10 +50,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-admin-webapps is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-admin-webapps is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-admin-webapps is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-admin-webapps is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -62,10 +62,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-docs-webapp is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-docs-webapp is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-docs-webapp is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-docs-webapp is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -74,10 +74,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-el-3.0-api is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-el-3.0-api is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-el-3.0-api is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-el-3.0-api is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -86,10 +86,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-jsp-2.3-api is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-jsp-2.3-api is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-jsp-2.3-api is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-jsp-2.3-api is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -98,10 +98,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-lib is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-lib is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-lib is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-lib is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -110,10 +110,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-servlet-4.0-api is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-servlet-4.0-api is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-servlet-4.0-api is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-servlet-4.0-api is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -122,10 +122,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-webapps is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-webapps is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-webapps is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-webapps is signed with the Oracle Linux 8 key"
                       }
                     ]
                   }
@@ -150,10 +150,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -162,10 +162,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-admin-webapps is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-admin-webapps is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-admin-webapps is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-admin-webapps is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -174,10 +174,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-docs-webapp is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-docs-webapp is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-docs-webapp is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-docs-webapp is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -186,10 +186,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-el-3.0-api is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-el-3.0-api is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-el-3.0-api is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-el-3.0-api is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -198,10 +198,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-jsp-2.3-api is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-jsp-2.3-api is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-jsp-2.3-api is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-jsp-2.3-api is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -210,10 +210,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-lib is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-lib is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-lib is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-lib is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -222,10 +222,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-servlet-4.0-api is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-servlet-4.0-api is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-servlet-4.0-api is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-servlet-4.0-api is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
@@ -234,10 +234,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "tomcat-webapps is earlier than 1:9.0.87-3.el9_6.1"
+                        "Comment": "tomcat-webapps is earlier than 1:9.0.87-1.el8_10.4"
                       },
                       {
-                        "Comment": "tomcat-webapps is signed with the Oracle Linux 9 key"
+                        "Comment": "tomcat-webapps is signed with the Oracle Linux 8 key"
                       }
                     ]
                   }
@@ -257,7 +257,7 @@
     ],
     "Criterions": [
       {
-        "Comment": "Oracle Linux 9 is installed"
+        "Comment": "Oracle Linux 8 is installed"
       }
     ]
   },
@@ -265,13 +265,13 @@
   "Cves": [
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2025-31650.html",
-      "ID": "CVE-2025-31650"
+      "Href": "https://linux.oracle.com/cve/CVE-2024-56337.html",
+      "ID": "CVE-2024-56337"
     },
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-56337.html",
-      "ID": "CVE-2024-56337"
+      "Href": "https://linux.oracle.com/cve/CVE-2025-31650.html",
+      "ID": "CVE-2025-31650"
     }
   ],
   "Issued": {
