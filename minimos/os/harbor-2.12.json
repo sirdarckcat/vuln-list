@@ -6,8 +6,10 @@
       "GHSA-rq77-p4h8-4crw"
     ],
     "2.12.4-r2": [
+      "CVE-2025-22868",
       "CVE-2025-53547",
-      "GHSA-557j-xg8c-q2mm"
+      "GHSA-557j-xg8c-q2mm",
+      "GHSA-6v2p-p543-phr9"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
