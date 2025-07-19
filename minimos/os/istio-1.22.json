@@ -10,6 +10,10 @@
       "GHSA-qxp5-gwg8-xv66",
       "GHSA-v778-237x-gjrc",
       "GHSA-vvgc-356p-c3xw"
+    ],
+    "1.22.8-r2": [
+      "CVE-2025-22868",
+      "GHSA-6v2p-p543-phr9"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
