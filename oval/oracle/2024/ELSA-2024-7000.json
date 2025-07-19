@@ -753,6 +753,18 @@
                     "Criterias": null,
                     "Criterions": [
                       {
+                        "Comment": "kernel-tools-libs-devel is earlier than 0:4.18.0-553.22.1.el8_10"
+                      },
+                      {
+                        "Comment": "kernel-tools-libs-devel is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
                         "Comment": "bpftool is earlier than 0:4.18.0-553.22.1.el8_10"
                       },
                       {
@@ -813,18 +825,6 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "kernel-tools-libs-devel is earlier than 0:4.18.0-553.22.1.el8_10"
-                      },
-                      {
-                        "Comment": "kernel-tools-libs-devel is signed with the Oracle Linux 8 key"
-                      }
-                    ]
-                  },
-                  {
-                    "Operator": "AND",
-                    "Criterias": null,
-                    "Criterions": [
-                      {
                         "Comment": "perf is earlier than 0:4.18.0-553.22.1.el8_10"
                       },
                       {
@@ -860,6 +860,30 @@
               {
                 "Operator": "OR",
                 "Criterias": [
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-tools-libs-devel is earlier than 0:4.18.0-553.22.1.el8_10"
+                      },
+                      {
+                        "Comment": "kernel-tools-libs-devel is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "kernel-headers is earlier than 0:4.18.0-553.22.1.el8_10"
+                      },
+                      {
+                        "Comment": "kernel-headers is signed with the Oracle Linux 8 key"
+                      }
+                    ]
+                  },
                   {
                     "Operator": "AND",
                     "Criterias": null,
@@ -1009,18 +1033,6 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "kernel-headers is earlier than 0:4.18.0-553.22.1.el8_10"
-                      },
-                      {
-                        "Comment": "kernel-headers is signed with the Oracle Linux 8 key"
-                      }
-                    ]
-                  },
-                  {
-                    "Operator": "AND",
-                    "Criterias": null,
-                    "Criterions": [
-                      {
                         "Comment": "kernel-modules is earlier than 0:4.18.0-553.22.1.el8_10"
                       },
                       {
@@ -1061,18 +1073,6 @@
                       },
                       {
                         "Comment": "kernel-tools-libs is signed with the Oracle Linux 8 key"
-                      }
-                    ]
-                  },
-                  {
-                    "Operator": "AND",
-                    "Criterias": null,
-                    "Criterions": [
-                      {
-                        "Comment": "kernel-tools-libs-devel is earlier than 0:4.18.0-553.22.1.el8_10"
-                      },
-                      {
-                        "Comment": "kernel-tools-libs-devel is signed with the Oracle Linux 8 key"
                       }
                     ]
                   },
