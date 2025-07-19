@@ -57,7 +57,8 @@
     "2.11.24-r0": [
       "CVE-2025-22868",
       "GHSA-3wqc-mwfx-672p",
-      "GHSA-5423-jcjm-2gpv"
+      "GHSA-5423-jcjm-2gpv",
+      "GHSA-6v2p-p543-phr9"
     ],
     "2.11.25-r0": [
       "CVE-2025-47952",
