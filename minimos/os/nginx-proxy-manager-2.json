@@ -31,6 +31,10 @@
     "2.12.3-r3": [
       "CVE-2025-5889",
       "GHSA-v6h2-p8h4-qcjw"
+    ],
+    "2.12.6-r1": [
+      "CVE-2025-7339",
+      "GHSA-76c9-3jph-rj3q"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
