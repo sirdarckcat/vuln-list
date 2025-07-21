@@ -9,6 +9,11 @@
       "Source": "elsa",
       "URI": "https://linux.oracle.com/errata/ELSA-2025-11402.html",
       "ID": "ELSA-2025-11402"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-52615.html",
+      "ID": "CVE-2024-52615"
     }
   ],
   "Criteria": {
@@ -372,7 +377,13 @@
     ]
   },
   "Severity": "MODERATE",
-  "Cves": null,
+  "Cves": [
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-52615.html",
+      "ID": "CVE-2024-52615"
+    }
+  ],
   "Issued": {
     "Date": "2025-07-21"
   }
