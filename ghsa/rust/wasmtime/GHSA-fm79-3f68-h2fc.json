@@ -1,9 +1,9 @@
 {
   "Severity": "LOW",
-  "UpdatedAt": "2025-07-18T19:51:00Z",
+  "UpdatedAt": "2025-07-21T16:06:04Z",
   "Package": {
     "Ecosystem": "RUST",
-    "Name": "wasmtime-wasi"
+    "Name": "wasmtime"
   },
   "Advisory": {
     "DatabaseId": 304265,
@@ -80,13 +80,13 @@
       "FirstPatchedVersion": {
         "Identifier": "33.0.2"
       },
-      "VulnerableVersionRange": "\u003e= 25.0.0, \u003c 33.0.2"
+      "VulnerableVersionRange": "\u003e= 33.0.0, \u003c 33.0.2"
     },
     {
       "FirstPatchedVersion": {
         "Identifier": "24.0.4"
       },
-      "VulnerableVersionRange": "\u003c 24.0.4"
+      "VulnerableVersionRange": "\u003e= 10.0.0, \u003c 24.0.4"
     }
   ]
 }
