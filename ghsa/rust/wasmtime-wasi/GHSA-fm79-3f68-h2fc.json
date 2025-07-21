@@ -41,6 +41,9 @@
         "Url": "https://github.com/bytecodealliance/wasmtime/blob/037a6edadbc225decbea00a551aabf04203717d9/crates/wasi/src/preview1.rs#L1824-L1836"
       },
       {
+        "Url": "https://rustsec.org/advisories/RUSTSEC-2025-0046.html"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-fm79-3f68-h2fc"
       }
     ],
@@ -59,7 +62,7 @@
     "PublishedAt": "2025-07-18T19:50:58Z",
     "Severity": "LOW",
     "Summary": "Wasmtime CLI  is vulnerable to host panic through its fd_renumber function",
-    "UpdatedAt": "2025-07-18T19:51:00Z",
+    "UpdatedAt": "2025-07-21T16:06:04Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 3.5,
