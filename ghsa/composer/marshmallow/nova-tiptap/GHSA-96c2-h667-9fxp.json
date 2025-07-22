@@ -38,7 +38,7 @@
     "PublishedAt": "2025-07-21T19:09:21Z",
     "Severity": "CRITICAL",
     "Summary": "nova-tiptap has Unauthenticated Arbitrary File Upload Vulnerability",
-    "UpdatedAt": "2025-07-21T19:09:22Z",
+    "UpdatedAt": "2025-07-22T15:34:52Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
