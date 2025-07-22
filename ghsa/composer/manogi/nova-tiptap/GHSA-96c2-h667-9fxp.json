@@ -1,9 +1,9 @@
 {
   "Severity": "CRITICAL",
-  "UpdatedAt": "2025-07-21T19:09:22Z",
+  "UpdatedAt": "2025-07-22T15:34:51Z",
   "Package": {
     "Ecosystem": "COMPOSER",
-    "Name": "marshmallow/nova-tiptap"
+    "Name": "manogi/nova-tiptap"
   },
   "Advisory": {
     "DatabaseId": 304515,
@@ -48,9 +48,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "5.7.0"
+        "Identifier": ""
       },
-      "VulnerableVersionRange": "\u003c 5.7.0"
+      "VulnerableVersionRange": "\u003c= 3.2.6"
     }
   ]
 }
