@@ -66,6 +66,24 @@
         "Identifier": "22.6.1"
       },
       "VulnerableVersionRange": "\u003e= 22.0.0, \u003c 22.6.1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "20.12.7"
+      },
+      "VulnerableVersionRange": "\u003c 20.12.7"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "21.12.2"
+      },
+      "VulnerableVersionRange": "\u003e= 21.0.0, \u003c 21.12.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "22.6.1"
+      },
+      "VulnerableVersionRange": "\u003e= 22.0.0, \u003c 22.6.1"
     }
   ]
 }
