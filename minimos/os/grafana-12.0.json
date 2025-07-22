@@ -12,6 +12,12 @@
       "GHSA-c72g-53hw-82q7",
       "GHSA-jw54-c8rr-pjpq"
     ],
+    "12.0.2-r0": [
+      "CVE-2025-6023",
+      "CVE-2025-6197",
+      "GHSA-jvcj-qc86-j594",
+      "GHSA-vqph-p5vc-g644"
+    ],
     "12.0.2-r1": [
       "GHSA-fv92-fjc5-jj9h"
     ]
