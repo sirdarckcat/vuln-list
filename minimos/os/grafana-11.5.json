@@ -54,7 +54,9 @@
     ],
     "11.5.5-r0": [
       "CVE-2025-30153",
+      "CVE-2025-3415",
       "CVE-2025-46331",
+      "GHSA-46m5-8hpj-p5p5",
       "GHSA-w222-m46c-mgh6",
       "GHSA-wq9g-9vfc-cfq9"
     ],
@@ -66,6 +68,12 @@
       "GHSA-62jj-gr2r-5c34",
       "GHSA-6f52-wpx2-hvf2",
       "GHSA-jw54-c8rr-pjpq"
+    ],
+    "11.5.6-r0": [
+      "CVE-2025-6023",
+      "CVE-2025-6197",
+      "GHSA-jvcj-qc86-j594",
+      "GHSA-vqph-p5vc-g644"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
