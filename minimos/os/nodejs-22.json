@@ -16,6 +16,10 @@
       "CVE-2025-23166",
       "GHSA-gcf6-vgcr-474f",
       "GHSA-rrjv-57mm-j6cm"
+    ],
+    "22.17.1-r0": [
+      "CVE-2025-27210",
+      "GHSA-x33r-pvvq-wjrh"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
