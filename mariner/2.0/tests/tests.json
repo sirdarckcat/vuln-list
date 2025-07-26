@@ -2,6 +2,54 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package sysbench is earlier than 1.0.20-3, affected by CVE-2024-25176",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65394000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65394001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65394002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package sysbench is earlier than 1.0.20-3, affected by CVE-2024-25178",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65391000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65391001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65391002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package luajit is earlier than 2.1.0-27, affected by CVE-2024-25178",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65373000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65373001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65373002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package luajit is earlier than 2.1.0-27, affected by CVE-2024-25176",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65370000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65370001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65370002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package httpd is earlier than 2.4.64-1, affected by CVE-2025-49630",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65175000",
       "Version": "0",
@@ -62,6 +110,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package gnutls is earlier than 3.7.11-4, affected by CVE-2025-6395",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65154000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65154001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65154002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package httpd is earlier than 2.4.64-1, affected by CVE-2025-49812",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65097000",
       "Version": "0",
@@ -82,6 +142,42 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:65094002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package gnutls is earlier than 3.7.11-4, affected by CVE-2025-32990",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65091000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65091001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65091002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package gnutls is earlier than 3.7.11-4, affected by CVE-2025-32989",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65088000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65088001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65088002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package gnutls is earlier than 3.7.11-4, affected by CVE-2025-32988",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65085000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65085001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65085002"
       }
     },
     {
