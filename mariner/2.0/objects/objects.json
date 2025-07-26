@@ -1,6 +1,26 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65394001",
+      "Version": "0",
+      "Name": "sysbench"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65391001",
+      "Version": "0",
+      "Name": "sysbench"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65373001",
+      "Version": "0",
+      "Name": "luajit"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65370001",
+      "Version": "0",
+      "Name": "luajit"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65175001",
       "Version": "0",
       "Name": "httpd"
@@ -26,6 +46,11 @@
       "Name": "httpd"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65154001",
+      "Version": "0",
+      "Name": "gnutls"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65097001",
       "Version": "0",
       "Name": "httpd"
@@ -34,6 +59,21 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:65094001",
       "Version": "0",
       "Name": "httpd"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65091001",
+      "Version": "0",
+      "Name": "gnutls"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65088001",
+      "Version": "0",
+      "Name": "gnutls"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65085001",
+      "Version": "0",
+      "Name": "gnutls"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65073001",
