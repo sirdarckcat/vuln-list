@@ -1,6 +1,12 @@
 {
   "name": "binutils",
   "secfixes": {
+    "2.43.1-r0": [
+      "CVE-2025-1153",
+      "CVE-2025-3198",
+      "GHSA-3frg-24qp-xxv2",
+      "GHSA-4m4r-j72q-7w52"
+    ],
     "2.44-r0": [
       "CVE-2025-0840",
       "GHSA-c5qp-mx9f-m5c7"
