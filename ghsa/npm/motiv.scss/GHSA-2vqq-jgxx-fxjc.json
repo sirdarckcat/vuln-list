@@ -41,6 +41,12 @@
         "Identifier": "0.4.21"
       },
       "VulnerableVersionRange": "= 0.4.20"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "0.4.21"
+      },
+      "VulnerableVersionRange": "= 0.4.20"
     }
   ]
 }

@@ -54,6 +54,12 @@
         "Identifier": "3.2-beta"
       },
       "VulnerableVersionRange": "\u003c 3.2-beta"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "3.2-beta"
+      },
+      "VulnerableVersionRange": "\u003c 3.2-beta"
     }
   ]
 }

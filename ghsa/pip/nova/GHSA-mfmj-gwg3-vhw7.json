@@ -78,6 +78,18 @@
         "Identifier": "2014.2.4"
       },
       "VulnerableVersionRange": "\u003c 2014.2.4"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2015.1.2"
+      },
+      "VulnerableVersionRange": "\u003e= 2015.1.0, \u003c 2015.1.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2014.2.4"
+      },
+      "VulnerableVersionRange": "\u003c 2014.2.4"
     }
   ]
 }

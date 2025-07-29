@@ -57,6 +57,12 @@
         "Identifier": "19.04.15"
       },
       "VulnerableVersionRange": "\u003c 19.04.15"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "19.04.15"
+      },
+      "VulnerableVersionRange": "\u003c 19.04.15"
     }
   ]
 }

@@ -57,6 +57,12 @@
         "Identifier": "42.2.5"
       },
       "VulnerableVersionRange": "\u003c 42.2.5"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "42.2.5"
+      },
+      "VulnerableVersionRange": "\u003c 42.2.5"
     }
   ]
 }

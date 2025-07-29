@@ -63,6 +63,24 @@
         "Identifier": "4.17.1"
       },
       "VulnerableVersionRange": "\u003e= 4.17.0, \u003c 4.17.1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "4.15.1"
+      },
+      "VulnerableVersionRange": "\u003c 4.15.1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "4.16.1"
+      },
+      "VulnerableVersionRange": "\u003e= 4.16.0, \u003c 4.16.1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "4.17.1"
+      },
+      "VulnerableVersionRange": "\u003e= 4.17.0, \u003c 4.17.1"
     }
   ]
 }

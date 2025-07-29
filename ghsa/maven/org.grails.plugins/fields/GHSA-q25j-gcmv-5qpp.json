@@ -51,6 +51,12 @@
         "Identifier": "2.2.8"
       },
       "VulnerableVersionRange": "\u003c 2.2.8"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.2.8"
+      },
+      "VulnerableVersionRange": "\u003c 2.2.8"
     }
   ]
 }

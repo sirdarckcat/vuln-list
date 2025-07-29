@@ -60,6 +60,12 @@
         "Identifier": "7.4.13.u37"
       },
       "VulnerableVersionRange": "\u003e= 7.4.13.u8, \u003c= 7.4.13.u36"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.4.13.u37"
+      },
+      "VulnerableVersionRange": "\u003e= 7.4.13.u8, \u003c= 7.4.13.u36"
     }
   ]
 }

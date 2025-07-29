@@ -66,6 +66,12 @@
         "Identifier": "2013.2.3"
       },
       "VulnerableVersionRange": "\u003e= 2012.2, \u003c 2013.2.3"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2013.2.3"
+      },
+      "VulnerableVersionRange": "\u003e= 2012.2, \u003c 2013.2.3"
     }
   ]
 }

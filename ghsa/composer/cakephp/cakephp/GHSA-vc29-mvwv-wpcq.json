@@ -48,6 +48,12 @@
         "Identifier": "1.1.7.3363"
       },
       "VulnerableVersionRange": "\u003e= 1.0.1.2708, \u003c= 1.1.6.3264"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "1.1.7.3363"
+      },
+      "VulnerableVersionRange": "\u003e= 1.0.1.2708, \u003c= 1.1.6.3264"
     }
   ]
 }

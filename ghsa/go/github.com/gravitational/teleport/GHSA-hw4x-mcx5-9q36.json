@@ -59,6 +59,24 @@
         "Identifier": "14.2.4"
       },
       "VulnerableVersionRange": "\u003e= 14.0.0, \u003c 14.2.4"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "12.4.31"
+      },
+      "VulnerableVersionRange": "\u003c 12.4.31"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "13.4.13"
+      },
+      "VulnerableVersionRange": "\u003e= 13.0.0, \u003c 13.4.13"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "14.2.4"
+      },
+      "VulnerableVersionRange": "\u003e= 14.0.0, \u003c 14.2.4"
     }
   ]
 }
