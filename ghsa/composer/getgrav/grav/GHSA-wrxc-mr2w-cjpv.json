@@ -54,12 +54,6 @@
         "Identifier": "1.6.23"
       },
       "VulnerableVersionRange": "\u003c 1.6.23"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.6.23"
-      },
-      "VulnerableVersionRange": "\u003c 1.6.23"
     }
   ]
 }

@@ -50,18 +50,6 @@
         "Identifier": "7.6.22"
       },
       "VulnerableVersionRange": "\u003e= 7.6.0, \u003c 7.6.22"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "8.7.5"
-      },
-      "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 8.7.5"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "7.6.22"
-      },
-      "VulnerableVersionRange": "\u003e= 7.6.0, \u003c 7.6.22"
     }
   ]
 }

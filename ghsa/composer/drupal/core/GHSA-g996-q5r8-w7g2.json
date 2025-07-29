@@ -75,12 +75,6 @@
     },
     {
       "FirstPatchedVersion": {
-        "Identifier": "8.5.15"
-      },
-      "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 8.5.15"
-    },
-    {
-      "FirstPatchedVersion": {
         "Identifier": "8.6.15"
       },
       "VulnerableVersionRange": "\u003e= 8.6.0, \u003c 8.6.15"

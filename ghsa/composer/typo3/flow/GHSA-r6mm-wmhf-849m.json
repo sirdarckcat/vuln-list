@@ -68,36 +68,6 @@
         "Identifier": "2.3.16"
       },
       "VulnerableVersionRange": "\u003e= 2.3.0, \u003c 2.3.16"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "3.3.5"
-      },
-      "VulnerableVersionRange": "\u003e= 3.3.0, \u003c 3.3.5"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "3.2.7"
-      },
-      "VulnerableVersionRange": "\u003e= 3.2.0, \u003c 3.2.7"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "3.1.7"
-      },
-      "VulnerableVersionRange": "\u003e= 3.1.0, \u003c 3.1.7"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "3.0.10"
-      },
-      "VulnerableVersionRange": "\u003e= 3.0.0, \u003c 3.0.10"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.3.16"
-      },
-      "VulnerableVersionRange": "\u003e= 2.3.0, \u003c 2.3.16"
     }
   ]
 }

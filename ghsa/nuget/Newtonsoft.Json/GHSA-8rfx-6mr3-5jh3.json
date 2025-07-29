@@ -65,12 +65,6 @@
         "Identifier": "13.0.1"
       },
       "VulnerableVersionRange": "\u003c 13.0.1"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "13.0.1"
-      },
-      "VulnerableVersionRange": "\u003c 13.0.1"
     }
   ]
 }

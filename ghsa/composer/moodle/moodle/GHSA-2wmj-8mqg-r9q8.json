@@ -60,24 +60,6 @@
         "Identifier": "3.11.1"
       },
       "VulnerableVersionRange": "\u003e= 3.11.0-beta, \u003c 3.11.1"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "3.9.8"
-      },
-      "VulnerableVersionRange": "\u003c 3.9.8"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "3.10.5"
-      },
-      "VulnerableVersionRange": "\u003e= 3.10.0-beta, \u003c 3.10.5"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "3.11.1"
-      },
-      "VulnerableVersionRange": "\u003e= 3.11.0-beta, \u003c 3.11.1"
     }
   ]
 }
