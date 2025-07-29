@@ -222,12 +222,6 @@
         "Identifier": "4.1.61.Final"
       },
       "VulnerableVersionRange": "\u003e= 4.0.0, \u003c 4.1.61.Final"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.1.61.Final"
-      },
-      "VulnerableVersionRange": "\u003e= 4.0.0, \u003c 4.1.61.Final"
     }
   ]
 }

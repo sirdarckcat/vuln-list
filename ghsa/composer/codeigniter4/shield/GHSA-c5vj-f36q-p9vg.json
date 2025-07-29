@@ -63,12 +63,6 @@
         "Identifier": "1.0.0-beta.4"
       },
       "VulnerableVersionRange": "\u003c 1.0.0-beta.4"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.0.0-beta.4"
-      },
-      "VulnerableVersionRange": "\u003c 1.0.0-beta.4"
     }
   ]
 }

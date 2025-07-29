@@ -66,12 +66,6 @@
         "Identifier": "4.0.0.rc4"
       },
       "VulnerableVersionRange": "\u003c 4.0.0.rc4"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.0.0.rc4"
-      },
-      "VulnerableVersionRange": "\u003c 4.0.0.rc4"
     }
   ]
 }

@@ -93,18 +93,6 @@
         "Identifier": "2.3.11"
       },
       "VulnerableVersionRange": "\u003c 2.3.11"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "3.0.4"
-      },
-      "VulnerableVersionRange": "\u003e= 3.0.0, \u003c 3.0.4"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.3.11"
-      },
-      "VulnerableVersionRange": "\u003c 2.3.11"
     }
   ]
 }

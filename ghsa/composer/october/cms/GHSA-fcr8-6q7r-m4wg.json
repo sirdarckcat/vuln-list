@@ -54,18 +54,6 @@
         "Identifier": "1.0.472"
       },
       "VulnerableVersionRange": "= 1.0.471"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.1.2"
-      },
-      "VulnerableVersionRange": "= 1.1.1"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.0.472"
-      },
-      "VulnerableVersionRange": "= 1.0.471"
     }
   ]
 }

@@ -59,18 +59,6 @@
       "FirstPatchedVersion": {
         "Identifier": ""
       },
-      "VulnerableVersionRange": "= 2.4.8-beta1"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": ""
-      },
-      "VulnerableVersionRange": "= 2.4.4"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": ""
-      },
       "VulnerableVersionRange": "= 2.4.5"
     },
     {

@@ -57,18 +57,6 @@
         "Identifier": "397.v907382dd9b"
       },
       "VulnerableVersionRange": "\u003e= 378.380.v545b, \u003c= 396.v86ce29279947"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "378.vd6e2874a"
-      },
-      "VulnerableVersionRange": "\u003c 378.vd6e2874a"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "397.v907382dd9b"
-      },
-      "VulnerableVersionRange": "\u003e= 378.380.v545b, \u003c= 396.v86ce29279947"
     }
   ]
 }

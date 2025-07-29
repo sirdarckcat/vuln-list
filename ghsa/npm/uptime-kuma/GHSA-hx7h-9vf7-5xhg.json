@@ -56,18 +56,6 @@
         "Identifier": ""
       },
       "VulnerableVersionRange": "\u003e= 1.15.0, \u003c= 1.23.16"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.0.0-beta.2"
-      },
-      "VulnerableVersionRange": "\u003e= 2.0.0-beta.0, \u003c 2.0.0-beta.2"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": ""
-      },
-      "VulnerableVersionRange": "\u003e= 1.15.0, \u003c= 1.23.16"
     }
   ]
 }

@@ -69,30 +69,6 @@
         "Identifier": "12.3.6"
       },
       "VulnerableVersionRange": "= 12.3.5"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "15.2.4"
-      },
-      "VulnerableVersionRange": "= 15.2.3"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "14.2.26"
-      },
-      "VulnerableVersionRange": "= 14.2.25"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "13.5.10"
-      },
-      "VulnerableVersionRange": "= 13.5.9"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "12.3.6"
-      },
-      "VulnerableVersionRange": "= 12.3.5"
     }
   ]
 }
