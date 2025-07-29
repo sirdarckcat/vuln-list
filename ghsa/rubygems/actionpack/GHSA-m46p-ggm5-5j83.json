@@ -81,18 +81,6 @@
         "Identifier": "3.2.17"
       },
       "VulnerableVersionRange": "\u003e= 3.0.0, \u003c 3.2.17"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.0.3"
-      },
-      "VulnerableVersionRange": "\u003e= 4.0.0, \u003c 4.0.3"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "3.2.17"
-      },
-      "VulnerableVersionRange": "\u003e= 3.0.0, \u003c 3.2.17"
     }
   ]
 }

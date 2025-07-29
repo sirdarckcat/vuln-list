@@ -63,12 +63,6 @@
         "Identifier": "9.3.9"
       },
       "VulnerableVersionRange": "\u003e= 9.3.0, \u003c 9.3.9"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "9.3.9"
-      },
-      "VulnerableVersionRange": "\u003e= 9.3.0, \u003c 9.3.9"
     }
   ]
 }

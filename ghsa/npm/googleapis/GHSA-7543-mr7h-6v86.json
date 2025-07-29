@@ -44,12 +44,6 @@
         "Identifier": "39.1.0"
       },
       "VulnerableVersionRange": "\u003c 39.1.0"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "39.1.0"
-      },
-      "VulnerableVersionRange": "\u003c 39.1.0"
     }
   ]
 }

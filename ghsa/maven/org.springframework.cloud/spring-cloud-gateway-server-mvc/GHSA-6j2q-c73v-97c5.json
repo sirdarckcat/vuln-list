@@ -48,12 +48,6 @@
         "Identifier": "4.2.3"
       },
       "VulnerableVersionRange": "\u003e= 4.1.7, \u003c 4.2.3"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.2.3"
-      },
-      "VulnerableVersionRange": "\u003e= 4.1.7, \u003c 4.2.3"
     }
   ]
 }

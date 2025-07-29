@@ -51,12 +51,6 @@
         "Identifier": "2.2.11"
       },
       "VulnerableVersionRange": "\u003c 2.2.11"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.2.11"
-      },
-      "VulnerableVersionRange": "\u003c 2.2.11"
     }
   ]
 }

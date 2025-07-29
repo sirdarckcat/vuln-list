@@ -60,24 +60,6 @@
         "Identifier": "2.39.9"
       },
       "VulnerableVersionRange": "\u003e= 2.39.0, \u003c 2.39.9"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.41.6"
-      },
-      "VulnerableVersionRange": "\u003e= 2.41.0, \u003c 2.41.6"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.40.10"
-      },
-      "VulnerableVersionRange": "\u003e= 2.40.0, \u003c 2.40.10"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.39.9"
-      },
-      "VulnerableVersionRange": "\u003e= 2.39.0, \u003c 2.39.9"
     }
   ]
 }

@@ -54,12 +54,6 @@
         "Identifier": "22.7.0"
       },
       "VulnerableVersionRange": "\u003c 22.7.0"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "22.7.0"
-      },
-      "VulnerableVersionRange": "\u003c 22.7.0"
     }
   ]
 }

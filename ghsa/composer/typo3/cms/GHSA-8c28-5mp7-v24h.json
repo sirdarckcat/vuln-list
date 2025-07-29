@@ -66,18 +66,6 @@
         "Identifier": "10.4.33"
       },
       "VulnerableVersionRange": "\u003e= 10.0.0, \u003c 10.4.33"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "11.5.20"
-      },
-      "VulnerableVersionRange": "\u003e= 11.0.0, \u003c 11.5.20"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "10.4.33"
-      },
-      "VulnerableVersionRange": "\u003e= 10.0.0, \u003c 10.4.33"
     }
   ]
 }
