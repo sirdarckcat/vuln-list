@@ -53,6 +53,12 @@
         "Identifier": "4.1.100.Final"
       },
       "VulnerableVersionRange": "\u003c 4.1.100.Final"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "4.1.100.Final"
+      },
+      "VulnerableVersionRange": "\u003c 4.1.100.Final"
     }
   ]
 }

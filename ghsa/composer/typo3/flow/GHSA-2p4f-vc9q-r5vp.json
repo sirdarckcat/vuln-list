@@ -50,6 +50,18 @@
         "Identifier": "2.3.7"
       },
       "VulnerableVersionRange": "\u003e= 2.3.0, \u003c 2.3.7"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "3.0.1"
+      },
+      "VulnerableVersionRange": "\u003e= 3.0.0, \u003c 3.0.1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.3.7"
+      },
+      "VulnerableVersionRange": "\u003e= 2.3.0, \u003c 2.3.7"
     }
   ]
 }

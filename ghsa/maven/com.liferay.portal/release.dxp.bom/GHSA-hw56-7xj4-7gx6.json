@@ -57,6 +57,12 @@
         "Identifier": "7.3.10.u4"
       },
       "VulnerableVersionRange": "\u003e= 7.3.10.fp2, \u003c 7.3.10.u4"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.3.10.u4"
+      },
+      "VulnerableVersionRange": "\u003e= 7.3.10.fp2, \u003c 7.3.10.u4"
     }
   ]
 }

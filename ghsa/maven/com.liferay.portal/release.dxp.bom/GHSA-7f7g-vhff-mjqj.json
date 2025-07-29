@@ -72,6 +72,24 @@
         "Identifier": "7.2.10.fp19"
       },
       "VulnerableVersionRange": "\u003e= 7.2.0, \u003c 7.2.10.fp19"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.4.13.u25"
+      },
+      "VulnerableVersionRange": "\u003e= 7.4.0, \u003c 7.4.13.u25"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.3.10.u5"
+      },
+      "VulnerableVersionRange": "\u003e= 7.3.0, \u003c 7.3.10.u5"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.2.10.fp19"
+      },
+      "VulnerableVersionRange": "\u003e= 7.2.0, \u003c 7.2.10.fp19"
     }
   ]
 }

@@ -60,6 +60,18 @@
         "Identifier": "3.10.11"
       },
       "VulnerableVersionRange": "\u003e= 3.0.0, \u003c= 3.10.0"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "3.10.13"
+      },
+      "VulnerableVersionRange": "= 3.10.12"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "3.10.11"
+      },
+      "VulnerableVersionRange": "\u003e= 3.0.0, \u003c= 3.10.0"
     }
   ]
 }

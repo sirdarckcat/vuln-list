@@ -138,6 +138,12 @@
         "Identifier": "1.19"
       },
       "VulnerableVersionRange": "\u003e= 1.15, \u003c 1.19"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "1.19"
+      },
+      "VulnerableVersionRange": "\u003e= 1.15, \u003c 1.19"
     }
   ]
 }
