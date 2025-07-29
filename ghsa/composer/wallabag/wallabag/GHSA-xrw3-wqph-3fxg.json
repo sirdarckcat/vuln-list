@@ -47,12 +47,6 @@
         "Identifier": "2.5.3"
       },
       "VulnerableVersionRange": "\u003e= 2.0.0-beta.1, \u003c 2.5.3"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.5.3"
-      },
-      "VulnerableVersionRange": "\u003e= 2.0.0-beta.1, \u003c 2.5.3"
     }
   ]
 }

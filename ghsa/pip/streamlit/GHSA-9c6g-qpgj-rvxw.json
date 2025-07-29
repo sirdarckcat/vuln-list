@@ -54,12 +54,6 @@
         "Identifier": "0.81.0"
       },
       "VulnerableVersionRange": "\u003e= 0.63.0, \u003c 0.81.0"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "0.81.0"
-      },
-      "VulnerableVersionRange": "\u003e= 0.63.0, \u003c 0.81.0"
     }
   ]
 }

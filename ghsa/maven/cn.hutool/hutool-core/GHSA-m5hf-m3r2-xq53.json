@@ -51,12 +51,6 @@
         "Identifier": "5.8.25"
       },
       "VulnerableVersionRange": "\u003e= 5.8.22, \u003c= 5.8.24"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "5.8.25"
-      },
-      "VulnerableVersionRange": "\u003e= 5.8.22, \u003c= 5.8.24"
     }
   ]
 }

@@ -57,12 +57,6 @@
         "Identifier": "0.10.4-0.20230211093429-b11d2130a084"
       },
       "VulnerableVersionRange": "\u003c 0.10.4-0.20230211093429-b11d2130a084"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "0.10.4-0.20230211093429-b11d2130a084"
-      },
-      "VulnerableVersionRange": "\u003c 0.10.4-0.20230211093429-b11d2130a084"
     }
   ]
 }

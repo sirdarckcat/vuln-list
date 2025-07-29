@@ -60,12 +60,6 @@
         "Identifier": "5.0.10"
       },
       "VulnerableVersionRange": "\u003c 5.0.10"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "5.0.10"
-      },
-      "VulnerableVersionRange": "\u003c 5.0.10"
     }
   ]
 }

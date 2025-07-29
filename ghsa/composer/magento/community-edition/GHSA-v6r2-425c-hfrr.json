@@ -90,54 +90,6 @@
         "Identifier": "2.4.7-p4"
       },
       "VulnerableVersionRange": "\u003e= 2.4.7-beta1, \u003c 2.4.7-p4"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": ""
-      },
-      "VulnerableVersionRange": "= 2.4.8-beta1"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": ""
-      },
-      "VulnerableVersionRange": "= 2.4.5"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": ""
-      },
-      "VulnerableVersionRange": "= 2.4.6"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": ""
-      },
-      "VulnerableVersionRange": "= 2.4.7"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.4.4-p12"
-      },
-      "VulnerableVersionRange": "\u003c 2.4.4-p12"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.4.5-p11"
-      },
-      "VulnerableVersionRange": "\u003e= 2.4.5-p1, \u003c 2.4.5-p11"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.4.6-p9"
-      },
-      "VulnerableVersionRange": "\u003e= 2.4.6-p1, \u003c 2.4.6-p9"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.4.7-p4"
-      },
-      "VulnerableVersionRange": "\u003e= 2.4.7-beta1, \u003c 2.4.7-p4"
     }
   ]
 }

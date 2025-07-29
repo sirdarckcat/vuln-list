@@ -138,12 +138,6 @@
         "Identifier": ""
       },
       "VulnerableVersionRange": "= 1.18.1"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": ""
-      },
-      "VulnerableVersionRange": "= 1.18.1"
     }
   ]
 }
