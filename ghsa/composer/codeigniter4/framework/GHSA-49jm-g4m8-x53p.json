@@ -42,13 +42,13 @@
         "Value": "CVE-2025-45406"
       }
     ],
-    "Description": "A stored cross-site scripting (XSS) vulnerability in CodeIgniter4 v4.6.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the debugbar_time parameter.",
+    "Description": "### Withdrawn Advisory\nThis advisory has been withdrawn because the original report was found to be invalid. This link is maintained to preserve external references. For more information, see https://github.com/github/advisory-database/pull/5862.\n\n### Original Description\nA stored cross-site scripting (XSS) vulnerability in CodeIgniter4 v4.6.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the debugbar_time parameter.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2025-07-25T18:30:41Z",
     "Severity": "MODERATE",
-    "Summary": "CodeIgniter4 Cross-Site Scripting Vulnerability in debugbar_time Parameter",
-    "UpdatedAt": "2025-07-28T16:07:45Z",
-    "WithdrawnAt": "",
+    "Summary": "Withdrawn Advisory: CodeIgniter4 Cross-Site Scripting Vulnerability in debugbar_time Parameter",
+    "UpdatedAt": "2025-07-29T14:30:18Z",
+    "WithdrawnAt": "2025-07-29T14:30:17Z",
     "CVSS": {
       "Score": 6.1,
       "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
