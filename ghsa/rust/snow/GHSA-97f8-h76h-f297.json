@@ -50,12 +50,6 @@
         "Identifier": "0.9.5"
       },
       "VulnerableVersionRange": "\u003c 0.9.5"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "0.9.5"
-      },
-      "VulnerableVersionRange": "\u003c 0.9.5"
     }
   ]
 }

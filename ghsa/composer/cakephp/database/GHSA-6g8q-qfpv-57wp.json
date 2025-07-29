@@ -66,24 +66,6 @@
         "Identifier": "4.2.12"
       },
       "VulnerableVersionRange": "\u003e= 4.2.0, \u003c 4.2.12"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.4.10"
-      },
-      "VulnerableVersionRange": "\u003e= 4.4.0, \u003c 4.4.10"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.3.11"
-      },
-      "VulnerableVersionRange": "\u003e= 4.3.0, \u003c 4.3.11"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.2.12"
-      },
-      "VulnerableVersionRange": "\u003e= 4.2.0, \u003c 4.2.12"
     }
   ]
 }

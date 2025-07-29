@@ -68,24 +68,6 @@
         "Identifier": "5.7.0"
       },
       "VulnerableVersionRange": "\u003c 5.7.0"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "7.1.2"
-      },
-      "VulnerableVersionRange": "\u003e= 7.0.0-preview, \u003c 7.1.2"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "6.34.0"
-      },
-      "VulnerableVersionRange": "\u003e= 6.5.0, \u003c 6.34.0"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "5.7.0"
-      },
-      "VulnerableVersionRange": "\u003c 5.7.0"
     }
   ]
 }

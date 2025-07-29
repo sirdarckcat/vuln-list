@@ -66,18 +66,6 @@
         "Identifier": "19.4.22"
       },
       "VulnerableVersionRange": "\u003c 19.4.22"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "20.0.19"
-      },
-      "VulnerableVersionRange": "\u003e= 20.0.0, \u003c 20.0.19"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "19.4.22"
-      },
-      "VulnerableVersionRange": "\u003c 19.4.22"
     }
   ]
 }

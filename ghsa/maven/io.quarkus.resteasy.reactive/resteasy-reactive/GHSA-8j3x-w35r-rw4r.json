@@ -63,18 +63,6 @@
         "Identifier": "2.13.9.Final"
       },
       "VulnerableVersionRange": "\u003c 2.13.9.Final"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "3.2.9.Final"
-      },
-      "VulnerableVersionRange": "\u003e= 3.0.0.Final, \u003c 3.2.9.Final"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "2.13.9.Final"
-      },
-      "VulnerableVersionRange": "\u003c 2.13.9.Final"
     }
   ]
 }

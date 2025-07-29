@@ -81,12 +81,6 @@
         "Identifier": "1.13.2"
       },
       "VulnerableVersionRange": "\u003c 1.13.2"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "1.13.2"
-      },
-      "VulnerableVersionRange": "\u003c 1.13.2"
     }
   ]
 }

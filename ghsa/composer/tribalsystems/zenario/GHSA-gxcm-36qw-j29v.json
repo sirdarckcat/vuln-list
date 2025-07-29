@@ -54,12 +54,6 @@
         "Identifier": "8.8.53370"
       },
       "VulnerableVersionRange": "\u003c 8.8.53370"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "8.8.53370"
-      },
-      "VulnerableVersionRange": "\u003c 8.8.53370"
     }
   ]
 }

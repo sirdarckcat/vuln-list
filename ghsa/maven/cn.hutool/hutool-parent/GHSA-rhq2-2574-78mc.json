@@ -48,12 +48,6 @@
         "Identifier": "4.1.12"
       },
       "VulnerableVersionRange": "\u003c 4.1.12"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "4.1.12"
-      },
-      "VulnerableVersionRange": "\u003c 4.1.12"
     }
   ]
 }

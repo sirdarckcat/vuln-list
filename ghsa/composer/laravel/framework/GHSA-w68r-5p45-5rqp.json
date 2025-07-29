@@ -57,18 +57,6 @@
         "Identifier": "6.18.35"
       },
       "VulnerableVersionRange": "\u003c 6.18.35"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "7.24.0"
-      },
-      "VulnerableVersionRange": "\u003e= 7.0.0, \u003c 7.24.0"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "6.18.35"
-      },
-      "VulnerableVersionRange": "\u003c 6.18.35"
     }
   ]
 }

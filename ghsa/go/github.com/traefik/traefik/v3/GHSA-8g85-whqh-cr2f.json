@@ -66,12 +66,6 @@
         "Identifier": "3.0.0-beta5"
       },
       "VulnerableVersionRange": "\u003c 3.0.0-beta5"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "3.0.0-beta5"
-      },
-      "VulnerableVersionRange": "\u003c 3.0.0-beta5"
     }
   ]
 }
