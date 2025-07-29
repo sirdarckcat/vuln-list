@@ -44,6 +44,12 @@
         "Identifier": "2.187.0"
       },
       "VulnerableVersionRange": "\u003e= 2.37.0, \u003c 2.187.0"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.187.0"
+      },
+      "VulnerableVersionRange": "\u003e= 2.37.0, \u003c 2.187.0"
     }
   ]
 }

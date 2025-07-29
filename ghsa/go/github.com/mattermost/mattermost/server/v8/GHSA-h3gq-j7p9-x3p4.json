@@ -48,6 +48,12 @@
         "Identifier": "8.1.7"
       },
       "VulnerableVersionRange": "\u003c 8.1.7"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "8.1.7"
+      },
+      "VulnerableVersionRange": "\u003c 8.1.7"
     }
   ]
 }

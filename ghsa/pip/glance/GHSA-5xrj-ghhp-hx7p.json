@@ -72,6 +72,12 @@
         "Identifier": "11.0.2"
       },
       "VulnerableVersionRange": "\u003e= 11.0.0, \u003c 11.0.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "11.0.2"
+      },
+      "VulnerableVersionRange": "\u003e= 11.0.0, \u003c 11.0.2"
     }
   ]
 }

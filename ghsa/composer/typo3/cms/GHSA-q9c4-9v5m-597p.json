@@ -50,6 +50,18 @@
         "Identifier": "8.7.27"
       },
       "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 8.7.27"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "9.5.8"
+      },
+      "VulnerableVersionRange": "\u003e= 9.0.0, \u003c 9.5.8"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "8.7.27"
+      },
+      "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 8.7.27"
     }
   ]
 }

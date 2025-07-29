@@ -56,6 +56,18 @@
         "Identifier": "10.1.8"
       },
       "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 10.1.8"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "10.2.2"
+      },
+      "VulnerableVersionRange": "\u003e= 10.2.0, \u003c 10.2.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "10.1.8"
+      },
+      "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 10.1.8"
     }
   ]
 }

@@ -63,6 +63,18 @@
         "Identifier": "1.13.12"
       },
       "VulnerableVersionRange": "\u003e= 1.13.0, \u003c 1.13.12"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.0.7"
+      },
+      "VulnerableVersionRange": "\u003e= 2.0.0, \u003c 2.0.7"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "1.13.12"
+      },
+      "VulnerableVersionRange": "\u003e= 1.13.0, \u003c 1.13.12"
     }
   ]
 }

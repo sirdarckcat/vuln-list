@@ -53,6 +53,18 @@
         "Identifier": "8.40.0"
       },
       "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 8.40.0"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "6.20.26"
+      },
+      "VulnerableVersionRange": "\u003c 6.20.26"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "8.40.0"
+      },
+      "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 8.40.0"
     }
   ]
 }

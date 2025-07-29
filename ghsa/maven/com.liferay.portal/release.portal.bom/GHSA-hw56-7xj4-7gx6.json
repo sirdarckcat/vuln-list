@@ -57,6 +57,12 @@
         "Identifier": "7.4.0-ga1"
       },
       "VulnerableVersionRange": "\u003e= 7.3.7, \u003c 7.4.0-ga1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.4.0-ga1"
+      },
+      "VulnerableVersionRange": "\u003e= 7.3.7, \u003c 7.4.0-ga1"
     }
   ]
 }

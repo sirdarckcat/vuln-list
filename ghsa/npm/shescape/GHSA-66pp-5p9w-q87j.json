@@ -57,6 +57,12 @@
         "Identifier": "2.1.2"
       },
       "VulnerableVersionRange": "\u003e= 1.7.2, \u003c 2.1.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.1.2"
+      },
+      "VulnerableVersionRange": "\u003e= 1.7.2, \u003c 2.1.2"
     }
   ]
 }

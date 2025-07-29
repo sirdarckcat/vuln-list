@@ -51,6 +51,12 @@
         "Identifier": "1229.v3039470161a_d"
       },
       "VulnerableVersionRange": "\u003c= 1227.v7a"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "1229.v3039470161a_d"
+      },
+      "VulnerableVersionRange": "\u003c= 1227.v7a"
     }
   ]
 }

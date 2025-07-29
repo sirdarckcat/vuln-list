@@ -84,6 +84,12 @@
         "Identifier": "2.2.24.Final"
       },
       "VulnerableVersionRange": "\u003c 2.2.24.Final"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.2.24.Final"
+      },
+      "VulnerableVersionRange": "\u003c 2.2.24.Final"
     }
   ]
 }
