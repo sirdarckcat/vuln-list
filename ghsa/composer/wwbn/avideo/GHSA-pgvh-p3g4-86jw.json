@@ -51,6 +51,12 @@
         "Identifier": "12.4"
       },
       "VulnerableVersionRange": "\u003c 12.4"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "12.4"
+      },
+      "VulnerableVersionRange": "\u003c 12.4"
     }
   ]
 }

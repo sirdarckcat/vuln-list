@@ -56,6 +56,24 @@
         "Identifier": "7.6.30"
       },
       "VulnerableVersionRange": "\u003e= 7.0.0, \u003c 7.6.30"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "9.3.2"
+      },
+      "VulnerableVersionRange": "\u003e= 9.0.0, \u003c 9.3.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "8.7.17"
+      },
+      "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 8.7.17"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.6.30"
+      },
+      "VulnerableVersionRange": "\u003e= 7.0.0, \u003c 7.6.30"
     }
   ]
 }

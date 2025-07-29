@@ -87,6 +87,36 @@
         "Identifier": ""
       },
       "VulnerableVersionRange": "\u003e= 7.0.0, \u003c= 7.0.10.fp102"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": ""
+      },
+      "VulnerableVersionRange": "= 7.4.0.ga1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.3.10.u4"
+      },
+      "VulnerableVersionRange": "\u003e= 7.3.0, \u003c 7.3.10.u4"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.2.10.fp17"
+      },
+      "VulnerableVersionRange": "\u003e= 7.2.0, \u003c 7.2.10.fp17"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.1.10.fp27"
+      },
+      "VulnerableVersionRange": "\u003e= 7.1.0, \u003c 7.1.10.fp27"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": ""
+      },
+      "VulnerableVersionRange": "\u003e= 7.0.0, \u003c= 7.0.10.fp102"
     }
   ]
 }

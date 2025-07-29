@@ -101,6 +101,66 @@
         "Identifier": "2.0.99"
       },
       "VulnerableVersionRange": "\u003e= 2.0.0, \u003c 2.0.99"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "3.1.4"
+      },
+      "VulnerableVersionRange": "\u003e= 3.1.0, \u003c 3.1.4"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "3.0.15"
+      },
+      "VulnerableVersionRange": "\u003e= 3.0.0, \u003c 3.0.15"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.7.6"
+      },
+      "VulnerableVersionRange": "\u003e= 2.7.0, \u003c 2.7.6"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.6.12"
+      },
+      "VulnerableVersionRange": "\u003e= 2.6.0, \u003c 2.6.12"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.5.99"
+      },
+      "VulnerableVersionRange": "\u003e= 2.5.0, \u003c 2.5.99"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.4.99"
+      },
+      "VulnerableVersionRange": "\u003e= 2.4.0, \u003c 2.4.99"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.3.99"
+      },
+      "VulnerableVersionRange": "\u003e= 2.3.0, \u003c 2.3.99"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.2.99"
+      },
+      "VulnerableVersionRange": "\u003e= 2.2.0, \u003c 2.2.99"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.1.99"
+      },
+      "VulnerableVersionRange": "\u003e= 2.1.0, \u003c 2.1.99"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.0.99"
+      },
+      "VulnerableVersionRange": "\u003e= 2.0.0, \u003c 2.0.99"
     }
   ]
 }

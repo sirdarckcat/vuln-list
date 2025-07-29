@@ -47,6 +47,12 @@
         "Identifier": "24.0.0"
       },
       "VulnerableVersionRange": "\u003c 24.0.0"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "24.0.0"
+      },
+      "VulnerableVersionRange": "\u003c 24.0.0"
     }
   ]
 }

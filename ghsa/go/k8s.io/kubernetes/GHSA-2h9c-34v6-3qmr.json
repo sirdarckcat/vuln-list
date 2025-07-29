@@ -54,6 +54,12 @@
         "Identifier": "1.2.0-alpha.6"
       },
       "VulnerableVersionRange": "\u003c 1.2.0-alpha.6"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "1.2.0-alpha.6"
+      },
+      "VulnerableVersionRange": "\u003c 1.2.0-alpha.6"
     }
   ]
 }

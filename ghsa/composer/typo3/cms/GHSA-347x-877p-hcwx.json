@@ -63,6 +63,12 @@
         "Identifier": "10.4.2"
       },
       "VulnerableVersionRange": "\u003e= 10.0.0, \u003c 10.4.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "10.4.2"
+      },
+      "VulnerableVersionRange": "\u003e= 10.0.0, \u003c 10.4.2"
     }
   ]
 }

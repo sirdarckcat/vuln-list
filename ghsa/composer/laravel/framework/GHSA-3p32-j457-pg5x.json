@@ -81,6 +81,24 @@
         "Identifier": "8.22.1"
       },
       "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 8.22.1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.30.2"
+      },
+      "VulnerableVersionRange": "\u003e= 7.0.0, \u003c 7.30.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "6.20.11"
+      },
+      "VulnerableVersionRange": "\u003e= 6.0.0, \u003c 6.20.11"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "8.22.1"
+      },
+      "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 8.22.1"
     }
   ]
 }

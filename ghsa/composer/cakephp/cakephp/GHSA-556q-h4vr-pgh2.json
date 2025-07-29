@@ -66,6 +66,12 @@
         "Identifier": "3.1.5"
       },
       "VulnerableVersionRange": "\u003e= 2.0.0-alpha, \u003c 3.1.5"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "3.1.5"
+      },
+      "VulnerableVersionRange": "\u003e= 2.0.0-alpha, \u003c 3.1.5"
     }
   ]
 }

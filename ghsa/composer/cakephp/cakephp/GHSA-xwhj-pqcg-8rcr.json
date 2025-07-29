@@ -59,6 +59,24 @@
         "Identifier": "3.4.14"
       },
       "VulnerableVersionRange": "\u003e= 3.4.0, \u003c 3.4.14"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "3.6.4"
+      },
+      "VulnerableVersionRange": "\u003e= 3.6.0, \u003c 3.6.4"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "3.5.17"
+      },
+      "VulnerableVersionRange": "\u003e= 3.5.0, \u003c 3.5.17"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "3.4.14"
+      },
+      "VulnerableVersionRange": "\u003e= 3.4.0, \u003c 3.4.14"
     }
   ]
 }

@@ -75,6 +75,18 @@
         "Identifier": "23.0.1"
       },
       "VulnerableVersionRange": "\u003c 23.0.1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "24.1.1"
+      },
+      "VulnerableVersionRange": "\u003e= 24.0.0, \u003c 24.1.1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "23.0.1"
+      },
+      "VulnerableVersionRange": "\u003c 23.0.1"
     }
   ]
 }

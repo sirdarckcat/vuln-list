@@ -81,6 +81,30 @@
         "Identifier": "1.8.23.2"
       },
       "VulnerableVersionRange": "\u003c 1.8.23.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.1.5"
+      },
+      "VulnerableVersionRange": "\u003e= 2.1.0, \u003c 2.1.5"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.0.10"
+      },
+      "VulnerableVersionRange": "\u003e= 2.0.0, \u003c 2.0.10"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "1.8.27"
+      },
+      "VulnerableVersionRange": "\u003e= 1.8.24, \u003c 1.8.27"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "1.8.23.2"
+      },
+      "VulnerableVersionRange": "\u003c 1.8.23.2"
     }
   ]
 }

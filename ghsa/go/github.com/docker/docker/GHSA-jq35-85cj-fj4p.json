@@ -71,6 +71,24 @@
         "Identifier": "24.0.7"
       },
       "VulnerableVersionRange": "\u003e= 24.0.0, \u003c 24.0.7"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "20.10.27"
+      },
+      "VulnerableVersionRange": "\u003c 20.10.27"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "23.0.8"
+      },
+      "VulnerableVersionRange": "\u003e= 21.0.0, \u003c 23.0.8"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "24.0.7"
+      },
+      "VulnerableVersionRange": "\u003e= 24.0.0, \u003c 24.0.7"
     }
   ]
 }
