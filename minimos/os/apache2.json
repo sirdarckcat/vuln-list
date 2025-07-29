@@ -27,6 +27,10 @@
       "GHSA-wv6c-mphw-ggxf",
       "GHSA-wxxw-99hq-72vw"
     ],
+    "2.4.62-r0": [
+      "CVE-2025-54090",
+      "GHSA-cjqj-vhhm-xq5x"
+    ],
     "2.4.64-r0": [
       "CVE-2024-42516",
       "CVE-2024-43204",
