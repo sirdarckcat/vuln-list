@@ -60,6 +60,12 @@
         "Identifier": ""
       },
       "VulnerableVersionRange": "\u003e= 4.1.0.Final, \u003c= 4.1.99.Final"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": ""
+      },
+      "VulnerableVersionRange": "\u003e= 4.1.0.Final, \u003c= 4.1.99.Final"
     }
   ]
 }

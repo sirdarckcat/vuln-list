@@ -99,6 +99,12 @@
         "Identifier": "1.10.5"
       },
       "VulnerableVersionRange": "\u003c 1.10.5"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "1.10.5"
+      },
+      "VulnerableVersionRange": "\u003c 1.10.5"
     }
   ]
 }

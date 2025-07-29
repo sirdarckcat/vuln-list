@@ -75,6 +75,30 @@
         "Identifier": "8.7.41"
       },
       "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 8.7.41"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "11.3.1"
+      },
+      "VulnerableVersionRange": "\u003e= 11.0.0, \u003c 11.3.1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "10.4.18"
+      },
+      "VulnerableVersionRange": "\u003e= 10.0.0, \u003c 10.4.18"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "9.5.28"
+      },
+      "VulnerableVersionRange": "\u003e= 9.0.0, \u003c 9.5.28"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "8.7.41"
+      },
+      "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 8.7.41"
     }
   ]
 }

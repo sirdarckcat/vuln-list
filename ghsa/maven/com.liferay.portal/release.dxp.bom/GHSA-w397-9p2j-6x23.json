@@ -78,6 +78,24 @@
         "Identifier": "7.0.10.fp101"
       },
       "VulnerableVersionRange": "\u003e= 7.0.10.fp91, \u003c 7.0.10.fp101"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.2.10.fp14"
+      },
+      "VulnerableVersionRange": "\u003e= 7.2.10.fp5, \u003c 7.2.10.fp14"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.1.10.fp25"
+      },
+      "VulnerableVersionRange": "\u003e= 7.1.10.fp17, \u003c 7.1.10.fp25"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "7.0.10.fp101"
+      },
+      "VulnerableVersionRange": "\u003e= 7.0.10.fp91, \u003c 7.0.10.fp101"
     }
   ]
 }

@@ -78,6 +78,30 @@
         "Identifier": "20.10.7"
       },
       "VulnerableVersionRange": "\u003e= 20.10.0, \u003c 20.10.7"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.8.37"
+      },
+      "VulnerableVersionRange": "\u003c 2.8.37"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "19.10.23"
+      },
+      "VulnerableVersionRange": "\u003e= 19.10.0, \u003c 19.10.23"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "20.04.13"
+      },
+      "VulnerableVersionRange": "\u003e= 20.04.0, \u003c 20.04.13"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "20.10.7"
+      },
+      "VulnerableVersionRange": "\u003e= 20.10.0, \u003c 20.10.7"
     }
   ]
 }

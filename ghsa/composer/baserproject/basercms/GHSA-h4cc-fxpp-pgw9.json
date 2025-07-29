@@ -60,6 +60,12 @@
         "Identifier": "4.7.5"
       },
       "VulnerableVersionRange": "\u003c 4.7.5"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "4.7.5"
+      },
+      "VulnerableVersionRange": "\u003c 4.7.5"
     }
   ]
 }
