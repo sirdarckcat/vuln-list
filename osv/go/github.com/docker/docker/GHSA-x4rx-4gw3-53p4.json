@@ -1,6 +1,6 @@
 {
   "id": "GHSA-x4rx-4gw3-53p4",
-  "modified": "2025-07-29T20:44:35.723533Z",
+  "modified": "2025-07-30T15:41:48Z",
   "published": "2025-07-29T19:56:22Z",
   "aliases": [
     "CVE-2025-54388"
@@ -72,6 +72,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/moby/moby/security/advisories/GHSA-x4rx-4gw3-53p4"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-54388"
     },
     {
       "type": "WEB",
