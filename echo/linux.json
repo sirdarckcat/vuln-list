@@ -23999,16 +23999,10 @@
   "CVE-2025-38352": {
     "fixed_version": "1"
   },
-  "CVE-2025-38353": {
-    "fixed_version": "1"
-  },
   "CVE-2025-38354": {
     "fixed_version": "1"
   },
   "CVE-2025-38359": {
-    "fixed_version": "1"
-  },
-  "CVE-2025-38360": {
     "fixed_version": "1"
   },
   "CVE-2025-38361": {
@@ -24024,9 +24018,6 @@
     "fixed_version": "1"
   },
   "CVE-2025-38365": {
-    "fixed_version": "1"
-  },
-  "CVE-2025-38368": {
     "fixed_version": "1"
   },
   "CVE-2025-38369": {
@@ -24207,6 +24198,66 @@
     "fixed_version": "1"
   },
   "CVE-2025-38467": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38468": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38470": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38471": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38472": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38473": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38474": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38476": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38477": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38478": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38480": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38481": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38482": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38483": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38485": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38487": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38488": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38491": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38494": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38495": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38497": {
     "fixed_version": "1"
   },
   "CVE-2025-38575": {
