@@ -24260,6 +24260,9 @@
   "CVE-2025-38497": {
     "fixed_version": "1"
   },
+  "CVE-2025-38498": {
+    "fixed_version": "1"
+  },
   "CVE-2025-38575": {
     "fixed_version": "1"
   },
