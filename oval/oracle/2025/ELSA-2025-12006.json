@@ -9,6 +9,16 @@
       "Source": "elsa",
       "URI": "https://linux.oracle.com/errata/ELSA-2025-12006.html",
       "ID": "ELSA-2025-12006"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-48367.html",
+      "ID": "CVE-2025-48367"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-32023.html",
+      "ID": "CVE-2025-32023"
     }
   ],
   "Criteria": {
@@ -21,46 +31,56 @@
             "Operator": "AND",
             "Criterias": [
               {
-                "Operator": "OR",
+                "Operator": "AND",
                 "Criterias": [
                   {
-                    "Operator": "AND",
-                    "Criterias": null,
-                    "Criterions": [
+                    "Operator": "OR",
+                    "Criterias": [
                       {
-                        "Comment": "redis is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "redis is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                          },
+                          {
+                            "Comment": "redis is signed with the Oracle Linux 8 key"
+                          }
+                        ]
                       },
                       {
-                        "Comment": "redis is signed with the Oracle Linux 8 key"
-                      }
-                    ]
-                  },
-                  {
-                    "Operator": "AND",
-                    "Criterias": null,
-                    "Criterions": [
-                      {
-                        "Comment": "redis-devel is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "redis-devel is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                          },
+                          {
+                            "Comment": "redis-devel is signed with the Oracle Linux 8 key"
+                          }
+                        ]
                       },
                       {
-                        "Comment": "redis-devel is signed with the Oracle Linux 8 key"
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "redis-doc is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                          },
+                          {
+                            "Comment": "redis-doc is signed with the Oracle Linux 8 key"
+                          }
+                        ]
                       }
-                    ]
-                  },
-                  {
-                    "Operator": "AND",
-                    "Criterias": null,
-                    "Criterions": [
-                      {
-                        "Comment": "redis-doc is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
-                      },
-                      {
-                        "Comment": "redis-doc is signed with the Oracle Linux 8 key"
-                      }
-                    ]
+                    ],
+                    "Criterions": null
                   }
                 ],
-                "Criterions": null
+                "Criterions": [
+                  {
+                    "Comment": "Module redis:6 is enabled"
+                  }
+                ]
               }
             ],
             "Criterions": [
@@ -73,46 +93,56 @@
             "Operator": "AND",
             "Criterias": [
               {
-                "Operator": "OR",
+                "Operator": "AND",
                 "Criterias": [
                   {
-                    "Operator": "AND",
-                    "Criterias": null,
-                    "Criterions": [
+                    "Operator": "OR",
+                    "Criterias": [
                       {
-                        "Comment": "redis is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "redis is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                          },
+                          {
+                            "Comment": "redis is signed with the Oracle Linux 8 key"
+                          }
+                        ]
                       },
                       {
-                        "Comment": "redis is signed with the Oracle Linux 8 key"
-                      }
-                    ]
-                  },
-                  {
-                    "Operator": "AND",
-                    "Criterias": null,
-                    "Criterions": [
-                      {
-                        "Comment": "redis-devel is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "redis-devel is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                          },
+                          {
+                            "Comment": "redis-devel is signed with the Oracle Linux 8 key"
+                          }
+                        ]
                       },
                       {
-                        "Comment": "redis-devel is signed with the Oracle Linux 8 key"
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "redis-doc is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                          },
+                          {
+                            "Comment": "redis-doc is signed with the Oracle Linux 8 key"
+                          }
+                        ]
                       }
-                    ]
-                  },
-                  {
-                    "Operator": "AND",
-                    "Criterias": null,
-                    "Criterions": [
-                      {
-                        "Comment": "redis-doc is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
-                      },
-                      {
-                        "Comment": "redis-doc is signed with the Oracle Linux 8 key"
-                      }
-                    ]
+                    ],
+                    "Criterions": null
                   }
                 ],
-                "Criterions": null
+                "Criterions": [
+                  {
+                    "Comment": "Module redis:6 is enabled"
+                  }
+                ]
               }
             ],
             "Criterions": [
@@ -132,7 +162,18 @@
     ]
   },
   "Severity": "IMPORTANT",
-  "Cves": null,
+  "Cves": [
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2025-48367.html",
+      "ID": "CVE-2025-48367"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2025-32023.html",
+      "ID": "CVE-2025-32023"
+    }
+  ],
   "Issued": {
     "Date": "2025-07-29"
   }
