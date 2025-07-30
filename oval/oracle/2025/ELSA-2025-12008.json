@@ -1,19 +1,24 @@
 {
-  "Title": "ELSA-2025-12006:  redis:6 security update (IMPORTANT)",
-  "Description": "[6.2.19-1.0.1]\n- Build with 64k pages to support redis on both UEK6 and UEK7 on aarch64\n\n[6.2.19-1]\n- rebase to 6.2.19 for CVE-2025-32023 and CVE-2025-48367",
+  "Title": "ELSA-2025-12008:  redis:7 security update (IMPORTANT)",
+  "Description": "[7.2.10-1.0.1]\n- Build with 64k pages to support redis on UEK on aarch64\n\n[7.2.10-1]\n- rebase to 7.2.10 for CVE-2025-27151 CVE-2025-32023 and CVE-2025-48367\n\n[7.2.8-1]\n- rebase to 7.2.8 for CVE-2025-21605\n\n[7.2.7-1]\n- rebase to 7.2.7 for CVE-2024-46981 and CVE-2024-51741\n\n[7.2.6-1]\n- rebase to 7.2.6  RHEL-26628",
   "Platform": [
-    "Oracle Linux 8"
+    "Oracle Linux 9"
   ],
   "References": [
     {
       "Source": "elsa",
-      "URI": "https://linux.oracle.com/errata/ELSA-2025-12006.html",
-      "ID": "ELSA-2025-12006"
+      "URI": "https://linux.oracle.com/errata/ELSA-2025-12008.html",
+      "ID": "ELSA-2025-12008"
     },
     {
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2025-48367.html",
       "ID": "CVE-2025-48367"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-27151.html",
+      "ID": "CVE-2025-27151"
     },
     {
       "Source": "CVE",
@@ -41,10 +46,10 @@
                         "Criterias": null,
                         "Criterions": [
                           {
-                            "Comment": "redis is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                            "Comment": "redis is earlier than 0:7.2.10-1.0.1.module+el9.6.0+90637+3ecf02e1"
                           },
                           {
-                            "Comment": "redis is signed with the Oracle Linux 8 key"
+                            "Comment": "redis is signed with the Oracle Linux 9 key"
                           }
                         ]
                       },
@@ -53,10 +58,10 @@
                         "Criterias": null,
                         "Criterions": [
                           {
-                            "Comment": "redis-devel is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                            "Comment": "redis-devel is earlier than 0:7.2.10-1.0.1.module+el9.6.0+90637+3ecf02e1"
                           },
                           {
-                            "Comment": "redis-devel is signed with the Oracle Linux 8 key"
+                            "Comment": "redis-devel is signed with the Oracle Linux 9 key"
                           }
                         ]
                       },
@@ -65,10 +70,10 @@
                         "Criterias": null,
                         "Criterions": [
                           {
-                            "Comment": "redis-doc is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                            "Comment": "redis-doc is earlier than 0:7.2.10-1.0.1.module+el9.6.0+90637+3ecf02e1"
                           },
                           {
-                            "Comment": "redis-doc is signed with the Oracle Linux 8 key"
+                            "Comment": "redis-doc is signed with the Oracle Linux 9 key"
                           }
                         ]
                       }
@@ -78,7 +83,7 @@
                 ],
                 "Criterions": [
                   {
-                    "Comment": "Module redis:6 is enabled"
+                    "Comment": "Module redis:7 is enabled"
                   }
                 ]
               }
@@ -103,10 +108,10 @@
                         "Criterias": null,
                         "Criterions": [
                           {
-                            "Comment": "redis is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                            "Comment": "redis is earlier than 0:7.2.10-1.0.1.module+el9.6.0+90637+3ecf02e1"
                           },
                           {
-                            "Comment": "redis is signed with the Oracle Linux 8 key"
+                            "Comment": "redis is signed with the Oracle Linux 9 key"
                           }
                         ]
                       },
@@ -115,10 +120,10 @@
                         "Criterias": null,
                         "Criterions": [
                           {
-                            "Comment": "redis-devel is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                            "Comment": "redis-devel is earlier than 0:7.2.10-1.0.1.module+el9.6.0+90637+3ecf02e1"
                           },
                           {
-                            "Comment": "redis-devel is signed with the Oracle Linux 8 key"
+                            "Comment": "redis-devel is signed with the Oracle Linux 9 key"
                           }
                         ]
                       },
@@ -127,10 +132,10 @@
                         "Criterias": null,
                         "Criterions": [
                           {
-                            "Comment": "redis-doc is earlier than 0:6.2.19-1.0.1.module+el8.10.0+90636+d63441d5"
+                            "Comment": "redis-doc is earlier than 0:7.2.10-1.0.1.module+el9.6.0+90637+3ecf02e1"
                           },
                           {
-                            "Comment": "redis-doc is signed with the Oracle Linux 8 key"
+                            "Comment": "redis-doc is signed with the Oracle Linux 9 key"
                           }
                         ]
                       }
@@ -140,7 +145,7 @@
                 ],
                 "Criterions": [
                   {
-                    "Comment": "Module redis:6 is enabled"
+                    "Comment": "Module redis:7 is enabled"
                   }
                 ]
               }
@@ -157,7 +162,7 @@
     ],
     "Criterions": [
       {
-        "Comment": "Oracle Linux 8 is installed"
+        "Comment": "Oracle Linux 9 is installed"
       }
     ]
   },
@@ -170,11 +175,16 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2025-27151.html",
+      "ID": "CVE-2025-27151"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2025-32023.html",
       "ID": "CVE-2025-32023"
     }
   ],
   "Issued": {
-    "Date": "2025-07-29"
+    "Date": "2025-07-30"
   }
 }
