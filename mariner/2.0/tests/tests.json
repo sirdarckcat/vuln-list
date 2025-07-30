@@ -2,9 +2,33 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package qt5-qtbase is earlier than 5.12.11-17, affected by CVE-2025-6558",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65586000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65586001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65586002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package nodejs18 is earlier than 18.20.3-8, affected by CVE-2025-7656",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65583000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65583001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65583002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package sysbench is earlier than 1.0.20-3, affected by CVE-2024-25176",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65394000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65394001"
       },
@@ -16,7 +40,7 @@
       "Check": "at least one",
       "Comment": "Package sysbench is earlier than 1.0.20-3, affected by CVE-2024-25178",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65391000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65391001"
       },
@@ -28,7 +52,7 @@
       "Check": "at least one",
       "Comment": "Package luajit is earlier than 2.1.0-27, affected by CVE-2024-25178",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65373000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65373001"
       },
@@ -40,7 +64,7 @@
       "Check": "at least one",
       "Comment": "Package luajit is earlier than 2.1.0-27, affected by CVE-2024-25176",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65370000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65370001"
       },
@@ -52,7 +76,7 @@
       "Check": "at least one",
       "Comment": "Package httpd is earlier than 2.4.64-1, affected by CVE-2025-49630",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65175000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65175001"
       },
@@ -64,7 +88,7 @@
       "Check": "at least one",
       "Comment": "Package httpd is earlier than 2.4.64-1, affected by CVE-2024-47252",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65172000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65172001"
       },
@@ -76,7 +100,7 @@
       "Check": "at least one",
       "Comment": "Package httpd is earlier than 2.4.64-1, affected by CVE-2024-43204",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65169000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65169001"
       },
@@ -88,7 +112,7 @@
       "Check": "at least one",
       "Comment": "Package httpd is earlier than 2.4.64-1, affected by CVE-2024-42516",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65166000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65166001"
       },
@@ -100,7 +124,7 @@
       "Check": "at least one",
       "Comment": "Package httpd is earlier than 2.4.64-1, affected by CVE-2025-23048",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65163000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65163001"
       },
@@ -112,7 +136,7 @@
       "Check": "at least one",
       "Comment": "Package gnutls is earlier than 3.7.11-4, affected by CVE-2025-6395",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65154000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65154001"
       },
@@ -124,7 +148,7 @@
       "Check": "at least one",
       "Comment": "Package httpd is earlier than 2.4.64-1, affected by CVE-2025-49812",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65097000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65097001"
       },
@@ -136,7 +160,7 @@
       "Check": "at least one",
       "Comment": "Package httpd is earlier than 2.4.64-1, affected by CVE-2025-53020",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65094000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65094001"
       },
@@ -148,7 +172,7 @@
       "Check": "at least one",
       "Comment": "Package gnutls is earlier than 3.7.11-4, affected by CVE-2025-32990",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65091000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65091001"
       },
@@ -160,7 +184,7 @@
       "Check": "at least one",
       "Comment": "Package gnutls is earlier than 3.7.11-4, affected by CVE-2025-32989",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65088000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65088001"
       },
@@ -172,7 +196,7 @@
       "Check": "at least one",
       "Comment": "Package gnutls is earlier than 3.7.11-4, affected by CVE-2025-32988",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65085000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65085001"
       },
@@ -184,7 +208,7 @@
       "Check": "at least one",
       "Comment": "Package git is earlier than 2.40.4-2, affected by CVE-2025-27613",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65073000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65073001"
       },
@@ -196,7 +220,7 @@
       "Check": "at least one",
       "Comment": "Package nodejs18 is earlier than 18.20.3-7, affected by CVE-2025-23166",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65066000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65066001"
       },
@@ -208,7 +232,7 @@
       "Check": "at least one",
       "Comment": "Package git is earlier than 2.40.4-2, affected by CVE-2025-48384",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65057000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65057001"
       },
@@ -220,7 +244,7 @@
       "Check": "at least one",
       "Comment": "Package git is earlier than 2.40.4-2, affected by CVE-2025-48385",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65051000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65051001"
       },
@@ -232,7 +256,7 @@
       "Check": "at least one",
       "Comment": "Package gdk-pixbuf2 is earlier than 2.40.0-8, affected by CVE-2025-7345",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65048000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65048001"
       },
@@ -244,7 +268,7 @@
       "Check": "at least one",
       "Comment": "Package helm is earlier than 3.14.2-7, affected by CVE-2025-53547",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64877000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64877001"
       },
@@ -256,7 +280,7 @@
       "Check": "at least one",
       "Comment": "Package redis is earlier than 6.2.18-3, affected by CVE-2025-48367",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64809000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64809001"
       },
@@ -268,7 +292,7 @@
       "Check": "at least one",
       "Comment": "Package redis is earlier than 6.2.18-2, affected by CVE-2025-32023",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64806000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64806001"
       },
@@ -280,7 +304,7 @@
       "Check": "at least one",
       "Comment": "Package libssh is earlier than 0.10.6-2, affected by CVE-2025-5987",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64794000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64794001"
       },
@@ -292,7 +316,7 @@
       "Check": "at least one",
       "Comment": "Package libssh is earlier than 0.10.6-2, affected by CVE-2025-5351",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64653000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64653001"
       },
@@ -304,12 +328,24 @@
       "Check": "at least one",
       "Comment": "Package libssh is earlier than 0.10.6-2, affected by CVE-2025-5372",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64650000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64650001"
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:64650002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package libxml2 is earlier than 2.10.4-8, affected by CVE-2025-6170",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:64470000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64470001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:64470002"
       }
     },
     {
@@ -340,7 +376,7 @@
       "Check": "at least one",
       "Comment": "Package ceph is earlier than 16.2.10-8, affected by CVE-2025-52939",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64404000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64404001"
       },
@@ -352,7 +388,7 @@
       "Check": "at least one",
       "Comment": "Package cloud-init is earlier than 23.3-7, affected by CVE-2024-6174",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64374000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64374001"
       },
@@ -364,7 +400,7 @@
       "Check": "at least one",
       "Comment": "Package cloud-init is earlier than 23.3-7, affected by CVE-2024-11584",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64371000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64371001"
       },
@@ -388,7 +424,7 @@
       "Check": "at least one",
       "Comment": "Package ruby is earlier than 3.1.7-2, affected by CVE-2025-6442",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64364000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64364001"
       },
@@ -400,7 +436,7 @@
       "Check": "at least one",
       "Comment": "Package libssh is earlier than 0.10.6-2, affected by CVE-2025-5318",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64358000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64358001"
       },
@@ -436,7 +472,7 @@
       "Check": "at least one",
       "Comment": "Package python3 is earlier than 3.9.19-14, affected by CVE-2025-6069",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64173000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64173001"
       },
@@ -446,9 +482,21 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package protobuf is earlier than 3.17.3-4, affected by CVE-2025-4565",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:64116000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64116001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:64116002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package pam is earlier than 1.5.1-8, affected by CVE-2025-6020",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64113000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64113001"
       },
@@ -458,9 +506,45 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package libxml2 is earlier than 2.10.4-8, affected by CVE-2025-6021",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:64101000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64101001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:64101002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package libxml2 is earlier than 2.10.4-8, affected by CVE-2025-49794",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:64095000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64095001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:64095002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package libxml2 is earlier than 2.10.4-8, affected by CVE-2025-49796",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:64092000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64092001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:64092002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package gdk-pixbuf2 is earlier than 2.40.0-7, affected by CVE-2025-6199",
       "ID": "oval:com.microsoft.cbl-mariner:tst:64077000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:64077001"
       },
@@ -556,7 +640,7 @@
       "Check": "at least one",
       "Comment": "Package python3 is earlier than 3.9.19-14, affected by CVE-2025-4138",
       "ID": "oval:com.microsoft.cbl-mariner:tst:62322000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:62322001"
       },
@@ -568,7 +652,7 @@
       "Check": "at least one",
       "Comment": "Package python3 is earlier than 3.9.19-14, affected by CVE-2025-4330",
       "ID": "oval:com.microsoft.cbl-mariner:tst:62313000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:62313001"
       },
@@ -580,7 +664,7 @@
       "Check": "at least one",
       "Comment": "Package python3 is earlier than 3.9.19-14, affected by CVE-2025-4517",
       "ID": "oval:com.microsoft.cbl-mariner:tst:62307000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:62307001"
       },
@@ -592,7 +676,7 @@
       "Check": "at least one",
       "Comment": "Package python3 is earlier than 3.9.19-14, affected by CVE-2024-12718",
       "ID": "oval:com.microsoft.cbl-mariner:tst:62258000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:62258001"
       },
@@ -914,6 +998,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package perl is earlier than 5.34.1-491, affected by CVE-2025-40909",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:62067000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:62067001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:62067002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package binutils is earlier than 2.37-15, affected by CVE-2025-5245",
       "ID": "oval:com.microsoft.cbl-mariner:tst:61983000",
       "Version": "1",
@@ -934,6 +1030,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:61982002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package jq is earlier than 1.6-4, affected by CVE-2025-48060",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:61974000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:61974001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:61974002"
       }
     },
     {
@@ -988,7 +1096,7 @@
       "Check": "at least one",
       "Comment": "Package python3 is earlier than 3.9.19-14, affected by CVE-2025-4516",
       "ID": "oval:com.microsoft.cbl-mariner:tst:61865000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:61865001"
       },
@@ -1732,7 +1840,7 @@
       "Check": "at least one",
       "Comment": "Package python3 is earlier than 3.9.19-14, affected by CVE-2023-5752",
       "ID": "oval:com.microsoft.cbl-mariner:tst:60006000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:60006001"
       },
@@ -1984,7 +2092,7 @@
       "Check": "at least one",
       "Comment": "Package python3 is earlier than 3.9.19-14, affected by CVE-2023-45803",
       "ID": "oval:com.microsoft.cbl-mariner:tst:59705000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:59705001"
       },
@@ -5044,7 +5152,7 @@
       "Check": "at least one",
       "Comment": "Package bind is earlier than 9.16.50-2, affected by CVE-2024-11187",
       "ID": "oval:com.microsoft.cbl-mariner:tst:56093000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:56093001"
       },
