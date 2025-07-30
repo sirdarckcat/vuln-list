@@ -1,0 +1,16 @@
+{
+  "name": "openjdk-8-openj9",
+  "secfixes": {
+    "0.53.0-r1": [
+      "CVE-2011-3546",
+      "GHSA-vvg7-rhrh-9qp9"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
