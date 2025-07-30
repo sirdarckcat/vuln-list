@@ -16,7 +16,7 @@
     "Patchable": "true",
     "AdvisoryDate": "2025-04-11T18:10:55.897Z",
     "AdvisoryID": "32127-1",
-    "Severity": "High",
+    "Severity": "Medium",
     "Description": "CVE-2023-2861 affecting package qemu for versions less than 6.2.0-22. A patched version of the package is available."
   },
   "Criteria": {

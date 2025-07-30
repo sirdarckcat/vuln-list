@@ -13,11 +13,10 @@
       "RefURL": "https://nvd.nist.gov/vuln/detail/CVE-2024-45336",
       "Source": "CVE"
     },
-    "Patchable": "true",
-    "AdvisoryDate": "2025-02-12T16:08:05.073Z",
+    "Patchable": "Not Applicable",
     "AdvisoryID": "56058-1",
     "Severity": "High",
-    "Description": "CVE-2024-45336 affecting package msft-golang for versions less than 1.23.3-2. A patched version of the package is available."
+    "Description": "CVE-2024-45336 affecting package msft-golang for versions less than 1.23.3-2. This CVE either no longer is or was never applicable."
   },
   "Criteria": {
     "Operator": "AND",
