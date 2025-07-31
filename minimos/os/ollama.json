@@ -1,6 +1,10 @@
 {
   "name": "ollama",
   "secfixes": {
+    "0.10.0-r0": [
+      "CVE-2025-51471",
+      "GHSA-x9hg-5q6g-q3jr"
+    ],
     "0.5.12-r0": [
       "CVE-2025-1975",
       "GHSA-wrh5-cmwx-q2qr"
