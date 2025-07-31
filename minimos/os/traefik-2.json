@@ -74,6 +74,10 @@
     ],
     "2.11.26-r1": [
       "GHSA-fv92-fjc5-jj9h"
+    ],
+    "2.11.27-r0": [
+      "CVE-2025-4674",
+      "GHSA-wprm-fgrx-xj42"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
