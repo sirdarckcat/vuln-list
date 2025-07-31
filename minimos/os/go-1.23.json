@@ -9,6 +9,10 @@
       "GHSA-6f52-wpx2-hvf2",
       "GHSA-jw54-c8rr-pjpq"
     ],
+    "1.23.11-r0": [
+      "CVE-2025-4674",
+      "GHSA-wprm-fgrx-xj42"
+    ],
     "1.23.5-r0": [
       "CVE-2024-45336",
       "CVE-2024-45341",

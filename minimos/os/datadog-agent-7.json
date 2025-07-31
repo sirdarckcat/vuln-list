@@ -19,7 +19,9 @@
     ],
     "7.68.0-r0": [
       "CVE-2025-4565",
-      "GHSA-8qvm-5x2c-j2w7"
+      "CVE-2025-4674",
+      "GHSA-8qvm-5x2c-j2w7",
+      "GHSA-wprm-fgrx-xj42"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

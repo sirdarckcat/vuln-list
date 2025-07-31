@@ -74,6 +74,10 @@
     ],
     "3.4.3-r1": [
       "GHSA-fv92-fjc5-jj9h"
+    ],
+    "3.4.4-r0": [
+      "CVE-2025-4674",
+      "GHSA-wprm-fgrx-xj42"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
