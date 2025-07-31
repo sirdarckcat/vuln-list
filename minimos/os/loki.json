@@ -8,6 +8,10 @@
       "GHSA-62jj-gr2r-5c34",
       "GHSA-6f52-wpx2-hvf2",
       "GHSA-jw54-c8rr-pjpq"
+    ],
+    "3.5.2-r0": [
+      "CVE-2025-4674",
+      "GHSA-wprm-fgrx-xj42"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
