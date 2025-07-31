@@ -3,6 +3,10 @@
   "secfixes": {
     "0.61.2-r1": [
       "GHSA-fv92-fjc5-jj9h"
+    ],
+    "0.62.0-r0": [
+      "CVE-2025-4674",
+      "GHSA-wprm-fgrx-xj42"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

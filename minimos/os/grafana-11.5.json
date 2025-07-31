@@ -74,6 +74,10 @@
       "CVE-2025-6197",
       "GHSA-jvcj-qc86-j594",
       "GHSA-vqph-p5vc-g644"
+    ],
+    "11.5.6.01-r0": [
+      "CVE-2025-4674",
+      "GHSA-wprm-fgrx-xj42"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
