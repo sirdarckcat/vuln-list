@@ -1,10 +1,7 @@
 {
-  "name": "terraform-1.12",
+  "name": "aws-flb-cloudwatch",
   "secfixes": {
-    "1.12.2-r1": [
-      "GHSA-2x5j-vhc8-9cwm"
-    ],
-    "1.12.2-r2": [
+    "1.9.4-r1": [
       "CVE-2025-4674",
       "GHSA-wprm-fgrx-xj42"
     ]
