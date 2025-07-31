@@ -2,7 +2,9 @@
   "name": "grype",
   "secfixes": {
     "0.90.0-r0": [
-      "GHSA-fv92-fjc5-jj9h"
+      "CVE-2025-54388",
+      "GHSA-fv92-fjc5-jj9h",
+      "GHSA-x4rx-4gw3-53p4"
     ],
     "0.90.0-r1": [
       "CVE-2024-40635",
