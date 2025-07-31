@@ -10,6 +10,14 @@
       "GHSA-8qff-qr5q-5pr8",
       "GHSA-968p-4wvh-cqc8",
       "GHSA-v6h2-p8h4-qcjw"
+    ],
+    "8.19.0-r0": [
+      "CVE-2025-22150",
+      "CVE-2025-47279",
+      "CVE-2025-7783",
+      "GHSA-c76h-2ccp-4975",
+      "GHSA-cxrh-j4jr-qwg3",
+      "GHSA-fjxv-7rqg-78g4"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
