@@ -33,19 +33,15 @@
       {
         "Type": "GHSA",
         "Value": "GHSA-rxf6-323f-44fc"
-      },
-      {
-        "Type": "CVE",
-        "Value": "CVE-2025-53605"
       }
     ],
-    "Description": "The protobuf crate before 3.7.2 for Rust allows uncontrolled recursion in the protobuf::coded_input_stream::CodedInputStream::skip_group parsing of unknown fields in untrusted input.",
+    "Description": "### Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-2gh3-rmm4-6rq5. This link is maintained to preserve external references.\n\n###\nThe protobuf crate before 3.7.2 for Rust allows uncontrolled recursion in the protobuf::coded_input_stream::CodedInputStream::skip_group parsing of unknown fields in untrusted input.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2025-07-05T03:30:23Z",
     "Severity": "MODERATE",
-    "Summary": "rust-protobuf crate is vulnerable to Uncontrolled Recursion, potentially leading to DoS",
-    "UpdatedAt": "2025-07-07T21:59:36Z",
-    "WithdrawnAt": "",
+    "Summary": "Duplicate Advisory: rust-protobuf crate is vulnerable to Uncontrolled Recursion, potentially leading to DoS",
+    "UpdatedAt": "2025-08-01T19:17:11Z",
+    "WithdrawnAt": "2025-08-01T19:17:10Z",
     "CVSS": {
       "Score": 5.9,
       "VectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H"
