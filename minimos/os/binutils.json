@@ -4,8 +4,12 @@
     "2.43.1-r0": [
       "CVE-2025-1153",
       "CVE-2025-3198",
+      "CVE-2025-8224",
+      "CVE-2025-8225",
       "GHSA-3frg-24qp-xxv2",
-      "GHSA-4m4r-j72q-7w52"
+      "GHSA-4m4r-j72q-7w52",
+      "GHSA-jff4-5h8q-wpxm",
+      "GHSA-q2gw-9mg2-9rh3"
     ],
     "2.44-r0": [
       "CVE-2025-0840",
