@@ -26,6 +26,9 @@
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-54572"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/ruby-saml/CVE-2025-54572.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-rrqh-93c8-j966"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2025-07-30T13:20:05Z",
     "Severity": "MODERATE",
     "Summary": "Ruby SAML DOS vulnerability with large SAML response",
-    "UpdatedAt": "2025-07-30T15:42:16Z",
+    "UpdatedAt": "2025-08-04T15:02:54Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
