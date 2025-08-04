@@ -1,11 +1,7 @@
 {
-  "name": "prometheus-fips-3.5",
+  "name": "prometheus-fips-2.53",
   "secfixes": {
-    "3.5.0-r1": [
-      "CVE-2025-54388",
-      "GHSA-x4rx-4gw3-53p4"
-    ],
-    "3.5.0-r2": [
+    "2.53.5-r1": [
       "CVE-2025-4674",
       "GHSA-wprm-fgrx-xj42"
     ]
