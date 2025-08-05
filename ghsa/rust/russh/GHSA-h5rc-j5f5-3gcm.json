@@ -17,6 +17,9 @@
         "Url": "https://github.com/Eugeny/russh/commit/0eb5e406780890e21ff71dd25d731b30676478e5"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-54804"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-h5rc-j5f5-3gcm"
       }
     ],
@@ -35,7 +38,7 @@
     "PublishedAt": "2025-08-04T20:28:36Z",
     "Severity": "MODERATE",
     "Summary": "russh is missing overflow checks during channel windows adjust",
-    "UpdatedAt": "2025-08-04T20:28:40Z",
+    "UpdatedAt": "2025-08-05T17:11:19Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,
