@@ -20,6 +20,9 @@
         "Url": "https://github.com/ADOdb/ADOdb/commit/5b8bd52cdcffefb4ecded1b399c98cfa516afe03"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-54119"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-vf2r-cxg9-p7rf"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2025-08-04T15:12:03Z",
     "Severity": "CRITICAL",
     "Summary": "The ADOdb sqlite3 driver allows SQL injection",
-    "UpdatedAt": "2025-08-04T15:12:33Z",
+    "UpdatedAt": "2025-08-05T17:09:50Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 10,
