@@ -1,5 +1,5 @@
 {
-  "Severity": "LOW",
+  "Severity": "HIGH",
   "UpdatedAt": "2025-07-21T19:33:26Z",
   "Package": {
     "Ecosystem": "RUBYGEMS",
@@ -45,13 +45,13 @@
     "Description": "Thor before 1.4.0 can construct an unsafe shell command from library input.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2025-07-20T03:30:19Z",
-    "Severity": "LOW",
+    "Severity": "HIGH",
     "Summary": "Thor can construct an unsafe shell command from library input.",
-    "UpdatedAt": "2025-07-22T21:42:52Z",
+    "UpdatedAt": "2025-08-05T20:41:36Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 2.8,
-      "VectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:N/I:L/A:N"
+      "Score": 7.9,
+      "VectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H"
     }
   },
   "Versions": [
