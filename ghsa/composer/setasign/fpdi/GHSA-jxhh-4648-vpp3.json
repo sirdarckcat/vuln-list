@@ -17,6 +17,9 @@
         "Url": "https://github.com/Setasign/FPDI/commit/ba671ba9221cffd32c2dda87316c19f522a1c5f0"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-54869"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-jxhh-4648-vpp3"
       }
     ],
@@ -35,7 +38,7 @@
     "PublishedAt": "2025-08-05T15:23:54Z",
     "Severity": "MODERATE",
     "Summary": "FPDI allows Memory Exhaustion (OOM) in PDF Parser which leads to Denial of Service",
-    "UpdatedAt": "2025-08-05T15:23:58Z",
+    "UpdatedAt": "2025-08-06T14:31:51Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
