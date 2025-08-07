@@ -2,13 +2,138 @@
   "RpminfoObjects": [
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65586001",
-      "Version": "0",
+      "Version": "1",
       "Name": "qt5-qtbase"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65583001",
       "Version": "1",
       "Name": "nodejs18"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65523001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65516001",
+      "Version": "1",
+      "Name": "vim"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65513001",
+      "Version": "1",
+      "Name": "vim"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65498001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65495001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65492001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65489001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65486001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65483001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65480001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65477001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65474001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65471001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65468001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65465001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65462001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65459001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65456001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65453001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65450001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65447001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65444001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65441001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65438001",
+      "Version": "1",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65435001",
+      "Version": "1",
+      "Name": "mysql"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65394001",
@@ -21,6 +146,11 @@
       "Name": "sysbench"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65379001",
+      "Version": "1",
+      "Name": "polkit"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65373001",
       "Version": "1",
       "Name": "luajit"
@@ -29,6 +159,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:65370001",
       "Version": "1",
       "Name": "luajit"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65250001",
+      "Version": "1",
+      "Name": "php"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65175001",
@@ -59,6 +194,16 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:65154001",
       "Version": "1",
       "Name": "gnutls"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65127001",
+      "Version": "1",
+      "Name": "php"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65124001",
+      "Version": "1",
+      "Name": "php"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65097001",
@@ -181,6 +326,11 @@
       "Name": "ruby"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64361001",
+      "Version": "1",
+      "Name": "qt5-qtbase"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:64358001",
       "Version": "1",
       "Name": "libssh"
@@ -189,6 +339,36 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:64332001",
       "Version": "0",
       "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64242001",
+      "Version": "1",
+      "Name": "yasm"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64239001",
+      "Version": "1",
+      "Name": "xorg-x11-server"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64235001",
+      "Version": "1",
+      "Name": "xorg-x11-server"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64232001",
+      "Version": "1",
+      "Name": "xorg-x11-server"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64230001",
+      "Version": "1",
+      "Name": "xorg-x11-server"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64227001",
+      "Version": "1",
+      "Name": "xorg-x11-server"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:64208001",
@@ -226,9 +406,19 @@
       "Name": "libxml2"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64086001",
+      "Version": "1",
+      "Name": "iputils"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:64077001",
       "Version": "1",
       "Name": "gdk-pixbuf2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64068001",
+      "Version": "1",
+      "Name": "erlang"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:63878001",
@@ -249,6 +439,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:63866001",
       "Version": "1",
       "Name": "msft-golang"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:63848001",
+      "Version": "1",
+      "Name": "kata-containers-cc"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:63812001",
@@ -1422,6 +1617,11 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:58005001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:57993001",
       "Version": "0",
       "Name": "kernel"
     },
@@ -5161,6 +5361,16 @@
       "Name": "linuxptp"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:49716001",
+      "Version": "1",
+      "Name": "edk2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:49713001",
+      "Version": "1",
+      "Name": "hvloader"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:49684001",
       "Version": "1",
       "Name": "kernel"
@@ -5774,6 +5984,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:48342001",
       "Version": "1",
       "Name": "mariadb"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:48324001",
+      "Version": "1",
+      "Name": "kata-containers-cc"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:48322001",
@@ -8076,6 +8291,11 @@
       "Name": "edk2"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:39337001",
+      "Version": "1",
+      "Name": "edk2"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:39334001",
       "Version": "1",
       "Name": "cert-manager"
@@ -8229,6 +8449,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:39097001",
       "Version": "2",
       "Name": "hvloader"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:39085001",
+      "Version": "1",
+      "Name": "edk2"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:38130001",
@@ -12102,6 +12327,11 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:31141001",
+      "Version": "1",
+      "Name": "edk2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:31140001",
       "Version": "1",
       "Name": "edk2"
     },
