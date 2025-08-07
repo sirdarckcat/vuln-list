@@ -36,6 +36,10 @@
       "GHSA-qv3p-fmv3-9hww",
       "GHSA-v6r4-35f9-9rpw",
       "GHSA-wprm-fgrx-xj42"
+    ],
+    "1.20.2-r0": [
+      "CVE-2025-6013",
+      "GHSA-7rx2-769v-hrwf"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
