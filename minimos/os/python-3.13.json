@@ -33,7 +33,9 @@
     ],
     "3.13.6-r0": [
       "CVE-2025-6069",
-      "GHSA-j5cc-6rx8-ff96"
+      "CVE-2025-8194",
+      "GHSA-j5cc-6rx8-ff96",
+      "GHSA-v594-44hm-2j7p"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
