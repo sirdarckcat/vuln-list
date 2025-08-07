@@ -35,7 +35,7 @@
     "PublishedAt": "2025-08-06T17:08:52Z",
     "Severity": "LOW",
     "Summary": "github.com/go-acme/lego/v4/acme/api does not enforce HTTPS",
-    "UpdatedAt": "2025-08-06T17:08:53Z",
+    "UpdatedAt": "2025-08-07T12:16:12Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
