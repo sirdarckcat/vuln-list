@@ -17,6 +17,7 @@
       "GHSA-wprm-fgrx-xj42"
     ],
     "2.8.4-r0": [
+      "CVE-2025-8556",
       "GHSA-2x5j-vhc8-9cwm"
     ],
     "2.8.4-r1": [
