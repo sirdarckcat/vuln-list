@@ -2,6 +2,7 @@
   "name": "falcoctl",
   "secfixes": {
     "0.11.2-r1": [
+      "CVE-2025-8556",
       "GHSA-2x5j-vhc8-9cwm",
       "GHSA-fv92-fjc5-jj9h"
     ]
