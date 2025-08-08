@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-08-06T21:13:23.22Z",
+    "AdvisoryDate": "2025-08-07T15:08:20.973Z",
     "AdvisoryID": "64265-1",
     "Severity": "Medium",
     "Description": "CVE-2025-49179 affecting package xorg-x11-server-Xwayland for versions less than 24.1.6-2. A patched version of the package is available."

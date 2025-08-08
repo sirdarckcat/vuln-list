@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-08-06T15:08:10.36Z",
+    "AdvisoryDate": "2025-08-07T15:07:52.88Z",
     "AdvisoryID": "39085-1",
     "Severity": "Medium",
     "Description": "CVE-2023-45229 affecting package edk2 for versions less than 20230301gitf80f052277c8-42. A patched version of the package is available."
