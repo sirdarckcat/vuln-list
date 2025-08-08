@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-08-06T21:13:23.22Z",
+    "AdvisoryDate": "2025-08-07T15:08:20.973Z",
     "AdvisoryID": "62282-1",
     "Severity": "Low",
     "Description": "CVE-2025-48938 affecting package gh for versions less than 2.62.0-9. A patched version of the package is available."

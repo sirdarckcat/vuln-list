@@ -2,6 +2,30 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package rust is earlier than 1.72.0-8, affected by CVE-2023-53158",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:66020000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66020001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:66020002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package httpd is earlier than 2.4.65-1, affected by CVE-2025-54090",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65883000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65883001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65883002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package qt5-qtbase is earlier than 5.12.11-17, affected by CVE-2025-6558",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65586000",
       "Version": "1",
@@ -58,6 +82,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:65513002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package mysql is earlier than 8.0.43-1, affected by CVE-2025-53023",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65501000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65501001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65501002"
       }
     },
     {

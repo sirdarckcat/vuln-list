@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-08-06T15:08:10.36Z",
+    "AdvisoryDate": "2025-08-07T15:07:52.88Z",
     "AdvisoryID": "64086-1",
     "Severity": "Medium",
     "Description": "CVE-2025-47268 affecting package iputils for versions less than 20211215-3. A patched version of the package is available."

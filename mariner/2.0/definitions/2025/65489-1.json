@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-08-06T15:08:10.36Z",
+    "AdvisoryDate": "2025-08-07T15:07:52.88Z",
     "AdvisoryID": "65489-1",
     "Severity": "Low",
     "Description": "CVE-2025-50100 affecting package mysql for versions less than 8.0.43-1. An upgraded version of the package is available that resolves this issue."
