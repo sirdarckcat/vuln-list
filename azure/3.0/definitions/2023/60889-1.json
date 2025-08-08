@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-08-06T21:13:23.22Z",
+    "AdvisoryDate": "2025-08-07T15:08:20.973Z",
     "AdvisoryID": "60889-1",
     "Severity": "Low",
     "Description": "CVE-2023-26819 affecting package libglvnd for versions less than 1.7.0-3. A patched version of the package is available."

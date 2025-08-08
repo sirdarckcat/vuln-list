@@ -1,6 +1,16 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66020001",
+      "Version": "0",
+      "Name": "rust"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65883001",
+      "Version": "0",
+      "Name": "httpd"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65586001",
       "Version": "1",
       "Name": "qt5-qtbase"
@@ -24,6 +34,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:65513001",
       "Version": "1",
       "Name": "vim"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65501001",
+      "Version": "0",
+      "Name": "mysql"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65498001",
