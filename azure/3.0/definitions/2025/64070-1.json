@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-08-06T21:13:23.22Z",
+    "AdvisoryDate": "2025-08-07T15:08:20.973Z",
     "AdvisoryID": "64070-1",
     "Severity": "Medium",
     "Description": "CVE-2025-6140 affecting package doxygen for versions less than 1.9.8-2. A patched version of the package is available."

@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-08-06T15:08:10.36Z",
+    "AdvisoryDate": "2025-08-07T15:07:52.88Z",
     "AdvisoryID": "49713-1",
     "Severity": "Medium",
     "Description": "CVE-2024-38796 affecting package hvloader for versions less than 1.0.1-13. A patched version of the package is available."

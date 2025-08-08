@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-07-29T15:14:16.96Z",
+    "AdvisoryDate": "2025-08-07T15:07:52.88Z",
     "AdvisoryID": "62067-1",
     "Severity": "Medium",
     "Description": "CVE-2025-40909 affecting package perl for versions less than 5.34.1-491. A patched version of the package is available."
