@@ -35,6 +35,10 @@
     "0.96.0-r0": [
       "CVE-2025-4674",
       "GHSA-wprm-fgrx-xj42"
+    ],
+    "0.97.2-r0": [
+      "CVE-2025-47907",
+      "GHSA-j5pm-7495-qmr3"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
