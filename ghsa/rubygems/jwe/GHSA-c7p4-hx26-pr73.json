@@ -20,6 +20,9 @@
         "Url": "https://github.com/jwt/ruby-jwe/commit/1e719d79ba3d7aadaa39a2f08c25df077a0f9ff1"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/jwe/CVE-2025-54887.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-c7p4-hx26-pr73"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2025-08-07T20:55:35Z",
     "Severity": "CRITICAL",
     "Summary": "JWE is missing AES-GCM authentication tag validation in encrypted JWE",
-    "UpdatedAt": "2025-08-08T16:29:32Z",
+    "UpdatedAt": "2025-08-08T19:30:01Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.1,
