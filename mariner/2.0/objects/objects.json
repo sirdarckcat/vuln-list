@@ -6,6 +6,11 @@
       "Name": "rust"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65996001",
+      "Version": "0",
+      "Name": "ceph"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65883001",
       "Version": "0",
       "Name": "httpd"
