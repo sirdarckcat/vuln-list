@@ -14,6 +14,12 @@
     "2.44-r0": [
       "CVE-2025-0840",
       "GHSA-c5qp-mx9f-m5c7"
+    ],
+    "2.45-r0": [
+      "CVE-2025-7545",
+      "CVE-2025-7546",
+      "GHSA-6qhw-v5wg-5jjq",
+      "GHSA-v8v5-48x9-6r8p"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
