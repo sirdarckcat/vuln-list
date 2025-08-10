@@ -14,6 +14,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package ceph is earlier than 16.2.10-9, affected by CVE-2024-48916",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65996000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65996001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65996002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package httpd is earlier than 2.4.65-1, affected by CVE-2025-54090",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65883000",
       "Version": "0",
