@@ -23,6 +23,12 @@
       "CVE-2025-4674",
       "GHSA-8qvm-5x2c-j2w7",
       "GHSA-wprm-fgrx-xj42"
+    ],
+    "7.68.3-r1": [
+      "CVE-2024-47081",
+      "CVE-2025-47907",
+      "GHSA-9hjg-9r4m-mvj7",
+      "GHSA-j5pm-7495-qmr3"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
