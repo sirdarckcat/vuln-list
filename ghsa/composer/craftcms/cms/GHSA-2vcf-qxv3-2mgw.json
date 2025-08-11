@@ -20,6 +20,9 @@
         "Url": "https://github.com/craftcms/cms/commit/a19d46be78a9ca1ea474012a10e97bed0d787f57"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-54417"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-2vcf-qxv3-2mgw"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2025-08-08T19:32:50Z",
     "Severity": "MODERATE",
     "Summary": "Craft CMS has a theoretical bypass for CVE-2025-23209",
-    "UpdatedAt": "2025-08-08T19:32:52Z",
+    "UpdatedAt": "2025-08-11T13:56:18Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
