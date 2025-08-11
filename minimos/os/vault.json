@@ -40,6 +40,10 @@
     "1.20.2-r0": [
       "CVE-2025-6013",
       "GHSA-7rx2-769v-hrwf"
+    ],
+    "1.20.2-r1": [
+      "CVE-2025-47907",
+      "GHSA-j5pm-7495-qmr3"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
