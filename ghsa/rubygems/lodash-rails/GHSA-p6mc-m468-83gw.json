@@ -1,9 +1,9 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2024-01-26T15:32:50Z",
+  "UpdatedAt": "2025-08-11T14:49:48Z",
   "Package": {
-    "Ecosystem": "NPM",
-    "Name": "lodash.updatewith"
+    "Ecosystem": "RUBYGEMS",
+    "Name": "lodash-rails"
   },
   "Advisory": {
     "DatabaseId": 2232,
@@ -69,9 +69,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": ""
+        "Identifier": "4.17.19"
       },
-      "VulnerableVersionRange": "\u003c= 4.10.2"
+      "VulnerableVersionRange": "\u003e= 3.7.0, \u003c 4.17.19"
     }
   ]
 }
