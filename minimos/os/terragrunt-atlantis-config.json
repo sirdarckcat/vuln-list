@@ -23,6 +23,10 @@
       "GHSA-mh63-6h87-95cp",
       "GHSA-qxp5-gwg8-xv66",
       "GHSA-vvgc-356p-c3xw"
+    ],
+    "1.20.0-r2": [
+      "CVE-2025-47907",
+      "GHSA-j5pm-7495-qmr3"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
