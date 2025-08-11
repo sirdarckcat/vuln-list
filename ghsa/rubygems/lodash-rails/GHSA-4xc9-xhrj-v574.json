@@ -1,9 +1,9 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2023-11-01T21:21:16Z",
+  "UpdatedAt": "2025-08-11T14:56:26Z",
   "Package": {
-    "Ecosystem": "NPM",
-    "Name": "lodash"
+    "Ecosystem": "RUBYGEMS",
+    "Name": "lodash-rails"
   },
   "Advisory": {
     "DatabaseId": 1112,

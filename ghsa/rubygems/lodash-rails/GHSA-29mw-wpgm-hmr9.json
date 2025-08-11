@@ -1,9 +1,9 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2023-11-01T23:21:12Z",
+  "UpdatedAt": "2025-08-11T14:32:53Z",
   "Package": {
-    "Ecosystem": "NPM",
-    "Name": "lodash.trimend"
+    "Ecosystem": "RUBYGEMS",
+    "Name": "lodash-rails"
   },
   "Advisory": {
     "DatabaseId": 3492,
@@ -90,9 +90,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": ""
+        "Identifier": "4.17.21"
       },
-      "VulnerableVersionRange": "\u003c= 4.5.1"
+      "VulnerableVersionRange": "\u003c 4.17.21"
     }
   ]
 }
