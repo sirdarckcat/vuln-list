@@ -1,13 +1,9 @@
 {
-  "name": "prometheus-fips-2.53",
+  "name": "opensearch-2",
   "secfixes": {
-    "2.53.5-r1": [
-      "CVE-2025-4674",
-      "GHSA-wprm-fgrx-xj42"
-    ],
-    "2.53.5-r2": [
-      "CVE-2025-47907",
-      "GHSA-j5pm-7495-qmr3"
+    "2.19.2-r0": [
+      "CVE-2025-53864",
+      "GHSA-xwmg-2g98-w7v9"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
