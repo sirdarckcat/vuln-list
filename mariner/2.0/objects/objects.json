@@ -656,6 +656,11 @@
       "Name": "jq"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:61921001",
+      "Version": "0",
+      "Name": "libsoup"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:61902001",
       "Version": "1",
       "Name": "libsoup"

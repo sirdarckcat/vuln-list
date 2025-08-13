@@ -1574,6 +1574,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package libsoup is earlier than 3.0.4-8, affected by CVE-2025-4948",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:61921000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:61921001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:61921002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package libsoup is earlier than 3.0.4-7, affected by CVE-2025-4476",
       "ID": "oval:com.microsoft.cbl-mariner:tst:61902000",
       "Version": "1",
