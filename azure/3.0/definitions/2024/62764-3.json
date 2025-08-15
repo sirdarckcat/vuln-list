@@ -1,9 +1,9 @@
 {
   "Class": "vulnerability",
   "ID": "oval:com.microsoft.azurelinux:def:62764",
-  "Version": "2",
+  "Version": "3",
   "Metadata": {
-    "Title": "CVE-2024-1085 affecting package kernel for versions less than 6.6.92.2-1",
+    "Title": "CVE-2024-1085 affecting package kernel for versions less than 6.6.35.1-5",
     "Affected": {
       "Family": "unix",
       "Platform": "Azure Linux"
@@ -15,15 +15,15 @@
     },
     "Patchable": "true",
     "AdvisoryDate": "2025-07-10T15:08:15.5866667Z",
-    "AdvisoryID": "62764-2",
+    "AdvisoryID": "62764-3",
     "Severity": "High",
-    "Description": "CVE-2024-1085 affecting package kernel for versions less than 6.6.92.2-1. A patched version of the package is available."
+    "Description": "CVE-2024-1085 affecting package kernel for versions less than 6.6.35.1-5. A patched version of the package is available."
   },
   "Criteria": {
     "Operator": "AND",
     "Criterion": [
       {
-        "Comment": "Package kernel is earlier than 6.6.92.2-1, affected by CVE-2024-1085",
+        "Comment": "Package kernel is earlier than 6.6.35.1-5, affected by CVE-2024-1085",
         "TestRef": "oval:com.microsoft.azurelinux:tst:62764000"
       }
     ]
