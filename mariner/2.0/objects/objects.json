@@ -1,6 +1,11 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66147001",
+      "Version": "0",
+      "Name": "icu"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66020001",
       "Version": "0",
       "Name": "rust"
@@ -9,6 +14,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:65996001",
       "Version": "0",
       "Name": "ceph"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65990001",
+      "Version": "0",
+      "Name": "sqlite"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65883001",
@@ -39,6 +49,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:65513001",
       "Version": "1",
       "Name": "vim"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65507001",
+      "Version": "0",
+      "Name": "sqlite"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65501001",
