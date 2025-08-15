@@ -1,0 +1,20 @@
+{
+  "name": "zipkin",
+  "secfixes": {
+    "3.5.1-r1": [
+      "CVE-2025-27533",
+      "GHSA-whxr-3p84-rf3c"
+    ],
+    "3.5.1-r2": [
+      "CVE-2025-27817",
+      "GHSA-vgq5-3255-v292"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
