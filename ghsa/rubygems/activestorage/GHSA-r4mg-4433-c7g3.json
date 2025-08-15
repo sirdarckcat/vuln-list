@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2025-08-14T00:06:01Z",
+  "UpdatedAt": "2025-08-14T19:37:18Z",
   "Package": {
     "Ecosystem": "RUBYGEMS",
     "Name": "activestorage"
@@ -23,6 +23,9 @@
         "Url": "https://github.com/rails/rails/commit/fb8f3a18c3d97524c0efc29150d1e5f3162fbb13"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/activestorage/CVE-2025-24293.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-r4mg-4433-c7g3"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2025-08-14T00:06:00Z",
     "Severity": "HIGH",
     "Summary": "Active Storage allowed transformation methods that were potentially unsafe",
-    "UpdatedAt": "2025-08-14T00:06:01Z",
+    "UpdatedAt": "2025-08-14T19:37:18Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
@@ -53,7 +56,7 @@
       "FirstPatchedVersion": {
         "Identifier": "7.1.5.2"
       },
-      "VulnerableVersionRange": "\u003e= 5.20, \u003c 7.1.5.2"
+      "VulnerableVersionRange": "\u003e= 5.2.0, \u003c 7.1.5.2"
     },
     {
       "FirstPatchedVersion": {
