@@ -12,6 +12,14 @@
     "14.18-r0": [
       "CVE-2025-4207",
       "GHSA-6x46-2273-xjjf"
+    ],
+    "14.19-r0": [
+      "CVE-2025-8713",
+      "CVE-2025-8714",
+      "CVE-2025-8715",
+      "GHSA-6m5q-cc57-2mj6",
+      "GHSA-cqj3-wjpm-fjvp",
+      "GHSA-xh8r-9824-53cf"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
