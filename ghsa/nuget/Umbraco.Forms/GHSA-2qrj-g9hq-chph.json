@@ -54,18 +54,6 @@
         "Identifier": "13.4.2"
       },
       "VulnerableVersionRange": "\u003e= 7.0.0, \u003c 13.4.2"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "15.1.2"
-      },
-      "VulnerableVersionRange": "\u003e= 14.0.0, \u003c 15.1.2"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "13.4.2"
-      },
-      "VulnerableVersionRange": "\u003e= 7.0.0, \u003c 13.4.2"
     }
   ]
 }
