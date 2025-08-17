@@ -51,6 +51,12 @@
         "Identifier": "15.4.2"
       },
       "VulnerableVersionRange": "\u003e= 14.0.0, \u003c= 15.4.1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "15.4.2"
+      },
+      "VulnerableVersionRange": "\u003e= 14.0.0, \u003c= 15.4.1"
     }
   ]
 }
