@@ -93,6 +93,48 @@
         "Identifier": "15.9.30"
       },
       "VulnerableVersionRange": "\u003e= 15.8.166, \u003c= 15.9.20"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "17.14.8"
+      },
+      "VulnerableVersionRange": "= 17.13.9"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "17.13.26"
+      },
+      "VulnerableVersionRange": "= 17.12.6"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "17.12.36"
+      },
+      "VulnerableVersionRange": "= 17.11.4"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "17.10.29"
+      },
+      "VulnerableVersionRange": "\u003e= 17.9.5, \u003c= 17.10.4"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "17.8.29"
+      },
+      "VulnerableVersionRange": "\u003e= 17.0.0, \u003c= 17.8.3"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "16.11.6"
+      },
+      "VulnerableVersionRange": "\u003e= 16.0.461, \u003c= 16.11.0"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "15.9.30"
+      },
+      "VulnerableVersionRange": "\u003e= 15.8.166, \u003c= 15.9.20"
     }
   ]
 }
