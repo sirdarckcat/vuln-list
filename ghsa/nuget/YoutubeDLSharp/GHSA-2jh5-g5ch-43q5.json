@@ -54,6 +54,12 @@
         "Identifier": "1.1.2"
       },
       "VulnerableVersionRange": "\u003e= 1.0.0-beta4, \u003c 1.1.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "1.1.2"
+      },
+      "VulnerableVersionRange": "\u003e= 1.0.0-beta4, \u003c 1.1.2"
     }
   ]
 }

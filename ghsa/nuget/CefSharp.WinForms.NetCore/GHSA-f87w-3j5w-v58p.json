@@ -53,6 +53,12 @@
         "Identifier": "134.3.90"
       },
       "VulnerableVersionRange": "\u003c 134.3.90"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "134.3.90"
+      },
+      "VulnerableVersionRange": "\u003c 134.3.90"
     }
   ]
 }
