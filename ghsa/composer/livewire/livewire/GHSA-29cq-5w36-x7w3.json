@@ -41,7 +41,7 @@
     "PublishedAt": "2025-07-17T20:26:45Z",
     "Severity": "CRITICAL",
     "Summary": "Livewire is vulnerable to remote command execution during component property update hydration",
-    "UpdatedAt": "2025-07-17T22:06:11Z",
+    "UpdatedAt": "2025-08-18T08:03:59Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
