@@ -48,10 +48,10 @@
     "fixed_version": "1:4.8.1-1"
   },
   "CVE-2023-29383": {
-    "fixed_version": "1:4.13+dfsg1-1-e1"
+    "fixed_version": "1:4.13+dfsg1-1+deb12u1"
   },
   "CVE-2023-4641": {
-    "fixed_version": "1:4.13+dfsg1-1-e1"
+    "fixed_version": "1:4.13+dfsg1-1+deb12u1"
   },
   "CVE-2024-56433": {
     "fixed_version": "1:4.13+dfsg1-1"
