@@ -1,7 +1,10 @@
 {
   "id": "GHSA-jhmr-57cj-q6g9",
-  "modified": "2025-08-12T00:13:37Z",
+  "modified": "2025-08-18T13:57:31.011223Z",
   "published": "2025-08-12T00:13:36Z",
+  "aliases": [
+    "GO-2025-3873"
+  ],
   "summary": "Komari vulnerable to 2FA Authentication Bypass",
   "details": "### Summary\n\nLogic error in 2FA verification condition allows bypass of two-factor authentication\n\n### Details\n\nhttps://github.com/komari-monitor/komari/blob/bd5a6934e1b79a12cf1e6a9bba5372d0e04f3abc/api/login.go#L55\n\nThere is no way for `Verify2Fa` to return an error **AND** true as `ok` at the same time, any codes are considered as valid.\n\n### PoC\n\nUse any 6 digits as 2FA code\n\n### Impact\n\nBypass 2FA Authentication",
   "affected": [

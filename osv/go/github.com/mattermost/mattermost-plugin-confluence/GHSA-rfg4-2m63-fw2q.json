@@ -1,9 +1,10 @@
 {
   "id": "GHSA-rfg4-2m63-fw2q",
-  "modified": "2025-08-11T23:42:28.039774Z",
+  "modified": "2025-08-18T13:57:17.452591Z",
   "published": "2025-08-11T21:31:39Z",
   "aliases": [
-    "CVE-2025-49221"
+    "CVE-2025-49221",
+    "GO-2025-3862"
   ],
   "summary": "Mattermost Confluence Plugin has Missing Authorization vulnerability",
   "details": "Mattermost Confluence Plugin versions \u003c 1.5.0 fail to enforce authentication of the user to the Mattermost instance, which allows unauthenticated attackers to access subscription details via an API call to the GET subscription endpoint.",

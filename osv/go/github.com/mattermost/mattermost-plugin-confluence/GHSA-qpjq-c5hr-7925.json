@@ -1,9 +1,10 @@
 {
   "id": "GHSA-qpjq-c5hr-7925",
-  "modified": "2025-08-12T00:27:24.899847Z",
+  "modified": "2025-08-18T13:57:15.341675Z",
   "published": "2025-08-11T21:31:40Z",
   "aliases": [
-    "CVE-2025-54478"
+    "CVE-2025-54478",
+    "GO-2025-3875"
   ],
   "summary": "Mattermost Confluence Plugin is Missing Authentication for Critical Function",
   "details": "Mattermost Confluence Plugin versions \u003c 1.5.0 fail to enforce user authentication of the Mattermost instance, allowing unauthenticated attackers to edit channel subscriptions via API call to the edit channel subscription endpoint.",

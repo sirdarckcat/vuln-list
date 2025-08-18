@@ -1,9 +1,10 @@
 {
   "id": "GHSA-v6c8-g53h-mc2h",
-  "modified": "2025-08-11T23:57:24.753231Z",
+  "modified": "2025-08-18T13:57:12.356401Z",
   "published": "2025-08-11T21:31:40Z",
   "aliases": [
-    "CVE-2025-53910"
+    "CVE-2025-53910",
+    "GO-2025-3869"
   ],
   "summary": "Mattermost Confluence Plugin has Missing Authorization vulnerability",
   "details": "Mattermost Confluence Plugin versions \u003c 1.5.0 fail to check user access to the channel, allowing attackers to create a channel subscription without proper access to the channel via an API call to the edit channel subscription endpoint.",

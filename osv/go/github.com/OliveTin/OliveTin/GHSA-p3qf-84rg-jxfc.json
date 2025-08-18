@@ -1,9 +1,10 @@
 {
   "id": "GHSA-p3qf-84rg-jxfc",
-  "modified": "2025-08-14T00:27:23.308593Z",
+  "modified": "2025-08-18T13:57:12.615879Z",
   "published": "2025-08-13T18:31:25Z",
   "aliases": [
-    "CVE-2025-50946"
+    "CVE-2025-50946",
+    "GO-2025-3886"
   ],
   "summary": "OliveTin OS Command Injection vulnerability",
   "details": "OS Command Injection in Olivetin 2025.4.22 Custom Themes via the ParseRequestURI function in service/internal/executor/arguments.go.",
