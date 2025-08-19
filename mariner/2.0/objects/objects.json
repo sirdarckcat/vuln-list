@@ -36,6 +36,11 @@
       "Name": "nodejs18"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65535001",
+      "Version": "0",
+      "Name": "luajit"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65523001",
       "Version": "1",
       "Name": "mysql"
