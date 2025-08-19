@@ -1,33 +1,28 @@
 {
-  "name": "terraform-1.11",
+  "name": "argo-rollouts",
   "secfixes": {
-    "1.11.0-r1": [
+    "1.8.3-r1": [
+      "CVE-2024-10220",
+      "CVE-2024-3177",
+      "CVE-2024-45337",
+      "CVE-2024-5321",
+      "CVE-2024-9042",
+      "CVE-2025-0426",
       "CVE-2025-22869",
       "CVE-2025-22870",
       "CVE-2025-22872",
-      "CVE-2025-30204",
       "CVE-2025-8556",
+      "GHSA-27wf-5967-98gx",
       "GHSA-2x5j-vhc8-9cwm",
+      "GHSA-82m2-cv7p-4m75",
+      "GHSA-9763-4f94-gfch",
       "GHSA-hcg3-q754-cr77",
-      "GHSA-mh63-6h87-95cp",
+      "GHSA-jgfp-53c3-624w",
+      "GHSA-pxhw-596r-rwq5",
       "GHSA-qxp5-gwg8-xv66",
+      "GHSA-v778-237x-gjrc",
+      "GHSA-vv39-3w5q-974q",
       "GHSA-vvgc-356p-c3xw"
-    ],
-    "1.11.4-r0": [
-      "CVE-2025-22868",
-      "GHSA-6v2p-p543-phr9"
-    ],
-    "1.11.4-r1": [
-      "CVE-2025-4674",
-      "GHSA-wprm-fgrx-xj42"
-    ],
-    "1.11.4-r2": [
-      "CVE-2025-47907",
-      "GHSA-j5pm-7495-qmr3"
-    ],
-    "1.11.4-r3": [
-      "CVE-2025-8959",
-      "GHSA-wjrx-6529-hcj3"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
