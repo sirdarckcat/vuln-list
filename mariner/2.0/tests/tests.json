@@ -86,6 +86,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package luajit is earlier than 2.1.0-28, affected by CVE-2024-25177",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65535000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65535001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65535002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package mysql is earlier than 8.0.43-1, affected by CVE-2025-50081",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65523000",
       "Version": "1",
