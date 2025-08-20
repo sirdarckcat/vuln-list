@@ -1,14 +1,14 @@
 {
-  "Title": "ELSA-2025-14130:  libarchive security update (IMPORTANT)",
-  "Description": "[3.5.3-6]\n- Resolves: CVE-2025-5914",
+  "Title": "ELSA-2025-14137:  libarchive security update (IMPORTANT)",
+  "Description": "[3.7.7-4]\n- Resolves: CVE-2025-5914",
   "Platform": [
-    "Oracle Linux 9"
+    "Oracle Linux 10"
   ],
   "References": [
     {
       "Source": "elsa",
-      "URI": "https://linux.oracle.com/errata/ELSA-2025-14130.html",
-      "ID": "ELSA-2025-14130"
+      "URI": "https://linux.oracle.com/errata/ELSA-2025-14137.html",
+      "ID": "ELSA-2025-14137"
     },
     {
       "Source": "CVE",
@@ -33,10 +33,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "bsdtar is earlier than 0:3.5.3-6.el9_6"
+                        "Comment": "bsdtar is earlier than 0:3.7.7-4.el10_0"
                       },
                       {
-                        "Comment": "bsdtar is signed with the Oracle Linux 9 key"
+                        "Comment": "bsdtar is signed with the Oracle Linux 10 key"
                       }
                     ]
                   },
@@ -45,10 +45,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libarchive is earlier than 0:3.5.3-6.el9_6"
+                        "Comment": "libarchive is earlier than 0:3.7.7-4.el10_0"
                       },
                       {
-                        "Comment": "libarchive is signed with the Oracle Linux 9 key"
+                        "Comment": "libarchive is signed with the Oracle Linux 10 key"
                       }
                     ]
                   },
@@ -57,10 +57,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libarchive-devel is earlier than 0:3.5.3-6.el9_6"
+                        "Comment": "libarchive-devel is earlier than 0:3.7.7-4.el10_0"
                       },
                       {
-                        "Comment": "libarchive-devel is signed with the Oracle Linux 9 key"
+                        "Comment": "libarchive-devel is signed with the Oracle Linux 10 key"
                       }
                     ]
                   }
@@ -85,10 +85,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "bsdtar is earlier than 0:3.5.3-6.el9_6"
+                        "Comment": "bsdtar is earlier than 0:3.7.7-4.el10_0"
                       },
                       {
-                        "Comment": "bsdtar is signed with the Oracle Linux 9 key"
+                        "Comment": "bsdtar is signed with the Oracle Linux 10 key"
                       }
                     ]
                   },
@@ -97,10 +97,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libarchive is earlier than 0:3.5.3-6.el9_6"
+                        "Comment": "libarchive is earlier than 0:3.7.7-4.el10_0"
                       },
                       {
-                        "Comment": "libarchive is signed with the Oracle Linux 9 key"
+                        "Comment": "libarchive is signed with the Oracle Linux 10 key"
                       }
                     ]
                   },
@@ -109,10 +109,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libarchive-devel is earlier than 0:3.5.3-6.el9_6"
+                        "Comment": "libarchive-devel is earlier than 0:3.7.7-4.el10_0"
                       },
                       {
-                        "Comment": "libarchive-devel is signed with the Oracle Linux 9 key"
+                        "Comment": "libarchive-devel is signed with the Oracle Linux 10 key"
                       }
                     ]
                   }
@@ -132,7 +132,7 @@
     ],
     "Criterions": [
       {
-        "Comment": "Oracle Linux 9 is installed"
+        "Comment": "Oracle Linux 10 is installed"
       }
     ]
   },
