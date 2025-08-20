@@ -9,6 +9,11 @@
       "Source": "elsa",
       "URI": "https://linux.oracle.com/errata/ELSA-2025-14075.html",
       "ID": "ELSA-2025-14075"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2022-24130.html",
+      "ID": "CVE-2022-24130"
     }
   ],
   "Criteria": {
@@ -108,7 +113,13 @@
     ]
   },
   "Severity": "MODERATE",
-  "Cves": null,
+  "Cves": [
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2022-24130.html",
+      "ID": "CVE-2022-24130"
+    }
+  ],
   "Issued": {
     "Date": "2025-08-19"
   }
