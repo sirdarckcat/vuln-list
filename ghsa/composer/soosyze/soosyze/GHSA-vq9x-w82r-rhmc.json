@@ -20,6 +20,9 @@
         "Url": "https://beafn28.gitbook.io/beafn28/cve/brute-force-login-vulnerability-in-soosyze-cms-2.0-cve-2025-52392"
       },
       {
+        "Url": "https://www.exploit-db.com/exploits/52416"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-vq9x-w82r-rhmc"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2025-08-13T15:30:34Z",
     "Severity": "HIGH",
     "Summary": "Soosyze CMS's /user/login endpoint missing rate-limiting and lockout mechanisms",
-    "UpdatedAt": "2025-08-13T23:13:42Z",
+    "UpdatedAt": "2025-08-20T15:55:00Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.4,
