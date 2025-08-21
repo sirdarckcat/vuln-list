@@ -22,6 +22,14 @@
       "GHSA-27gp-8389-hm4w",
       "GHSA-83j7-mhw9-388w",
       "GHSA-9623-mj7j-p9v4"
+    ],
+    "26.3.3-r0": [
+      "CVE-2025-55163",
+      "CVE-2025-7962",
+      "CVE-2025-8419",
+      "GHSA-9342-92gg-6v29",
+      "GHSA-prj3-ccx8-p6x4",
+      "GHSA-qj5r-2r5p-phc7"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
