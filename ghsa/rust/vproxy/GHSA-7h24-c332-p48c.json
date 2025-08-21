@@ -41,7 +41,7 @@
     "PublishedAt": "2025-07-30T16:33:41Z",
     "Severity": "HIGH",
     "Summary": "vproxy Divide by Zero DoS Vulnerability",
-    "UpdatedAt": "2025-07-31T11:18:30Z",
+    "UpdatedAt": "2025-08-21T17:23:57Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
