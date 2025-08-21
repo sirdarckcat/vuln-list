@@ -38,7 +38,7 @@
     "PublishedAt": "2025-08-19T15:31:29Z",
     "Severity": "MODERATE",
     "Summary": "MoonShine Arbitrary File Upload Vulnerability",
-    "UpdatedAt": "2025-08-20T18:58:21Z",
+    "UpdatedAt": "2025-08-21T15:41:06Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.5,
