@@ -17,6 +17,9 @@
         "Url": "https://drive.proton.me/urls/PH1ESMKHMW#4Vxb2KNu3tmn"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-55743"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-v22v-xwh7-2vrm"
       }
     ],
@@ -35,7 +38,7 @@
     "PublishedAt": "2025-08-21T14:26:31Z",
     "Severity": "HIGH",
     "Summary": "UnoPim vulnerable to remote code execution through Arbitrary File upload",
-    "UpdatedAt": "2025-08-21T14:26:34Z",
+    "UpdatedAt": "2025-08-21T19:16:45Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

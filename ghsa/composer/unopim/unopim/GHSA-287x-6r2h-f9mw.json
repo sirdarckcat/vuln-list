@@ -17,6 +17,9 @@
         "Url": "https://drive.proton.me/urls/VXNDKQ4WKR#LpvE777hl8OJ"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-55744"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-287x-6r2h-f9mw"
       }
     ],
@@ -35,7 +38,7 @@
     "PublishedAt": "2025-08-21T14:27:18Z",
     "Severity": "MODERATE",
     "Summary": "UnoPim vulnerable to CSRF on Product edit feature and creation of other types",
-    "UpdatedAt": "2025-08-21T14:27:19Z",
+    "UpdatedAt": "2025-08-21T19:16:54Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

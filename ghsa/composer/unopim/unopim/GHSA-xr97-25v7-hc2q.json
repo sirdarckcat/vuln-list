@@ -29,6 +29,9 @@
         "Url": "https://github.com/unopim/unopim/blob/a0dc81947a59ada69e19e1e4313dd591d4e277b4/packages/Webkul/Core/src/Traits/Sanitizer.php#L9-L19"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-55742"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-xr97-25v7-hc2q"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2025-08-21T14:25:23Z",
     "Severity": "HIGH",
     "Summary": "UnoPim has Stored Cross-site Scripting vulnerability in user creation functionality",
-    "UpdatedAt": "2025-08-21T14:25:24Z",
+    "UpdatedAt": "2025-08-21T19:16:40Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8,
