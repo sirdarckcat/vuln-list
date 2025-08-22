@@ -2,6 +2,42 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package postgresql is earlier than 14.19-1, affected by CVE-2025-8715",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:66327000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66327001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:66327002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package postgresql is earlier than 14.19-1, affected by CVE-2025-8714",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:66324000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66324001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:66324002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package postgresql is earlier than 14.19-1, affected by CVE-2025-8713",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:66321000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66321001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:66321002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package icu is earlier than 68.2.0.9-2, affected by CVE-2025-5222",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66147000",
       "Version": "0",
