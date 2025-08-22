@@ -1,6 +1,21 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66327001",
+      "Version": "0",
+      "Name": "postgresql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66324001",
+      "Version": "0",
+      "Name": "postgresql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66321001",
+      "Version": "0",
+      "Name": "postgresql"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66147001",
       "Version": "0",
       "Name": "icu"
