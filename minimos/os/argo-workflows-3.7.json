@@ -3,6 +3,9 @@
   "secfixes": {
     "3.7.0-r1": [
       "GHSA-fv92-fjc5-jj9h"
+    ],
+    "3.7.1-r1": [
+      "GHSA-2464-8j7c-4cjm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
