@@ -23,6 +23,12 @@
         "Url": "https://youtu.be/J_WV8fCXlJM"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-55741"
+      },
+      {
+        "Url": "https://www.youtube.com/watch?v=J_WV8fCXlJM"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-8p2f-fx4q-75cx"
       }
     ],
@@ -41,7 +47,7 @@
     "PublishedAt": "2025-08-22T16:49:55Z",
     "Severity": "HIGH",
     "Summary": "UnoPim has Broken Access Control",
-    "UpdatedAt": "2025-08-22T16:49:56Z",
+    "UpdatedAt": "2025-08-22T21:08:50Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.1,
