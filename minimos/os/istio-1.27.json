@@ -9,6 +9,9 @@
       "GHSA-9h84-qmv7-982p",
       "GHSA-f9f8-9pmf-xv68",
       "GHSA-fv92-fjc5-jj9h"
+    ],
+    "1.27.0-r2": [
+      "GHSA-2464-8j7c-4cjm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
