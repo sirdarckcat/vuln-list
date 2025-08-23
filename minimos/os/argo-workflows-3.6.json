@@ -5,6 +5,9 @@
       "CVE-2025-8556",
       "GHSA-2x5j-vhc8-9cwm",
       "GHSA-fv92-fjc5-jj9h"
+    ],
+    "3.6.10-r2": [
+      "GHSA-2464-8j7c-4cjm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
