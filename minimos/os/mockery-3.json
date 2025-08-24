@@ -4,6 +4,9 @@
     "3.5.2-r0": [
       "CVE-2025-47907",
       "GHSA-j5pm-7495-qmr3"
+    ],
+    "3.5.3-r1": [
+      "GHSA-2464-8j7c-4cjm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
