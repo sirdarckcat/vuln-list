@@ -24,6 +24,12 @@
       "CVE-2025-55005",
       "CVE-2025-55154",
       "CVE-2025-55160",
+      "GHSA-6hgw-6x87-578x",
+      "GHSA-cfh4-9f7v-fhrc",
+      "GHSA-cjc8-g9w8-chfw",
+      "GHSA-hm4x-r5hc-794f",
+      "GHSA-qh3h-j545-h8c9",
+      "GHSA-qp29-wxp5-wh82",
       "GHSA-vmhh-8rxq-fp9g"
     ]
   },
