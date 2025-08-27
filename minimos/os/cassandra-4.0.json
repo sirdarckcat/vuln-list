@@ -21,6 +21,10 @@
       "GHSA-3cjf-fwcq-xh22",
       "GHSA-wmcc-9vch-jmx4"
     ],
+    "4.0.17-r0": [
+      "CVE-2025-26467",
+      "GHSA-5c4f-pxmx-xcm4"
+    ],
     "4.0.18-r1": [
       "CVE-2025-52999",
       "GHSA-h46c-h94j-95f3"
