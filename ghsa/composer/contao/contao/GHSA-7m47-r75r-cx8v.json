@@ -20,6 +20,9 @@
         "Url": "https://contao.org/en/security-advisories/improper-access-control-in-the-back-end-voters"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-57758"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-7m47-r75r-cx8v"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2025-08-28T14:40:45Z",
     "Severity": "MODERATE",
     "Summary": "Contao applies improper access control in the back end voters",
-    "UpdatedAt": "2025-08-28T14:40:46Z",
+    "UpdatedAt": "2025-08-28T18:51:52Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.3,
