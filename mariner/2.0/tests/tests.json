@@ -98,6 +98,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package nvidia-container-toolkit is earlier than 1.17.8-1, affected by CVE-2025-23266",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:65651000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65651001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:65651002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package qt5-qtbase is earlier than 5.12.11-17, affected by CVE-2025-6558",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65586000",
       "Version": "1",

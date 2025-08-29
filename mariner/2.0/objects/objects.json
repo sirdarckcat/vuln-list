@@ -41,6 +41,11 @@
       "Name": "httpd"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65651001",
+      "Version": "1",
+      "Name": "nvidia-container-toolkit"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65586001",
       "Version": "1",
       "Name": "qt5-qtbase"
