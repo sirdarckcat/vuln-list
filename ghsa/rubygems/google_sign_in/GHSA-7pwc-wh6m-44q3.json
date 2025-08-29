@@ -29,6 +29,9 @@
         "Url": "https://github.com/basecamp/google_sign_in/releases/tag/v1.3.0"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/google_sign_in/CVE-2025-57821.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-7pwc-wh6m-44q3"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2025-08-27T16:46:16Z",
     "Severity": "MODERATE",
     "Summary": "Google Sign-In for Rails allowed redirects to malformed URLs",
-    "UpdatedAt": "2025-08-27T19:23:37Z",
+    "UpdatedAt": "2025-08-29T15:22:59Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.2,
