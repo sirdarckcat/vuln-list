@@ -3,6 +3,10 @@
   "secfixes": {
     "10.11.1-r1": [
       "GHSA-fv92-fjc5-jj9h"
+    ],
+    "10.11.2-r2": [
+      "CVE-2025-58058",
+      "GHSA-jc7w-c686-c4v9"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
