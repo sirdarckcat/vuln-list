@@ -3,6 +3,10 @@
   "secfixes": {
     "0": [
       "GHSA-274v-mgcv-cm8j"
+    ],
+    "2.13.8-r5": [
+      "CVE-2025-5187",
+      "GHSA-4x4m-3c2p-qppc"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
