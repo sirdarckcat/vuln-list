@@ -2,6 +2,18 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package kernel is earlier than 5.15.186.1-1, affected by CVE-2025-4598",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:66704000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66704001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:66704002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package postgresql is earlier than 14.19-1, affected by CVE-2025-8715",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66327000",
       "Version": "0",
