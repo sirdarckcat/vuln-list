@@ -1,9 +1,10 @@
 {
   "id": "GHSA-xwfj-jgwm-7wp5",
-  "modified": "2025-09-01T20:05:43Z",
+  "modified": "2025-09-02T11:42:15.974613Z",
   "published": "2025-08-29T20:33:56Z",
   "aliases": [
-    "CVE-2025-58160"
+    "CVE-2025-58160",
+    "RUSTSEC-2025-0055"
   ],
   "related": [
     "CGA-2r45-936f-2qxj",
@@ -12,6 +13,7 @@
     "CGA-7rgf-8796-hc37",
     "CGA-9hwf-qmc9-xv5j",
     "CGA-9j89-3pp7-38hp",
+    "CGA-9mgm-xrrg-xp43",
     "CGA-9pv4-mhfp-cm6h",
     "CGA-cmpr-w4rh-hq84",
     "CGA-g273-cmwq-fwcw",
