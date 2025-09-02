@@ -14,6 +14,9 @@
         "Url": "https://github.com/tokio-rs/tracing/security/advisories/GHSA-xwfj-jgwm-7wp5"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-58160"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-xwfj-jgwm-7wp5"
       }
     ],
@@ -32,7 +35,7 @@
     "PublishedAt": "2025-08-29T20:33:56Z",
     "Severity": "LOW",
     "Summary": " Tracing logging user input may result in poisoning logs with ANSI escape sequences",
-    "UpdatedAt": "2025-08-29T21:46:43Z",
+    "UpdatedAt": "2025-09-01T20:05:46Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

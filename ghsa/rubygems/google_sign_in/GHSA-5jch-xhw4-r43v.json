@@ -26,6 +26,9 @@
         "Url": "https://github.com/basecamp/google_sign_in/releases/tag/v1.3.1"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/google_sign_in/CVE-2025-58067.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-5jch-xhw4-r43v"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2025-08-29T20:07:47Z",
     "Severity": "MODERATE",
     "Summary": "Google Sign-In for Rails allowed redirect to protocol-relative URI",
-    "UpdatedAt": "2025-08-29T21:59:26Z",
+    "UpdatedAt": "2025-09-01T20:06:12Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.2,
