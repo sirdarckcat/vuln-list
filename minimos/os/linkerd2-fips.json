@@ -1,15 +1,7 @@
 {
-  "name": "cargo-c",
+  "name": "linkerd2-fips",
   "secfixes": {
-    "0.10.12-r0": [
-      "CVE-2025-4574",
-      "GHSA-pg9f-39pc-qf8g"
-    ],
-    "0.10.14-r0": [
-      "CVE-2025-31130",
-      "GHSA-2frx-2596-x5r6"
-    ],
-    "0.10.15-r1": [
+    "25.8.5-r1": [
       "CVE-2025-58160",
       "GHSA-xwfj-jgwm-7wp5"
     ]
