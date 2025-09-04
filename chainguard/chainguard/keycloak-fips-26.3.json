@@ -1,0 +1,16 @@
+{
+  "name": "keycloak-fips-26.3",
+  "secfixes": {
+    "26.3.3-r4": [
+      "CVE-2025-58057",
+      "GHSA-3p8m-j85q-pgmj"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
