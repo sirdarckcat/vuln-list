@@ -18803,9 +18803,6 @@
   "CVE-2024-43884": {
     "fixed_version": "6.1.112-1"
   },
-  "CVE-2024-43886": {
-    "fixed_version": "1"
-  },
   "CVE-2024-43889": {
     "fixed_version": "6.1.106-1"
   },
@@ -19979,9 +19976,6 @@
   "CVE-2024-49970": {
     "fixed_version": "1"
   },
-  "CVE-2024-49972": {
-    "fixed_version": "1"
-  },
   "CVE-2024-49973": {
     "fixed_version": "6.1.115-1"
   },
@@ -20732,9 +20726,6 @@
   "CVE-2024-53106": {
     "fixed_version": "6.1.119-1"
   },
-  "CVE-2024-53108": {
-    "fixed_version": "1"
-  },
   "CVE-2024-53110": {
     "fixed_version": "6.1.119-1"
   },
@@ -20782,9 +20773,6 @@
   },
   "CVE-2024-53131": {
     "fixed_version": "6.1.119-1"
-  },
-  "CVE-2024-53133": {
-    "fixed_version": "1"
   },
   "CVE-2024-53134": {
     "fixed_version": "1"
@@ -21016,9 +21004,6 @@
   },
   "CVE-2024-54031": {
     "fixed_version": "6.1.124-1"
-  },
-  "CVE-2024-54456": {
-    "fixed_version": "1"
   },
   "CVE-2024-54458": {
     "fixed_version": "6.1.129-1"
@@ -21509,9 +21494,6 @@
   "CVE-2024-56783": {
     "fixed_version": "6.1.123-1"
   },
-  "CVE-2024-56784": {
-    "fixed_version": "1"
-  },
   "CVE-2024-56785": {
     "fixed_version": "6.1.123-1"
   },
@@ -21559,9 +21541,6 @@
   },
   "CVE-2024-57850": {
     "fixed_version": "6.1.123-1"
-  },
-  "CVE-2024-57852": {
-    "fixed_version": "1"
   },
   "CVE-2024-57857": {
     "fixed_version": "1"
@@ -23141,9 +23120,6 @@
   "CVE-2025-37867": {
     "fixed_version": "1"
   },
-  "CVE-2025-37870": {
-    "fixed_version": "1"
-  },
   "CVE-2025-37871": {
     "fixed_version": "1"
   },
@@ -23486,9 +23462,6 @@
   "CVE-2025-38059": {
     "fixed_version": "1"
   },
-  "CVE-2025-38060": {
-    "fixed_version": "1"
-  },
   "CVE-2025-38061": {
     "fixed_version": "1"
   },
@@ -23564,9 +23537,6 @@
   "CVE-2025-38090": {
     "fixed_version": "1"
   },
-  "CVE-2025-38092": {
-    "fixed_version": "1"
-  },
   "CVE-2025-38094": {
     "fixed_version": "6.1.140-1"
   },
@@ -23577,9 +23547,6 @@
     "fixed_version": "1"
   },
   "CVE-2025-38097": {
-    "fixed_version": "1"
-  },
-  "CVE-2025-38098": {
     "fixed_version": "1"
   },
   "CVE-2025-38099": {
@@ -24588,6 +24555,9 @@
     "fixed_version": "1"
   },
   "CVE-2025-38677": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-38678": {
     "fixed_version": "1"
   },
   "CVE-2025-39728": {
