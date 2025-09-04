@@ -123,11 +123,6 @@
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-38541.html",
-      "ID": "CVE-2024-38541"
-    },
-    {
-      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2025-38003.html",
       "ID": "CVE-2025-38003"
     },
@@ -173,11 +168,6 @@
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2023-6931.html",
-      "ID": "CVE-2023-6931"
-    },
-    {
-      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2025-37890.html",
       "ID": "CVE-2025-37890"
     },
@@ -220,6 +210,16 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2025-38066.html",
       "ID": "CVE-2025-38066"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-38541.html",
+      "ID": "CVE-2024-38541"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2023-6931.html",
+      "ID": "CVE-2023-6931"
     }
   ],
   "Criteria": {
@@ -656,11 +656,6 @@
     },
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-38541.html",
-      "ID": "CVE-2024-38541"
-    },
-    {
-      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2025-38003.html",
       "ID": "CVE-2025-38003"
     },
@@ -706,11 +701,6 @@
     },
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2023-6931.html",
-      "ID": "CVE-2023-6931"
-    },
-    {
-      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2025-37890.html",
       "ID": "CVE-2025-37890"
     },
@@ -753,6 +743,16 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2025-38066.html",
       "ID": "CVE-2025-38066"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-38541.html",
+      "ID": "CVE-2024-38541"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2023-6931.html",
+      "ID": "CVE-2023-6931"
     }
   ],
   "Issued": {
