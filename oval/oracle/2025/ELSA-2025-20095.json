@@ -388,11 +388,6 @@
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-38556.html",
-      "ID": "CVE-2024-38556"
-    },
-    {
-      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-47730.html",
       "ID": "CVE-2024-47730"
     },
@@ -550,11 +545,6 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-56679.html",
       "ID": "CVE-2024-56679"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-26595.html",
-      "ID": "CVE-2024-26595"
     },
     {
       "Source": "CVE",
@@ -970,6 +960,16 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-56619.html",
       "ID": "CVE-2024-56619"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-38556.html",
+      "ID": "CVE-2024-38556"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-26595.html",
+      "ID": "CVE-2024-26595"
     }
   ],
   "Criteria": {
@@ -2125,11 +2125,6 @@
     },
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-38556.html",
-      "ID": "CVE-2024-38556"
-    },
-    {
-      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-47730.html",
       "ID": "CVE-2024-47730"
     },
@@ -2287,11 +2282,6 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-56679.html",
       "ID": "CVE-2024-56679"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-26595.html",
-      "ID": "CVE-2024-26595"
     },
     {
       "Impact": "",
@@ -2707,6 +2697,16 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-56619.html",
       "ID": "CVE-2024-56619"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-38556.html",
+      "ID": "CVE-2024-38556"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-26595.html",
+      "ID": "CVE-2024-26595"
     }
   ],
   "Issued": {
