@@ -20,6 +20,9 @@
         "Url": "https://github.com/ZcashFoundation/frost/releases/tag/frost-core%2Fv2.2.0"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-58359"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-wgq8-vr6r-mqxm"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2025-09-03T21:29:18Z",
     "Severity": "MODERATE",
     "Summary": "frost-core: refresh shares with smaller min_signers will reduce security of group",
-    "UpdatedAt": "2025-09-03T21:29:18Z",
+    "UpdatedAt": "2025-09-05T16:11:20Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
