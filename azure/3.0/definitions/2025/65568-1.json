@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-09-03T21:13:12.417Z",
+    "AdvisoryDate": "2025-09-05T15:08:03.847Z",
     "AdvisoryID": "65568-1",
     "Severity": "Medium",
     "Description": "CVE-2025-53605 affecting package rust for versions less than 1.86.0-4. A patched version of the package is available."

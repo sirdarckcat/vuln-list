@@ -62,6 +62,30 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package golang is greater than 1.18.0, affected by CVE-2025-47907",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:66135003",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66135004"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:66135005"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package golang is earlier than 1.18.8-9, affected by CVE-2025-47907",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:66135000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66135001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:66135002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package rust is earlier than 1.72.0-8, affected by CVE-2023-53158",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66020000",
       "Version": "0",
@@ -1234,6 +1258,30 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:63812002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package golang is greater than 1.18.0, affected by CVE-2025-4673",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:63716003",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:63716004"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:63716005"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package golang is earlier than 1.18.8-9, affected by CVE-2025-4673",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:63716000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:63716001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:63716002"
       }
     },
     {

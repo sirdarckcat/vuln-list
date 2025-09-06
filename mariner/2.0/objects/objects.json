@@ -26,6 +26,16 @@
       "Name": "icu"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66135004",
+      "Version": "0",
+      "Name": "golang"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66135001",
+      "Version": "0",
+      "Name": "golang"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66020001",
       "Version": "0",
       "Name": "rust"
@@ -514,6 +524,16 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:63812001",
       "Version": "1",
       "Name": "python-requests"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:63716004",
+      "Version": "0",
+      "Name": "golang"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:63716001",
+      "Version": "0",
+      "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:63695001",
