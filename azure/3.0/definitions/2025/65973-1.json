@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-09-03T21:13:12.417Z",
+    "AdvisoryDate": "2025-09-05T15:08:03.847Z",
     "AdvisoryID": "65973-1",
     "Severity": "Low",
     "Description": "CVE-2025-8176 affecting package libtiff for versions less than 4.6.0-7. A patched version of the package is available."

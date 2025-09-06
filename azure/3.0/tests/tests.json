@@ -50,6 +50,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package keras is earlier than 3.3.3-3, affected by CVE-2025-8747",
+      "ID": "oval:com.microsoft.azurelinux:tst:66171000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:66171001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:66171002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package icu is earlier than 72.1.0.3-2, affected by CVE-2025-5222",
       "ID": "oval:com.microsoft.azurelinux:tst:66156000",
       "Version": "1",
@@ -266,6 +278,54 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38365",
+      "ID": "oval:com.microsoft.azurelinux:tst:65877000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:65877001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:65877002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38416",
+      "ID": "oval:com.microsoft.azurelinux:tst:65874000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:65874001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:65874002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38354",
+      "ID": "oval:com.microsoft.azurelinux:tst:65871000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:65871001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:65871002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38418",
+      "ID": "oval:com.microsoft.azurelinux:tst:65868000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:65868001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:65868002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38363",
       "ID": "oval:com.microsoft.azurelinux:tst:65865000",
       "Version": "0",
@@ -302,6 +362,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38362",
+      "ID": "oval:com.microsoft.azurelinux:tst:65856000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:65856001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:65856002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38420",
       "ID": "oval:com.microsoft.azurelinux:tst:65853000",
       "Version": "0",
@@ -310,6 +382,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.azurelinux:ste:65853002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38368",
+      "ID": "oval:com.microsoft.azurelinux:tst:65850000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:65850001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:65850002"
       }
     },
     {
@@ -382,6 +466,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.azurelinux:ste:65832002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38419",
+      "ID": "oval:com.microsoft.azurelinux:tst:65829000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:65829001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:65829002"
       }
     },
     {
@@ -1130,6 +1226,54 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38326",
+      "ID": "oval:com.microsoft.azurelinux:tst:65012000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:65012001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:65012002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38334",
+      "ID": "oval:com.microsoft.azurelinux:tst:65009000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:65009001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:65009002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38275",
+      "ID": "oval:com.microsoft.azurelinux:tst:64989000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64989001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64989002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38337",
+      "ID": "oval:com.microsoft.azurelinux:tst:64986000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64986001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64986002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38312",
       "ID": "oval:com.microsoft.azurelinux:tst:64979000",
       "Version": "1",
@@ -1142,6 +1286,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38343",
+      "ID": "oval:com.microsoft.azurelinux:tst:64977000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64977001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64977002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38277",
       "ID": "oval:com.microsoft.azurelinux:tst:64973000",
       "Version": "1",
@@ -1150,6 +1306,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.azurelinux:ste:64973002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38344",
+      "ID": "oval:com.microsoft.azurelinux:tst:64968000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64968001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64968002"
       }
     },
     {
@@ -1190,6 +1358,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38342",
+      "ID": "oval:com.microsoft.azurelinux:tst:64947000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64947001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64947002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38323",
       "ID": "oval:com.microsoft.azurelinux:tst:64938000",
       "Version": "1",
@@ -1214,6 +1394,66 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38347",
+      "ID": "oval:com.microsoft.azurelinux:tst:64928000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64928001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64928002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38319",
+      "ID": "oval:com.microsoft.azurelinux:tst:64926000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64926001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64926002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38345",
+      "ID": "oval:com.microsoft.azurelinux:tst:64922000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64922001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64922002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38336",
+      "ID": "oval:com.microsoft.azurelinux:tst:64920000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64920001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64920002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38346",
+      "ID": "oval:com.microsoft.azurelinux:tst:64914000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64914001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64914002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38338",
       "ID": "oval:com.microsoft.azurelinux:tst:64911000",
       "Version": "1",
@@ -1222,6 +1462,102 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.azurelinux:ste:64911002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38280",
+      "ID": "oval:com.microsoft.azurelinux:tst:64907000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64907001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64907002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38265",
+      "ID": "oval:com.microsoft.azurelinux:tst:64904000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64904001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64904002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38331",
+      "ID": "oval:com.microsoft.azurelinux:tst:64901000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64901001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64901002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38321",
+      "ID": "oval:com.microsoft.azurelinux:tst:64899000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64899001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64899002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38348",
+      "ID": "oval:com.microsoft.azurelinux:tst:64893000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64893001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64893002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38307",
+      "ID": "oval:com.microsoft.azurelinux:tst:64886000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64886001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64886002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38274",
+      "ID": "oval:com.microsoft.azurelinux:tst:64884000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64884001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64884002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.1-1, affected by CVE-2025-38300",
+      "ID": "oval:com.microsoft.azurelinux:tst:64881000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:64881001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:64881002"
       }
     },
     {
@@ -2290,6 +2626,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.azurelinux:ste:64007002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.2-1, affected by CVE-2025-38060",
+      "ID": "oval:com.microsoft.azurelinux:tst:63989000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:63989001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:63989002"
       }
     },
     {
@@ -4994,6 +5342,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package kernel is earlier than 6.6.96.2-1, affected by CVE-2024-57852",
+      "ID": "oval:com.microsoft.azurelinux:tst:62519000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:62519001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:62519002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package python3 is earlier than 3.12.9-2, affected by CVE-2025-4517",
       "ID": "oval:com.microsoft.azurelinux:tst:62318000",
       "Version": "1",
@@ -5974,6 +6334,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.azurelinux:ste:60919002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package qemu is earlier than 8.2.0-18, affected by CVE-2024-7409",
+      "ID": "oval:com.microsoft.azurelinux:tst:60916000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.azurelinux:obj:60916001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.azurelinux:ste:60916002"
       }
     },
     {
@@ -15520,7 +15892,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-29409",
       "ID": "oval:com.microsoft.azurelinux:tst:52881003",
-      "Version": "1904",
+      "Version": "1916",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52881004"
       },
@@ -15532,7 +15904,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.20.7-1, affected by CVE-2023-29409",
       "ID": "oval:com.microsoft.azurelinux:tst:52881000",
-      "Version": "1904",
+      "Version": "1916",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52881001"
       },
@@ -15544,7 +15916,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-24534",
       "ID": "oval:com.microsoft.azurelinux:tst:52878003",
-      "Version": "1941",
+      "Version": "1953",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52878004"
       },
@@ -15556,7 +15928,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.20.7-1, affected by CVE-2023-24534",
       "ID": "oval:com.microsoft.azurelinux:tst:52878000",
-      "Version": "1941",
+      "Version": "1953",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52878001"
       },
@@ -15568,7 +15940,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-24532",
       "ID": "oval:com.microsoft.azurelinux:tst:52875003",
-      "Version": "1942",
+      "Version": "1954",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52875004"
       },
@@ -15580,7 +15952,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.20.2-1, affected by CVE-2023-24532",
       "ID": "oval:com.microsoft.azurelinux:tst:52875000",
-      "Version": "1942",
+      "Version": "1954",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52875001"
       },
@@ -15592,7 +15964,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.18.8-1, affected by CVE-2022-27664",
       "ID": "oval:com.microsoft.azurelinux:tst:52863000",
-      "Version": "1836",
+      "Version": "1848",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52863001"
       },
@@ -15604,7 +15976,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-39323",
       "ID": "oval:com.microsoft.azurelinux:tst:52845003",
-      "Version": "1912",
+      "Version": "1924",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52845004"
       },
@@ -15616,7 +15988,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than  1.20.10-1, affected by CVE-2023-39323",
       "ID": "oval:com.microsoft.azurelinux:tst:52845000",
-      "Version": "1912",
+      "Version": "1924",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52845001"
       },
@@ -15628,7 +16000,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-29405",
       "ID": "oval:com.microsoft.azurelinux:tst:52827003",
-      "Version": "1921",
+      "Version": "1933",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52827004"
       },
@@ -15640,7 +16012,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.20.7-1, affected by CVE-2023-29405",
       "ID": "oval:com.microsoft.azurelinux:tst:52827000",
-      "Version": "1921",
+      "Version": "1933",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52827001"
       },
@@ -15652,7 +16024,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-29403",
       "ID": "oval:com.microsoft.azurelinux:tst:52789003",
-      "Version": "1901",
+      "Version": "1913",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52789004"
       },
@@ -15664,7 +16036,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.20.7-1, affected by CVE-2023-29403",
       "ID": "oval:com.microsoft.azurelinux:tst:52789000",
-      "Version": "1901",
+      "Version": "1913",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52789001"
       },
@@ -15676,7 +16048,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2024-9355",
       "ID": "oval:com.microsoft.azurelinux:tst:52774003",
-      "Version": "1908",
+      "Version": "1920",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52774004"
       },
@@ -15688,7 +16060,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.22.9-1, affected by CVE-2024-9355",
       "ID": "oval:com.microsoft.azurelinux:tst:52774000",
-      "Version": "1908",
+      "Version": "1920",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52774001"
       },
@@ -15700,7 +16072,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-39533",
       "ID": "oval:com.microsoft.azurelinux:tst:52773003",
-      "Version": "1902",
+      "Version": "1914",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52773004"
       },
@@ -15712,7 +16084,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.19.12-1, affected by CVE-2023-39533",
       "ID": "oval:com.microsoft.azurelinux:tst:52773000",
-      "Version": "1902",
+      "Version": "1914",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52773001"
       },
@@ -15724,7 +16096,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-39318",
       "ID": "oval:com.microsoft.azurelinux:tst:52735003",
-      "Version": "1942",
+      "Version": "1954",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52735004"
       },
@@ -15736,7 +16108,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.20.10-1, affected by CVE-2023-39318",
       "ID": "oval:com.microsoft.azurelinux:tst:52735000",
-      "Version": "1942",
+      "Version": "1954",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52735001"
       },
@@ -15748,7 +16120,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-24531",
       "ID": "oval:com.microsoft.azurelinux:tst:52719003",
-      "Version": "1933",
+      "Version": "1945",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52719004"
       },
@@ -15760,7 +16132,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.21.0-1, affected by CVE-2023-24531",
       "ID": "oval:com.microsoft.azurelinux:tst:52719000",
-      "Version": "1933",
+      "Version": "1945",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52719001"
       },
@@ -15772,7 +16144,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-29406",
       "ID": "oval:com.microsoft.azurelinux:tst:52711003",
-      "Version": "1906",
+      "Version": "1918",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52711004"
       },
@@ -15784,7 +16156,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.20.7-1, affected by CVE-2023-29406",
       "ID": "oval:com.microsoft.azurelinux:tst:52711000",
-      "Version": "1906",
+      "Version": "1918",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52711001"
       },
@@ -15796,7 +16168,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-24537",
       "ID": "oval:com.microsoft.azurelinux:tst:52676003",
-      "Version": "1939",
+      "Version": "1951",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52676004"
       },
@@ -15808,7 +16180,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.20.7-1, affected by CVE-2023-24537",
       "ID": "oval:com.microsoft.azurelinux:tst:52676000",
-      "Version": "1939",
+      "Version": "1951",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52676001"
       },
@@ -15820,7 +16192,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2023-24539",
       "ID": "oval:com.microsoft.azurelinux:tst:52668003",
-      "Version": "1940",
+      "Version": "1952",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52668004"
       },
@@ -15832,7 +16204,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.20.7-1, affected by CVE-2023-24539",
       "ID": "oval:com.microsoft.azurelinux:tst:52668000",
-      "Version": "1940",
+      "Version": "1952",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52668001"
       },
@@ -15844,7 +16216,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 0.0.0, affected by CVE-2024-24789",
       "ID": "oval:com.microsoft.azurelinux:tst:52663003",
-      "Version": "1936",
+      "Version": "1948",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52663004"
       },
@@ -15856,7 +16228,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.22.3-1, affected by CVE-2024-24789",
       "ID": "oval:com.microsoft.azurelinux:tst:52663000",
-      "Version": "1936",
+      "Version": "1948",
       "Object": {
         "ObjectRef": "oval:com.microsoft.azurelinux:obj:52663001"
       },
