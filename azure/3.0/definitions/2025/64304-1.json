@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-09-03T21:13:12.417Z",
+    "AdvisoryDate": "2025-09-05T15:08:03.847Z",
     "AdvisoryID": "64304-1",
     "Severity": "Low",
     "Description": "CVE-2025-4563 affecting package kubernetes for versions less than 1.30.10-9. A patched version of the package is available."

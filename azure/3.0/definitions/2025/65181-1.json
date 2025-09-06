@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-09-03T21:13:12.417Z",
+    "AdvisoryDate": "2025-09-05T15:08:03.847Z",
     "AdvisoryID": "65181-1",
     "Severity": "Medium",
     "Description": "CVE-2025-48924 affecting package apache-commons-lang3 for versions less than 3.8.1-6. A patched version of the package is available."
