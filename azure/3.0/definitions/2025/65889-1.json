@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2025-09-03T21:13:12.417Z",
+    "AdvisoryDate": "2025-09-05T15:08:03.847Z",
     "AdvisoryID": "65889-1",
     "Severity": "Medium",
     "Description": "CVE-2025-48964 affecting package iputils for versions less than 20240117-2. A patched version of the package is available."
