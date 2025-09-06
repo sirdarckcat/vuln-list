@@ -648,6 +648,10 @@
       "GHSA-56c5-8gc7-wj67",
       "GHSA-fg4q-8p94-mj4j",
       "GHSA-vp37-f5jx-gpcx"
+    ],
+    "6.12.35-r0": [
+      "CVE-2025-38352",
+      "GHSA-mr4j-mh66-4679"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
