@@ -455,12 +455,8 @@
   "CVE-2024-20506": {
     "fixed_version": "1.0.7+dfsg-1~deb12u1"
   },
-  "CVE-2025-20128": {
-    "fixed_version": "1.0.9+dfsg-1~deb12u1"
-  },
-  "CVE-2025-20260": {
-    "fixed_version": "1.0.9+dfsg-1~deb12u1"
-  },
+  "CVE-2025-20128": {},
+  "CVE-2025-20260": {},
   "TEMP-0000000-604AC4": {
     "fixed_version": "0.98.7+dfsg-1"
   },
