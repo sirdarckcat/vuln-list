@@ -11,14 +11,18 @@
   "CVE-2019-11835": {
     "fixed_version": "1.7.10-1.1"
   },
-  "CVE-2023-26819": {},
+  "CVE-2023-26819": {
+    "fixed_version": "1.7.15-1+deb12u3"
+  },
   "CVE-2023-50471": {
     "fixed_version": "1.7.15-1+deb12u1"
   },
   "CVE-2023-50472": {
     "fixed_version": "1.7.15-1+deb12u1"
   },
-  "CVE-2023-53154": {},
+  "CVE-2023-53154": {
+    "fixed_version": "1.7.15-1+deb12u3"
+  },
   "CVE-2024-31755": {
     "fixed_version": "1.7.15-1+deb12u2"
   },
