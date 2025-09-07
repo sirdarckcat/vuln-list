@@ -20,9 +20,19 @@
   "CVE-2022-43705": {
     "fixed_version": "2.19.3+dfsg-1"
   },
-  "CVE-2024-34702": {},
-  "CVE-2024-34703": {},
-  "CVE-2024-39312": {},
-  "CVE-2024-50382": {},
-  "CVE-2024-50383": {}
+  "CVE-2024-34702": {
+    "fixed_version": "2.19.3+dfsg-1+deb12u1"
+  },
+  "CVE-2024-34703": {
+    "fixed_version": "2.19.3+dfsg-1+deb12u1"
+  },
+  "CVE-2024-39312": {
+    "fixed_version": "2.19.3+dfsg-1+deb12u1"
+  },
+  "CVE-2024-50382": {
+    "fixed_version": "2.19.3+dfsg-1+deb12u1"
+  },
+  "CVE-2024-50383": {
+    "fixed_version": "2.19.3+dfsg-1+deb12u1"
+  }
 }
