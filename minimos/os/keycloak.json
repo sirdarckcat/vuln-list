@@ -30,6 +30,10 @@
       "GHSA-9342-92gg-6v29",
       "GHSA-prj3-ccx8-p6x4",
       "GHSA-qj5r-2r5p-phc7"
+    ],
+    "26.3.3-r1": [
+      "CVE-2025-58056",
+      "GHSA-fghv-69vj-qj49"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
