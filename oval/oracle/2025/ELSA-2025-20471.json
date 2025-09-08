@@ -188,6 +188,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-28956.html",
+      "ID": "CVE-2024-28956"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2025-37758.html",
       "ID": "CVE-2025-37758"
     },
@@ -268,6 +273,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2021-47352.html",
+      "ID": "CVE-2021-47352"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-50154.html",
       "ID": "CVE-2024-50154"
     },
@@ -280,16 +290,6 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2025-23159.html",
       "ID": "CVE-2025-23159"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2021-47352.html",
-      "ID": "CVE-2021-47352"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-28956.html",
-      "ID": "CVE-2024-28956"
     }
   ],
   "Criteria": {
@@ -791,6 +791,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-28956.html",
+      "ID": "CVE-2024-28956"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2025-37758.html",
       "ID": "CVE-2025-37758"
     },
@@ -871,6 +876,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2021-47352.html",
+      "ID": "CVE-2021-47352"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-50154.html",
       "ID": "CVE-2024-50154"
     },
@@ -883,16 +893,6 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2025-23159.html",
       "ID": "CVE-2025-23159"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2021-47352.html",
-      "ID": "CVE-2021-47352"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-28956.html",
-      "ID": "CVE-2024-28956"
     }
   ],
   "Issued": {

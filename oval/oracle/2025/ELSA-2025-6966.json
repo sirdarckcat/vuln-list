@@ -22,166 +22,6 @@
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50027.html",
-      "ID": "CVE-2024-50027"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50109.html",
-      "ID": "CVE-2024-50109"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50130.html",
-      "ID": "CVE-2024-50130"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-56535.html",
-      "ID": "CVE-2024-56535"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-57798.html",
-      "ID": "CVE-2024-57798"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2025-21689.html",
-      "ID": "CVE-2025-21689"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-44932.html",
-      "ID": "CVE-2024-44932"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-47687.html",
-      "ID": "CVE-2024-47687"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49939.html",
-      "ID": "CVE-2024-49939"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49951.html",
-      "ID": "CVE-2024-49951"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50029.html",
-      "ID": "CVE-2024-50029"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53050.html",
-      "ID": "CVE-2024-53050"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-57929.html",
-      "ID": "CVE-2024-57929"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-57940.html",
-      "ID": "CVE-2024-57940"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2025-21663.html",
-      "ID": "CVE-2025-21663"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-27008.html",
-      "ID": "CVE-2024-27008"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-35891.html",
-      "ID": "CVE-2024-35891"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49994.html",
-      "ID": "CVE-2024-49994"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53224.html",
-      "ID": "CVE-2024-53224"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-56760.html",
-      "ID": "CVE-2024-56760"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-57890.html",
-      "ID": "CVE-2024-57890"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-57898.html",
-      "ID": "CVE-2024-57898"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-35933.html",
-      "ID": "CVE-2024-35933"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-43871.html",
-      "ID": "CVE-2024-43871"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50078.html",
-      "ID": "CVE-2024-50078"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50271.html",
-      "ID": "CVE-2024-50271"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53091.html",
-      "ID": "CVE-2024-53091"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53152.html",
-      "ID": "CVE-2024-53152"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53160.html",
-      "ID": "CVE-2024-53160"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2025-1272.html",
-      "ID": "CVE-2025-1272"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-47706.html",
-      "ID": "CVE-2024-47706"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49935.html",
-      "ID": "CVE-2024-49935"
-    },
-    {
-      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-42304.html",
       "ID": "CVE-2024-42304"
     },
@@ -212,6 +52,41 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50027.html",
+      "ID": "CVE-2024-50027"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50109.html",
+      "ID": "CVE-2024-50109"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50130.html",
+      "ID": "CVE-2024-50130"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53096.html",
+      "ID": "CVE-2024-53096"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-56535.html",
+      "ID": "CVE-2024-56535"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-57798.html",
+      "ID": "CVE-2024-57798"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-21689.html",
+      "ID": "CVE-2025-21689"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-43873.html",
       "ID": "CVE-2024-43873"
     },
@@ -227,6 +102,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-44932.html",
+      "ID": "CVE-2024-44932"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-44952.html",
       "ID": "CVE-2024-44952"
     },
@@ -237,8 +117,8 @@
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46675.html",
-      "ID": "CVE-2024-46675"
+      "URI": "https://linux.oracle.com/cve/CVE-2024-47687.html",
+      "ID": "CVE-2024-47687"
     },
     {
       "Source": "CVE",
@@ -247,8 +127,68 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49939.html",
+      "ID": "CVE-2024-49939"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49951.html",
+      "ID": "CVE-2024-49951"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-49971.html",
       "ID": "CVE-2024-49971"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49983.html",
+      "ID": "CVE-2024-49983"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50013.html",
+      "ID": "CVE-2024-50013"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50029.html",
+      "ID": "CVE-2024-50029"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53050.html",
+      "ID": "CVE-2024-53050"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53164.html",
+      "ID": "CVE-2024-53164"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-57929.html",
+      "ID": "CVE-2024-57929"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-57940.html",
+      "ID": "CVE-2024-57940"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-21663.html",
+      "ID": "CVE-2025-21663"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-27008.html",
+      "ID": "CVE-2024-27008"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-35891.html",
+      "ID": "CVE-2024-35891"
     },
     {
       "Source": "CVE",
@@ -262,8 +202,68 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49886.html",
+      "ID": "CVE-2024-49886"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49994.html",
+      "ID": "CVE-2024-49994"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50121.html",
+      "ID": "CVE-2024-50121"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50278.html",
+      "ID": "CVE-2024-50278"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50299.html",
+      "ID": "CVE-2024-50299"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-53044.html",
       "ID": "CVE-2024-53044"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53120.html",
+      "ID": "CVE-2024-53120"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53174.html",
+      "ID": "CVE-2024-53174"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53194.html",
+      "ID": "CVE-2024-53194"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53224.html",
+      "ID": "CVE-2024-53224"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-56760.html",
+      "ID": "CVE-2024-56760"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-57890.html",
+      "ID": "CVE-2024-57890"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-57898.html",
+      "ID": "CVE-2024-57898"
     },
     {
       "Source": "CVE",
@@ -272,13 +272,68 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-35933.html",
+      "ID": "CVE-2024-35933"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-42312.html",
       "ID": "CVE-2024-42312"
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-43871.html",
+      "ID": "CVE-2024-43871"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-45016.html",
       "ID": "CVE-2024-45016"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46675.html",
+      "ID": "CVE-2024-46675"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50078.html",
+      "ID": "CVE-2024-50078"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50271.html",
+      "ID": "CVE-2024-50271"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53091.html",
+      "ID": "CVE-2024-53091"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53152.html",
+      "ID": "CVE-2024-53152"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53160.html",
+      "ID": "CVE-2024-53160"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-56570.html",
+      "ID": "CVE-2024-56570"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-56642.html",
+      "ID": "CVE-2024-56642"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-1272.html",
+      "ID": "CVE-2025-1272"
     },
     {
       "Source": "CVE",
@@ -297,48 +352,13 @@
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49983.html",
-      "ID": "CVE-2024-49983"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50013.html",
-      "ID": "CVE-2024-50013"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53164.html",
-      "ID": "CVE-2024-53164"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49886.html",
-      "ID": "CVE-2024-49886"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53174.html",
-      "ID": "CVE-2024-53174"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53194.html",
-      "ID": "CVE-2024-53194"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-56570.html",
-      "ID": "CVE-2024-56570"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-56642.html",
-      "ID": "CVE-2024-56642"
-    },
-    {
-      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-47692.html",
       "ID": "CVE-2024-47692"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-47706.html",
+      "ID": "CVE-2024-47706"
     },
     {
       "Source": "CVE",
@@ -349,6 +369,16 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-49930.html",
       "ID": "CVE-2024-49930"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49935.html",
+      "ID": "CVE-2024-49935"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49938.html",
+      "ID": "CVE-2024-49938"
     },
     {
       "Source": "CVE",
@@ -369,6 +399,21 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2025-21646.html",
       "ID": "CVE-2025-21646"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-42265.html",
+      "ID": "CVE-2024-42265"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-47745.html",
+      "ID": "CVE-2024-47745"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-47748.html",
+      "ID": "CVE-2024-47748"
     },
     {
       "Source": "CVE",
@@ -412,6 +457,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53103.html",
+      "ID": "CVE-2024-53103"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-53110.html",
       "ID": "CVE-2024-53110"
     },
@@ -442,6 +492,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46743.html",
+      "ID": "CVE-2024-46743"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-46806.html",
       "ID": "CVE-2024-46806"
     },
@@ -452,6 +507,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49882.html",
+      "ID": "CVE-2024-49882"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-49889.html",
       "ID": "CVE-2024-49889"
     },
@@ -459,6 +519,16 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-49960.html",
       "ID": "CVE-2024-49960"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50008.html",
+      "ID": "CVE-2024-50008"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50044.html",
+      "ID": "CVE-2024-50044"
     },
     {
       "Source": "CVE",
@@ -492,6 +562,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50236.html",
+      "ID": "CVE-2024-50236"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-53074.html",
       "ID": "CVE-2024-53074"
     },
@@ -512,6 +587,21 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-35965.html",
+      "ID": "CVE-2024-35965"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-36013.html",
+      "ID": "CVE-2024-36013"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-39500.html",
+      "ID": "CVE-2024-39500"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-43820.html",
       "ID": "CVE-2024-43820"
     },
@@ -522,13 +612,38 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46673.html",
+      "ID": "CVE-2024-46673"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46853.html",
+      "ID": "CVE-2024-46853"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-47705.html",
       "ID": "CVE-2024-47705"
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-47713.html",
+      "ID": "CVE-2024-47713"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50082.html",
+      "ID": "CVE-2024-50082"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-53070.html",
       "ID": "CVE-2024-53070"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53097.html",
+      "ID": "CVE-2024-53097"
     },
     {
       "Source": "CVE",
@@ -587,6 +702,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-47710.html",
+      "ID": "CVE-2024-47710"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-47718.html",
       "ID": "CVE-2024-47718"
     },
@@ -607,6 +727,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49962.html",
+      "ID": "CVE-2024-49962"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-49975.html",
       "ID": "CVE-2024-49975"
     },
@@ -619,6 +744,21 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-50046.html",
       "ID": "CVE-2024-50046"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50191.html",
+      "ID": "CVE-2024-50191"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50256.html",
+      "ID": "CVE-2024-50256"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53060.html",
+      "ID": "CVE-2024-53060"
     },
     {
       "Source": "CVE",
@@ -667,6 +807,16 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46822.html",
+      "ID": "CVE-2024-46822"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46871.html",
+      "ID": "CVE-2024-46871"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-47660.html",
       "ID": "CVE-2024-47660"
     },
@@ -677,8 +827,18 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50039.html",
+      "ID": "CVE-2024-50039"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-50106.html",
       "ID": "CVE-2024-50106"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50153.html",
+      "ID": "CVE-2024-50153"
     },
     {
       "Source": "CVE",
@@ -727,8 +887,28 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-42291.html",
+      "ID": "CVE-2024-42291"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-42321.html",
+      "ID": "CVE-2024-42321"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-44931.html",
+      "ID": "CVE-2024-44931"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-46864.html",
       "ID": "CVE-2024-46864"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-47685.html",
+      "ID": "CVE-2024-47685"
     },
     {
       "Source": "CVE",
@@ -742,13 +922,33 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50033.html",
+      "ID": "CVE-2024-50033"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50075.html",
+      "ID": "CVE-2024-50075"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-53042.html",
       "ID": "CVE-2024-53042"
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53047.html",
+      "ID": "CVE-2024-53047"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-53051.html",
       "ID": "CVE-2024-53051"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53072.html",
+      "ID": "CVE-2024-53072"
     },
     {
       "Source": "CVE",
@@ -764,6 +964,11 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-53142.html",
       "ID": "CVE-2024-53142"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53173.html",
+      "ID": "CVE-2024-53173"
     },
     {
       "Source": "CVE",
@@ -807,6 +1012,21 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-42302.html",
+      "ID": "CVE-2024-42302"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-43821.html",
+      "ID": "CVE-2024-43821"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-43882.html",
+      "ID": "CVE-2024-43882"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-43898.html",
       "ID": "CVE-2024-43898"
     },
@@ -837,6 +1057,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49881.html",
+      "ID": "CVE-2024-49881"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-49884.html",
       "ID": "CVE-2024-49884"
     },
@@ -857,8 +1082,33 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50006.html",
+      "ID": "CVE-2024-50006"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50019.html",
+      "ID": "CVE-2024-50019"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-50047.html",
       "ID": "CVE-2024-50047"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50093.html",
+      "ID": "CVE-2024-50093"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50141.html",
+      "ID": "CVE-2024-50141"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50150.html",
+      "ID": "CVE-2024-50150"
     },
     {
       "Source": "CVE",
@@ -867,13 +1117,28 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50163.html",
+      "ID": "CVE-2024-50163"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-50200.html",
       "ID": "CVE-2024-50200"
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50201.html",
+      "ID": "CVE-2024-50201"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-50235.html",
       "ID": "CVE-2024-50235"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50304.html",
+      "ID": "CVE-2024-50304"
     },
     {
       "Source": "CVE",
@@ -912,6 +1177,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-44958.html",
+      "ID": "CVE-2024-44958"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-44987.html",
       "ID": "CVE-2024-44987"
     },
@@ -927,8 +1197,28 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46725.html",
+      "ID": "CVE-2024-46725"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46807.html",
+      "ID": "CVE-2024-46807"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46819.html",
+      "ID": "CVE-2024-46819"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-47678.html",
       "ID": "CVE-2024-47678"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-47703.html",
+      "ID": "CVE-2024-47703"
     },
     {
       "Source": "CVE",
@@ -952,8 +1242,28 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49937.html",
+      "ID": "CVE-2024-49937"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49993.html",
+      "ID": "CVE-2024-49993"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50015.html",
+      "ID": "CVE-2024-50015"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-50057.html",
       "ID": "CVE-2024-50057"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50101.html",
+      "ID": "CVE-2024-50101"
     },
     {
       "Source": "CVE",
@@ -964,6 +1274,11 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-50151.html",
       "ID": "CVE-2024-50151"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50199.html",
+      "ID": "CVE-2024-50199"
     },
     {
       "Source": "CVE",
@@ -1012,8 +1327,23 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-58099.html",
+      "ID": "CVE-2024-58099"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2025-21694.html",
       "ID": "CVE-2025-21694"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-35978.html",
+      "ID": "CVE-2024-35978"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-42305.html",
+      "ID": "CVE-2024-42305"
     },
     {
       "Source": "CVE",
@@ -1022,8 +1352,28 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46747.html",
+      "ID": "CVE-2024-46747"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46783.html",
+      "ID": "CVE-2024-46783"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-49929.html",
       "ID": "CVE-2024-49929"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49948.html",
+      "ID": "CVE-2024-49948"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49967.html",
+      "ID": "CVE-2024-49967"
     },
     {
       "Source": "CVE",
@@ -1074,6 +1424,26 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-41062.html",
       "ID": "CVE-2024-41062"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-42315.html",
+      "ID": "CVE-2024-42315"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-43853.html",
+      "ID": "CVE-2024-43853"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46761.html",
+      "ID": "CVE-2024-46761"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46805.html",
+      "ID": "CVE-2024-46805"
     },
     {
       "Source": "CVE",
@@ -1162,13 +1532,33 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-44934.html",
+      "ID": "CVE-2024-44934"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-44964.html",
       "ID": "CVE-2024-44964"
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46724.html",
+      "ID": "CVE-2024-46724"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46756.html",
+      "ID": "CVE-2024-46756"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-46787.html",
       "ID": "CVE-2024-46787"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46800.html",
+      "ID": "CVE-2024-46800"
     },
     {
       "Source": "CVE",
@@ -1182,8 +1572,33 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-47668.html",
+      "ID": "CVE-2024-47668"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-47715.html",
       "ID": "CVE-2024-47715"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-47737.html",
+      "ID": "CVE-2024-47737"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-47739.html",
+      "ID": "CVE-2024-47739"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49927.html",
+      "ID": "CVE-2024-49927"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50014.html",
+      "ID": "CVE-2024-50014"
     },
     {
       "Source": "CVE",
@@ -1197,6 +1612,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50038.html",
+      "ID": "CVE-2024-50038"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-50064.html",
       "ID": "CVE-2024-50064"
     },
@@ -1204,6 +1624,26 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-50102.html",
       "ID": "CVE-2024-50102"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50162.html",
+      "ID": "CVE-2024-50162"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53055.html",
+      "ID": "CVE-2024-53055"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53082.html",
+      "ID": "CVE-2024-53082"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-53123.html",
+      "ID": "CVE-2024-53123"
     },
     {
       "Source": "CVE",
@@ -1232,13 +1672,28 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-42133.html",
+      "ID": "CVE-2024-42133"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-46722.html",
       "ID": "CVE-2024-46722"
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-46750.html",
+      "ID": "CVE-2024-46750"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-46839.html",
       "ID": "CVE-2024-46839"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-49856.html",
+      "ID": "CVE-2024-49856"
     },
     {
       "Source": "CVE",
@@ -1257,6 +1712,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50035.html",
+      "ID": "CVE-2024-50035"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-50058.html",
       "ID": "CVE-2024-50058"
     },
@@ -1269,6 +1729,16 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-50120.html",
       "ID": "CVE-2024-50120"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50182.html",
+      "ID": "CVE-2024-50182"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-50189.html",
+      "ID": "CVE-2024-50189"
     },
     {
       "Source": "CVE",
@@ -1314,476 +1784,6 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-56654.html",
       "ID": "CVE-2024-56654"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53096.html",
-      "ID": "CVE-2024-53096"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50299.html",
-      "ID": "CVE-2024-50299"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49948.html",
-      "ID": "CVE-2024-49948"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50121.html",
-      "ID": "CVE-2024-50121"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50278.html",
-      "ID": "CVE-2024-50278"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53120.html",
-      "ID": "CVE-2024-53120"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50182.html",
-      "ID": "CVE-2024-50182"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49938.html",
-      "ID": "CVE-2024-49938"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-42265.html",
-      "ID": "CVE-2024-42265"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-42305.html",
-      "ID": "CVE-2024-42305"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-47745.html",
-      "ID": "CVE-2024-47745"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-47748.html",
-      "ID": "CVE-2024-47748"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46853.html",
-      "ID": "CVE-2024-46853"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53060.html",
-      "ID": "CVE-2024-53060"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53103.html",
-      "ID": "CVE-2024-53103"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46743.html",
-      "ID": "CVE-2024-46743"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-47668.html",
-      "ID": "CVE-2024-47668"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49882.html",
-      "ID": "CVE-2024-49882"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50008.html",
-      "ID": "CVE-2024-50008"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50033.html",
-      "ID": "CVE-2024-50033"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50101.html",
-      "ID": "CVE-2024-50101"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50044.html",
-      "ID": "CVE-2024-50044"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50256.html",
-      "ID": "CVE-2024-50256"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50093.html",
-      "ID": "CVE-2024-50093"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50150.html",
-      "ID": "CVE-2024-50150"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50236.html",
-      "ID": "CVE-2024-50236"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-35965.html",
-      "ID": "CVE-2024-35965"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53082.html",
-      "ID": "CVE-2024-53082"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-42133.html",
-      "ID": "CVE-2024-42133"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-36013.html",
-      "ID": "CVE-2024-36013"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50014.html",
-      "ID": "CVE-2024-50014"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-39500.html",
-      "ID": "CVE-2024-39500"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46783.html",
-      "ID": "CVE-2024-46783"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46673.html",
-      "ID": "CVE-2024-46673"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-47713.html",
-      "ID": "CVE-2024-47713"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53097.html",
-      "ID": "CVE-2024-53097"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50038.html",
-      "ID": "CVE-2024-50038"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50082.html",
-      "ID": "CVE-2024-50082"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-47710.html",
-      "ID": "CVE-2024-47710"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49962.html",
-      "ID": "CVE-2024-49962"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50191.html",
-      "ID": "CVE-2024-50191"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46822.html",
-      "ID": "CVE-2024-46822"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46871.html",
-      "ID": "CVE-2024-46871"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50039.html",
-      "ID": "CVE-2024-50039"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-42315.html",
-      "ID": "CVE-2024-42315"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50189.html",
-      "ID": "CVE-2024-50189"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50153.html",
-      "ID": "CVE-2024-50153"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-42291.html",
-      "ID": "CVE-2024-42291"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-42321.html",
-      "ID": "CVE-2024-42321"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-44931.html",
-      "ID": "CVE-2024-44931"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-47685.html",
-      "ID": "CVE-2024-47685"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50199.html",
-      "ID": "CVE-2024-50199"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50075.html",
-      "ID": "CVE-2024-50075"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53047.html",
-      "ID": "CVE-2024-53047"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53072.html",
-      "ID": "CVE-2024-53072"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53123.html",
-      "ID": "CVE-2024-53123"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53173.html",
-      "ID": "CVE-2024-53173"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-42302.html",
-      "ID": "CVE-2024-42302"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-43821.html",
-      "ID": "CVE-2024-43821"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-43882.html",
-      "ID": "CVE-2024-43882"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49881.html",
-      "ID": "CVE-2024-49881"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50006.html",
-      "ID": "CVE-2024-50006"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50035.html",
-      "ID": "CVE-2024-50035"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50019.html",
-      "ID": "CVE-2024-50019"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50141.html",
-      "ID": "CVE-2024-50141"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49927.html",
-      "ID": "CVE-2024-49927"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50163.html",
-      "ID": "CVE-2024-50163"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49967.html",
-      "ID": "CVE-2024-49967"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50162.html",
-      "ID": "CVE-2024-50162"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50201.html",
-      "ID": "CVE-2024-50201"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50304.html",
-      "ID": "CVE-2024-50304"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-44958.html",
-      "ID": "CVE-2024-44958"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46725.html",
-      "ID": "CVE-2024-46725"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46807.html",
-      "ID": "CVE-2024-46807"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46819.html",
-      "ID": "CVE-2024-46819"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-47703.html",
-      "ID": "CVE-2024-47703"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-58099.html",
-      "ID": "CVE-2024-58099"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49937.html",
-      "ID": "CVE-2024-49937"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49993.html",
-      "ID": "CVE-2024-49993"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-47739.html",
-      "ID": "CVE-2024-47739"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-50015.html",
-      "ID": "CVE-2024-50015"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46747.html",
-      "ID": "CVE-2024-46747"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-43853.html",
-      "ID": "CVE-2024-43853"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46761.html",
-      "ID": "CVE-2024-46761"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46805.html",
-      "ID": "CVE-2024-46805"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-44934.html",
-      "ID": "CVE-2024-44934"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46724.html",
-      "ID": "CVE-2024-46724"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46756.html",
-      "ID": "CVE-2024-46756"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46800.html",
-      "ID": "CVE-2024-46800"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-47737.html",
-      "ID": "CVE-2024-47737"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-53055.html",
-      "ID": "CVE-2024-53055"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-46750.html",
-      "ID": "CVE-2024-46750"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-49856.html",
-      "ID": "CVE-2024-49856"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-35978.html",
-      "ID": "CVE-2024-35978"
     }
   ],
   "Criteria": {
@@ -2376,166 +2376,6 @@
     },
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50027.html",
-      "ID": "CVE-2024-50027"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50109.html",
-      "ID": "CVE-2024-50109"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50130.html",
-      "ID": "CVE-2024-50130"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-56535.html",
-      "ID": "CVE-2024-56535"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-57798.html",
-      "ID": "CVE-2024-57798"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2025-21689.html",
-      "ID": "CVE-2025-21689"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-44932.html",
-      "ID": "CVE-2024-44932"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-47687.html",
-      "ID": "CVE-2024-47687"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49939.html",
-      "ID": "CVE-2024-49939"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49951.html",
-      "ID": "CVE-2024-49951"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50029.html",
-      "ID": "CVE-2024-50029"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53050.html",
-      "ID": "CVE-2024-53050"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-57929.html",
-      "ID": "CVE-2024-57929"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-57940.html",
-      "ID": "CVE-2024-57940"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2025-21663.html",
-      "ID": "CVE-2025-21663"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-27008.html",
-      "ID": "CVE-2024-27008"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-35891.html",
-      "ID": "CVE-2024-35891"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49994.html",
-      "ID": "CVE-2024-49994"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53224.html",
-      "ID": "CVE-2024-53224"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-56760.html",
-      "ID": "CVE-2024-56760"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-57890.html",
-      "ID": "CVE-2024-57890"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-57898.html",
-      "ID": "CVE-2024-57898"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-35933.html",
-      "ID": "CVE-2024-35933"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-43871.html",
-      "ID": "CVE-2024-43871"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50078.html",
-      "ID": "CVE-2024-50078"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50271.html",
-      "ID": "CVE-2024-50271"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53091.html",
-      "ID": "CVE-2024-53091"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53152.html",
-      "ID": "CVE-2024-53152"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53160.html",
-      "ID": "CVE-2024-53160"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2025-1272.html",
-      "ID": "CVE-2025-1272"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-47706.html",
-      "ID": "CVE-2024-47706"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49935.html",
-      "ID": "CVE-2024-49935"
-    },
-    {
-      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-42304.html",
       "ID": "CVE-2024-42304"
     },
@@ -2566,6 +2406,41 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50027.html",
+      "ID": "CVE-2024-50027"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50109.html",
+      "ID": "CVE-2024-50109"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50130.html",
+      "ID": "CVE-2024-50130"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53096.html",
+      "ID": "CVE-2024-53096"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-56535.html",
+      "ID": "CVE-2024-56535"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-57798.html",
+      "ID": "CVE-2024-57798"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2025-21689.html",
+      "ID": "CVE-2025-21689"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-43873.html",
       "ID": "CVE-2024-43873"
     },
@@ -2581,6 +2456,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-44932.html",
+      "ID": "CVE-2024-44932"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-44952.html",
       "ID": "CVE-2024-44952"
     },
@@ -2591,8 +2471,8 @@
     },
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46675.html",
-      "ID": "CVE-2024-46675"
+      "Href": "https://linux.oracle.com/cve/CVE-2024-47687.html",
+      "ID": "CVE-2024-47687"
     },
     {
       "Impact": "",
@@ -2601,8 +2481,68 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49939.html",
+      "ID": "CVE-2024-49939"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49951.html",
+      "ID": "CVE-2024-49951"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-49971.html",
       "ID": "CVE-2024-49971"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49983.html",
+      "ID": "CVE-2024-49983"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50013.html",
+      "ID": "CVE-2024-50013"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50029.html",
+      "ID": "CVE-2024-50029"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53050.html",
+      "ID": "CVE-2024-53050"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53164.html",
+      "ID": "CVE-2024-53164"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-57929.html",
+      "ID": "CVE-2024-57929"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-57940.html",
+      "ID": "CVE-2024-57940"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2025-21663.html",
+      "ID": "CVE-2025-21663"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-27008.html",
+      "ID": "CVE-2024-27008"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-35891.html",
+      "ID": "CVE-2024-35891"
     },
     {
       "Impact": "",
@@ -2616,8 +2556,68 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49886.html",
+      "ID": "CVE-2024-49886"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49994.html",
+      "ID": "CVE-2024-49994"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50121.html",
+      "ID": "CVE-2024-50121"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50278.html",
+      "ID": "CVE-2024-50278"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50299.html",
+      "ID": "CVE-2024-50299"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-53044.html",
       "ID": "CVE-2024-53044"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53120.html",
+      "ID": "CVE-2024-53120"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53174.html",
+      "ID": "CVE-2024-53174"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53194.html",
+      "ID": "CVE-2024-53194"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53224.html",
+      "ID": "CVE-2024-53224"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-56760.html",
+      "ID": "CVE-2024-56760"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-57890.html",
+      "ID": "CVE-2024-57890"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-57898.html",
+      "ID": "CVE-2024-57898"
     },
     {
       "Impact": "",
@@ -2626,13 +2626,68 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-35933.html",
+      "ID": "CVE-2024-35933"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-42312.html",
       "ID": "CVE-2024-42312"
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-43871.html",
+      "ID": "CVE-2024-43871"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-45016.html",
       "ID": "CVE-2024-45016"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46675.html",
+      "ID": "CVE-2024-46675"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50078.html",
+      "ID": "CVE-2024-50078"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50271.html",
+      "ID": "CVE-2024-50271"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53091.html",
+      "ID": "CVE-2024-53091"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53152.html",
+      "ID": "CVE-2024-53152"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53160.html",
+      "ID": "CVE-2024-53160"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-56570.html",
+      "ID": "CVE-2024-56570"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-56642.html",
+      "ID": "CVE-2024-56642"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2025-1272.html",
+      "ID": "CVE-2025-1272"
     },
     {
       "Impact": "",
@@ -2651,48 +2706,13 @@
     },
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49983.html",
-      "ID": "CVE-2024-49983"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50013.html",
-      "ID": "CVE-2024-50013"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53164.html",
-      "ID": "CVE-2024-53164"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49886.html",
-      "ID": "CVE-2024-49886"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53174.html",
-      "ID": "CVE-2024-53174"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53194.html",
-      "ID": "CVE-2024-53194"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-56570.html",
-      "ID": "CVE-2024-56570"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-56642.html",
-      "ID": "CVE-2024-56642"
-    },
-    {
-      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-47692.html",
       "ID": "CVE-2024-47692"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-47706.html",
+      "ID": "CVE-2024-47706"
     },
     {
       "Impact": "",
@@ -2703,6 +2723,16 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-49930.html",
       "ID": "CVE-2024-49930"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49935.html",
+      "ID": "CVE-2024-49935"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49938.html",
+      "ID": "CVE-2024-49938"
     },
     {
       "Impact": "",
@@ -2723,6 +2753,21 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2025-21646.html",
       "ID": "CVE-2025-21646"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-42265.html",
+      "ID": "CVE-2024-42265"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-47745.html",
+      "ID": "CVE-2024-47745"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-47748.html",
+      "ID": "CVE-2024-47748"
     },
     {
       "Impact": "",
@@ -2766,6 +2811,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53103.html",
+      "ID": "CVE-2024-53103"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-53110.html",
       "ID": "CVE-2024-53110"
     },
@@ -2796,6 +2846,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46743.html",
+      "ID": "CVE-2024-46743"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-46806.html",
       "ID": "CVE-2024-46806"
     },
@@ -2806,6 +2861,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49882.html",
+      "ID": "CVE-2024-49882"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-49889.html",
       "ID": "CVE-2024-49889"
     },
@@ -2813,6 +2873,16 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-49960.html",
       "ID": "CVE-2024-49960"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50008.html",
+      "ID": "CVE-2024-50008"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50044.html",
+      "ID": "CVE-2024-50044"
     },
     {
       "Impact": "",
@@ -2846,6 +2916,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50236.html",
+      "ID": "CVE-2024-50236"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-53074.html",
       "ID": "CVE-2024-53074"
     },
@@ -2866,6 +2941,21 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-35965.html",
+      "ID": "CVE-2024-35965"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-36013.html",
+      "ID": "CVE-2024-36013"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-39500.html",
+      "ID": "CVE-2024-39500"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-43820.html",
       "ID": "CVE-2024-43820"
     },
@@ -2876,13 +2966,38 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46673.html",
+      "ID": "CVE-2024-46673"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46853.html",
+      "ID": "CVE-2024-46853"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-47705.html",
       "ID": "CVE-2024-47705"
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-47713.html",
+      "ID": "CVE-2024-47713"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50082.html",
+      "ID": "CVE-2024-50082"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-53070.html",
       "ID": "CVE-2024-53070"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53097.html",
+      "ID": "CVE-2024-53097"
     },
     {
       "Impact": "",
@@ -2941,6 +3056,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-47710.html",
+      "ID": "CVE-2024-47710"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-47718.html",
       "ID": "CVE-2024-47718"
     },
@@ -2961,6 +3081,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49962.html",
+      "ID": "CVE-2024-49962"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-49975.html",
       "ID": "CVE-2024-49975"
     },
@@ -2973,6 +3098,21 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-50046.html",
       "ID": "CVE-2024-50046"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50191.html",
+      "ID": "CVE-2024-50191"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50256.html",
+      "ID": "CVE-2024-50256"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53060.html",
+      "ID": "CVE-2024-53060"
     },
     {
       "Impact": "",
@@ -3021,6 +3161,16 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46822.html",
+      "ID": "CVE-2024-46822"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46871.html",
+      "ID": "CVE-2024-46871"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-47660.html",
       "ID": "CVE-2024-47660"
     },
@@ -3031,8 +3181,18 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50039.html",
+      "ID": "CVE-2024-50039"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-50106.html",
       "ID": "CVE-2024-50106"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50153.html",
+      "ID": "CVE-2024-50153"
     },
     {
       "Impact": "",
@@ -3081,8 +3241,28 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-42291.html",
+      "ID": "CVE-2024-42291"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-42321.html",
+      "ID": "CVE-2024-42321"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-44931.html",
+      "ID": "CVE-2024-44931"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-46864.html",
       "ID": "CVE-2024-46864"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-47685.html",
+      "ID": "CVE-2024-47685"
     },
     {
       "Impact": "",
@@ -3096,13 +3276,33 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50033.html",
+      "ID": "CVE-2024-50033"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50075.html",
+      "ID": "CVE-2024-50075"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-53042.html",
       "ID": "CVE-2024-53042"
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53047.html",
+      "ID": "CVE-2024-53047"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-53051.html",
       "ID": "CVE-2024-53051"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53072.html",
+      "ID": "CVE-2024-53072"
     },
     {
       "Impact": "",
@@ -3118,6 +3318,11 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-53142.html",
       "ID": "CVE-2024-53142"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53173.html",
+      "ID": "CVE-2024-53173"
     },
     {
       "Impact": "",
@@ -3161,6 +3366,21 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-42302.html",
+      "ID": "CVE-2024-42302"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-43821.html",
+      "ID": "CVE-2024-43821"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-43882.html",
+      "ID": "CVE-2024-43882"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-43898.html",
       "ID": "CVE-2024-43898"
     },
@@ -3191,6 +3411,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49881.html",
+      "ID": "CVE-2024-49881"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-49884.html",
       "ID": "CVE-2024-49884"
     },
@@ -3211,8 +3436,33 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50006.html",
+      "ID": "CVE-2024-50006"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50019.html",
+      "ID": "CVE-2024-50019"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-50047.html",
       "ID": "CVE-2024-50047"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50093.html",
+      "ID": "CVE-2024-50093"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50141.html",
+      "ID": "CVE-2024-50141"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50150.html",
+      "ID": "CVE-2024-50150"
     },
     {
       "Impact": "",
@@ -3221,13 +3471,28 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50163.html",
+      "ID": "CVE-2024-50163"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-50200.html",
       "ID": "CVE-2024-50200"
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50201.html",
+      "ID": "CVE-2024-50201"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-50235.html",
       "ID": "CVE-2024-50235"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50304.html",
+      "ID": "CVE-2024-50304"
     },
     {
       "Impact": "",
@@ -3266,6 +3531,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-44958.html",
+      "ID": "CVE-2024-44958"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-44987.html",
       "ID": "CVE-2024-44987"
     },
@@ -3281,8 +3551,28 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46725.html",
+      "ID": "CVE-2024-46725"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46807.html",
+      "ID": "CVE-2024-46807"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46819.html",
+      "ID": "CVE-2024-46819"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-47678.html",
       "ID": "CVE-2024-47678"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-47703.html",
+      "ID": "CVE-2024-47703"
     },
     {
       "Impact": "",
@@ -3306,8 +3596,28 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49937.html",
+      "ID": "CVE-2024-49937"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49993.html",
+      "ID": "CVE-2024-49993"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50015.html",
+      "ID": "CVE-2024-50015"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-50057.html",
       "ID": "CVE-2024-50057"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50101.html",
+      "ID": "CVE-2024-50101"
     },
     {
       "Impact": "",
@@ -3318,6 +3628,11 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-50151.html",
       "ID": "CVE-2024-50151"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50199.html",
+      "ID": "CVE-2024-50199"
     },
     {
       "Impact": "",
@@ -3366,8 +3681,23 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-58099.html",
+      "ID": "CVE-2024-58099"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2025-21694.html",
       "ID": "CVE-2025-21694"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-35978.html",
+      "ID": "CVE-2024-35978"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-42305.html",
+      "ID": "CVE-2024-42305"
     },
     {
       "Impact": "",
@@ -3376,8 +3706,28 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46747.html",
+      "ID": "CVE-2024-46747"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46783.html",
+      "ID": "CVE-2024-46783"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-49929.html",
       "ID": "CVE-2024-49929"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49948.html",
+      "ID": "CVE-2024-49948"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49967.html",
+      "ID": "CVE-2024-49967"
     },
     {
       "Impact": "",
@@ -3428,6 +3778,26 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-41062.html",
       "ID": "CVE-2024-41062"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-42315.html",
+      "ID": "CVE-2024-42315"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-43853.html",
+      "ID": "CVE-2024-43853"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46761.html",
+      "ID": "CVE-2024-46761"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46805.html",
+      "ID": "CVE-2024-46805"
     },
     {
       "Impact": "",
@@ -3516,13 +3886,33 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-44934.html",
+      "ID": "CVE-2024-44934"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-44964.html",
       "ID": "CVE-2024-44964"
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46724.html",
+      "ID": "CVE-2024-46724"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46756.html",
+      "ID": "CVE-2024-46756"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-46787.html",
       "ID": "CVE-2024-46787"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46800.html",
+      "ID": "CVE-2024-46800"
     },
     {
       "Impact": "",
@@ -3536,8 +3926,33 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-47668.html",
+      "ID": "CVE-2024-47668"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-47715.html",
       "ID": "CVE-2024-47715"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-47737.html",
+      "ID": "CVE-2024-47737"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-47739.html",
+      "ID": "CVE-2024-47739"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49927.html",
+      "ID": "CVE-2024-49927"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50014.html",
+      "ID": "CVE-2024-50014"
     },
     {
       "Impact": "",
@@ -3551,6 +3966,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50038.html",
+      "ID": "CVE-2024-50038"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-50064.html",
       "ID": "CVE-2024-50064"
     },
@@ -3558,6 +3978,26 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-50102.html",
       "ID": "CVE-2024-50102"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50162.html",
+      "ID": "CVE-2024-50162"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53055.html",
+      "ID": "CVE-2024-53055"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53082.html",
+      "ID": "CVE-2024-53082"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-53123.html",
+      "ID": "CVE-2024-53123"
     },
     {
       "Impact": "",
@@ -3586,13 +4026,28 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-42133.html",
+      "ID": "CVE-2024-42133"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-46722.html",
       "ID": "CVE-2024-46722"
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-46750.html",
+      "ID": "CVE-2024-46750"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-46839.html",
       "ID": "CVE-2024-46839"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-49856.html",
+      "ID": "CVE-2024-49856"
     },
     {
       "Impact": "",
@@ -3611,6 +4066,11 @@
     },
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50035.html",
+      "ID": "CVE-2024-50035"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-50058.html",
       "ID": "CVE-2024-50058"
     },
@@ -3623,6 +4083,16 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-50120.html",
       "ID": "CVE-2024-50120"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50182.html",
+      "ID": "CVE-2024-50182"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-50189.html",
+      "ID": "CVE-2024-50189"
     },
     {
       "Impact": "",
@@ -3668,476 +4138,6 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-56654.html",
       "ID": "CVE-2024-56654"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53096.html",
-      "ID": "CVE-2024-53096"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50299.html",
-      "ID": "CVE-2024-50299"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49948.html",
-      "ID": "CVE-2024-49948"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50121.html",
-      "ID": "CVE-2024-50121"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50278.html",
-      "ID": "CVE-2024-50278"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53120.html",
-      "ID": "CVE-2024-53120"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50182.html",
-      "ID": "CVE-2024-50182"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49938.html",
-      "ID": "CVE-2024-49938"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-42265.html",
-      "ID": "CVE-2024-42265"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-42305.html",
-      "ID": "CVE-2024-42305"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-47745.html",
-      "ID": "CVE-2024-47745"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-47748.html",
-      "ID": "CVE-2024-47748"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46853.html",
-      "ID": "CVE-2024-46853"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53060.html",
-      "ID": "CVE-2024-53060"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53103.html",
-      "ID": "CVE-2024-53103"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46743.html",
-      "ID": "CVE-2024-46743"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-47668.html",
-      "ID": "CVE-2024-47668"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49882.html",
-      "ID": "CVE-2024-49882"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50008.html",
-      "ID": "CVE-2024-50008"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50033.html",
-      "ID": "CVE-2024-50033"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50101.html",
-      "ID": "CVE-2024-50101"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50044.html",
-      "ID": "CVE-2024-50044"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50256.html",
-      "ID": "CVE-2024-50256"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50093.html",
-      "ID": "CVE-2024-50093"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50150.html",
-      "ID": "CVE-2024-50150"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50236.html",
-      "ID": "CVE-2024-50236"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-35965.html",
-      "ID": "CVE-2024-35965"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53082.html",
-      "ID": "CVE-2024-53082"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-42133.html",
-      "ID": "CVE-2024-42133"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-36013.html",
-      "ID": "CVE-2024-36013"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50014.html",
-      "ID": "CVE-2024-50014"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-39500.html",
-      "ID": "CVE-2024-39500"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46783.html",
-      "ID": "CVE-2024-46783"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46673.html",
-      "ID": "CVE-2024-46673"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-47713.html",
-      "ID": "CVE-2024-47713"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53097.html",
-      "ID": "CVE-2024-53097"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50038.html",
-      "ID": "CVE-2024-50038"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50082.html",
-      "ID": "CVE-2024-50082"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-47710.html",
-      "ID": "CVE-2024-47710"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49962.html",
-      "ID": "CVE-2024-49962"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50191.html",
-      "ID": "CVE-2024-50191"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46822.html",
-      "ID": "CVE-2024-46822"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46871.html",
-      "ID": "CVE-2024-46871"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50039.html",
-      "ID": "CVE-2024-50039"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-42315.html",
-      "ID": "CVE-2024-42315"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50189.html",
-      "ID": "CVE-2024-50189"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50153.html",
-      "ID": "CVE-2024-50153"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-42291.html",
-      "ID": "CVE-2024-42291"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-42321.html",
-      "ID": "CVE-2024-42321"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-44931.html",
-      "ID": "CVE-2024-44931"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-47685.html",
-      "ID": "CVE-2024-47685"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50199.html",
-      "ID": "CVE-2024-50199"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50075.html",
-      "ID": "CVE-2024-50075"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53047.html",
-      "ID": "CVE-2024-53047"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53072.html",
-      "ID": "CVE-2024-53072"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53123.html",
-      "ID": "CVE-2024-53123"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53173.html",
-      "ID": "CVE-2024-53173"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-42302.html",
-      "ID": "CVE-2024-42302"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-43821.html",
-      "ID": "CVE-2024-43821"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-43882.html",
-      "ID": "CVE-2024-43882"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49881.html",
-      "ID": "CVE-2024-49881"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50006.html",
-      "ID": "CVE-2024-50006"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50035.html",
-      "ID": "CVE-2024-50035"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50019.html",
-      "ID": "CVE-2024-50019"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50141.html",
-      "ID": "CVE-2024-50141"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49927.html",
-      "ID": "CVE-2024-49927"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50163.html",
-      "ID": "CVE-2024-50163"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49967.html",
-      "ID": "CVE-2024-49967"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50162.html",
-      "ID": "CVE-2024-50162"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50201.html",
-      "ID": "CVE-2024-50201"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50304.html",
-      "ID": "CVE-2024-50304"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-44958.html",
-      "ID": "CVE-2024-44958"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46725.html",
-      "ID": "CVE-2024-46725"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46807.html",
-      "ID": "CVE-2024-46807"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46819.html",
-      "ID": "CVE-2024-46819"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-47703.html",
-      "ID": "CVE-2024-47703"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-58099.html",
-      "ID": "CVE-2024-58099"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49937.html",
-      "ID": "CVE-2024-49937"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49993.html",
-      "ID": "CVE-2024-49993"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-47739.html",
-      "ID": "CVE-2024-47739"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-50015.html",
-      "ID": "CVE-2024-50015"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46747.html",
-      "ID": "CVE-2024-46747"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-43853.html",
-      "ID": "CVE-2024-43853"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46761.html",
-      "ID": "CVE-2024-46761"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46805.html",
-      "ID": "CVE-2024-46805"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-44934.html",
-      "ID": "CVE-2024-44934"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46724.html",
-      "ID": "CVE-2024-46724"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46756.html",
-      "ID": "CVE-2024-46756"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46800.html",
-      "ID": "CVE-2024-46800"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-47737.html",
-      "ID": "CVE-2024-47737"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-53055.html",
-      "ID": "CVE-2024-53055"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-46750.html",
-      "ID": "CVE-2024-46750"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-49856.html",
-      "ID": "CVE-2024-49856"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-35978.html",
-      "ID": "CVE-2024-35978"
     }
   ],
   "Issued": {
