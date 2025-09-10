@@ -3,7 +3,17 @@
   "secfixes": {
     "18.0.6-r0": [
       "CVE-2024-10219",
-      "GHSA-rwwp-3rv3-j6q6"
+      "CVE-2024-12303",
+      "CVE-2025-1477",
+      "CVE-2025-2614",
+      "CVE-2025-2937",
+      "CVE-2025-7734",
+      "GHSA-4vc6-9m66-j82c",
+      "GHSA-cxxf-6583-j227",
+      "GHSA-qfpg-mw2p-44hg",
+      "GHSA-rwwp-3rv3-j6q6",
+      "GHSA-vp64-6mxr-66qc",
+      "GHSA-wxx2-2cv7-vhx6"
     ],
     "18.0.6-r1": [
       "CVE-2024-51744",
