@@ -12,6 +12,10 @@
       "GHSA-98qw-prqm-9f4p",
       "GHSA-pfqf-mv4p-9j4r",
       "GHSA-q9x7-4rf7-4xq2"
+    ],
+    "0.11.3-r0": [
+      "CVE-2025-8114",
+      "GHSA-fpr2-pgq7-qwg4"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
