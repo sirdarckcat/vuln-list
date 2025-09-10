@@ -223,6 +223,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-38135.html",
+      "ID": "CVE-2025-38135"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2025-38336.html",
       "ID": "CVE-2025-38336"
     },
@@ -773,6 +778,11 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2025-38415.html",
       "ID": "CVE-2025-38415"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2025-38135.html",
+      "ID": "CVE-2025-38135"
     },
     {
       "Impact": "",
