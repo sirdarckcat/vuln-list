@@ -16,7 +16,7 @@
       "Check": "at least one",
       "Comment": "Package postgresql is earlier than 14.19-1, affected by CVE-2025-8715",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66327000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66327001"
       },
@@ -28,7 +28,7 @@
       "Check": "at least one",
       "Comment": "Package postgresql is earlier than 14.19-1, affected by CVE-2025-8714",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66324000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66324001"
       },
@@ -40,7 +40,7 @@
       "Check": "at least one",
       "Comment": "Package postgresql is earlier than 14.19-1, affected by CVE-2025-8713",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66321000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66321001"
       },
@@ -52,7 +52,7 @@
       "Check": "at least one",
       "Comment": "Package icu is earlier than 68.2.0.9-2, affected by CVE-2025-5222",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66147000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66147001"
       },
@@ -64,7 +64,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 1.18.0, affected by CVE-2025-47907",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66135003",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66135004"
       },
@@ -76,7 +76,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.18.8-9, affected by CVE-2025-47907",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66135000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66135001"
       },
@@ -100,7 +100,7 @@
       "Check": "at least one",
       "Comment": "Package ceph is earlier than 16.2.10-9, affected by CVE-2024-48916",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65996000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65996001"
       },
@@ -112,7 +112,7 @@
       "Check": "at least one",
       "Comment": "Package sqlite is earlier than 3.39.2-4, affected by CVE-2025-7458",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65990000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65990001"
       },
@@ -172,7 +172,7 @@
       "Check": "at least one",
       "Comment": "Package luajit is earlier than 2.1.0-28, affected by CVE-2024-25177",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65535000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65535001"
       },
@@ -220,7 +220,7 @@
       "Check": "at least one",
       "Comment": "Package sqlite is earlier than 3.39.2-4, affected by CVE-2025-6965",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65507000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65507001"
       },
@@ -1264,7 +1264,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 1.18.0, affected by CVE-2025-4673",
       "ID": "oval:com.microsoft.cbl-mariner:tst:63716003",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:63716004"
       },
@@ -1276,7 +1276,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.18.8-9, affected by CVE-2025-4673",
       "ID": "oval:com.microsoft.cbl-mariner:tst:63716000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:63716001"
       },
@@ -1954,6 +1954,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:60931002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package krb5 is earlier than 1.19.4-4, affected by CVE-2025-3576",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:60928000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:60928001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:60928002"
       }
     },
     {

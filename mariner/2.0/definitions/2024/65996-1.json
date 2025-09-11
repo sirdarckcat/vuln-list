@@ -1,7 +1,7 @@
 {
   "Class": "vulnerability",
   "ID": "oval:com.microsoft.cbl-mariner:def:65996",
-  "Version": "0",
+  "Version": "1",
   "Metadata": {
     "Title": "CVE-2024-48916 affecting package ceph for versions less than 16.2.10-9",
     "Affected": {
@@ -15,7 +15,7 @@
     },
     "Patchable": "true",
     "AdvisoryDate": "2025-08-09T15:09:21.533Z",
-    "AdvisoryID": "65996",
+    "AdvisoryID": "65996-1",
     "Severity": "High",
     "Description": "CVE-2024-48916 affecting package ceph for versions less than 16.2.10-9. A patched version of the package is available."
   },
