@@ -7,32 +7,32 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66327001",
-      "Version": "0",
+      "Version": "1",
       "Name": "postgresql"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66324001",
-      "Version": "0",
+      "Version": "1",
       "Name": "postgresql"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66321001",
-      "Version": "0",
+      "Version": "1",
       "Name": "postgresql"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66147001",
-      "Version": "0",
+      "Version": "1",
       "Name": "icu"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66135004",
-      "Version": "0",
+      "Version": "1",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66135001",
-      "Version": "0",
+      "Version": "1",
       "Name": "golang"
     },
     {
@@ -42,12 +42,12 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65996001",
-      "Version": "0",
+      "Version": "1",
       "Name": "ceph"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65990001",
-      "Version": "0",
+      "Version": "1",
       "Name": "sqlite"
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65535001",
-      "Version": "0",
+      "Version": "1",
       "Name": "luajit"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65507001",
-      "Version": "0",
+      "Version": "1",
       "Name": "sqlite"
     },
     {
@@ -527,12 +527,12 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:63716004",
-      "Version": "0",
+      "Version": "1",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:63716001",
-      "Version": "0",
+      "Version": "1",
       "Name": "golang"
     },
     {
@@ -814,6 +814,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:60931001",
       "Version": "1",
       "Name": "pytorch"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:60928001",
+      "Version": "1",
+      "Name": "krb5"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:60897001",
