@@ -1,24 +1,24 @@
 {
-  "Title": "ELSA-2025-15701:  cups security update (IMPORTANT)",
-  "Description": "[-1:2.4.10-11.1]\n- CVE-2025-58060 cups: Authentication Bypass in CUPS Authorization Handling\n- CVE-2025-58364 cups: Null Pointer Dereference in CUPS ipp_read_io() Leading to Remote DoS",
+  "Title": "ELSA-2025-15700:  cups security update (IMPORTANT)",
+  "Description": "[1.2.3.3op2-33.1]\n- RHEL-113077 CVE-2025-58364 cups: Null Pointer Dereference in CUPS ipp_read_io() Leading to Remote DoS\n\n[1.2.3.3op2-33.1]\n- RHEL-112438 CVE-2025-58060 cups: Authentication Bypass in CUPS Authorization Handling",
   "Platform": [
-    "Oracle Linux 10"
+    "Oracle Linux 9"
   ],
   "References": [
     {
       "Source": "elsa",
-      "URI": "https://linux.oracle.com/errata/ELSA-2025-15701.html",
-      "ID": "ELSA-2025-15701"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2025-58060.html",
-      "ID": "CVE-2025-58060"
+      "URI": "https://linux.oracle.com/errata/ELSA-2025-15700.html",
+      "ID": "ELSA-2025-15700"
     },
     {
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2025-58364.html",
       "ID": "CVE-2025-58364"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-58060.html",
+      "ID": "CVE-2025-58060"
     }
   ],
   "Criteria": {
@@ -38,10 +38,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups is signed with the Oracle Linux 10 key"
+                        "Comment": "cups is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -50,10 +50,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-client is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-client is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-client is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-client is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -62,10 +62,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-devel is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-devel is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-devel is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-devel is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -74,10 +74,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-ipptool is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-filesystem is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-ipptool is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-filesystem is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -86,10 +86,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-lpd is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-ipptool is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-lpd is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-ipptool is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -98,10 +98,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-printerapp is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-libs is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-printerapp is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-libs is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -110,10 +110,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-filesystem is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-lpd is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-filesystem is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-lpd is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -122,10 +122,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-libs is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-printerapp is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-libs is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-printerapp is signed with the Oracle Linux 9 key"
                       }
                     ]
                   }
@@ -150,10 +150,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups is signed with the Oracle Linux 10 key"
+                        "Comment": "cups is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -162,10 +162,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-client is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-client is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-client is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-client is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -174,10 +174,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-devel is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-devel is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-devel is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-devel is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -186,10 +186,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-ipptool is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-filesystem is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-ipptool is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-filesystem is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -198,10 +198,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-lpd is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-ipptool is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-lpd is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-ipptool is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -210,10 +210,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-printerapp is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-libs is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-printerapp is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-libs is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -222,10 +222,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-filesystem is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-lpd is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-filesystem is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-lpd is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -234,10 +234,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "cups-libs is earlier than 1:2.4.10-11.el10_0.1"
+                        "Comment": "cups-printerapp is earlier than 1:2.3.3op2-33.el9_6.1"
                       },
                       {
-                        "Comment": "cups-libs is signed with the Oracle Linux 10 key"
+                        "Comment": "cups-printerapp is signed with the Oracle Linux 9 key"
                       }
                     ]
                   }
@@ -257,7 +257,7 @@
     ],
     "Criterions": [
       {
-        "Comment": "Oracle Linux 10 is installed"
+        "Comment": "Oracle Linux 9 is installed"
       }
     ]
   },
@@ -265,16 +265,16 @@
   "Cves": [
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2025-58060.html",
-      "ID": "CVE-2025-58060"
+      "Href": "https://linux.oracle.com/cve/CVE-2025-58364.html",
+      "ID": "CVE-2025-58364"
     },
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2025-58364.html",
-      "ID": "CVE-2025-58364"
+      "Href": "https://linux.oracle.com/cve/CVE-2025-58060.html",
+      "ID": "CVE-2025-58060"
     }
   ],
   "Issued": {
-    "Date": "2025-09-12"
+    "Date": "2025-09-11"
   }
 }
