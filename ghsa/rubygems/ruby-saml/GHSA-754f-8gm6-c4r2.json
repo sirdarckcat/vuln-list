@@ -71,11 +71,11 @@
     "PublishedAt": "2025-03-12T20:54:42Z",
     "Severity": "CRITICAL",
     "Summary": "Ruby SAML allows a SAML authentication bypass due to namespace handling (parser differential)",
-    "UpdatedAt": "2025-09-12T19:06:39Z",
+    "UpdatedAt": "2025-09-13T04:49:34Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [
