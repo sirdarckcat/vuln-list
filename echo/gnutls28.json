@@ -1,6 +1,6 @@
 {
   "CVE-2011-3389": {
-    "fixed_version": "3.8.9-e1"
+    "fixed_version": "3.8.9-3+e1"
   },
   "CVE-2012-0390": {
     "fixed_version": "3.0.11-1"

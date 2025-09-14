@@ -75,7 +75,7 @@
     "fixed_version": "5.15.8+dfsg-11+deb12u1"
   },
   "CVE-2023-45935": {
-    "fixed_version": "5.15.8+dfsg-11+deb12u3-e1"
+    "fixed_version": "5.15.8+dfsg-11+deb12u3+e1"
   },
   "CVE-2023-51714": {
     "fixed_version": "5.15.8+dfsg-11+deb12u2"
@@ -87,6 +87,9 @@
     "fixed_version": "5.15.8+dfsg-11+deb12u3"
   },
   "CVE-2025-5455": {
+    "fixed_version": "5.15.8+dfsg-11+deb12u3-e2"
+  },
+  "CVE-2025-5991": {
     "fixed_version": "5.15.8+dfsg-11+deb12u3-e2"
   }
 }

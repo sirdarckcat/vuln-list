@@ -6,6 +6,6 @@
     "fixed_version": "66.1.1-1+deb12u1"
   },
   "CVE-2025-47273": {
-    "fixed_version": "66.1.1-1+deb12u1-e1"
+    "fixed_version": "66.1.1-1+deb12u2"
   }
 }

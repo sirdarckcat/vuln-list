@@ -8,8 +8,11 @@
   "CVE-2024-23337": {
     "fixed_version": "1.6-2.1-e1"
   },
+  "CVE-2024-53427": {
+    "fixed_version": "1.6-2.1"
+  },
   "CVE-2025-48060": {
-    "fixed_version": "1.6-2.1-e1"
+    "fixed_version": "1.6-2.1+deb12u1"
   },
   "CVE-2025-9403": {}
 }

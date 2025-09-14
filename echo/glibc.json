@@ -420,13 +420,13 @@
     "fixed_version": "2.36-9+deb12u7"
   },
   "CVE-2025-0395": {
-    "fixed_version": "2.36-9+deb12u7-e1"
+    "fixed_version": "2.36-9+deb12u10"
   },
   "CVE-2025-4802": {
-    "fixed_version": "2.36-9+deb12u7-e2"
+    "fixed_version": "2.36-9+deb12u11"
   },
   "CVE-2025-8058": {
-    "fixed_version": "2.36-9+deb12u10-e1"
+    "fixed_version": "2.36-9+deb12u13"
   },
   "TEMP-0552518-ADA4BA": {
     "fixed_version": "2.10.1-7"
