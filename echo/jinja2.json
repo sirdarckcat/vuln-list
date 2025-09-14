@@ -30,6 +30,6 @@
     "fixed_version": "3.1.2-1+deb12u2"
   },
   "CVE-2025-27516": {
-    "fixed_version": "3.1.2-1+deb12u2-e1"
+    "fixed_version": "3.1.2-1+deb12u3"
   }
 }

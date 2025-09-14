@@ -117,7 +117,7 @@
     "fixed_version": "1.22.0-3"
   },
   "CVE-2024-7347": {
-    "fixed_version": "1.26.2-e1"
+    "fixed_version": "1.22.1-9+deb12u2"
   },
   "CVE-2025-23419": {
     "fixed_version": "1.22.1-9+deb12u1"

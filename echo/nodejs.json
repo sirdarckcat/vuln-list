@@ -227,8 +227,14 @@
   "CVE-2024-27983": {
     "fixed_version": "18.20.1"
   },
+  "CVE-2025-23083": {
+    "fixed_version": "18.20.6"
+  },
   "CVE-2025-23085": {
     "fixed_version": "18.20.6"
+  },
+  "CVE-2025-23165": {
+    "fixed_version": "20.19.2-e0"
   },
   "CVE-2025-23166": {
     "fixed_version": "20.19.2-e0"

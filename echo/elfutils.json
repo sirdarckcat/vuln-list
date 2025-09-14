@@ -75,10 +75,10 @@
     "fixed_version": "0.185-2"
   },
   "CVE-2024-25260": {
-    "fixed_version": "0.188-2.1-e1"
+    "fixed_version": "0.188-2.1+e1"
   },
   "CVE-2025-1352": {
-    "fixed_version": "0.188-2.1-e1"
+    "fixed_version": "0.188-2.1+e1"
   },
   "CVE-2025-1365": {
     "fixed_version": "0.188-2.1"
@@ -87,12 +87,12 @@
     "fixed_version": "0.188-2.1"
   },
   "CVE-2025-1372": {
-    "fixed_version": "0.188-2.1-e1"
+    "fixed_version": "0.188-2.1+e1"
   },
   "CVE-2025-1376": {
-    "fixed_version": "0.188-2.1-e1"
+    "fixed_version": "0.188-2.1+e1"
   },
   "CVE-2025-1377": {
-    "fixed_version": "0.188-2.1-e1"
+    "fixed_version": "0.188-2.1+e1"
   }
 }

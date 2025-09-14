@@ -75,7 +75,7 @@
     "fixed_version": "1.1.35-1"
   },
   "CVE-2023-40403": {
-    "fixed_version": "1.1.40-e0"
+    "fixed_version": "1.1.35-1+deb12u2"
   },
   "CVE-2024-55549": {
     "fixed_version": "1.1.35-1+deb12u1"
@@ -84,10 +84,10 @@
     "fixed_version": "1.1.35-1+deb12u1"
   },
   "CVE-2025-7424": {
-    "fixed_version": "1.1.40-e1"
+    "fixed_version": "1.1.35-1+deb12u2"
   },
   "CVE-2025-7425": {
-    "fixed_version": "1.1.40-e1"
+    "fixed_version": "1.1.35-1.2"
   },
   "TEMP-0000000-481246": {
     "fixed_version": "1.1.19-1"

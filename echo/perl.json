@@ -180,7 +180,7 @@
     "fixed_version": "5.36.0-4"
   },
   "CVE-2023-31484": {
-    "fixed_version": "5.36.0-7+deb12u1-e1"
+    "fixed_version": "5.36.0-7+deb12u3"
   },
   "CVE-2023-31486": {
     "fixed_version": "5.36.0-7+deb12u1-e1"
@@ -192,7 +192,7 @@
     "fixed_version": "5.36.0-7+deb12u2"
   },
   "CVE-2025-40909": {
-    "fixed_version": "5.36.0-7+deb12u2-e0"
+    "fixed_version": "5.36.0-7+deb12u3"
   },
   "TEMP-0769606-4AA6CF": {
     "fixed_version": "5.22.0~rc2-1"
