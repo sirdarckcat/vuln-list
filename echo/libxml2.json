@@ -270,7 +270,7 @@
     "fixed_version": "2.9.14+dfsg-1.1"
   },
   "CVE-2022-49043": {
-    "fixed_version": "2.13.7-e1"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u2"
   },
   "CVE-2023-28484": {
     "fixed_version": "2.9.14+dfsg-1.2"
@@ -279,46 +279,46 @@
     "fixed_version": "2.9.14+dfsg-1.2"
   },
   "CVE-2023-39615": {
-    "fixed_version": "2.13.7-e1"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u2"
   },
   "CVE-2023-45322": {
-    "fixed_version": "2.13.7-e1"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u2"
   },
   "CVE-2024-25062": {
-    "fixed_version": "2.13.7-e1"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u2"
   },
   "CVE-2024-34459": {
-    "fixed_version": "2.13.7-e1"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u2"
   },
   "CVE-2024-56171": {
-    "fixed_version": "2.13.7-e1"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u2"
   },
   "CVE-2025-24928": {
-    "fixed_version": "2.13.7-e1"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u2"
   },
   "CVE-2025-27113": {
-    "fixed_version": "2.13.7-e1"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u2"
   },
   "CVE-2025-32414": {
-    "fixed_version": "2.13.7-e4"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u2"
   },
   "CVE-2025-32415": {
-    "fixed_version": "2.13.8"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u2"
   },
   "CVE-2025-49794": {
-    "fixed_version": "2.13.8-e2"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u3"
   },
   "CVE-2025-49796": {
-    "fixed_version": "2.13.8-e2"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u3"
   },
   "CVE-2025-6021": {
-    "fixed_version": "2.13.8-e2"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u3"
   },
   "CVE-2025-6170": {
-    "fixed_version": "2.13.8-e2"
+    "fixed_version": "2.9.14+dfsg-1.3~deb12u3"
   },
   "CVE-2025-8732": {},
   "CVE-2025-9714": {
-    "fixed_version": "2.13.8-e6"
+    "fixed_version": "2.11.0"
   }
 }

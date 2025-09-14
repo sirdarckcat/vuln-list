@@ -48,7 +48,7 @@
     "fixed_version": "6.0-24"
   },
   "CVE-2021-4217": {
-    "fixed_version": "6.0-28-e1"
+    "fixed_version": "6.0-28+e1"
   },
   "CVE-2022-0529": {
     "fixed_version": "6.0-27"

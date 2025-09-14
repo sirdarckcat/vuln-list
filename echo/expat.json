@@ -93,7 +93,7 @@
     "fixed_version": "2.5.0-1"
   },
   "CVE-2023-52425": {
-    "fixed_version": "2.5.0-1+deb12u1-e1"
+    "fixed_version": "2.5.0-1+deb12u2"
   },
   "CVE-2023-52426": {
     "fixed_version": "2.5.0-1+deb12u1-e1"
@@ -111,9 +111,9 @@
     "fixed_version": "2.5.0-1+deb12u1"
   },
   "CVE-2024-50602": {
-    "fixed_version": "2.5.0-1+deb12u1-e1"
+    "fixed_version": "2.5.0-1+deb12u2"
   },
   "CVE-2024-8176": {
-    "fixed_version": "2.7.0"
+    "fixed_version": "2.5.0-1+deb12u2"
   }
 }
