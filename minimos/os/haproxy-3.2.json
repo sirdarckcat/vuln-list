@@ -1,15 +1,11 @@
 {
-  "name": "nodejs-18",
+  "name": "haproxy-3.2",
   "secfixes": {
     "0": [
-      "CVE-2024-3566",
-      "GHSA-9xch-xvj3-fmf3"
-    ],
-    "18.20.6-r0": [
-      "CVE-2025-23084",
-      "CVE-2025-23085",
-      "GHSA-37v4-cwgp-x353",
-      "GHSA-qv9x-c8c9-rpr8"
+      "CVE-2016-2102",
+      "CVE-2023-0056",
+      "GHSA-43q4-pf55-3xhc",
+      "GHSA-8g2x-6frq-q83x"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
