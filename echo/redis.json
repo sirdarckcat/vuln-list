@@ -159,10 +159,10 @@
     "fixed_version": "5:7.0.15-1~deb12u3"
   },
   "CVE-2025-21605": {
-    "fixed_version": "5:7.2.8"
+    "fixed_version": "5:7.0.15-1~deb12u4"
   },
   "CVE-2025-27151": {
-    "fixed_version": "5:7.2.9-e1"
+    "fixed_version": "5:7.0.15-1~deb12u5"
   },
   "CVE-2025-32023": {
     "fixed_version": "5:7.0.15-1~deb12u5"

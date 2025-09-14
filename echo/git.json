@@ -144,15 +144,21 @@
     "fixed_version": "1:2.39.5-0+deb12u2"
   },
   "CVE-2025-27613": {
-    "fixed_version": "1:2.50.1-e1"
+    "fixed_version": "1:2.50.1-0.1"
+  },
+  "CVE-2025-27614": {
+    "fixed_version": "1:2.50.1-0.1"
   },
   "CVE-2025-46835": {
-    "fixed_version": "1:2.50.1-e1"
+    "fixed_version": "1:2.50.1-0.1"
   },
   "CVE-2025-48384": {
-    "fixed_version": "1:2.50.1-e1"
+    "fixed_version": "1:2.50.1-0.1"
   },
   "CVE-2025-48385": {
+    "fixed_version": "1:2.50.1-0.1"
+  },
+  "CVE-2025-48386": {
     "fixed_version": "1:2.50.1-e1"
   }
 }
