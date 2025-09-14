@@ -1,15 +1,9 @@
 {
-  "name": "nodejs-18",
+  "name": "helm-fips",
   "secfixes": {
     "0": [
-      "CVE-2024-3566",
-      "GHSA-9xch-xvj3-fmf3"
-    ],
-    "18.20.6-r0": [
-      "CVE-2025-23084",
-      "CVE-2025-23085",
-      "GHSA-37v4-cwgp-x353",
-      "GHSA-qv9x-c8c9-rpr8"
+      "CVE-2019-25210",
+      "GHSA-jw44-4f3j-q396"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
