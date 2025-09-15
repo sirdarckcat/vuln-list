@@ -3,7 +3,21 @@
   "secfixes": {
     "0": [
       "CVE-2024-9453",
-      "GHSA-36fm-f9h6-j5xh"
+      "CVE-2025-27622",
+      "CVE-2025-27623",
+      "CVE-2025-27624",
+      "CVE-2025-27625",
+      "GHSA-36fm-f9h6-j5xh",
+      "GHSA-7g95-jmg9-h524",
+      "GHSA-8hmv-92wm-39ch",
+      "GHSA-p34j-r3ch-c985",
+      "GHSA-rfh6-9r2q-98vf"
+    ],
+    "2.492.3-r0": [
+      "CVE-2025-31720",
+      "CVE-2025-31721",
+      "GHSA-565r-pf5q-45v6",
+      "GHSA-wr6w-jxg7-qpfh"
     ],
     "2.492.3-r1": [
       "CVE-2025-22223",
