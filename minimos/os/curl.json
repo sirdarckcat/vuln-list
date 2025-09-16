@@ -24,6 +24,12 @@
       "CVE-2025-5025",
       "GHSA-ppfq-jg49-mqj4",
       "GHSA-x8ch-h5vv-q6cm"
+    ],
+    "8.16.0-r0": [
+      "CVE-2025-10148",
+      "CVE-2025-9086",
+      "GHSA-cxvq-c3r3-8gwq",
+      "GHSA-v676-f8gm-92r9"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
