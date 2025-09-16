@@ -770,9 +770,6 @@
   "CVE-2024-7006": {
     "fixed_version": "4.5.0-6+deb12u2"
   },
-  "CVE-2025-13978": {
-    "fixed_version": "4.7.0-e5"
-  },
   "CVE-2025-8176": {
     "fixed_version": "4.7.0-3+e4"
   },

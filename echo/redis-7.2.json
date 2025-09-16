@@ -1,6 +1,6 @@
 {
   "CVE-2025-21605": {
-    "fixed_version": "5:7.2.7-e3"
+    "fixed_version": "7.2.7-e3"
   },
   "CVE-2025-27151": {
     "fixed_version": "7.2.10-e0"
