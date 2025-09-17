@@ -1,13 +1,13 @@
 {
-  "id": "GHSA-69j8-prx2-vx98",
+  "id": "GO-2025-3958",
   "modified": "2025-09-17T17:42:12.586718Z",
-  "published": "2025-09-15T12:31:25Z",
+  "published": "2025-09-17T17:03:49Z",
   "aliases": [
     "CVE-2025-9072",
-    "GO-2025-3958"
+    "GHSA-69j8-prx2-vx98"
   ],
-  "summary": "Mattermost Open Redirect vulnerability",
-  "details": "Mattermost versions 10.10.x \u003c= 10.10.1, 10.5.x \u003c= 10.5.9, 10.9.x \u003c= 10.9.4 fail to validate the redirect_to parameter, allowing an attacker to craft a malicious link that, once a user authenticates with their SAML provider, could post the user’s cookies to an attacker-controlled URL.",
+  "summary": "Mattermost Open Redirect vulnerability in github.com/mattermost/mattermost-server",
+  "details": "Mattermost Open Redirect vulnerability in github.com/mattermost/mattermost-server",
   "affected": [
     {
       "package": {
@@ -20,62 +20,68 @@
           "type": "SEMVER",
           "events": [
             {
-              "introduced": "10.10.0"
+              "introduced": "10.5.0+incompatible"
             },
             {
-              "fixed": "10.10.2"
+              "fixed": "10.5.10+incompatible"
+            },
+            {
+              "introduced": "10.9.0+incompatible"
+            },
+            {
+              "fixed": "10.9.5+incompatible"
+            },
+            {
+              "introduced": "10.10.0+incompatible"
+            },
+            {
+              "fixed": "10.10.2+incompatible"
             }
           ]
         }
       ],
       "database_specific": {
-        "source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2025/09/GHSA-69j8-prx2-vx98/GHSA-69j8-prx2-vx98.json"
+        "source": "https://vuln.go.dev/ID/GO-2025-3958.json"
       }
     },
     {
       "package": {
         "ecosystem": "Go",
-        "name": "github.com/mattermost/mattermost-server",
-        "purl": "pkg:golang/github.com/mattermost/mattermost-server"
+        "name": "github.com/mattermost/mattermost-server/v5",
+        "purl": "pkg:golang/github.com/mattermost/mattermost-server/v5"
       },
       "ranges": [
         {
           "type": "SEMVER",
           "events": [
             {
-              "introduced": "10.5.0"
-            },
-            {
-              "fixed": "10.5.10"
+              "introduced": "0"
             }
           ]
         }
       ],
       "database_specific": {
-        "source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2025/09/GHSA-69j8-prx2-vx98/GHSA-69j8-prx2-vx98.json"
+        "source": "https://vuln.go.dev/ID/GO-2025-3958.json"
       }
     },
     {
       "package": {
         "ecosystem": "Go",
-        "name": "github.com/mattermost/mattermost-server",
-        "purl": "pkg:golang/github.com/mattermost/mattermost-server"
+        "name": "github.com/mattermost/mattermost-server/v6",
+        "purl": "pkg:golang/github.com/mattermost/mattermost-server/v6"
       },
       "ranges": [
         {
           "type": "SEMVER",
           "events": [
             {
-              "introduced": "10.9.0"
-            },
-            {
-              "fixed": "10.9.5"
+              "introduced": "0"
             }
           ]
         }
       ],
       "database_specific": {
-        "source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2025/09/GHSA-69j8-prx2-vx98/GHSA-69j8-prx2-vx98.json"
+        "source": "https://vuln.go.dev/ID/GO-2025-3958.json"
       }
     },
     {
@@ -98,11 +104,15 @@
         }
       ],
       "database_specific": {
-        "source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2025/09/GHSA-69j8-prx2-vx98/GHSA-69j8-prx2-vx98.json"
+        "source": "https://vuln.go.dev/ID/GO-2025-3958.json"
       }
     }
   ],
   "references": [
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-69j8-prx2-vx98"
+    },
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-9072"
@@ -118,10 +128,6 @@
     {
       "type": "WEB",
       "url": "https://github.com/mattermost/mattermost/commit/fda403fb6ec41bea8780bff198a26860f105e6e5"
-    },
-    {
-      "type": "PACKAGE",
-      "url": "https://github.com/mattermost/mattermost"
     },
     {
       "type": "WEB",
