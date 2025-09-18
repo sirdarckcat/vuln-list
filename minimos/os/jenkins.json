@@ -52,6 +52,14 @@
       "CVE-2025-7962",
       "GHSA-9342-92gg-6v29",
       "GHSA-mmxm-8w33-wc4h"
+    ],
+    "2.528-r0": [
+      "CVE-2025-59474",
+      "CVE-2025-59475",
+      "CVE-2025-59476",
+      "GHSA-223m-4rfp-646h",
+      "GHSA-67v4-38h7-9jjp",
+      "GHSA-qrh5-jg98-cr48"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
