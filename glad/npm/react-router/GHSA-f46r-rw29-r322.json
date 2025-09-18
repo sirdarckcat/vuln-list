@@ -5,7 +5,7 @@
   "Description": "This advisory is a duplicate of CVE-2025-43864 and has been removed.",
   "Date": "9999-04-24",
   "Pubdate": "2025-04-24",
-  "AffectedRange": "\u003c7.5.2",
+  "AffectedRange": "\u003c0",
   "FixedVersions": [
     "7.5.2"
   ],
