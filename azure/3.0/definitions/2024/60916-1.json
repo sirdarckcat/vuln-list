@@ -1,7 +1,7 @@
 {
   "Class": "vulnerability",
   "ID": "oval:com.microsoft.azurelinux:def:60916",
-  "Version": "0",
+  "Version": "1",
   "Metadata": {
     "Title": "CVE-2024-7409 affecting package qemu for versions less than 8.2.0-18",
     "Affected": {
@@ -15,7 +15,7 @@
     },
     "Patchable": "true",
     "AdvisoryDate": "2025-09-05T21:14:15.987Z",
-    "AdvisoryID": "60916",
+    "AdvisoryID": "60916-1",
     "Severity": "High",
     "Description": "CVE-2024-7409 affecting package qemu for versions less than 8.2.0-18. A patched version of the package is available."
   },
