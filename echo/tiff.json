@@ -753,7 +753,7 @@
     "fixed_version": "4.5.0-6+deb12u1"
   },
   "CVE-2023-52355": {
-    "fixed_version": "4.7.0"
+    "fixed_version": "4.5.1+git230720-4"
   },
   "CVE-2023-52356": {
     "fixed_version": "4.5.0-6+deb12u2"
@@ -762,7 +762,7 @@
     "fixed_version": "4.7.0"
   },
   "CVE-2023-6277": {
-    "fixed_version": "4.7.0"
+    "fixed_version": "4.5.1+git230720-2"
   },
   "CVE-2024-13978": {
     "fixed_version": "4.7.0-3+e4"
