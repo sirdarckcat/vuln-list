@@ -59,5 +59,7 @@
   "CVE-2023-46604": {
     "fixed_version": "5.17.2+dfsg-2+deb12u1"
   },
-  "CVE-2025-27533": {}
+  "CVE-2025-27533": {
+    "fixed_version": "5.17.6+dfsg-2"
+  }
 }
