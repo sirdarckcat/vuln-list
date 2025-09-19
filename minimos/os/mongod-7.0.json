@@ -18,6 +18,12 @@
     "7.0.21-r0": [
       "CVE-2025-6707",
       "GHSA-2r62-3h6c-3fgx"
+    ],
+    "7.0.22-r0": [
+      "CVE-2025-10060",
+      "CVE-2025-10061",
+      "GHSA-5866-fxhr-9hjf",
+      "GHSA-95w4-863f-9mj3"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
