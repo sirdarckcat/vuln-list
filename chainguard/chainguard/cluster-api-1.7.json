@@ -7,6 +7,10 @@
     ],
     "1.7.9-r3": [
       "GHSA-2x5j-vhc8-9cwm"
+    ],
+    "1.7.9-r6": [
+      "CVE-2025-47906",
+      "GHSA-gwrf-jf3h-w649"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
