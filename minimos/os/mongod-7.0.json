@@ -8,9 +8,11 @@
       "GHSA-7g8m-5ff5-p3hg"
     ],
     "7.0.18-r0": [
+      "CVE-2025-10059",
       "CVE-2025-6706",
       "CVE-2025-6709",
       "CVE-2025-6710",
+      "GHSA-5c77-c99v-84gc",
       "GHSA-5cq2-33xv-h4mm",
       "GHSA-9pjr-27w4-fm42",
       "GHSA-p332-57gq-w6hx"
