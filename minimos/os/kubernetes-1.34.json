@@ -12,6 +12,10 @@
       "GHSA-m3fm-h5jp-q79p",
       "GHSA-vw47-mr44-3jf9",
       "GHSA-xx8c-m748-xr4j"
+    ],
+    "1.34.1-r0": [
+      "CVE-2025-47910",
+      "GHSA-8pjc-487g-w6p2"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
