@@ -35,8 +35,10 @@
       "GHSA-4x4m-3c2p-qppc"
     ],
     "2.13.9-r0": [
+      "CVE-2025-47910",
       "CVE-2025-55190",
-      "GHSA-786q-9hcg-v9ff"
+      "GHSA-786q-9hcg-v9ff",
+      "GHSA-8pjc-487g-w6p2"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
