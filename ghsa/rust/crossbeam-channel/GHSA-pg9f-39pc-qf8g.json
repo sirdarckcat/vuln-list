@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2025-04-10T14:30:40Z",
+  "UpdatedAt": "2025-09-25T21:13:02Z",
   "Package": {
     "Ecosystem": "RUST",
     "Name": "crossbeam-channel"
@@ -44,7 +44,7 @@
     "PublishedAt": "2025-04-10T14:30:39Z",
     "Severity": "MODERATE",
     "Summary": "crossbeam-channel Vulnerable to Double Free on Drop",
-    "UpdatedAt": "2025-05-15T18:26:53Z",
+    "UpdatedAt": "2025-09-25T21:13:02Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
@@ -56,7 +56,7 @@
       "FirstPatchedVersion": {
         "Identifier": "0.5.15"
       },
-      "VulnerableVersionRange": "\u003e= 0.5.11, \u003c 0.5.15"
+      "VulnerableVersionRange": "\u003e= 0.5.12, \u003c 0.5.15"
     }
   ]
 }
