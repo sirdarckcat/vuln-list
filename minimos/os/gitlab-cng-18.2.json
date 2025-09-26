@@ -40,6 +40,10 @@
     "18.2.6-r0": [
       "CVE-2025-47910",
       "GHSA-8pjc-487g-w6p2"
+    ],
+    "18.2.7-r0": [
+      "CVE-2025-59830",
+      "GHSA-625h-95r8-8xpm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
