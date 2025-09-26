@@ -23,6 +23,9 @@
         "Url": "https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo/blob/440fb331a84b2050f4cc084c1d31d58a1d1c202d/resources/modules/iframe.js#L139-L155"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-59839"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-4j5h-mvj3-m48v"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2025-09-24T20:11:17Z",
     "Severity": "HIGH",
     "Summary": "Star Citizen  EmbedVideo Extension Stored XSS through wikitext caused by usage of non-reserved data attributes",
-    "UpdatedAt": "2025-09-24T20:11:22Z",
+    "UpdatedAt": "2025-09-26T16:30:00Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.6,
