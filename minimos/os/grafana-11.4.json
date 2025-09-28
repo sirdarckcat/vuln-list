@@ -89,6 +89,10 @@
     ],
     "11.4.8-r1": [
       "GHSA-2464-8j7c-4cjm"
+    ],
+    "11.4.8-r2": [
+      "CVE-2025-47910",
+      "GHSA-8pjc-487g-w6p2"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
