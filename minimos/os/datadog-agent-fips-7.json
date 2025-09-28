@@ -8,6 +8,10 @@
     "7.70.1-r1": [
       "CVE-2025-58058",
       "GHSA-jc7w-c686-c4v9"
+    ],
+    "7.70.2-r1": [
+      "CVE-2025-47910",
+      "GHSA-8pjc-487g-w6p2"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
