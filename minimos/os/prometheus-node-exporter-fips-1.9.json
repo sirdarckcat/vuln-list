@@ -1,11 +1,9 @@
 {
-  "name": "aws-load-balancer-controller",
+  "name": "prometheus-node-exporter-fips-1.9",
   "secfixes": {
-    "2.13.4-r1": [
-      "CVE-2025-47906",
-      "CVE-2025-47907",
-      "GHSA-gwrf-jf3h-w649",
-      "GHSA-j5pm-7495-qmr3"
+    "1.9.1-r1": [
+      "CVE-2025-47910",
+      "GHSA-8pjc-487g-w6p2"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
