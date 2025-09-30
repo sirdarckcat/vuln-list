@@ -386,15 +386,37 @@
   "CVE-2024-48241": {
     "fixed_version": "5.9.8+dfsg-1"
   },
-  "CVE-2025-1378": {},
-  "CVE-2025-1744": {},
-  "CVE-2025-1864": {},
-  "CVE-2025-5641": {},
-  "CVE-2025-5642": {},
-  "CVE-2025-5643": {},
-  "CVE-2025-5644": {},
-  "CVE-2025-5645": {},
-  "CVE-2025-5646": {},
-  "CVE-2025-5647": {},
-  "CVE-2025-5648": {}
+  "CVE-2025-1378": {
+    "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-1744": {
+    "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-1864": {
+    "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-5641": {
+    "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-5642": {
+    "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-5643": {
+    "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-5644": {
+    "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-5645": {
+    "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-5646": {
+    "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-5647": {
+    "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-5648": {
+    "fixed_version": "6.0.4+dfsg-1"
+  }
 }
