@@ -10,6 +10,10 @@
     "1.29.11-r5": [
       "CVE-2025-47910",
       "GHSA-8pjc-487g-w6p2"
+    ],
+    "1.29.11-r6": [
+      "CVE-2025-10954",
+      "GHSA-fmjh-f678-cv3x"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
