@@ -26595,7 +26595,7 @@
     "fixed_version": "6.1.153-1"
   },
   "CVE-2025-39905": {
-    "fixed_version": "6.16.8-1"
+    "fixed_version": "1"
   },
   "CVE-2025-39907": {
     "fixed_version": "6.1.153-1"
@@ -26604,7 +26604,7 @@
     "fixed_version": "6.1.153-1"
   },
   "CVE-2025-39910": {
-    "fixed_version": "6.16.8-1"
+    "fixed_version": "1"
   },
   "CVE-2025-39911": {
     "fixed_version": "6.1.153-1"
@@ -26625,7 +26625,7 @@
     "fixed_version": "6.1.153-1"
   },
   "CVE-2025-39925": {
-    "fixed_version": "6.16.8-1"
+    "fixed_version": "1"
   },
   "CVE-2025-39927": {
     "fixed_version": "6.12.48-1"
