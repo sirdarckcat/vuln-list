@@ -16,6 +16,16 @@
     "3.1.6-r0": [
       "CVE-2025-47910",
       "GHSA-8pjc-487g-w6p2"
+    ],
+    "3.1.8-r0": [
+      "CVE-2025-55191",
+      "CVE-2025-59531",
+      "CVE-2025-59537",
+      "CVE-2025-59538",
+      "GHSA-f9gq-prrc-hrhc",
+      "GHSA-g88p-r42r-ppp9",
+      "GHSA-gpx4-37g2-c8pv",
+      "GHSA-wp4p-9pxh-cgx2"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
