@@ -60,12 +60,6 @@
         "Identifier": "12.0.0.0rc1"
       },
       "VulnerableVersionRange": "\u003c 12.0.0.0rc1"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "12.0.0.0rc1"
-      },
-      "VulnerableVersionRange": "\u003c 12.0.0.0rc1"
     }
   ]
 }
