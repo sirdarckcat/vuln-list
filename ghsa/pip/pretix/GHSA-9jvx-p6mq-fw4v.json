@@ -60,6 +60,12 @@
         "Identifier": "2023.7.2"
       },
       "VulnerableVersionRange": "\u003c 2023.7.2"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2023.7.2"
+      },
+      "VulnerableVersionRange": "\u003c 2023.7.2"
     }
   ]
 }
