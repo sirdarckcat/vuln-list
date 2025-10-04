@@ -63,6 +63,12 @@
         "Identifier": "4.1.4"
       },
       "VulnerableVersionRange": "\u003c 4.1.4"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "4.1.4"
+      },
+      "VulnerableVersionRange": "\u003c 4.1.4"
     }
   ]
 }
