@@ -1,6 +1,10 @@
 {
   "name": "kibana-9.1",
   "secfixes": {
+    "0": [
+      "CVE-2025-57319",
+      "GHSA-ffrw-9mx8-89p8"
+    ],
     "9.1.4-r0": [
       "CVE-2025-58754",
       "GHSA-4hjh-wcwx-xvwj"
