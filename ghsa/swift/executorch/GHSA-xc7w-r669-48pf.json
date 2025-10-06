@@ -1,8 +1,8 @@
 {
   "Severity": "CRITICAL",
-  "UpdatedAt": "2025-08-12T18:53:00Z",
+  "UpdatedAt": "2025-10-06T15:04:40Z",
   "Package": {
-    "Ecosystem": "PIP",
+    "Ecosystem": "SWIFT",
     "Name": "executorch"
   },
   "Advisory": {
