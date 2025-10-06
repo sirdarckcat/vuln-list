@@ -2,7 +2,7 @@
   "Severity": "HIGH",
   "UpdatedAt": "2025-10-06T15:14:42Z",
   "Package": {
-    "Ecosystem": "PIP",
+    "Ecosystem": "SWIFT",
     "Name": "executorch"
   },
   "Advisory": {
@@ -48,7 +48,7 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "0.7.0"
+        "Identifier": "0.7.0-rc1"
       },
       "VulnerableVersionRange": "\u003c= 0.6.0"
     }
