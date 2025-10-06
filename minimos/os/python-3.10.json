@@ -32,6 +32,12 @@
       "GHSA-6r6c-684h-9j7p",
       "GHSA-j8r3-cghj-9jhg",
       "GHSA-p72v-37h5-753v"
+    ],
+    "3.10.18-r2": [
+      "CVE-2025-6069",
+      "CVE-2025-8194",
+      "GHSA-j5cc-6rx8-ff96",
+      "GHSA-v594-44hm-2j7p"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
