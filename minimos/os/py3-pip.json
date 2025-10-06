@@ -13,13 +13,15 @@
     ],
     "25.2-r0": [
       "CVE-2024-47081",
-      "CVE-2025-8869",
-      "GHSA-4xh5-x5gv-qwph",
       "GHSA-9hjg-9r4m-mvj7"
     ],
     "25.2-r1": [
       "CVE-2025-50181",
       "GHSA-pq67-6m6q-mj2v"
+    ],
+    "25.2-r3": [
+      "CVE-2025-8869",
+      "GHSA-4xh5-x5gv-qwph"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
