@@ -15,6 +15,9 @@
     "8.0.3-r0": [
       "CVE-2025-32023",
       "CVE-2025-48367"
+    ],
+    "8.0.4-r0": [
+      "CVE-2025-49844"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

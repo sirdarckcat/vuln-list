@@ -4,6 +4,12 @@
     "0": [
       "CVE-2025-57319",
       "GHSA-ffrw-9mx8-89p8"
+    ],
+    "9.0.8-r0": [
+      "CVE-2025-58754",
+      "CVE-2025-59343",
+      "GHSA-4hjh-wcwx-xvwj",
+      "GHSA-vj76-c3g6-qr5v"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
