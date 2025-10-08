@@ -9,6 +9,16 @@
       "Source": "elsa",
       "URI": "https://linux.oracle.com/errata/ELSA-2025-17397.html",
       "ID": "ELSA-2025-17397"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-39730.html",
+      "ID": "CVE-2025-39730"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-38527.html",
+      "ID": "CVE-2025-38527"
     }
   ],
   "Criteria": {
@@ -396,7 +406,18 @@
     ]
   },
   "Severity": "MODERATE",
-  "Cves": null,
+  "Cves": [
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2025-39730.html",
+      "ID": "CVE-2025-39730"
+    },
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2025-38527.html",
+      "ID": "CVE-2025-38527"
+    }
+  ],
   "Issued": {
     "Date": "2025-10-07"
   }
