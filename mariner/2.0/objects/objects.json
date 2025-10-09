@@ -1,6 +1,16 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:68246001",
+      "Version": "0",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:68226001",
+      "Version": "0",
+      "Name": "redis"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:67797001",
       "Version": "1",
       "Name": "open-vm-tools"
@@ -9,6 +19,16 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:67794001",
       "Version": "0",
       "Name": "libtiff"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:67512004",
+      "Version": "0",
+      "Name": "golang"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:67512001",
+      "Version": "0",
+      "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:67269001",
@@ -143,6 +163,16 @@
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66101001",
       "Version": "1",
+      "Name": "golang"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66098004",
+      "Version": "0",
+      "Name": "golang"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66098001",
+      "Version": "0",
       "Name": "golang"
     },
     {
