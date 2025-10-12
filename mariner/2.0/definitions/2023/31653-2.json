@@ -1,7 +1,7 @@
 {
   "Class": "vulnerability",
   "ID": "oval:com.microsoft.cbl-mariner:def:31653",
-  "Version": "1",
+  "Version": "2",
   "Metadata": {
     "Title": "CVE-2023-45145 affecting package redis for versions less than 6.2.14-1",
     "Affected": {
@@ -15,7 +15,7 @@
     },
     "Patchable": "true",
     "AdvisoryDate": "2023-11-08T02:07:28Z",
-    "AdvisoryID": "31653-1",
+    "AdvisoryID": "31653-2",
     "Severity": "Low",
     "Description": "CVE-2023-45145 affecting package redis for versions less than 6.2.14-1. A patched version of the package is available."
   },

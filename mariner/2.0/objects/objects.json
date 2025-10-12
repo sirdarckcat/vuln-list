@@ -7,7 +7,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:68226001",
-      "Version": "0",
+      "Version": "1",
       "Name": "redis"
     },
     {
@@ -17,43 +17,58 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:67794001",
-      "Version": "0",
+      "Version": "1",
       "Name": "libtiff"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:67512004",
-      "Version": "0",
+      "Version": "1",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:67512001",
-      "Version": "0",
+      "Version": "1",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:67269001",
-      "Version": "0",
+      "Version": "1",
       "Name": "cups"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:67259001",
+      "Version": "1",
+      "Name": "libtiff"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:67133001",
-      "Version": "0",
+      "Version": "1",
       "Name": "cups"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:67101001",
-      "Version": "0",
+      "Version": "1",
       "Name": "coredns"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66915001",
-      "Version": "0",
+      "Version": "1",
       "Name": "cni"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66912001",
-      "Version": "0",
+      "Version": "1",
       "Name": "cni"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66780001",
+      "Version": "1",
+      "Name": "glib"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66741001",
+      "Version": "1",
+      "Name": "packer"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66704001",
@@ -167,12 +182,12 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66098004",
-      "Version": "0",
+      "Version": "1",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66098001",
-      "Version": "0",
+      "Version": "1",
       "Name": "golang"
     },
     {
@@ -212,7 +227,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65984001",
-      "Version": "0",
+      "Version": "1",
       "Name": "python3"
     },
     {
@@ -11982,7 +11997,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:31653001",
-      "Version": "0",
+      "Version": "1",
       "Name": "redis"
     },
     {

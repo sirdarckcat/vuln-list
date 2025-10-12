@@ -1,7 +1,7 @@
 {
   "Class": "vulnerability",
   "ID": "oval:com.microsoft.cbl-mariner:def:67794",
-  "Version": "0",
+  "Version": "1",
   "Metadata": {
     "Title": "CVE-2025-9900 affecting package libtiff for versions less than 4.6.0-9",
     "Affected": {
@@ -15,7 +15,7 @@
     },
     "Patchable": "true",
     "AdvisoryDate": "2025-10-06T21:12:30.42Z",
-    "AdvisoryID": "67794",
+    "AdvisoryID": "67794-1",
     "Severity": "High",
     "Description": "CVE-2025-9900 affecting package libtiff for versions less than 4.6.0-9. A patched version of the package is available."
   },
