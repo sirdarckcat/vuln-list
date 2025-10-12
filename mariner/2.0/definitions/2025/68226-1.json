@@ -1,7 +1,7 @@
 {
   "Class": "vulnerability",
   "ID": "oval:com.microsoft.cbl-mariner:def:68226",
-  "Version": "0",
+  "Version": "1",
   "Metadata": {
     "Title": "CVE-2025-49844 affecting package redis for versions less than 6.2.20-1",
     "Affected": {
@@ -15,7 +15,7 @@
     },
     "Patchable": "true",
     "AdvisoryDate": "2025-10-08T15:07:55.967Z",
-    "AdvisoryID": "68226",
+    "AdvisoryID": "68226-1",
     "Severity": "Critical",
     "Description": "CVE-2025-49844 affecting package redis for versions less than 6.2.20-1. An upgraded version of the package is available that resolves this issue."
   },
