@@ -16,7 +16,7 @@
       "Check": "at least one",
       "Comment": "Package redis is earlier than 6.2.20-1, affected by CVE-2025-49844",
       "ID": "oval:com.microsoft.cbl-mariner:tst:68226000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:68226001"
       },
@@ -40,7 +40,7 @@
       "Check": "at least one",
       "Comment": "Package libtiff is earlier than 4.6.0-9, affected by CVE-2025-9900",
       "ID": "oval:com.microsoft.cbl-mariner:tst:67794000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:67794001"
       },
@@ -52,7 +52,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 1.18.0, affected by CVE-2025-47906",
       "ID": "oval:com.microsoft.cbl-mariner:tst:67512003",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:67512004"
       },
@@ -64,7 +64,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.18.8-10, affected by CVE-2025-47906",
       "ID": "oval:com.microsoft.cbl-mariner:tst:67512000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:67512001"
       },
@@ -76,7 +76,7 @@
       "Check": "at least one",
       "Comment": "Package cups is earlier than 2.3.3op2-10, affected by CVE-2025-58060",
       "ID": "oval:com.microsoft.cbl-mariner:tst:67269000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:67269001"
       },
@@ -86,9 +86,21 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package libtiff is earlier than 4.6.0-9, affected by CVE-2024-13978",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:67259000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:67259001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:67259002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package cups is earlier than 2.3.3op2-10, affected by CVE-2025-58364",
       "ID": "oval:com.microsoft.cbl-mariner:tst:67133000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:67133001"
       },
@@ -100,7 +112,7 @@
       "Check": "at least one",
       "Comment": "Package coredns is earlier than 1.11.1-21, affected by CVE-2025-58063",
       "ID": "oval:com.microsoft.cbl-mariner:tst:67101000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:67101001"
       },
@@ -112,7 +124,7 @@
       "Check": "at least one",
       "Comment": "Package cni is earlier than 1.0.1-20, affected by CVE-2022-32149",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66915000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66915001"
       },
@@ -124,12 +136,36 @@
       "Check": "at least one",
       "Comment": "Package cni is earlier than 1.0.1-20, affected by CVE-2024-45338",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66912000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66912001"
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:66912002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package glib is earlier than 2.71.0-6, affected by CVE-2025-7039",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:66780000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66780001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:66780002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package packer is earlier than 1.9.5-15, affected by CVE-2025-58058",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:66741000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66741001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:66741002"
       }
     },
     {
@@ -400,7 +436,7 @@
       "Check": "at least one",
       "Comment": "Package golang is greater than 1.18.0, affected by CVE-2025-4674",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66098003",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66098004"
       },
@@ -412,7 +448,7 @@
       "Check": "at least one",
       "Comment": "Package golang is earlier than 1.18.8-10, affected by CVE-2025-4674",
       "ID": "oval:com.microsoft.cbl-mariner:tst:66098000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:66098001"
       },
@@ -508,7 +544,7 @@
       "Check": "at least one",
       "Comment": "Package python3 is earlier than 3.9.19-15, affected by CVE-2025-8194",
       "ID": "oval:com.microsoft.cbl-mariner:tst:65984000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:65984001"
       },
@@ -28756,7 +28792,7 @@
       "Check": "at least one",
       "Comment": "Package redis is earlier than 6.2.14-1, affected by CVE-2023-45145",
       "ID": "oval:com.microsoft.cbl-mariner:tst:31653000",
-      "Version": "0",
+      "Version": "1",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:31653001"
       },
