@@ -20,6 +20,15 @@
         "Url": "https://github.com/denoland/deno/commit/992e998dfe436cdc9325232759af8be92f11739b"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-61785"
+      },
+      {
+        "Url": "https://github.com/denoland/deno/releases/tag/v2.2.15"
+      },
+      {
+        "Url": "https://github.com/denoland/deno/releases/tag/v2.5.3"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-vg2r-rmgp-cgqj"
       }
     ],
@@ -38,7 +47,7 @@
     "PublishedAt": "2025-10-07T22:36:36Z",
     "Severity": "LOW",
     "Summary": "Deno's --deny-write check does not prevent permission bypass",
-    "UpdatedAt": "2025-10-07T22:36:39Z",
+    "UpdatedAt": "2025-10-13T15:17:43Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 3.3,
