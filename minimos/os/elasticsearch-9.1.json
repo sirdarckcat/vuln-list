@@ -12,6 +12,10 @@
       "GHSA-fghv-69vj-qj49",
       "GHSA-p72g-pv48-7w9x",
       "GHSA-prj3-ccx8-p6x4"
+    ],
+    "9.1.5-r0": [
+      "CVE-2025-37727",
+      "GHSA-56r7-h6mw-rcfv"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
