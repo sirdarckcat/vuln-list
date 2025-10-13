@@ -17,6 +17,9 @@
         "Url": "https://github.com/thorsten/phpMyFAQ/commit/44cd20f86eb041f39d1c30a9beefad1cc61dc0ec"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-59943"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-9wj2-4hcm-r74j"
       }
     ],
@@ -35,7 +38,7 @@
     "PublishedAt": "2025-10-03T14:52:33Z",
     "Severity": "HIGH",
     "Summary": "phpMyFAQ duplicate email registration allows multiple accounts with the same email",
-    "UpdatedAt": "2025-10-03T14:52:34Z",
+    "UpdatedAt": "2025-10-13T15:10:23Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.1,
