@@ -23,6 +23,12 @@
         "Url": "https://github.com/rack/rack/commit/fba2c8bc63eb787ff4b19bc612d315fda6126d85"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-61780"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/rack/CVE-2025-61780.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-r657-rxjc-j557"
       }
     ],
@@ -41,7 +47,7 @@
     "PublishedAt": "2025-10-10T17:31:31Z",
     "Severity": "MODERATE",
     "Summary": "Rack has a Possible Information Disclosure Vulnerability",
-    "UpdatedAt": "2025-10-10T17:31:32Z",
+    "UpdatedAt": "2025-10-13T15:45:11Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.8,
