@@ -32,6 +32,12 @@
         "Url": "https://bugs.ruby-lang.org/issues/19104"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-61921"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/sinatra/CVE-2025-61921.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-mr3q-g2mv-mr4q"
       }
     ],
@@ -50,7 +56,7 @@
     "PublishedAt": "2025-10-10T20:28:47Z",
     "Severity": "LOW",
     "Summary": "Sinatra is vulnerable to ReDoS through ETag header value generation",
-    "UpdatedAt": "2025-10-10T20:29:28Z",
+    "UpdatedAt": "2025-10-13T15:46:29Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

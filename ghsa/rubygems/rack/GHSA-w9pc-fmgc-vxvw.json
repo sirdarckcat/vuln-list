@@ -26,6 +26,9 @@
         "Url": "https://github.com/rack/rack/commit/e08f78c656c9394d6737c022bde087e0f33336fd"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/rack/CVE-2025-61771.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-w9pc-fmgc-vxvw"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2025-10-07T17:27:07Z",
     "Severity": "HIGH",
     "Summary": "Rack: Multipart parser buffers large non‑file fields entirely in memory, enabling DoS (memory exhaustion)",
-    "UpdatedAt": "2025-10-07T17:27:08Z",
+    "UpdatedAt": "2025-10-13T15:29:52Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
