@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2025-10-13T13:23:27Z",
+  "UpdatedAt": "2025-10-14T17:40:25Z",
   "Package": {
     "Ecosystem": "COMPOSER",
     "Name": "alt-design/alt-redirect"
@@ -18,6 +18,12 @@
       },
       {
         "Url": "https://statamic.com/addons/alt-design/alt-redirects/release-notes"
+      },
+      {
+        "Url": "https://github.com/alt-design/Alt-Redirect-Addon/commit/5dc6753c7151ac994c63e18914998991b1f65cbd"
+      },
+      {
+        "Url": "https://github.com/alt-design/Alt-Redirect-Addon/releases/tag/v1.6.4"
       },
       {
         "Url": "https://github.com/advisories/GHSA-rpjr-pcmr-9ppw"
@@ -38,7 +44,7 @@
     "PublishedAt": "2025-10-10T15:31:28Z",
     "Severity": "MODERATE",
     "Summary": "Alt Redirect: Potential Authentication Bypass by Spoofing  through query-string stripping logic flaw",
-    "UpdatedAt": "2025-10-13T13:23:27Z",
+    "UpdatedAt": "2025-10-14T17:40:25Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,
@@ -48,9 +54,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": ""
+        "Identifier": "1.6.4"
       },
-      "VulnerableVersionRange": "\u003c= 1.6.3"
+      "VulnerableVersionRange": "\u003c 1.6.4"
     }
   ]
 }
