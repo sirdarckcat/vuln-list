@@ -715,7 +715,7 @@
   },
   "CVE-2025-11413": {},
   "CVE-2025-11414": {
-    "fixed_version": "2.45-7+e4"
+    "fixed_version": "2.45-7+e3"
   },
   "CVE-2025-1147": {
     "fixed_version": "2.44"
@@ -726,8 +726,12 @@
   "CVE-2025-1149": {
     "fixed_version": "2.45~alpha1"
   },
-  "CVE-2025-11494": {},
-  "CVE-2025-11495": {},
+  "CVE-2025-11494": {
+    "fixed_version": "2.45-7+e3"
+  },
+  "CVE-2025-11495": {
+    "fixed_version": "2.45-7+e3"
+  },
   "CVE-2025-1150": {
     "fixed_version": "2.45~alpha1-e1"
   },
