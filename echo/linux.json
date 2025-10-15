@@ -27717,7 +27717,7 @@
     "fixed_version": "1"
   },
   "CVE-2025-39964": {
-    "fixed_version": "1"
+    "fixed_version": "6.16.9-1"
   },
   "CVE-2025-39989": {
     "fixed_version": "1"
