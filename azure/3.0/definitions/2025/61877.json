@@ -3,7 +3,7 @@
   "ID": "oval:com.microsoft.azurelinux:def:61877",
   "Version": "0",
   "Metadata": {
-    "Title": "CVE-2025-4802 affecting package glibc for versions less than 2.38-12",
+    "Title": "CVE-2025-4802 affecting package glibc for versions less than 2.38-13",
     "Affected": {
       "Family": "unix",
       "Platform": "Azure Linux"
@@ -17,13 +17,13 @@
     "AdvisoryDate": "2025-09-17T15:09:07.95Z",
     "AdvisoryID": "61877",
     "Severity": "High",
-    "Description": "CVE-2025-4802 affecting package glibc for versions less than 2.38-12. A patched version of the package is available."
+    "Description": "CVE-2025-4802 affecting package glibc for versions less than 2.38-13. A patched version of the package is available."
   },
   "Criteria": {
     "Operator": "AND",
     "Criterion": [
       {
-        "Comment": "Package glibc is earlier than 2.38-12, affected by CVE-2025-4802",
+        "Comment": "Package glibc is earlier than 2.38-13, affected by CVE-2025-4802",
         "TestRef": "oval:com.microsoft.azurelinux:tst:61877000"
       }
     ]
