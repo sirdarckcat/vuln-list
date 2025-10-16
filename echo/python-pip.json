@@ -20,5 +20,7 @@
   "CVE-2023-5752": {
     "fixed_version": "23.3+dfsg-1"
   },
-  "CVE-2025-8869": {}
+  "CVE-2025-8869": {
+    "fixed_version": "25.2+dfsg-1+e1"
+  }
 }
