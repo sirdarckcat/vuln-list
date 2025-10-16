@@ -32,6 +32,18 @@
       "GHSA-4whc-3xqp-jprr",
       "GHSA-fmx9-hrmg-3x9v",
       "GHSA-q5cj-48g5-f774"
+    ],
+    "2.45-r2": [
+      "CVE-2025-11412",
+      "CVE-2025-11413",
+      "CVE-2025-11414",
+      "CVE-2025-11494",
+      "CVE-2025-11495",
+      "GHSA-77mm-f2xg-rwg2",
+      "GHSA-fw6m-h9wv-4759",
+      "GHSA-g3q3-pmmg-p6p8",
+      "GHSA-q93h-5j3x-2h4v",
+      "GHSA-w337-wphv-g4vh"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
