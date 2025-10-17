@@ -418,5 +418,8 @@
   },
   "CVE-2025-5648": {
     "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-60358": {
+    "fixed_version": "6.0.4+dfsg-1"
   }
 }
