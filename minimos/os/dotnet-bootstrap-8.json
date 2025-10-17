@@ -1,6 +1,10 @@
 {
   "name": "dotnet-bootstrap-8",
   "secfixes": {
+    "8.0.119-r0": [
+      "CVE-2025-55247",
+      "GHSA-w3q9-fxm7-j8fq"
+    ],
     "8.0.15-r0": [
       "CVE-2025-24070",
       "GHSA-2865-hh9g-w894"
