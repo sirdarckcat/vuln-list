@@ -26,6 +26,16 @@
       "Name": "libtiff"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:67664001",
+      "Version": "1",
+      "Name": "fio"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:67617001",
+      "Version": "1",
+      "Name": "fluent-bit"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:67512004",
       "Version": "1",
       "Name": "golang"
@@ -34,6 +44,21 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:67512001",
       "Version": "1",
       "Name": "golang"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:67359001",
+      "Version": "1",
+      "Name": "expat"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:67278001",
+      "Version": "1",
+      "Name": "erlang"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:67272001",
+      "Version": "1",
+      "Name": "curl"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:67269001",
@@ -49,6 +74,21 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:67133001",
       "Version": "1",
       "Name": "cups"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:67130001",
+      "Version": "1",
+      "Name": "erlang"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:67121001",
+      "Version": "1",
+      "Name": "erlang"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:67118001",
+      "Version": "1",
+      "Name": "erlang"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:67101001",
@@ -71,9 +111,34 @@
       "Name": "glib"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66750001",
+      "Version": "1",
+      "Name": "terraform"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66744001",
+      "Version": "1",
+      "Name": "skopeo"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66741001",
       "Version": "1",
       "Name": "packer"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66735001",
+      "Version": "1",
+      "Name": "jx"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66723001",
+      "Version": "1",
+      "Name": "cri-o"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66720001",
+      "Version": "1",
+      "Name": "containerized-data-importer"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66704001",
@@ -86,9 +151,24 @@
       "Name": "vim"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66554001",
+      "Version": "1",
+      "Name": "cmake"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66542001",
       "Version": "1",
       "Name": "libtiff"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66434001",
+      "Version": "1",
+      "Name": "aide"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66431001",
+      "Version": "1",
+      "Name": "aide"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66327001",
@@ -104,6 +184,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:66321001",
       "Version": "1",
       "Name": "postgresql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:66315001",
+      "Version": "1",
+      "Name": "helm"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:66308001",
@@ -246,6 +331,11 @@
       "Name": "libtiff"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65960001",
+      "Version": "1",
+      "Name": "binutils"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65886001",
       "Version": "1",
       "Name": "iputils"
@@ -264,6 +354,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:65651001",
       "Version": "1",
       "Name": "nvidia-container-toolkit"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65643001",
+      "Version": "1",
+      "Name": "libssh"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65631001",
@@ -444,6 +539,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:65370001",
       "Version": "1",
       "Name": "luajit"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:65358001",
+      "Version": "1",
+      "Name": "gdb"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:65352001",
@@ -651,6 +751,11 @@
       "Name": "kernel"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64292001",
+      "Version": "1",
+      "Name": "systemd"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:64242001",
       "Version": "1",
       "Name": "yasm"
@@ -679,6 +784,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:64227001",
       "Version": "1",
       "Name": "xorg-x11-server"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:64218001",
+      "Version": "1",
+      "Name": "python-virtualenv"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:64208001",
@@ -2146,9 +2256,39 @@
       "Name": "libarchive"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:57685001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:57681001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:57678001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:57675001",
       "Version": "1",
       "Name": "python3"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:57672001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:57669001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:57666001",
+      "Version": "1",
+      "Name": "grub2"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:57644001",
@@ -2156,9 +2296,19 @@
       "Name": "cloud-hypervisor"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:57632001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:57626001",
       "Version": "0",
       "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:57614001",
+      "Version": "1",
+      "Name": "grub2"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:57608001",
@@ -2179,6 +2329,16 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:57590001",
       "Version": "1",
       "Name": "binutils"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:57552001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:57551001",
+      "Version": "1",
+      "Name": "grub2"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:57533001",
@@ -2411,6 +2571,11 @@
       "Name": "packer"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:57159001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:57147001",
       "Version": "1",
       "Name": "cert-manager"
@@ -2456,9 +2621,19 @@
       "Name": "grub2"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:56970001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:56964001",
       "Version": "1",
       "Name": "libxml2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:56954001",
+      "Version": "1",
+      "Name": "grub2"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:56949001",
@@ -2466,14 +2641,34 @@
       "Name": "kernel"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:56940001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:56937001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:56931001",
       "Version": "1",
       "Name": "libxml2"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:56928001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:56925001",
       "Version": "1",
       "Name": "libxml2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:56919001",
+      "Version": "1",
+      "Name": "grub2"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:56916001",
@@ -2484,6 +2679,16 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:56913001",
       "Version": "1",
       "Name": "vim"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:56904001",
+      "Version": "1",
+      "Name": "grub2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:56901001",
+      "Version": "1",
+      "Name": "grub2"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:56891001",
@@ -3384,6 +3589,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:54713001",
       "Version": "0",
       "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:54683001",
+      "Version": "1",
+      "Name": "grub2"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:54650001",
