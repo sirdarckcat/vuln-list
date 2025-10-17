@@ -20,6 +20,12 @@
         "Url": "https://github.com/librenms/librenms/releases/tag/25.10.0"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-62411"
+      },
+      {
+        "Url": "https://github.com/librenms/librenms/commit/706a77085f4d5964f7de9444208ef707e1f79450"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-frc6-pwgr-c28w"
       }
     ],
@@ -38,7 +44,7 @@
     "PublishedAt": "2025-10-16T16:52:13Z",
     "Severity": "MODERATE",
     "Summary": "LibreNMS has a Stored XSS vulnerability in its Alert Transport name field",
-    "UpdatedAt": "2025-10-16T16:52:16Z",
+    "UpdatedAt": "2025-10-16T19:29:00Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.5,

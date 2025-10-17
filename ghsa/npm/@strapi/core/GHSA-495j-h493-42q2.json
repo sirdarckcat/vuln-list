@@ -17,6 +17,9 @@
         "Url": "https://github.com/strapi/strapi/commit/0c6e0953ae1e62afae9329de7ae6d6a5e21b95b8"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2024-56143"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-495j-h493-42q2"
       }
     ],
@@ -35,7 +38,7 @@
     "PublishedAt": "2025-10-16T18:22:40Z",
     "Severity": "HIGH",
     "Summary": "Strapi Allows Unauthorized Access to Private Fields via parms.lookup",
-    "UpdatedAt": "2025-10-16T18:22:41Z",
+    "UpdatedAt": "2025-10-16T20:42:13Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.2,
