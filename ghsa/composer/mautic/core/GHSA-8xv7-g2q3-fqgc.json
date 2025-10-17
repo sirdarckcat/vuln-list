@@ -17,6 +17,15 @@
         "Url": "https://github.com/mautic/mautic/commit/9d7ee57c92502ef77cddb091011c5ffef14b11ee"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2024-47053"
+      },
+      {
+        "Url": "https://cwe.mitre.org/data/definitions/287.html"
+      },
+      {
+        "Url": "https://docs.mautic.org/en/5.2/configuration/settings.html#api-settings"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-8xv7-g2q3-fqgc"
       }
     ],
@@ -35,7 +44,7 @@
     "PublishedAt": "2025-02-26T20:08:30Z",
     "Severity": "HIGH",
     "Summary": "Mautic allows Improper Authorization in Reporting API",
-    "UpdatedAt": "2025-02-26T20:08:32Z",
+    "UpdatedAt": "2025-10-16T20:41:33Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.7,
