@@ -746,6 +746,10 @@
     "6.12.35-r0": [
       "CVE-2025-38352",
       "GHSA-mr4j-mh66-4679"
+    ],
+    "6.12.42-r0": [
+      "CVE-2025-37925",
+      "GHSA-8ccv-3j8r-hx7f"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
