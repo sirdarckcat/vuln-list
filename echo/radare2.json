@@ -421,5 +421,14 @@
   },
   "CVE-2025-60358": {
     "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-60359": {
+    "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-60360": {
+    "fixed_version": "6.0.4+dfsg-1"
+  },
+  "CVE-2025-60361": {
+    "fixed_version": "6.0.4+dfsg-1"
   }
 }
