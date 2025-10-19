@@ -27788,6 +27788,12 @@
   "CVE-2025-39998": {
     "fixed_version": "1"
   },
+  "CVE-2025-40001": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-40003": {
+    "fixed_version": "1"
+  },
   "CVE-2025-40014": {
     "fixed_version": "1"
   },
