@@ -27794,7 +27794,28 @@
   "CVE-2025-40003": {
     "fixed_version": "1"
   },
+  "CVE-2025-40005": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-40006": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-40008": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-40010": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-40011": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-40013": {
+    "fixed_version": "1"
+  },
   "CVE-2025-40014": {
+    "fixed_version": "1"
+  },
+  "CVE-2025-40016": {
     "fixed_version": "1"
   },
   "CVE-2025-40300": {
