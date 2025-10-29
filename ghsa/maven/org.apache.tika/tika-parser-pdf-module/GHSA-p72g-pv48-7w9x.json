@@ -17,6 +17,21 @@
         "Url": "https://lists.apache.org/thread/8xn3rqy6kz5b3l1t83kcofkw0w4mmj1w"
       },
       {
+        "Url": "https://github.com/apache/tika/pull/2291"
+      },
+      {
+        "Url": "https://github.com/apache/tika/commit/2b52257304f4d3cde2b8463657380bdb936d9ef2"
+      },
+      {
+        "Url": "https://archive.apache.org/dist/tika/3.2.2/CHANGES-3.2.2.txt"
+      },
+      {
+        "Url": "https://issues.apache.org/jira/browse/TIKA-4459"
+      },
+      {
+        "Url": "https://lists.apache.org/thread/stn9oh7rfn9yv76n1srxr9w56oy04p72"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-p72g-pv48-7w9x"
       }
     ],
@@ -35,7 +50,7 @@
     "PublishedAt": "2025-08-20T21:30:27Z",
     "Severity": "CRITICAL",
     "Summary": "Apache Tika XXE Vulnerability via Crafted XFA File Inside a PDF",
-    "UpdatedAt": "2025-08-21T15:41:58Z",
+    "UpdatedAt": "2025-10-29T10:37:51Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,
