@@ -1,0 +1,16 @@
+{
+  "name": "actions-runner",
+  "secfixes": {
+    "0": [
+      "CVE-2025-64118",
+      "GHSA-29xp-372q-xqph"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
