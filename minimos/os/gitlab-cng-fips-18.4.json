@@ -1,25 +1,7 @@
 {
-  "name": "helm-set-status",
+  "name": "gitlab-cng-fips-18.4",
   "secfixes": {
-    "0.3.0-r1": [
-      "CVE-2025-47907",
-      "GHSA-j5pm-7495-qmr3"
-    ],
-    "0.3.0-r2": [
-      "CVE-2025-54410",
-      "GHSA-4vq8-7jfc-9cvp"
-    ],
-    "0.3.0-r3": [
-      "CVE-2025-55198",
-      "CVE-2025-55199",
-      "GHSA-9h84-qmv7-982p",
-      "GHSA-f9f8-9pmf-xv68"
-    ],
-    "0.3.0-r4": [
-      "CVE-2025-47910",
-      "GHSA-8pjc-487g-w6p2"
-    ],
-    "0.3.0-r5": [
+    "18.4.3-r1": [
       "CVE-2025-47912",
       "CVE-2025-58183",
       "CVE-2025-58185",
@@ -47,6 +29,6 @@
     "x86_64",
     "aarch64"
   ],
-  "urlprefix": "https://packages.wolfi.dev",
+  "urlprefix": "https://packages.mini.dev",
   "reponame": "os"
 }
