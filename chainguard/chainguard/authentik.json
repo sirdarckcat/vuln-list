@@ -1,0 +1,16 @@
+{
+  "name": "authentik",
+  "secfixes": {
+    "0": [
+      "CVE-2025-64458",
+      "GHSA-qw25-v68c-qjf3"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "aarch64",
+    "x86_64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
