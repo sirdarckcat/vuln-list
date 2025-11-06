@@ -9,6 +9,11 @@
       "Source": "elsa",
       "URI": "https://linux.oracle.com/errata/ELSA-2025-19772.html",
       "ID": "ELSA-2025-19772"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2025-10729.html",
+      "ID": "CVE-2025-10729"
     }
   ],
   "Criteria": {
@@ -132,7 +137,13 @@
     ]
   },
   "Severity": "IMPORTANT",
-  "Cves": null,
+  "Cves": [
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2025-10729.html",
+      "ID": "CVE-2025-10729"
+    }
+  ],
   "Issued": {
     "Date": "2025-11-05"
   }
