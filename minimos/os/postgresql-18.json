@@ -4,6 +4,12 @@
     "0": [
       "CVE-2017-8806",
       "GHSA-xg92-g8h7-v7r4"
+    ],
+    "18.1-r0": [
+      "CVE-2025-12817",
+      "CVE-2025-12818",
+      "GHSA-99qj-9hw7-85x8",
+      "GHSA-pr6x-gg24-6wfp"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
