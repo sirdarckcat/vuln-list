@@ -1,7 +1,7 @@
 {
   "name": "text-generation-inference",
   "secfixes": {
-    "3.3.6-r0": [
+    "3.3.6-r1": [
       "CVE-2024-47081",
       "CVE-2025-27516",
       "CVE-2025-3777",
