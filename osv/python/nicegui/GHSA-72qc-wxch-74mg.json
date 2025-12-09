@@ -1,6 +1,6 @@
 {
   "id": "GHSA-72qc-wxch-74mg",
-  "modified": "2025-12-08T21:42:59.366493Z",
+  "modified": "2025-12-09T17:33:19.199054Z",
   "published": "2025-12-08T21:30:20Z",
   "aliases": [
     "CVE-2025-66469"
@@ -334,6 +334,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/zauberzeug/nicegui/security/advisories/GHSA-72qc-wxch-74mg"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-66469"
     },
     {
       "type": "WEB",
