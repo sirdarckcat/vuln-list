@@ -1,7 +1,7 @@
 {
   "Title": "Security update for keylime",
   "Tracking": {
-    "ID": "openSUSE-SU-2025-20159-1",
+    "ID": "openSUSE-SU-2025:20159-1",
     "Status": "Final",
     "Version": "1",
     "InitialReleaseDate": "2025-12-12T09:46:01Z",
@@ -109,7 +109,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "critical"
+          "Severity": "moderate"
         }
       ],
       "References": [
