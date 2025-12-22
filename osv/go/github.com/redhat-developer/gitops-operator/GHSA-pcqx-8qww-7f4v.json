@@ -1,9 +1,10 @@
 {
   "id": "GHSA-pcqx-8qww-7f4v",
-  "modified": "2025-12-16T20:56:15.986517Z",
+  "modified": "2025-12-22T18:41:41.486992Z",
   "published": "2025-12-15T18:30:39Z",
   "aliases": [
-    "CVE-2025-13888"
+    "CVE-2025-13888",
+    "GO-2025-4242"
   ],
   "summary": "OpenShift GitOps authenticated attackers can obtain cluster root access through forged ArgoCD custom resources",
   "details": "A flaw was found in OpenShift GitOps. Namespace admins can create ArgoCD Custom Resources (CRs) that trick the system into granting them elevated permissions in other namespaces, including privileged namespaces. An authenticated attacker can then use these elevated permissions to create privileged workloads that run on master nodes, effectively giving them root access to the entire cluster.",
