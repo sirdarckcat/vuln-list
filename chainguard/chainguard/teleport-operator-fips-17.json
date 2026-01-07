@@ -1,0 +1,16 @@
+{
+  "name": "teleport-operator-fips-17",
+  "secfixes": {
+    "17.7.12-r0": [
+      "CVE-2025-64702",
+      "GHSA-g754-hx8w-x2g6"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
