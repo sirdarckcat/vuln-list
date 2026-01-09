@@ -1,15 +1,14 @@
 {
   "name": "fish",
   "secfixes": {
-    "3.7.1-r3": [
-      "CVE-2007-1397",
-      "GHSA-46qm-vrjp-cc4w"
+    "4.3.3-r2": [
+      "GHSA-rhfx-m35p-ff5j"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
   "archs": [
-    "aarch64",
-    "x86_64"
+    "x86_64",
+    "aarch64"
   ],
   "urlprefix": "https://packages.cgr.dev",
   "reponame": "chainguard"
