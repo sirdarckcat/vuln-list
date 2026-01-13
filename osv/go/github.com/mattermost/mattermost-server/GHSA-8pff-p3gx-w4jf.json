@@ -1,9 +1,10 @@
 {
   "id": "GHSA-8pff-p3gx-w4jf",
-  "modified": "2026-01-12T20:56:18.511922Z",
+  "modified": "2026-01-13T17:26:08.051014Z",
   "published": "2022-05-24T17:21:06Z",
   "aliases": [
-    "CVE-2017-18904"
+    "CVE-2017-18904",
+    "GO-2026-4302"
   ],
   "summary": " Mattermost Server vulnerable to XSS via an uploaded file",
   "details": "An issue was discovered in Mattermost Server before 4.0.0, 3.10.2, and 3.9.2. It allows XSS via an uploaded file.",
