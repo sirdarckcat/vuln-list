@@ -1,7 +1,7 @@
 {
   "name": "opentelemetry-python-instrumentation",
   "secfixes": {
-    "0.142.0-r0": [
+    "0.60.1-r1": [
       "CVE-2026-21441",
       "GHSA-38jv-5279-wg99"
     ]
