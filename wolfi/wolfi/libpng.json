@@ -1,15 +1,6 @@
 {
   "name": "libpng",
   "secfixes": {
-    "1.6.51-r0": [
-      "CVE-2025-64505",
-      "CVE-2025-64506",
-      "CVE-2025-64720",
-      "CVE-2025-65018"
-    ],
-    "1.6.52-r0": [
-      "CVE-2025-66293"
-    ],
     "1.6.54-r0": [
       "CVE-2026-22695",
       "CVE-2026-22801"
@@ -20,6 +11,6 @@
     "x86_64",
     "aarch64"
   ],
-  "urlprefix": "https://packages.mini.dev",
-  "reponame": "os"
+  "urlprefix": "https://packages.wolfi.dev",
+  "reponame": "wolfi"
 }
