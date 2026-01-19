@@ -1,8 +1,9 @@
 {
   "name": "fish",
   "secfixes": {
-    "4.3.3-r2": [
-      "GHSA-rhfx-m35p-ff5j"
+    "3.7.1-r3": [
+      "CVE-2007-1397",
+      "GHSA-46qm-vrjp-cc4w"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
