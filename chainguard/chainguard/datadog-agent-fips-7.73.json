@@ -1,9 +1,9 @@
 {
   "name": "datadog-agent-fips-7.73",
   "secfixes": {
-    "7.73.2-r0": [
-      "CVE-2025-47273",
-      "GHSA-5rjg-fvgr-3xxf"
+    "7.73.3-r1": [
+      "CVE-2026-22771",
+      "GHSA-xrwg-mqj6-6m22"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
