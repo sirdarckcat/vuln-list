@@ -1,6 +1,12 @@
 {
   "name": "keycloak-26.5",
   "secfixes": {
+    "0": [
+      "CVE-2017-12158",
+      "CVE-2017-12159",
+      "GHSA-7fmw-85qm-h22p",
+      "GHSA-v38p-mqq3-m6v5"
+    ],
     "26.5.1-r0": [
       "CVE-2025-66560",
       "GHSA-5rfx-cp42-p624"
