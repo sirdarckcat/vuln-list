@@ -18,6 +18,14 @@
     "6.2.1-r0": [
       "CVE-2025-57319",
       "GHSA-ffrw-9mx8-89p8"
+    ],
+    "6.2.5-r0": [
+      "CVE-2025-12758",
+      "CVE-2025-56200",
+      "CVE-2025-65945",
+      "GHSA-869p-cjfg-cm3x",
+      "GHSA-9965-vmph-33xx",
+      "GHSA-vghf-hv5q-vc2g"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
