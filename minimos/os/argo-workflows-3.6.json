@@ -73,10 +73,20 @@
       "GHSA-cfpf-hrx2-8rv6"
     ],
     "3.6.17-r0": [
+      "CVE-2025-61726",
+      "CVE-2025-61728",
+      "CVE-2025-61730",
+      "CVE-2025-61731",
+      "CVE-2025-68119",
       "CVE-2026-23960",
       "CVE-2026-24001",
       "GHSA-73rr-hh4g-fpgx",
-      "GHSA-cv78-6m8q-ph82"
+      "GHSA-cm6p-qc7v-m3jw",
+      "GHSA-cv78-6m8q-ph82",
+      "GHSA-g9q4-qjx4-2v7q",
+      "GHSA-gm9r-q53w-2gh4",
+      "GHSA-gr56-3gp6-6gmj",
+      "GHSA-xvqr-69v8-f3gv"
     ],
     "3.6.18-r0": [
       "CVE-2025-13465",
