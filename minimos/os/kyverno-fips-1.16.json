@@ -1,0 +1,30 @@
+{
+  "name": "kyverno-fips-1.16",
+  "secfixes": {
+    "1.16.2-r2": [
+      "CVE-2025-61726",
+      "CVE-2025-61728",
+      "CVE-2025-61730",
+      "CVE-2025-61731",
+      "CVE-2025-68119",
+      "GHSA-cm6p-qc7v-m3jw",
+      "GHSA-g9q4-qjx4-2v7q",
+      "GHSA-gm9r-q53w-2gh4",
+      "GHSA-gr56-3gp6-6gmj",
+      "GHSA-xvqr-69v8-f3gv"
+    ],
+    "1.16.3-r0": [
+      "CVE-2026-22039",
+      "CVE-2026-23881",
+      "GHSA-8p9x-46gm-qfx2",
+      "GHSA-r2rj-wwm5-x6mq"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}

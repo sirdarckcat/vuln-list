@@ -4,8 +4,12 @@
     "3.7.1-r2": [
       "CVE-2025-64756",
       "CVE-2026-23745",
+      "CVE-2026-23950",
+      "CVE-2026-24842",
+      "GHSA-34x7-hfp2-rc4v",
       "GHSA-5j98-mcp5-4vw2",
-      "GHSA-8qq5-rm4j-mr97"
+      "GHSA-8qq5-rm4j-mr97",
+      "GHSA-r6q2-hw4h-h46w"
     ],
     "3.7.2-r1": [
       "CVE-2025-47910",
@@ -72,8 +76,24 @@
       "GHSA-cfpf-hrx2-8rv6"
     ],
     "3.7.8-r0": [
+      "CVE-2025-61726",
+      "CVE-2025-61728",
+      "CVE-2025-61730",
+      "CVE-2025-61731",
+      "CVE-2025-68119",
+      "CVE-2026-23960",
       "CVE-2026-24001",
-      "GHSA-73rr-hh4g-fpgx"
+      "GHSA-73rr-hh4g-fpgx",
+      "GHSA-cm6p-qc7v-m3jw",
+      "GHSA-cv78-6m8q-ph82",
+      "GHSA-g9q4-qjx4-2v7q",
+      "GHSA-gm9r-q53w-2gh4",
+      "GHSA-gr56-3gp6-6gmj",
+      "GHSA-xvqr-69v8-f3gv"
+    ],
+    "3.7.9-r0": [
+      "CVE-2025-13465",
+      "GHSA-xxjr-mmjv-4gpg"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
