@@ -1,6 +1,6 @@
 {
   "Title": "ELSA-2026-1409:  php:8.2 security update (IMPORTANT)",
-  "Description": "php\n[8.2.30-1]\n- rebase to 8.2.30\n\nphp-pecl-apcu\n[5.1.23-1]\n- update to 5.1.23 for PHP 8.2 RHEL-14699\n\nphp-pecl-rrd\n[2.0.3-4]\n- build for PHP 8.1 #2070040\n\n[2.0.3-3]\n- Rebuilt for IMA sigs, glibc 2.34, aarch64 flags\n  Related: rhbz#1991688\n\n[2.0.3-2]\n- Rebuilt for RHEL 9 BETA for openssl 3.0\n  Related: rhbz#1971065\n\n[2.0.3-1]\n- update to 2.0.3\n\n[2.0.2-1]\n- update to 2.0.2\n\n[2.0.1-17]\n- Rebuilt for RHEL 9 BETA on Apr 15th 2021. Related: rhbz#1947937\n\n[2.0.1-16]\n- Rebuilt for https://fedoraproject.org/wiki/Fedora_34_Mass_Rebuild\n\n[2.0.1-15]\n- Rebuilt for https://fedoraproject.org/wiki/Fedora_33_Mass_Rebuild\n\nphp-pecl-xdebug3\n[3.2.2-2]\n- drop inet_ntoa usage using upstream patch\n\n[3.2.2-1]\n- update to 3.2.2 for PHP 8.2 RHEL-14699\n\nphp-pecl-zip\n[1.22.3-1]\n- update to 1.22.3 for PHP 8.2 RHEL-14699",
+  "Description": "php\n[8.2.30-1]\n- rebase to 8.2.30\n\nphp-pecl-apcu\nphp-pecl-rrd\nphp-pecl-xdebug3\nphp-pecl-zip",
   "Platform": [
     "Oracle Linux 9"
   ],
@@ -56,18 +56,6 @@
                   {
                     "Operator": "OR",
                     "Criterias": [
-                      {
-                        "Operator": "AND",
-                        "Criterias": null,
-                        "Criterions": [
-                          {
-                            "Comment": "apcu-panel is earlier than 0:5.1.23-1.module+el9.4.0+90261+af5cc950"
-                          },
-                          {
-                            "Comment": "apcu-panel is signed with the Oracle Linux 9 key"
-                          }
-                        ]
-                      },
                       {
                         "Operator": "AND",
                         "Criterias": null,
@@ -313,66 +301,6 @@
                         "Criterias": null,
                         "Criterions": [
                           {
-                            "Comment": "php-pecl-apcu is earlier than 0:5.1.23-1.module+el9.4.0+90261+af5cc950"
-                          },
-                          {
-                            "Comment": "php-pecl-apcu is signed with the Oracle Linux 9 key"
-                          }
-                        ]
-                      },
-                      {
-                        "Operator": "AND",
-                        "Criterias": null,
-                        "Criterions": [
-                          {
-                            "Comment": "php-pecl-apcu-devel is earlier than 0:5.1.23-1.module+el9.4.0+90261+af5cc950"
-                          },
-                          {
-                            "Comment": "php-pecl-apcu-devel is signed with the Oracle Linux 9 key"
-                          }
-                        ]
-                      },
-                      {
-                        "Operator": "AND",
-                        "Criterias": null,
-                        "Criterions": [
-                          {
-                            "Comment": "php-pecl-rrd is earlier than 0:2.0.3-4.module+el9.4.0+90261+af5cc950"
-                          },
-                          {
-                            "Comment": "php-pecl-rrd is signed with the Oracle Linux 9 key"
-                          }
-                        ]
-                      },
-                      {
-                        "Operator": "AND",
-                        "Criterias": null,
-                        "Criterions": [
-                          {
-                            "Comment": "php-pecl-xdebug3 is earlier than 0:3.2.2-2.module+el9.4.0+90261+af5cc950"
-                          },
-                          {
-                            "Comment": "php-pecl-xdebug3 is signed with the Oracle Linux 9 key"
-                          }
-                        ]
-                      },
-                      {
-                        "Operator": "AND",
-                        "Criterias": null,
-                        "Criterions": [
-                          {
-                            "Comment": "php-pecl-zip is earlier than 0:1.22.3-1.module+el9.4.0+90261+af5cc950"
-                          },
-                          {
-                            "Comment": "php-pecl-zip is signed with the Oracle Linux 9 key"
-                          }
-                        ]
-                      },
-                      {
-                        "Operator": "AND",
-                        "Criterias": null,
-                        "Criterions": [
-                          {
                             "Comment": "php-pgsql is earlier than 0:8.2.30-1.module+el9.7.0+90777+7055ad44"
                           },
                           {
@@ -425,6 +353,78 @@
                           },
                           {
                             "Comment": "php-xml is signed with the Oracle Linux 9 key"
+                          }
+                        ]
+                      },
+                      {
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "apcu-panel is earlier than 0:5.1.23-1.module+el9.4.0+90261+af5cc950"
+                          },
+                          {
+                            "Comment": "apcu-panel is signed with the Oracle Linux 9 key"
+                          }
+                        ]
+                      },
+                      {
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "php-pecl-apcu is earlier than 0:5.1.23-1.module+el9.4.0+90261+af5cc950"
+                          },
+                          {
+                            "Comment": "php-pecl-apcu is signed with the Oracle Linux 9 key"
+                          }
+                        ]
+                      },
+                      {
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "php-pecl-apcu-devel is earlier than 0:5.1.23-1.module+el9.4.0+90261+af5cc950"
+                          },
+                          {
+                            "Comment": "php-pecl-apcu-devel is signed with the Oracle Linux 9 key"
+                          }
+                        ]
+                      },
+                      {
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "php-pecl-rrd is earlier than 0:2.0.3-4.module+el9.4.0+90261+af5cc950"
+                          },
+                          {
+                            "Comment": "php-pecl-rrd is signed with the Oracle Linux 9 key"
+                          }
+                        ]
+                      },
+                      {
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "php-pecl-xdebug3 is earlier than 0:3.2.2-2.module+el9.4.0+90261+af5cc950"
+                          },
+                          {
+                            "Comment": "php-pecl-xdebug3 is signed with the Oracle Linux 9 key"
+                          }
+                        ]
+                      },
+                      {
+                        "Operator": "AND",
+                        "Criterias": null,
+                        "Criterions": [
+                          {
+                            "Comment": "php-pecl-zip is earlier than 0:1.22.3-1.module+el9.4.0+90261+af5cc950"
+                          },
+                          {
+                            "Comment": "php-pecl-zip is signed with the Oracle Linux 9 key"
                           }
                         ]
                       }
