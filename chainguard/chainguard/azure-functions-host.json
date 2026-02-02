@@ -1,9 +1,9 @@
 {
   "name": "azure-functions-host",
   "secfixes": {
-    "4.1046.100-r0": [
-      "CVE-2025-47273",
-      "GHSA-5rjg-fvgr-3xxf"
+    "4.1045.200-r0": [
+      "CVE-2025-66471",
+      "GHSA-2xpw-w6gg-jr37"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
