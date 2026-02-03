@@ -1,9 +1,74 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.azurelinux:obj:75791001",
+      "Version": "0",
+      "Name": "openssl"
+    },
+    {
       "ID": "oval:com.microsoft.azurelinux:obj:75770001",
       "Version": "1",
       "Name": "kata-containers"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:75293001",
+      "Version": "0",
+      "Name": "pytorch"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:75287001",
+      "Version": "0",
+      "Name": "openssl"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:75284001",
+      "Version": "0",
+      "Name": "openssl"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:75281001",
+      "Version": "0",
+      "Name": "openssl"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:75278001",
+      "Version": "0",
+      "Name": "openssl"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:75272001",
+      "Version": "0",
+      "Name": "openssl"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:75269001",
+      "Version": "0",
+      "Name": "openssl"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:75080001",
+      "Version": "0",
+      "Name": "nodejs"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:75077001",
+      "Version": "0",
+      "Name": "nodejs"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:74985001",
+      "Version": "0",
+      "Name": "nodejs"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:74982001",
+      "Version": "0",
+      "Name": "nodejs"
+    },
+    {
+      "ID": "oval:com.microsoft.azurelinux:obj:74979001",
+      "Version": "0",
+      "Name": "nodejs"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:74660001",
@@ -8507,12 +8572,12 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:56017004",
-      "Version": "3526",
+      "Version": "3536",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:56017001",
-      "Version": "3526",
+      "Version": "3536",
       "Name": "golang"
     },
     {
@@ -10617,147 +10682,147 @@
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52881004",
-      "Version": "3531",
+      "Version": "3543",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52881001",
-      "Version": "3531",
+      "Version": "3543",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52878004",
-      "Version": "3571",
+      "Version": "3581",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52878001",
-      "Version": "3571",
+      "Version": "3581",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52875004",
-      "Version": "3625",
+      "Version": "3635",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52875001",
-      "Version": "3625",
+      "Version": "3635",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52863001",
-      "Version": "3511",
+      "Version": "3521",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52845004",
-      "Version": "3542",
+      "Version": "3553",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52845001",
-      "Version": "3542",
+      "Version": "3553",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52827004",
-      "Version": "3542",
+      "Version": "3553",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52827001",
-      "Version": "3542",
+      "Version": "3553",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52789004",
-      "Version": "3528",
+      "Version": "3540",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52789001",
-      "Version": "3528",
+      "Version": "3540",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52774004",
-      "Version": "3542",
+      "Version": "3554",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52774001",
-      "Version": "3542",
+      "Version": "3554",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52773004",
-      "Version": "3532",
+      "Version": "3544",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52773001",
-      "Version": "3532",
+      "Version": "3544",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52735004",
-      "Version": "3621",
+      "Version": "3631",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52735001",
-      "Version": "3621",
+      "Version": "3631",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52719004",
-      "Version": "3564",
+      "Version": "3574",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52719001",
-      "Version": "3564",
+      "Version": "3574",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52711004",
-      "Version": "3537",
+      "Version": "3549",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52711001",
-      "Version": "3537",
+      "Version": "3549",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52676004",
-      "Version": "3606",
+      "Version": "3616",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52676001",
-      "Version": "3606",
+      "Version": "3616",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52668004",
-      "Version": "3572",
+      "Version": "3582",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52668001",
-      "Version": "3572",
+      "Version": "3582",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52663004",
-      "Version": "3606",
+      "Version": "3616",
       "Name": "golang"
     },
     {
       "ID": "oval:com.microsoft.azurelinux:obj:52663001",
-      "Version": "3606",
+      "Version": "3616",
       "Name": "golang"
     },
     {
