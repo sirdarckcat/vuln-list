@@ -78,7 +78,9 @@
       "GHSA-xvqr-69v8-f3gv"
     ],
     "7.75.1-r0": [
+      "CVE-2026-1703",
       "CVE-2026-24049",
+      "GHSA-6vgw-5pg2-w6jp",
       "GHSA-8rrh-rw8j-w5fx"
     ]
   },

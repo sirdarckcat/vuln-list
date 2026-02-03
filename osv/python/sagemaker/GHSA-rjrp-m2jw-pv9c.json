@@ -1,6 +1,6 @@
 {
   "id": "GHSA-rjrp-m2jw-pv9c",
-  "modified": "2026-02-03T03:26:18.364313Z",
+  "modified": "2026-02-03T19:21:44.676090Z",
   "published": "2026-02-02T23:33:32Z",
   "aliases": [
     "CVE-2026-1777"
@@ -719,6 +719,10 @@
       "url": "https://github.com/aws/sagemaker-python-sdk/security/advisories/GHSA-rjrp-m2jw-pv9c"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-1777"
+    },
+    {
       "type": "WEB",
       "url": "https://github.com/aws/sagemaker-python-sdk/commit/708c7b2f4135ecaec55973d098f3dbe98b657933"
     },
@@ -727,8 +731,20 @@
       "url": "https://github.com/aws/sagemaker-python-sdk/commit/fb0d789db4fd5fecde5509963939369f4c7ce63b"
     },
     {
+      "type": "WEB",
+      "url": "https://aws.amazon.com/security/security-bulletins/2026-004-AWS"
+    },
+    {
       "type": "PACKAGE",
       "url": "https://github.com/aws/sagemaker-python-sdk"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/aws/sagemaker-python-sdk/releases/tag/v2.256.0"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/aws/sagemaker-python-sdk/releases/tag/v3.2.0"
     }
   ]
 }

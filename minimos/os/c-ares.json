@@ -3,6 +3,9 @@
   "secfixes": {
     "1.34.5-r0": [
       "CVE-2025-31498"
+    ],
+    "1.34.6-r0": [
+      "CVE-2025-62408"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
