@@ -1,0 +1,15 @@
+{
+  "name": "percona-xtradb-cluster-operator-fips",
+  "secfixes": {
+    "1.19.0-r1": [
+      "GHSA-gx3x-vq4p-mhhv"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
