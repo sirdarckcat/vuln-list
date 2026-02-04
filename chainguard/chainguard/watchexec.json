@@ -4,6 +4,10 @@
     "2.3.3-r0": [
       "CVE-2026-0810",
       "GHSA-6mw6-mj76-grwc"
+    ],
+    "2.3.3-r2": [
+      "CVE-2026-25541",
+      "GHSA-434x-w66g-qw3r"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

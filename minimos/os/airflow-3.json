@@ -40,6 +40,20 @@
       "GHSA-7c2f-r6gc-h92h",
       "GHSA-mrfv-m5wm-5w6w",
       "GHSA-w853-jp5j-5j7f"
+    ],
+    "3.1.7-r0": [
+      "CVE-2026-21226",
+      "CVE-2026-22701",
+      "CVE-2026-23490",
+      "CVE-2026-23949",
+      "CVE-2026-24049",
+      "CVE-2026-24486",
+      "GHSA-58pv-8j8x-9vj2",
+      "GHSA-63vm-454h-vhhq",
+      "GHSA-8rrh-rw8j-w5fx",
+      "GHSA-jm66-cg57-jjv5",
+      "GHSA-qmgc-5h2g-mvrw",
+      "GHSA-wp53-j4wj-2cfg"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

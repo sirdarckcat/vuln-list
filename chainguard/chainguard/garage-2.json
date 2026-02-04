@@ -1,9 +1,9 @@
 {
   "name": "garage-2",
   "secfixes": {
-    "2.1.0-r1": [
-      "CVE-2021-29932",
-      "GHSA-qpgv-g792-wh6x"
+    "2.2.0-r1": [
+      "CVE-2026-25541",
+      "GHSA-434x-w66g-qw3r"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
