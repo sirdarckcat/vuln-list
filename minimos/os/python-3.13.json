@@ -12,7 +12,9 @@
       "GHSA-grqq-hcc7-crmr"
     ],
     "3.13.10-r0": [
+      "CVE-2025-12781",
       "CVE-2025-13837",
+      "GHSA-hfpw-x3fg-wmmg",
       "GHSA-qhx6-hpfj-8m4g"
     ],
     "3.13.11-r0": [
@@ -20,6 +22,16 @@
       "CVE-2025-13836",
       "GHSA-399h-rrqc-rpgv",
       "GHSA-hfqx-732w-xrrw"
+    ],
+    "3.13.12-r0": [
+      "CVE-2025-11468",
+      "CVE-2025-15282",
+      "CVE-2026-0672",
+      "CVE-2026-0865",
+      "GHSA-39h2-3mq3-959g",
+      "GHSA-5mc7-p6pj-r3f5",
+      "GHSA-6rv6-r2f2-gqrc",
+      "GHSA-x85f-j5v8-5vrv"
     ],
     "3.13.2-r0": [
       "CVE-2024-12254",
