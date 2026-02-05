@@ -37,6 +37,22 @@
       "GHSA-rcmh-qjqh-p98v",
       "GHSA-rwvc-j5jr-mgvh",
       "GHSA-w48q-cv73-mx4w"
+    ],
+    "9.2.5-r0": [
+      "CVE-2025-12735",
+      "CVE-2025-13204",
+      "CVE-2025-68665",
+      "CVE-2026-0621",
+      "CVE-2026-22036",
+      "CVE-2026-23745",
+      "CVE-2026-23950",
+      "GHSA-8gw3-rxh4-v6jx",
+      "GHSA-8qq5-rm4j-mr97",
+      "GHSA-8r9q-7v3j-jr4g",
+      "GHSA-g9mf-h72j-4rw9",
+      "GHSA-jc85-fpwf-qm7x",
+      "GHSA-r399-636x-v7f6",
+      "GHSA-r6q2-hw4h-h46w"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
