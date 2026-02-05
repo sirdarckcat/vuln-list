@@ -82,6 +82,14 @@
       "GHSA-jm66-cg57-jjv5",
       "GHSA-qmgc-5h2g-mvrw"
     ],
+    "24.6.1-r26": [
+      "CVE-2026-0994",
+      "CVE-2026-1703",
+      "CVE-2026-24049",
+      "GHSA-6vgw-5pg2-w6jp",
+      "GHSA-7gcm-g887-7qv7",
+      "GHSA-8rrh-rw8j-w5fx"
+    ],
     "24.6.1-r3": [
       "CVE-2024-56374",
       "GHSA-qcgg-j2x8-h9g8"

@@ -1,13 +1,18 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:74862001",
+      "Version": "1",
+      "Name": "krb5"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:74766001",
-      "Version": "0",
+      "Version": "1",
       "Name": "strongswan"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:73734001",
-      "Version": "0",
+      "Version": "1",
       "Name": "python-urllib3"
     },
     {
@@ -87,7 +92,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:71846001",
-      "Version": "0",
+      "Version": "1",
       "Name": "python-urllib3"
     },
     {
@@ -357,7 +362,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:70199001",
-      "Version": "0",
+      "Version": "1",
       "Name": "libvirt"
     },
     {

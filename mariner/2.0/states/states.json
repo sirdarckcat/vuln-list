@@ -1,8 +1,17 @@
 {
   "RpminfoState": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:ste:74862002",
+      "Version": "1",
+      "Evr": {
+        "Text": "0:1.19.4-5.cm2",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:ste:74766002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:5.9.10-4.cm2",
         "Datatype": "evr_string",
@@ -11,7 +20,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:ste:73734002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:1.26.19-3.cm2",
         "Datatype": "evr_string",
@@ -155,7 +164,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:ste:71846002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:1.26.19-3.cm2",
         "Datatype": "evr_string",
@@ -641,7 +650,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:ste:70199002",
-      "Version": "0",
+      "Version": "1",
       "Evr": {
         "Text": "0:7.10.0-11.cm2",
         "Datatype": "evr_string",
@@ -30397,7 +30406,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13686002",
       "Version": "0",
       "Evr": {
-        "Text": "0:1.72.0-11.cm2",
+        "Text": "0:1.72.0-13.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -30892,7 +30901,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13348002",
       "Version": "0",
       "Evr": {
-        "Text": "0:2.35-7.cm2",
+        "Text": "0:2.35-9.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -31873,7 +31882,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:12937002",
       "Version": "0",
       "Evr": {
-        "Text": "0:2022.1-7.cm2",
+        "Text": "0:2022.1-8.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -45130,7 +45139,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:6441002",
       "Version": "0",
       "Evr": {
-        "Text": "0:2.35-7.cm2",
+        "Text": "0:2.35-9.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
