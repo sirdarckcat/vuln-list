@@ -30,6 +30,10 @@
     "5.26.20-r0": [
       "CVE-2025-68161",
       "GHSA-vc5p-v9hr-52mj"
+    ],
+    "5.26.21-r0": [
+      "CVE-2026-1622",
+      "GHSA-4j3g-rwwq-4p54"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

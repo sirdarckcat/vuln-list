@@ -20,6 +20,10 @@
     "12.2.0-r1": [
       "CVE-2026-24842",
       "GHSA-34x7-hfp2-rc4v"
+    ],
+    "12.2.0-r2": [
+      "CVE-2026-25547",
+      "GHSA-7h2j-956f-4vf2"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

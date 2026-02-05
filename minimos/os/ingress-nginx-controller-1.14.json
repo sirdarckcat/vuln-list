@@ -12,6 +12,16 @@
       "GHSA-gm9r-q53w-2gh4",
       "GHSA-gr56-3gp6-6gmj",
       "GHSA-xvqr-69v8-f3gv"
+    ],
+    "1.14.3-r0": [
+      "CVE-2026-1580",
+      "CVE-2026-24512",
+      "CVE-2026-24513",
+      "CVE-2026-24514",
+      "GHSA-2pf9-vr92-6h3v",
+      "GHSA-4g2f-xcph-2335",
+      "GHSA-9h3p-52vh-959w",
+      "GHSA-jx8c-56mg-h6vp"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
