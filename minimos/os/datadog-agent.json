@@ -28,6 +28,7 @@
       "GHSA-6m8w-jc87-6cr7"
     ],
     "7.65.1-r0": [
+      "CVE-2025-22873",
       "CVE-2025-66564",
       "CVE-2026-22703",
       "CVE-2026-23831",
@@ -37,6 +38,7 @@
       "GHSA-4c4x-jm2x-pf9j",
       "GHSA-4qg8-fj49-pxjh",
       "GHSA-fcv2-xgw5-pqxf",
+      "GHSA-p3p7-9h4w-jqw2",
       "GHSA-whqx-f9j3-ch6m"
     ]
   },

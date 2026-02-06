@@ -25,7 +25,9 @@
       "GHSA-g9pc-8g42-g6vq"
     ],
     "3.1.5-r2": [
+      "CVE-2025-22873",
       "CVE-2025-30153",
+      "GHSA-p3p7-9h4w-jqw2",
       "GHSA-wq9g-9vfc-cfq9"
     ],
     "3.2.0-r1": [
