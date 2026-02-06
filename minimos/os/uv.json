@@ -1,6 +1,10 @@
 {
   "name": "uv",
   "secfixes": {
+    "0.10.0-r0": [
+      "CVE-2026-25541",
+      "GHSA-434x-w66g-qw3r"
+    ],
     "0.9.5-r0": [
       "CVE-2025-62518",
       "GHSA-j5gw-2vrg-8fgx"
