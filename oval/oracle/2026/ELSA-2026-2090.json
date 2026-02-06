@@ -9,6 +9,11 @@
       "Source": "elsa",
       "URI": "https://linux.oracle.com/errata/ELSA-2026-2090.html",
       "ID": "ELSA-2026-2090"
+    },
+    {
+      "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2026-24049.html",
+      "ID": "CVE-2026-24049"
     }
   ],
   "Criteria": {
@@ -108,7 +113,13 @@
     ]
   },
   "Severity": "IMPORTANT",
-  "Cves": null,
+  "Cves": [
+    {
+      "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2026-24049.html",
+      "ID": "CVE-2026-24049"
+    }
+  ],
   "Issued": {
     "Date": "2026-02-05"
   }
