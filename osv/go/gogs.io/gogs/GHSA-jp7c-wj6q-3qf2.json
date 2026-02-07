@@ -1,6 +1,6 @@
 {
   "id": "GHSA-jp7c-wj6q-3qf2",
-  "modified": "2026-02-06T18:41:26.678350Z",
+  "modified": "2026-02-06T22:08:48.758259Z",
   "published": "2026-02-06T18:16:25Z",
   "aliases": [
     "CVE-2026-24135"
@@ -37,6 +37,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/gogs/gogs/security/advisories/GHSA-jp7c-wj6q-3qf2"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-24135"
     },
     {
       "type": "PACKAGE",

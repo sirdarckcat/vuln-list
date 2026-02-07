@@ -1,6 +1,6 @@
 {
   "id": "GHSA-2jrp-274c-jhv3",
-  "modified": "2026-02-06T18:56:18.182887Z",
+  "modified": "2026-02-06T22:21:57.742443Z",
   "published": "2026-02-06T18:32:39Z",
   "aliases": [
     "CVE-2026-25580"
@@ -421,6 +421,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/pydantic/pydantic-ai/security/advisories/GHSA-2jrp-274c-jhv3"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25580"
     },
     {
       "type": "WEB",

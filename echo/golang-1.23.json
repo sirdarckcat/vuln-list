@@ -23,6 +23,9 @@
   "CVE-2025-22871": {
     "fixed_version": "1.23.8"
   },
+  "CVE-2025-22873": {
+    "fixed_version": "1.23.9"
+  },
   "CVE-2025-4673": {
     "fixed_version": "1.23.10"
   }

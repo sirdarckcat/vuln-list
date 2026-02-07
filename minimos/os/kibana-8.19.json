@@ -7,6 +7,14 @@
       "GHSA-ffrw-9mx8-89p8",
       "GHSA-rj3r-r7hh-jxfq"
     ],
+    "8.19.11-r0": [
+      "CVE-2026-22036",
+      "CVE-2026-23745",
+      "CVE-2026-23950",
+      "GHSA-8qq5-rm4j-mr97",
+      "GHSA-g9mf-h72j-4rw9",
+      "GHSA-r6q2-hw4h-h46w"
+    ],
     "8.19.4-r0": [
       "CVE-2025-58754",
       "GHSA-4hjh-wcwx-xvwj"

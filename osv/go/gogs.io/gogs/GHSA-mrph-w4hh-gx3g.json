@@ -1,6 +1,6 @@
 {
   "id": "GHSA-mrph-w4hh-gx3g",
-  "modified": "2026-02-06T18:41:26.300849Z",
+  "modified": "2026-02-06T22:05:20.252652Z",
   "published": "2026-02-06T18:14:51Z",
   "aliases": [
     "CVE-2026-23633"
@@ -37,6 +37,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/gogs/gogs/security/advisories/GHSA-mrph-w4hh-gx3g"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-23633"
     },
     {
       "type": "WEB",

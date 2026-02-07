@@ -1,8 +1,7 @@
 {
   "id": "GHSA-2ww3-72rp-wpp4",
-  "modified": "2026-02-06T19:01:17.105913Z",
+  "modified": "2026-02-06T22:26:16.755261Z",
   "published": "2026-02-06T18:37:24Z",
-  "withdrawn": "2026-02-06T19:01:17.105913Z",
   "aliases": [
     "CVE-2026-25592"
   ],
@@ -301,6 +300,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/microsoft/semantic-kernel/security/advisories/GHSA-2ww3-72rp-wpp4"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25592"
     },
     {
       "type": "WEB",
