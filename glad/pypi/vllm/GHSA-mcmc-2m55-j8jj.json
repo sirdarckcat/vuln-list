@@ -1,0 +1,24 @@
+{
+  "Identifier": "GHSA-mcmc-2m55-j8jj",
+  "PackageSlug": "pypi/vllm",
+  "Title": "vLLM introduced enhanced protection for CVE-2025-62164",
+  "Description": "The fix [here](https://github.com/vllm-project/vllm/pull/27204) for CVE-2025-62164 is not sufficient. The fix only disables prompt embeds by default rather than addressing the root cause, so the DoS vulnerability remains when the feature is enabled.",
+  "Date": "2026-01-08",
+  "Pubdate": "2026-01-08",
+  "AffectedRange": "\u003e=0.10.2,\u003c0.13.0",
+  "FixedVersions": [
+    "0.13.0"
+  ],
+  "AffectedVersions": "All versions starting from 0.10.2 before 0.13.0",
+  "NotImpacted": "All versions before 0.10.2, all versions starting from 0.13.0",
+  "Solution": "Upgrade to version 0.13.0 or above.",
+  "Urls": [
+    "https://github.com/advisories/GHSA-mcmc-2m55-j8jj",
+    "https://github.com/vllm-project/vllm/security/advisories/GHSA-mcmc-2m55-j8jj",
+    "https://github.com/vllm-project/vllm/pull/30649",
+    "https://github.com/vllm-project/vllm"
+  ],
+  "CvssV2": "",
+  "CvssV3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+  "UUID": "3396416a-17e0-4aad-bcfd-a395c0fcc2de"
+}
