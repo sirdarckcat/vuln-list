@@ -3,7 +3,7 @@
   "ID": "oval:com.microsoft.cbl-mariner:def:55937",
   "Version": "1",
   "Metadata": {
-    "Title": "CVE-2025-0395 affecting package glibc for versions less than 2.35-9",
+    "Title": "CVE-2025-0395 affecting package glibc for versions less than 2.35-8",
     "Affected": {
       "Family": "unix",
       "Platform": "CBL-Mariner"
@@ -14,16 +14,16 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2026-02-05T22:09:14Z",
+    "AdvisoryDate": "2026-02-05T22:21:51Z",
     "AdvisoryID": "55937-1",
     "Severity": "Low",
-    "Description": "CVE-2025-0395 affecting package glibc for versions less than 2.35-9. A patched version of the package is available."
+    "Description": "CVE-2025-0395 affecting package glibc for versions less than 2.35-8. A patched version of the package is available."
   },
   "Criteria": {
     "Operator": "AND",
     "Criterion": [
       {
-        "Comment": "Package glibc is earlier than 2.35-9, affected by CVE-2025-0395",
+        "Comment": "Package glibc is earlier than 2.35-8, affected by CVE-2025-0395",
         "TestRef": "oval:com.microsoft.cbl-mariner:tst:55937000"
       }
     ]

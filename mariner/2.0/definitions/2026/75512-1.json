@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2026-02-05T22:09:14Z",
+    "AdvisoryDate": "2026-02-05T22:21:51Z",
     "AdvisoryID": "75512-1",
     "Severity": "Medium",
     "Description": "CVE-2026-24827 affecting package lua for versions less than 5.4.4-2. A patched version of the package is available."

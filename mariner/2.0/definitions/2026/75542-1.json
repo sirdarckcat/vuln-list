@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2026-02-05T22:09:14Z",
+    "AdvisoryDate": "2026-02-05T22:21:51Z",
     "AdvisoryID": "75542-1",
     "Severity": "Medium",
     "Description": "CVE-2026-24809 affecting package ntopng for versions less than 5.2.1-4. A patched version of the package is available."

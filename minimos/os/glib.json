@@ -12,6 +12,14 @@
     "2.84.4-r0": [
       "CVE-2025-6052",
       "GHSA-99rj-3595-5frj"
+    ],
+    "2.86.3-r0": [
+      "CVE-2025-13601",
+      "CVE-2025-14087",
+      "CVE-2025-14512",
+      "GHSA-2p5v-p767-wqv5",
+      "GHSA-frh9-7wfp-w73p",
+      "GHSA-v6c5-9mp4-mwq4"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

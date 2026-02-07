@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2026-02-05T22:09:14Z",
+    "AdvisoryDate": "2026-02-05T22:21:51Z",
     "AdvisoryID": "73379-1",
     "Severity": "Low",
     "Description": "CVE-2025-11961 affecting package nmap for versions less than 7.93-4. A patched version of the package is available."

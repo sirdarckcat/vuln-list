@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2026-02-05T22:09:14Z",
+    "AdvisoryDate": "2026-02-05T22:21:51Z",
     "AdvisoryID": "74070-1",
     "Severity": "Low",
     "Description": "CVE-2025-13151 affecting package libtasn1 for versions less than 4.19.0-3. A patched version of the package is available."

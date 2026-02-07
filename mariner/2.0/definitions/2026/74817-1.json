@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2026-02-05T22:09:14Z",
+    "AdvisoryDate": "2026-02-05T22:21:51Z",
     "AdvisoryID": "74817-1",
     "Severity": "Medium",
     "Description": "CVE-2026-0915 affecting package glibc for versions less than 2.35-9. A patched version of the package is available."

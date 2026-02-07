@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2026-02-05T22:09:14Z",
+    "AdvisoryDate": "2026-02-05T22:21:51Z",
     "AdvisoryID": "74025-1",
     "Severity": "Medium",
     "Description": "CVE-2025-68151 affecting package coredns for versions less than 1.11.1-25. A patched version of the package is available."

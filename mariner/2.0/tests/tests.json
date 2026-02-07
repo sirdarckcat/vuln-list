@@ -9674,7 +9674,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package glibc is earlier than 2.35-9, affected by CVE-2025-0395",
+      "Comment": "Package glibc is earlier than 2.35-8, affected by CVE-2025-0395",
       "ID": "oval:com.microsoft.cbl-mariner:tst:55937000",
       "Version": "1",
       "Object": {

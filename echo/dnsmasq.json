@@ -89,6 +89,9 @@
   "CVE-2020-25687": {
     "fixed_version": "2.83-1"
   },
+  "CVE-2020-37127": {
+    "fixed_version": "2.80-1"
+  },
   "CVE-2021-3448": {
     "fixed_version": "2.85-1"
   },

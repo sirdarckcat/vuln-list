@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2026-02-05T22:09:14Z",
+    "AdvisoryDate": "2026-02-05T22:21:51Z",
     "AdvisoryID": "73743-1",
     "Severity": "Medium",
     "Description": "CVE-2025-14017 affecting package curl for versions less than 8.8.0-8. A patched version of the package is available."

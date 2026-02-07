@@ -7258,7 +7258,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:55937002",
       "Version": "1",
       "Evr": {
-        "Text": "0:2.35-9.cm2",
+        "Text": "0:2.35-8.cm2",
         "Datatype": "evr_string",
         "Operation": "less than"
       }

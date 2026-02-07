@@ -14,7 +14,7 @@
       "Source": "CVE"
     },
     "Patchable": "true",
-    "AdvisoryDate": "2026-02-05T22:09:14Z",
+    "AdvisoryDate": "2026-02-05T22:21:51Z",
     "AdvisoryID": "73391-1",
     "Severity": "Low",
     "Description": "CVE-2025-61594 affecting package ruby for versions less than 3.1.7-4. A patched version of the package is available."
