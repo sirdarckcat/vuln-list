@@ -1,6 +1,10 @@
 {
   "name": "aws-cli-2",
   "secfixes": {
+    "0": [
+      "CVE-2026-24049",
+      "GHSA-8rrh-rw8j-w5fx"
+    ],
     "2.27.45-r0": [
       "CVE-2025-47273",
       "GHSA-5rjg-fvgr-3xxf"
