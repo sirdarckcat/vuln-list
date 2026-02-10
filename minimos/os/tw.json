@@ -36,6 +36,12 @@
       "CVE-2026-25122",
       "GHSA-5g94-c2wx-8pxw",
       "GHSA-6p9p-q6wh-9j89"
+    ],
+    "0.0.40-r0": [
+      "CVE-2025-61732",
+      "CVE-2025-68121",
+      "GHSA-8jvr-vh7g-f8gx",
+      "GHSA-h355-32pf-p2xm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

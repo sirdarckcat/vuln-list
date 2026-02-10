@@ -1,0 +1,16 @@
+{
+  "name": "ruby4.0-faraday",
+  "secfixes": {
+    "2.14.1-r0": [
+      "CVE-2026-25765",
+      "GHSA-33mh-2634-fwr2"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
