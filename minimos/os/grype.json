@@ -67,6 +67,12 @@
       "GHSA-gr56-3gp6-6gmj",
       "GHSA-xvqr-69v8-f3gv"
     ],
+    "0.107.1-r1": [
+      "CVE-2025-61732",
+      "CVE-2025-68121",
+      "GHSA-8jvr-vh7g-f8gx",
+      "GHSA-h355-32pf-p2xm"
+    ],
     "0.90.0-r0": [
       "CVE-2025-54388",
       "GHSA-fv92-fjc5-jj9h",

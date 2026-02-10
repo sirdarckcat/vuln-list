@@ -2,7 +2,14 @@
   "name": "longhorn-cli-1.9",
   "secfixes": {
     "0": [
+      "CVE-2025-47911",
       "CVE-2025-58190"
+    ],
+    "1.9.2-r3": [
+      "CVE-2025-61732",
+      "CVE-2025-68121",
+      "GHSA-8jvr-vh7g-f8gx",
+      "GHSA-h355-32pf-p2xm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

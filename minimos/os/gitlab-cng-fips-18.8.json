@@ -12,6 +12,12 @@
       "GHSA-gr75-mcwq-hxv5",
       "GHSA-r8f4-mx7h-29jp",
       "GHSA-rf7g-f56c-v6w4"
+    ],
+    "18.8.3-r1": [
+      "CVE-2025-61732",
+      "CVE-2025-68121",
+      "GHSA-8jvr-vh7g-f8gx",
+      "GHSA-h355-32pf-p2xm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

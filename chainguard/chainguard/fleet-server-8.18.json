@@ -6,6 +6,7 @@
       "CVE-2025-47913",
       "CVE-2025-47914",
       "CVE-2025-58181",
+      "CVE-2025-58190",
       "CVE-2025-61728",
       "GHSA-56w8-48fp-6mgv",
       "GHSA-f6x5-jh6r-wrfv",
@@ -27,6 +28,10 @@
       "GHSA-gm9r-q53w-2gh4",
       "GHSA-gr56-3gp6-6gmj",
       "GHSA-xvqr-69v8-f3gv"
+    ],
+    "8.18.8-r3": [
+      "CVE-2025-61732",
+      "GHSA-8jvr-vh7g-f8gx"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

@@ -22,6 +22,12 @@
       "GHSA-4g2f-xcph-2335",
       "GHSA-9h3p-52vh-959w",
       "GHSA-jx8c-56mg-h6vp"
+    ],
+    "1.14.3-r1": [
+      "CVE-2025-61732",
+      "CVE-2025-68121",
+      "GHSA-8jvr-vh7g-f8gx",
+      "GHSA-h355-32pf-p2xm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

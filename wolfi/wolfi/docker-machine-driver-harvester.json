@@ -4,6 +4,8 @@
     "0": [
       "CVE-2024-36623",
       "CVE-2025-1767",
+      "CVE-2025-47911",
+      "CVE-2025-58190",
       "GHSA-3wgm-2gw2-vh5m",
       "GHSA-gh5c-3h97-2f3q"
     ],
@@ -81,6 +83,12 @@
     "1.0.5-r3": [
       "CVE-2025-13281",
       "GHSA-r6j8-c6r2-37rr"
+    ],
+    "1.0.6-r1": [
+      "CVE-2025-61732",
+      "CVE-2025-68121",
+      "GHSA-8jvr-vh7g-f8gx",
+      "GHSA-h355-32pf-p2xm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

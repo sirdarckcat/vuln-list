@@ -2,6 +2,7 @@
   "name": "opensearch-k8s-operator",
   "secfixes": {
     "0": [
+      "CVE-2025-47911",
       "CVE-2025-58190"
     ],
     "2.7.0-r1": [
