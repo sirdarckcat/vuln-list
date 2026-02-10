@@ -9,6 +9,16 @@
       "GHSA-g9q4-qjx4-2v7q",
       "GHSA-j5w8-q4qc-rx2x"
     ],
+    "1.4.0-r10": [
+      "CVE-2025-61726",
+      "CVE-2026-23831",
+      "CVE-2026-24117",
+      "CVE-2026-24137",
+      "GHSA-273p-m2cw-6833",
+      "GHSA-4c4x-jm2x-pf9j",
+      "GHSA-fcv2-xgw5-pqxf",
+      "GHSA-gm9r-q53w-2gh4"
+    ],
     "1.4.0-r3": [
       "CVE-2025-47907",
       "GHSA-j5pm-7495-qmr3"
