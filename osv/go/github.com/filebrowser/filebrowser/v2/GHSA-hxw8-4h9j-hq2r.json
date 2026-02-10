@@ -1,6 +1,6 @@
 {
   "id": "GHSA-hxw8-4h9j-hq2r",
-  "modified": "2026-02-10T00:41:26.403113Z",
+  "modified": "2026-02-10T03:05:31.679078Z",
   "published": "2026-02-10T00:22:33Z",
   "aliases": [
     "CVE-2026-25889"
@@ -37,6 +37,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-hxw8-4h9j-hq2r"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25889"
     },
     {
       "type": "WEB",

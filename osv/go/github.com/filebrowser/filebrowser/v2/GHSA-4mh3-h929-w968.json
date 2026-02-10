@@ -1,6 +1,6 @@
 {
   "id": "GHSA-4mh3-h929-w968",
-  "modified": "2026-02-10T00:41:26.241204Z",
+  "modified": "2026-02-10T03:03:47.188955Z",
   "published": "2026-02-10T00:25:17Z",
   "aliases": [
     "CVE-2026-25890"
@@ -37,6 +37,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-4mh3-h929-w968"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25890"
     },
     {
       "type": "WEB",
