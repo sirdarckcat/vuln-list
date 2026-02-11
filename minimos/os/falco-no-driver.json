@@ -1,6 +1,10 @@
 {
   "name": "falco-no-driver",
   "secfixes": {
+    "0": [
+      "CVE-2025-61726",
+      "GHSA-gm9r-q53w-2gh4"
+    ],
     "0.42.0-r0": [
       "CVE-2025-4674",
       "CVE-2025-47906",

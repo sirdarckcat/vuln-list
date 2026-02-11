@@ -1,0 +1,18 @@
+{
+  "name": "ffmpeg-7",
+  "secfixes": {
+    "7.1.2-r0": [
+      "CVE-2025-25468",
+      "CVE-2025-25469",
+      "GHSA-42f6-2hwp-g5qv",
+      "GHSA-cgf4-78xq-c6wj"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
