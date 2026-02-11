@@ -1,6 +1,10 @@
 {
   "name": "gomplate-fips",
   "secfixes": {
+    "4.3.3-r10": [
+      "CVE-2026-25934",
+      "GHSA-37cx-329c-33x3"
+    ],
     "4.3.3-r2": [
       "CVE-2025-47910",
       "GHSA-8pjc-487g-w6p2"
@@ -50,6 +54,12 @@
       "GHSA-gm9r-q53w-2gh4",
       "GHSA-gr56-3gp6-6gmj",
       "GHSA-xvqr-69v8-f3gv"
+    ],
+    "4.3.3-r9": [
+      "CVE-2025-61732",
+      "CVE-2025-68121",
+      "GHSA-8jvr-vh7g-f8gx",
+      "GHSA-h355-32pf-p2xm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
