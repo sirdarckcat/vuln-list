@@ -305,7 +305,9 @@
   "CVE-2025-2926": {
     "fixed_version": "1.14.5+repack-3+e1"
   },
-  "CVE-2025-44904": {},
+  "CVE-2025-44904": {
+    "fixed_version": "1.14.5+repack-3+e6"
+  },
   "CVE-2025-44905": {
     "fixed_version": "1.14.5+repack-3+e5"
   },

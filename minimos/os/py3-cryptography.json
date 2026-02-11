@@ -4,6 +4,10 @@
     "44.0.1-r0": [
       "CVE-2024-12797",
       "GHSA-79v4-65xg-pq4g"
+    ],
+    "46.0.5-r0": [
+      "CVE-2026-26007",
+      "GHSA-r6ph-v2qm-q3c2"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

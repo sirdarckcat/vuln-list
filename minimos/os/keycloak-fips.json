@@ -53,8 +53,14 @@
       "GHSA-wv3h-x6c4-r867"
     ],
     "26.5.3-r0": [
+      "CVE-2025-14778",
       "CVE-2026-1190",
-      "GHSA-63v5-26vq-m4vm"
+      "CVE-2026-1486",
+      "CVE-2026-1529",
+      "GHSA-37gf-gmxv-74wv",
+      "GHSA-63v5-26vq-m4vm",
+      "GHSA-fm6w-rrp3-2x4w",
+      "GHSA-hcvw-475w-8g7p"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
