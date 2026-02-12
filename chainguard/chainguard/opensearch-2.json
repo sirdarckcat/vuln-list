@@ -100,6 +100,10 @@
     "2.19.4-r6": [
       "CVE-2025-67735",
       "GHSA-84h7-rjj3-6jx4"
+    ],
+    "2.19.4-r9": [
+      "CVE-2026-23901",
+      "GHSA-c4qc-4q9p-m9q9"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
