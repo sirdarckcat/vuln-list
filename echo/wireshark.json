@@ -1943,9 +1943,6 @@
   "CVE-2024-8645": {
     "fixed_version": "4.0.17-0+deb12u1"
   },
-  "CVE-2024-9780": {
-    "fixed_version": "4.4.1-1"
-  },
   "CVE-2024-9781": {
     "fixed_version": "4.4.1-1"
   },
@@ -1960,9 +1957,6 @@
   },
   "CVE-2025-13946": {
     "fixed_version": "4.4.13-0+deb13u1"
-  },
-  "CVE-2025-1492": {
-    "fixed_version": "4.4.4-1"
   },
   "CVE-2025-5601": {
     "fixed_version": "4.4.7-1"
