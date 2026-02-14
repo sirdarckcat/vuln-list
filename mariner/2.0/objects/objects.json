@@ -1,6 +1,11 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76481001",
+      "Version": "0",
+      "Name": "mysql"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:75642001",
       "Version": "0",
       "Name": "msft-golang"
@@ -9,6 +14,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:75639001",
       "Version": "0",
       "Name": "msft-golang"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:75588001",
+      "Version": "0",
+      "Name": "pytorch"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:75542001",

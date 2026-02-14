@@ -2,6 +2,18 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package mysql is earlier than 8.0.45-2, affected by CVE-2026-0994",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:76481000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:76481001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:76481002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package msft-golang is earlier than 1.24.12-1, affected by CVE-2025-61726",
       "ID": "oval:com.microsoft.cbl-mariner:tst:75642000",
       "Version": "0",
@@ -22,6 +34,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:75639002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package pytorch is earlier than 2.0.0-13, affected by CVE-2026-24747",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:75588000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:75588001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:75588002"
       }
     },
     {
