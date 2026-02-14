@@ -170,6 +170,10 @@
       "CVE-2025-68121",
       "GHSA-8jvr-vh7g-f8gx",
       "GHSA-h355-32pf-p2xm"
+    ],
+    "3.6.8-r0": [
+      "CVE-2026-25949",
+      "GHSA-89p3-4642-cr2w"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

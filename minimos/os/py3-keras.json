@@ -11,6 +11,10 @@
     "3.13.1-r0": [
       "CVE-2026-0897",
       "GHSA-xfhx-r7ww-5995"
+    ],
+    "3.13.2-r0": [
+      "CVE-2026-1669",
+      "GHSA-gfmx-qqqh-f38q"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
