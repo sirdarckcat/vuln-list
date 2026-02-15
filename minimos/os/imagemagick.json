@@ -57,6 +57,10 @@
       "GHSA-qp29-wxp5-wh82",
       "GHSA-vmhh-8rxq-fp9g",
       "GHSA-wpp4-vqfq-v4hp"
+    ],
+    "7.1.2.13-r0": [
+      "CVE-2026-23952",
+      "GHSA-5vx3-wx4q-6cj8"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
