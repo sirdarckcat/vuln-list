@@ -10,6 +10,78 @@
       }
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:ste:76170002",
+      "Version": "0",
+      "Evr": {
+        "Text": "0:1.0.1-17.cm2",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:ste:76167002",
+      "Version": "0",
+      "Evr": {
+        "Text": "0:1.0.1-17.cm2",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:ste:76155002",
+      "Version": "0",
+      "Evr": {
+        "Text": "0:1.0.1-17.cm2",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:ste:76152002",
+      "Version": "0",
+      "Evr": {
+        "Text": "0:1.0.1-17.cm2",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:ste:76122002",
+      "Version": "0",
+      "Evr": {
+        "Text": "0:20230301gitf80f052277c8-46.cm2",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:ste:76119002",
+      "Version": "0",
+      "Evr": {
+        "Text": "0:20230301gitf80f052277c8-46.cm2",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:ste:76116002",
+      "Version": "0",
+      "Evr": {
+        "Text": "0:20230301gitf80f052277c8-46.cm2",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:ste:76113002",
+      "Version": "0",
+      "Evr": {
+        "Text": "0:20230301gitf80f052277c8-46.cm2",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:ste:75642002",
       "Version": "0",
       "Evr": {

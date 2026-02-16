@@ -66,15 +66,15 @@
     "fixed_version": "15.14"
   },
   "CVE-2026-2003": {
-    "fixed_version": "15.16-0+deb12u1"
+    "fixed_version": "15.16"
   },
   "CVE-2026-2004": {
-    "fixed_version": "15.16-0+deb12u1"
+    "fixed_version": "15.16"
   },
   "CVE-2026-2005": {
-    "fixed_version": "15.16-0+deb12u1"
+    "fixed_version": "15.16"
   },
   "CVE-2026-2006": {
-    "fixed_version": "15.16-0+deb12u1"
+    "fixed_version": "15.16"
   }
 }

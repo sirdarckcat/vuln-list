@@ -6,6 +6,46 @@
       "Name": "mysql"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76170001",
+      "Version": "0",
+      "Name": "hvloader"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76167001",
+      "Version": "0",
+      "Name": "hvloader"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76155001",
+      "Version": "0",
+      "Name": "hvloader"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76152001",
+      "Version": "0",
+      "Name": "hvloader"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76122001",
+      "Version": "0",
+      "Name": "edk2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76119001",
+      "Version": "0",
+      "Name": "edk2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76116001",
+      "Version": "0",
+      "Name": "edk2"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76113001",
+      "Version": "0",
+      "Name": "edk2"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:75642001",
       "Version": "0",
       "Name": "msft-golang"
