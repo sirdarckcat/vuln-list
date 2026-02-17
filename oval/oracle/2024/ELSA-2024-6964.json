@@ -1,5 +1,5 @@
 {
-  "Title": "ELSA-2024-6964:  virt:ol and virt-devel:rhel security update (MODERATE)",
+  "Title": "ELSA-2024-6964:  virt:ol and virt-devel:ol security update (MODERATE)",
   "Description": "hivex\nlibguestfs\nlibguestfs-winsupport\nlibiscsi\nlibnbd\n[1.6.0-6]\n- Fix CVE-2024-7383 NBD server improper certificate validation\n  resolves: RHEL-52728\n\nlibtpms\nlibvirt\nlibvirt-dbus\nlibvirt-python\nnbdkit\nnetcf\nperl-Sys-Virt\nqemu-kvm\n[6.2.0-53]\n- kvm-nbd-server-Favor-qemu_aio_context-over-iohandler-con.patch [RHEL-52611]\n- kvm-iotests-test-NBD-TLS-iothread.patch [RHEL-52611]\n- kvm-nbd-server-CVE-2024-7409-Avoid-use-after-free-when-c.patch [RHEL-52611]\n- Resolves: RHEL-52611\n  (CVE-2024-7409 virt:rhel/qemu-kvm: Denial of Service via Improper Synchronization in QEMU NBD Server During Socket Closure [rhel-8.10.z])\n\nseabios\nsgabios\nsupermin\nswtpm\nvirt-v2v",
   "Platform": [
     "Oracle Linux 8"
@@ -12,6 +12,11 @@
     },
     {
       "Source": "CVE",
+      "URI": "https://linux.oracle.com/cve/CVE-2024-3446.html",
+      "ID": "CVE-2024-3446"
+    },
+    {
+      "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-7383.html",
       "ID": "CVE-2024-7383"
     },
@@ -19,11 +24,6 @@
       "Source": "CVE",
       "URI": "https://linux.oracle.com/cve/CVE-2024-7409.html",
       "ID": "CVE-2024-7409"
-    },
-    {
-      "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2024-3446.html",
-      "ID": "CVE-2024-3446"
     }
   ],
   "Criteria": {
@@ -3070,6 +3070,11 @@
   "Cves": [
     {
       "Impact": "",
+      "Href": "https://linux.oracle.com/cve/CVE-2024-3446.html",
+      "ID": "CVE-2024-3446"
+    },
+    {
+      "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-7383.html",
       "ID": "CVE-2024-7383"
     },
@@ -3077,11 +3082,6 @@
       "Impact": "",
       "Href": "https://linux.oracle.com/cve/CVE-2024-7409.html",
       "ID": "CVE-2024-7409"
-    },
-    {
-      "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2024-3446.html",
-      "ID": "CVE-2024-3446"
     }
   ],
   "Issued": {

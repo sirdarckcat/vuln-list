@@ -1,5 +1,5 @@
 {
-  "Title": "ELSA-2025-23374:  container-tools:rhel8 security update (MODERATE)",
+  "Title": "ELSA-2025-23374:  container-tools:ol8 security update (MODERATE)",
   "Description": "aardvark-dns\nbuildah\ncockpit-podman\nconmon\ncontainernetworking-plugins\ncontainers-common\ncontainer-selinux\ncriu\ncrun\nfuse-overlayfs\nlibslirp\nnetavark\noci-seccomp-bpf-hook\npodman\n[4.9.4-24.0.1]\n- Fixes issue of container created in cgroupv2 not start in cgroupv1 [Orabug: 36136813]\n- Fixes container memory limit not set after host is rebooted with cgroupv2 [Orabug: 36136802]\n- Fixes issue of podman execvp error while using podmansh [Orabug: 36756665]\n\n[4:4.9.4-24]\n- rebuild for CVE-2025-58183\n- Resolves: RHEL-125654\n\npython-podman\nrunc\n[4:1.2.9-2]\n- update to https://github.com/opencontainers/runc/releases/tag/v1.2.9\n- Resolves: RHEL-132818\n\nskopeo\n[2:1.14.5-5]\n- rebuild for CVE-2025-58183\n- Resolves: RHEL-125659\n\nslirp4netns\nudica",
   "Platform": [
     "Oracle Linux 8"

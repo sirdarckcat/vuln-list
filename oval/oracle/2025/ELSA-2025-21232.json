@@ -1,5 +1,5 @@
 {
-  "Title": "ELSA-2025-21232:  container-tools:rhel8 security update (IMPORTANT)",
+  "Title": "ELSA-2025-21232:  container-tools:ol8 security update (IMPORTANT)",
   "Description": "slirp4netns\n[1.2.3-1]\n- update to https://github.com/rootless-containers/slirp4netns/releases/tag/v1.2.3\n- Related: Jira:RHEL-2110\n\n[1.2.2-1]\n- update to https://github.com/rootless-containers/slirp4netns/releases/tag/v1.2.2\n- Related: Jira:RHEL-2110\n\n[1.2.1-1]\n- update to https://github.com/rootless-containers/slirp4netns/releases/tag/v1.2.1\n- Related: #2176055\n\n[1.2.0-3]\n- BuildRequires: /usr/bin/go-md2man\n- Related: #2176055\n\n[1.2.0-2]\n- BuildRequires: /usr/bin/go-md2man\n- Related: #2061390\n\n[1.2.0-1]\n- update to https://github.com/rootless-containers/slirp4netns/releases/tag/v1.2.0\n- Related: #2061390\n\n[1.1.8-2]\n- fix gating - don't use insecure functions - thanks to Marc-Andre Lureau\n- Related: #2001445\n\n[1.1.8-1]\n- update to\n  https://github.com/rootless-containers/slirp4netns/releases/tag/v1.1.8\n- Related: #1883490\n\n[1.1.7-2]\n- exclude i686 because of build failures\n- Related: #1883490\n\n[1.1.7-1]\n- update to\n  https://github.com/rootless-containers/slirp4netns/releases/tag/v1.1.7\n- Related: #1883490\n\nudica\n[0.2.6-21]\n- bump release to preserve update path\n- Resolves: RHEL-32671\n\n[0.2.6-20]\n- bump release to preserve update path\n- Related: #2139052\n\n[0.2.6-4]\n- Bump release to match latest release available in rhel-8.6.1\n- Resolves: #2139052\n\n[0.2.6-3]\n- Make sure each section of the inspect exists before accessing (#2027662)\n\n[0.2.6-2]\n- Require container-selinux shipping policy templates (#2005866)\n\n[0.2.6-1]\n- update to https://github.com/containers/udica/releases/tag/v0.2.6\n- Related: #2001445\n\n[0.2.5-2]\n- New rebase https://github.com/containers/udica/releases/tag/v0.2.5 (#1995041)\n- Replace capability dictionary with str.lower()\n- Enable udica to generate policies with fifo class\n- Sort container inspect data before processing\n- Update templates to work properly with new cil parser\n- Related: #1934415\n\n[0.2.5-1]\n- update to https://github.com/containers/udica/releases/tag/v0.2.5\n- Related: #1934415\n\n[0.2.4-2]\n- remove %check again and all related BRs\n- Related: #1934415\n\n[0.2.4-1]\n- update to https://github.com/containers/udica/releases/tag/v0.2.4\n- Related: #1883490",
   "Platform": [
     "Oracle Linux 8"
@@ -12,8 +12,8 @@
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2025-52881.html",
-      "ID": "CVE-2025-52881"
+      "URI": "https://linux.oracle.com/cve/CVE-2025-31133.html",
+      "ID": "CVE-2025-31133"
     },
     {
       "Source": "CVE",
@@ -22,8 +22,8 @@
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2025-31133.html",
-      "ID": "CVE-2025-31133"
+      "URI": "https://linux.oracle.com/cve/CVE-2025-52881.html",
+      "ID": "CVE-2025-52881"
     }
   ],
   "Criteria": {
@@ -866,8 +866,8 @@
   "Cves": [
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2025-52881.html",
-      "ID": "CVE-2025-52881"
+      "Href": "https://linux.oracle.com/cve/CVE-2025-31133.html",
+      "ID": "CVE-2025-31133"
     },
     {
       "Impact": "",
@@ -876,8 +876,8 @@
     },
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2025-31133.html",
-      "ID": "CVE-2025-31133"
+      "Href": "https://linux.oracle.com/cve/CVE-2025-52881.html",
+      "ID": "CVE-2025-52881"
     }
   ],
   "Issued": {

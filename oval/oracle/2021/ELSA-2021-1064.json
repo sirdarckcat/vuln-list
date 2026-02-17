@@ -1,5 +1,5 @@
 {
-  "Title": "ELSA-2021-1064:  virt:ol and virt-devel:rhel security update (MODERATE)",
+  "Title": "ELSA-2021-1064:  virt:ol and virt-devel:ol security update (MODERATE)",
   "Description": "libvirt\n[6.0.0-28.1.0.1]\n- Add runtime deps for pkg librbd1 \u003e= 1:10.2.5 (Keshav Sharma)\n\nqemu-kvm\n[4.2.0-34.el8_3.5]\n- kvm-Drop-bogus-IPv6-messages.patch [bz#1939493]\n- Resolves: bz#1939493\n  (CVE-2020-10756 virt:rhel/qemu-kvm: QEMU: slirp: networking out-of-bounds read information disclosure vulnerability [rhel-8.3.0.z] [rhel-8.3.0.z])",
   "Platform": [
     "Oracle Linux 8"
@@ -2669,6 +2669,6 @@
     }
   ],
   "Issued": {
-    "Date": "2021-04-09"
+    "Date": "2026-02-16"
   }
 }
