@@ -201,6 +201,10 @@
   "CVE-2025-68461": {
     "fixed_version": "1.6.5+dfsg-1+deb12u6"
   },
-  "CVE-2026-25916": {},
-  "CVE-2026-26079": {}
+  "CVE-2026-25916": {
+    "fixed_version": "1.6.5+dfsg-1+deb12u7"
+  },
+  "CVE-2026-26079": {
+    "fixed_version": "1.6.5+dfsg-1+deb12u7"
+  }
 }

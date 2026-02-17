@@ -2,6 +2,54 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package postgresql is earlier than 14.21-1, affected by CVE-2026-2006",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:77589000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:77589001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:77589002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package postgresql is earlier than 14.21-1, affected by CVE-2026-2005",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:77586000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:77586001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:77586002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package postgresql is earlier than 14.21-1, affected by CVE-2026-2004",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:77583000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:77583001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:77583002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package postgresql is earlier than 14.21-1, affected by CVE-2026-2003",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:77580000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:77580001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:77580002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package mysql is earlier than 8.0.45-2, affected by CVE-2026-0994",
       "ID": "oval:com.microsoft.cbl-mariner:tst:76481000",
       "Version": "0",
@@ -10,6 +58,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:76481002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package libsoup is earlier than 3.0.4-11, affected by CVE-2026-1536",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:76395000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:76395001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:76395002"
       }
     },
     {
@@ -6334,6 +6394,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:59551002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package libsoup is earlier than 3.0.4-11, affected by CVE-2025-32049",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:59539000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:59539001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:59539002"
       }
     },
     {

@@ -1,9 +1,34 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:77589001",
+      "Version": "0",
+      "Name": "postgresql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:77586001",
+      "Version": "0",
+      "Name": "postgresql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:77583001",
+      "Version": "0",
+      "Name": "postgresql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:77580001",
+      "Version": "0",
+      "Name": "postgresql"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:76481001",
       "Version": "0",
       "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76395001",
+      "Version": "0",
+      "Name": "libsoup"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:76170001",
@@ -2638,6 +2663,11 @@
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:59551001",
       "Version": "1",
+      "Name": "libsoup"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:59539001",
+      "Version": "0",
       "Name": "libsoup"
     },
     {
