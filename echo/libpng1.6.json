@@ -63,12 +63,12 @@
     "fixed_version": "1.6.39-2+deb12u1"
   },
   "CVE-2026-22695": {
-    "fixed_version": "1.6.48-1+e4"
+    "fixed_version": "1.6.39-2+deb12u2"
   },
   "CVE-2026-22801": {
-    "fixed_version": "1.6.48-1+e4"
+    "fixed_version": "1.6.39-2+deb12u2"
   },
   "CVE-2026-25646": {
-    "fixed_version": "1.6.54-1+e2"
+    "fixed_version": "1.6.39-2+deb12u3"
   }
 }
