@@ -55,7 +55,9 @@
       "GHSA-xxjr-mmjv-4gpg"
     ],
     "2.14.0-r0": [
+      "CVE-2025-69873",
       "CVE-2026-2391",
+      "GHSA-2g4f-4pwh-qvx6",
       "GHSA-w7fw-mjwx-w883"
     ]
   },

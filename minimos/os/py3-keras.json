@@ -14,6 +14,7 @@
     ],
     "3.13.2-r0": [
       "CVE-2026-1669",
+      "GHSA-3m4q-jmj6-r34q",
       "GHSA-gfmx-qqqh-f38q"
     ]
   },

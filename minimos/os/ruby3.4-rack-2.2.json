@@ -24,6 +24,12 @@
       "GHSA-vpfw-47h7-xj4g",
       "GHSA-w9pc-fmgc-vxvw",
       "GHSA-wpv5-97wm-hp9c"
+    ],
+    "2.2.22-r0": [
+      "CVE-2026-22860",
+      "CVE-2026-25500",
+      "GHSA-mxw3-3hh2-x2mh",
+      "GHSA-whrj-4476-wvmp"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
