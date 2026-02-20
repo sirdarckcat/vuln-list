@@ -1,0 +1,26 @@
+{
+  "name": "infisical",
+  "secfixes": {
+    "0.43.57-r1": [
+      "CVE-2024-45339",
+      "CVE-2025-47914",
+      "CVE-2025-58181",
+      "CVE-2025-64702",
+      "CVE-2026-26014",
+      "CVE-2026-26958",
+      "GHSA-6wxm-mpqj-6jpf",
+      "GHSA-9f3f-wv7r-qc8r",
+      "GHSA-f6x5-jh6r-wrfv",
+      "GHSA-fw7p-63qq-7hpr",
+      "GHSA-g754-hx8w-x2g6",
+      "GHSA-j5w8-q4qc-rx2x"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
