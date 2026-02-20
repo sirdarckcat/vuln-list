@@ -4,6 +4,9 @@
     "0.6.0-r1": [
       "CVE-2026-25727",
       "GHSA-r6v5-fh4h-64xc"
+    ],
+    "0.6.0-r2": [
+      "GHSA-3288-p39f-rqpv"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

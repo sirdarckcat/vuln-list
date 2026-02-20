@@ -13,6 +13,8 @@
     ],
     "12.3.1-r0": [
       "CVE-2026-21720",
+      "CVE-2026-21721",
+      "GHSA-jgfq-mgxg-4qwm",
       "GHSA-m4rj-q4ph-fr4v"
     ],
     "12.3.1-r1": [
@@ -26,6 +28,12 @@
       "GHSA-gm9r-q53w-2gh4",
       "GHSA-gr56-3gp6-6gmj",
       "GHSA-xvqr-69v8-f3gv"
+    ],
+    "12.3.2-r0": [
+      "CVE-2025-41117",
+      "CVE-2026-21722",
+      "GHSA-3f33-44xm-29m7",
+      "GHSA-cqp7-wf4c-3xgc"
     ],
     "12.3.2-r1": [
       "CVE-2025-61732",

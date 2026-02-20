@@ -41,17 +41,23 @@
     ],
     "12.2.3-r0": [
       "CVE-2026-21720",
+      "CVE-2026-21721",
+      "GHSA-jgfq-mgxg-4qwm",
       "GHSA-m4rj-q4ph-fr4v"
     ],
     "12.2.4-r0": [
+      "CVE-2025-41117",
       "CVE-2025-61726",
       "CVE-2025-61728",
       "CVE-2025-61730",
       "CVE-2025-61731",
       "CVE-2025-64751",
       "CVE-2025-68119",
+      "CVE-2026-21722",
       "GHSA-2c64-vmv2-hgfc",
+      "GHSA-3f33-44xm-29m7",
       "GHSA-cm6p-qc7v-m3jw",
+      "GHSA-cqp7-wf4c-3xgc",
       "GHSA-g9q4-qjx4-2v7q",
       "GHSA-gm9r-q53w-2gh4",
       "GHSA-gr56-3gp6-6gmj",

@@ -7,6 +7,8 @@
       "CVE-2025-61730",
       "CVE-2025-61731",
       "CVE-2025-68119",
+      "CVE-2026-21722",
+      "GHSA-3f33-44xm-29m7",
       "GHSA-cm6p-qc7v-m3jw",
       "GHSA-g9q4-qjx4-2v7q",
       "GHSA-gm9r-q53w-2gh4",
@@ -69,6 +71,8 @@
     ],
     "11.6.9-r0": [
       "CVE-2026-21720",
+      "CVE-2026-21721",
+      "GHSA-jgfq-mgxg-4qwm",
       "GHSA-m4rj-q4ph-fr4v"
     ]
   },

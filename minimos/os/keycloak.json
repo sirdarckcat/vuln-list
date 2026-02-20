@@ -119,6 +119,10 @@
       "GHSA-63v5-26vq-m4vm",
       "GHSA-fm6w-rrp3-2x4w",
       "GHSA-hcvw-475w-8g7p"
+    ],
+    "26.5.4-r0": [
+      "CVE-2026-2733",
+      "GHSA-fjf4-6f34-w64q"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
