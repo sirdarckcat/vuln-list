@@ -94,6 +94,12 @@
       "GHSA-8jvr-vh7g-f8gx",
       "GHSA-h355-32pf-p2xm"
     ],
+    "2.11.0-r0": [
+      "CVE-2026-25793",
+      "CVE-2026-26958",
+      "GHSA-69x3-g4r3-p962",
+      "GHSA-fw7p-63qq-7hpr"
+    ],
     "2.8.4-r0": [
       "CVE-2025-8556",
       "GHSA-2x5j-vhc8-9cwm"
