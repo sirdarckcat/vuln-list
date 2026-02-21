@@ -32,6 +32,9 @@
       "GHSA-r6h2-5gqq-v5v6",
       "GHSA-w45g-5746-x9fp",
       "GHSA-wh94-p5m6-mr7j"
+    ],
+    "2026.2.21-r0": [
+      "GHSA-gq3j-xvxp-8hrf"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
