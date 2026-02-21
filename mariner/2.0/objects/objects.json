@@ -1,6 +1,11 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:77603001",
+      "Version": "0",
+      "Name": "busybox"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:77589001",
       "Version": "0",
       "Name": "postgresql"
@@ -19,6 +24,21 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:77580001",
       "Version": "0",
       "Name": "postgresql"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:77444001",
+      "Version": "0",
+      "Name": "munge"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76745001",
+      "Version": "0",
+      "Name": "nginx"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76487001",
+      "Version": "0",
+      "Name": "protobuf"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:76481001",

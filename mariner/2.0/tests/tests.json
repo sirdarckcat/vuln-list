@@ -2,6 +2,18 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package busybox is earlier than 1.35.0-17, affected by CVE-2026-26157",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:77603000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:77603001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:77603002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package postgresql is earlier than 14.21-1, affected by CVE-2026-2006",
       "ID": "oval:com.microsoft.cbl-mariner:tst:77589000",
       "Version": "0",
@@ -46,6 +58,42 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:77580002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package munge is earlier than 0.5.18-1, affected by CVE-2026-25506",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:77444000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:77444001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:77444002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package nginx is earlier than 1.22.1-15, affected by CVE-2026-1642",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:76745000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:76745001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:76745002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package protobuf is earlier than 3.17.3-5, affected by CVE-2026-0994",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:76487000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:76487001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:76487002"
       }
     },
     {

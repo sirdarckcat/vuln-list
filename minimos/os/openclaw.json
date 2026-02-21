@@ -14,14 +14,24 @@
     "2026.2.19-r0": [
       "CVE-2023-28155",
       "CVE-2025-69873",
+      "CVE-2026-25896",
       "CVE-2026-26278",
       "CVE-2026-26996",
+      "CVE-2026-27484",
+      "CVE-2026-27485",
+      "CVE-2026-27488",
+      "CVE-2026-27576",
       "GHSA-2g4f-4pwh-qvx6",
       "GHSA-3ppc-4f35-3m26",
       "GHSA-4685-c5cp-vp95",
       "GHSA-6c9j-x93c-rw6j",
+      "GHSA-cxpw-2g23-2vgw",
       "GHSA-jmr7-xgp7-cmfj",
-      "GHSA-p8p7-x288-28g6"
+      "GHSA-m7jm-9gc2-mpf2",
+      "GHSA-p8p7-x288-28g6",
+      "GHSA-r6h2-5gqq-v5v6",
+      "GHSA-w45g-5746-x9fp",
+      "GHSA-wh94-p5m6-mr7j"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
