@@ -57,7 +57,7 @@
     "fixed_version": "2.37.3-1"
   },
   "CVE-2022-0563": {
-    "fixed_version": "2.38.1-5+deb12u3"
+    "fixed_version": "2.41-5+e1"
   },
   "CVE-2024-28085": {
     "fixed_version": "2.38.1-5+deb12u1"
