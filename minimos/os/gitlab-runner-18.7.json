@@ -1,6 +1,16 @@
 {
   "name": "gitlab-runner-18.7",
   "secfixes": {
+    "0": [
+      "CVE-2026-0595",
+      "CVE-2026-1282",
+      "CVE-2026-1456",
+      "CVE-2026-1458",
+      "GHSA-8f2f-6w9m-mg42",
+      "GHSA-cf2v-m456-7qjf",
+      "GHSA-m668-xfwp-34x6",
+      "GHSA-w487-9r9p-6p96"
+    ],
     "18.7.0-r1": [
       "CVE-2025-54388",
       "GHSA-x4rx-4gw3-53p4"

@@ -4,6 +4,10 @@
     "1.28.0-r0": [
       "CVE-2025-53859",
       "GHSA-2qmj-q2xc-85v8"
+    ],
+    "1.28.2-r0": [
+      "CVE-2026-1642",
+      "GHSA-7chh-rv6q-8pp3"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
