@@ -1,6 +1,9 @@
 {
   "name": "py3-langchain",
   "secfixes": {
+    "0": [
+      "CVE-2026-26013"
+    ],
     "1.2.6-r0": [
       "CVE-2025-68664",
       "GHSA-c67j-w6g6-q2cm"

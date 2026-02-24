@@ -1,0 +1,20 @@
+{
+  "name": "vllm-openai-cuda-12.9",
+  "secfixes": {
+    "0.15.1-r0": [
+      "CVE-2026-0994",
+      "CVE-2026-25990",
+      "CVE-2026-26007",
+      "GHSA-7gcm-g887-7qv7",
+      "GHSA-cfh3-3jmp-rvhc",
+      "GHSA-r6ph-v2qm-q3c2"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}

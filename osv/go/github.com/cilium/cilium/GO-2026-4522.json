@@ -1,8 +1,11 @@
 {
   "id": "GO-2026-4522",
-  "modified": "2026-02-23T19:32:46.537991Z",
+  "modified": "2026-02-23T19:40:58.531438Z",
   "published": "2026-02-23T18:23:12Z",
   "aliases": [
+    "BIT-cilium-2026-26963",
+    "BIT-cilium-operator-2026-26963",
+    "BIT-hubble-relay-2026-26963",
     "CVE-2026-26963",
     "GHSA-5r23-prx4-mqg3"
   ],

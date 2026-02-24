@@ -1,6 +1,6 @@
 {
   "id": "GHSA-7g9x-cp9g-92mr",
-  "modified": "2026-02-23T19:26:01.162320196Z",
+  "modified": "2026-02-23T23:43:51.751260Z",
   "published": "2026-02-19T15:16:46Z",
   "aliases": [
     "CVE-2026-27112",
@@ -83,6 +83,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/akuity/kargo/security/advisories/GHSA-7g9x-cp9g-92mr"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-27112"
     },
     {
       "type": "WEB",
