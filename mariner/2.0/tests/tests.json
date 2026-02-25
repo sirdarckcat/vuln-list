@@ -2,6 +2,30 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package cloud-hypervisor is earlier than 32.0-6, affected by CVE-2026-24800",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:78047000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:78047001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:78047002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package busybox is earlier than 1.35.0-17, affected by CVE-2026-26158",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:77606000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:77606001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:77606002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package busybox is earlier than 1.35.0-17, affected by CVE-2026-26157",
       "ID": "oval:com.microsoft.cbl-mariner:tst:77603000",
       "Version": "0",
@@ -82,6 +106,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:76745002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package pytorch is earlier than 2.0.0-14, affected by CVE-2026-0994",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:76505000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:76505001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:76505002"
       }
     },
     {
@@ -218,6 +254,30 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package openssl is earlier than 1.1.1k-38, affected by CVE-2025-69418",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:75783000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:75783001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:75783002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package openssl is earlier than 1.1.1k-38, affected by CVE-2025-68160",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:75780000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:75780001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:75780002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package msft-golang is earlier than 1.24.12-1, affected by CVE-2025-61726",
       "ID": "oval:com.microsoft.cbl-mariner:tst:75642000",
       "Version": "0",
@@ -250,6 +310,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:75588002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package openssl is earlier than 1.1.1k-38, affected by CVE-2025-69420",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:75585000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:75585001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:75585002"
       }
     },
     {

@@ -1,6 +1,16 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:78047001",
+      "Version": "0",
+      "Name": "cloud-hypervisor"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:77606001",
+      "Version": "0",
+      "Name": "busybox"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:77603001",
       "Version": "0",
       "Name": "busybox"
@@ -34,6 +44,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:76745001",
       "Version": "0",
       "Name": "nginx"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:76505001",
+      "Version": "0",
+      "Name": "pytorch"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:76487001",
@@ -91,6 +106,16 @@
       "Name": "edk2"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:75783001",
+      "Version": "0",
+      "Name": "openssl"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:75780001",
+      "Version": "0",
+      "Name": "openssl"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:75642001",
       "Version": "0",
       "Name": "msft-golang"
@@ -104,6 +129,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:75588001",
       "Version": "0",
       "Name": "pytorch"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:75585001",
+      "Version": "0",
+      "Name": "openssl"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:75542001",
