@@ -4,6 +4,12 @@
     "0": [
       "CVE-2024-9453",
       "GHSA-36fm-f9h6-j5xh"
+    ],
+    "2.541.2-r0": [
+      "CVE-2026-27099",
+      "CVE-2026-27100",
+      "GHSA-85h6-5m3v-gx37",
+      "GHSA-wfhp-qgm8-5p5c"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
