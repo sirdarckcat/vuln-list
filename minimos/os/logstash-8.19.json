@@ -1,6 +1,10 @@
 {
   "name": "logstash-8.19",
   "secfixes": {
+    "8.19.12-r0": [
+      "CVE-2026-25765",
+      "GHSA-33mh-2634-fwr2"
+    ],
     "8.19.4-r0": [
       "CVE-2025-58057",
       "GHSA-3p8m-j85q-pgmj"
