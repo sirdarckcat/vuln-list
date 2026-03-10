@@ -1,6 +1,12 @@
 {
   "name": "istio-fips-1.29",
   "secfixes": {
+    "1.29.0-r2": [
+      "CVE-2026-27137",
+      "CVE-2026-27138",
+      "GHSA-7hfw-r8qc-89v4",
+      "GHSA-ph5j-38mg-j6hp"
+    ],
     "1.29.0-r3": [
       "CVE-2026-24051",
       "GHSA-9h8m-3fm2-qjrq"
