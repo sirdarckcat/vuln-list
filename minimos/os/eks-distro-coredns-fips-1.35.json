@@ -1,11 +1,7 @@
 {
-  "name": "tempo-2.10",
+  "name": "eks-distro-coredns-fips-1.35",
   "secfixes": {
-    "0": [
-      "CVE-2026-24051",
-      "GHSA-9h8m-3fm2-qjrq"
-    ],
-    "2.10.2-r0": [
+    "1.35.4-r1": [
       "CVE-2026-25679",
       "CVE-2026-27139",
       "CVE-2026-27142",
@@ -19,6 +15,6 @@
     "x86_64",
     "aarch64"
   ],
-  "urlprefix": "https://packages.wolfi.dev",
-  "reponame": "wolfi"
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
 }

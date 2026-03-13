@@ -1,14 +1,14 @@
 {
-  "name": "tempo-2.10",
+  "name": "eks-distro-coredns-1.33",
   "secfixes": {
-    "0": [
-      "CVE-2026-24051",
-      "GHSA-9h8m-3fm2-qjrq"
-    ],
-    "2.10.2-r0": [
+    "1.33.21-r2": [
+      "CVE-2025-61732",
+      "CVE-2025-68121",
       "CVE-2026-25679",
       "CVE-2026-27139",
       "CVE-2026-27142",
+      "GHSA-8jvr-vh7g-f8gx",
+      "GHSA-h355-32pf-p2xm",
       "GHSA-j3gx-2473-5fp8",
       "GHSA-j4j7-vw47-rhfq",
       "GHSA-rv83-g57w-fr8j"
@@ -19,6 +19,6 @@
     "x86_64",
     "aarch64"
   ],
-  "urlprefix": "https://packages.wolfi.dev",
-  "reponame": "wolfi"
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
 }
