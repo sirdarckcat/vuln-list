@@ -1,0 +1,18 @@
+{
+  "name": "kayenta-2025.4",
+  "secfixes": {
+    "2025.4.3-r2": [
+      "CVE-2025-66614",
+      "CVE-2026-24733",
+      "GHSA-fpj8-gq4v-p354",
+      "GHSA-qq5r-98hh-rxc9"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
