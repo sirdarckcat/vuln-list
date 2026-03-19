@@ -1,0 +1,16 @@
+{
+  "name": "spark-kubernetes-operator-fips",
+  "secfixes": {
+    "0.7.0-r1": [
+      "CVE-2025-11143",
+      "GHSA-wjpw-4j6x-6rwh"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
