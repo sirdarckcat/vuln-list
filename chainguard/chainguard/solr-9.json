@@ -1,0 +1,18 @@
+{
+  "name": "solr-9",
+  "secfixes": {
+    "9.10.1-r1": [
+      "CVE-2026-22022",
+      "CVE-2026-22444",
+      "GHSA-qr3p-2xj2-q7hq",
+      "GHSA-vc2w-4v3p-2mqw"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
