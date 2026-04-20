@@ -1,11 +1,9 @@
 {
   "name": "py3-transformers-4.51",
   "secfixes": {
-    "4.51.3-r4": [
-      "CVE-2025-6638",
-      "CVE-2025-6921",
-      "GHSA-4w7r-h757-3r74",
-      "GHSA-59p9-h35m-wg4g"
+    "0": [
+      "CVE-2026-1839",
+      "GHSA-69w3-r845-3855"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
