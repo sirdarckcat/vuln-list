@@ -1,0 +1,20 @@
+{
+  "name": "cloudprober",
+  "secfixes": {
+    "0.14.3-r0": [
+      "CVE-2026-33816",
+      "CVE-2026-34986",
+      "GHSA-78h2-9frx-2jm8",
+      "GHSA-9jj7-4m8r-rfcm",
+      "GHSA-j88v-2chj-qfwx",
+      "GHSA-xmrv-pmrh-hhx2"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
