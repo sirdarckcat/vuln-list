@@ -6,6 +6,9 @@
       "CVE-2026-26933",
       "GHSA-27qj-9gvp-8rh9",
       "GHSA-fj69-23m4-ccvv"
+    ],
+    "9.4.1-r1": [
+      "GHSA-fw8g-cg8f-9j28"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
