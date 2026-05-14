@@ -4,6 +4,12 @@
     "0": [
       "CVE-2013-2617",
       "GHSA-hxx6-p24v-wg8c"
+    ],
+    "8.20.0-r0": [
+      "CVE-2026-5545",
+      "CVE-2026-5773",
+      "GHSA-6g7g-56fm-f8mp",
+      "GHSA-rp9q-8q5w-ch44"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
