@@ -1,10 +1,11 @@
 {
   "id": "GHSA-wjx4-4jcj-g98j",
-  "modified": "2026-05-13T13:54:15.361204Z",
+  "modified": "2026-05-27T13:56:18.230226284Z",
   "published": "2026-05-04T20:18:45Z",
   "aliases": [
     "BIT-pillow-2026-42308",
-    "CVE-2026-42308"
+    "CVE-2026-42308",
+    "PYSEC-2026-165"
   ],
   "related": [
     "CGA-9v75-xm6q-wrrf"
