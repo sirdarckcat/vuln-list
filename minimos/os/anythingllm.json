@@ -4,6 +4,11 @@
     "0": [
       "CVE-2025-65945",
       "GHSA-869p-cjfg-cm3x"
+    ],
+    "1.13.0-r0": [
+      "CVE-2026-45403",
+      "CVE-2026-47713",
+      "CVE-2026-48116"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
