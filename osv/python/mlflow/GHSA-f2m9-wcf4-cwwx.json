@@ -1,8 +1,9 @@
 {
   "id": "GHSA-f2m9-wcf4-cwwx",
-  "modified": "2026-05-29T20:00:14.414067728Z",
+  "modified": "2026-06-05T07:56:21.019105227Z",
   "published": "2026-05-18T21:31:53Z",
   "aliases": [
+    "BIT-mlflow-2026-4137",
     "CVE-2026-4137"
   ],
   "summary": "MLFlow Creates a Temporary File With Insecure Permissions ",
