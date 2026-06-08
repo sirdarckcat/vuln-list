@@ -1,9 +1,10 @@
 {
   "id": "GHSA-rmxr-45gj-889w",
-  "modified": "2026-05-07T02:47:42.460112Z",
+  "modified": "2026-06-08T14:11:04.210587122Z",
   "published": "2026-05-01T09:30:25Z",
   "aliases": [
-    "CVE-2026-43003"
+    "CVE-2026-43003",
+    "PYSEC-2026-205"
   ],
   "summary": "OpenStack Ironic Python Agent Includes Functionality from Untrusted Control Sphere",
   "details": "An issue was discovered in OpenStack ironic-python-agent 1.0.0 through 11.5.0. Ironic Python Agent (IPA) sometimes executes grub-install from within a chroot of the deployed partition image, leading to code execution in the case of a malicious image.",

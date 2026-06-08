@@ -4,6 +4,22 @@
     "1.10.4-r1": [
       "CVE-2026-0994",
       "GHSA-7gcm-g887-7qv7"
+    ],
+    "1.10.4-r2": [
+      "CVE-2026-25645",
+      "CVE-2026-29790",
+      "CVE-2026-32597",
+      "CVE-2026-33155",
+      "CVE-2026-44431",
+      "CVE-2026-44432",
+      "CVE-2026-45409",
+      "GHSA-54jj-px8x-5w5q",
+      "GHSA-65pc-fj4g-8rjx",
+      "GHSA-752w-5fwx-jx9f",
+      "GHSA-gc5v-m9x4-r6x2",
+      "GHSA-mf9v-mfxr-j63j",
+      "GHSA-qccp-gfcp-xxvc",
+      "GHSA-w75w-9qv4-j5xj"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
