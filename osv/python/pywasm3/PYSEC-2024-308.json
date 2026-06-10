@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2024-308",
-  "modified": "2026-05-21T15:00:28.924997028Z",
+  "modified": "2026-06-09T19:26:18.940386798Z",
   "published": "2024-05-06T15:15:24.367Z",
   "aliases": [
-    "CVE-2024-34249"
+    "CVE-2024-34249",
+    "GHSA-mq9p-qw76-q6h7"
   ],
   "details": "wasm3 v0.5.0 was discovered to contain a heap buffer overflow which leads to segmentation fault via the function \"DeallocateSlot\" in wasm3/source/m3_compile.c.",
   "affected": [

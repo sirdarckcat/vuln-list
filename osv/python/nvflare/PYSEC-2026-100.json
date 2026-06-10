@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2026-100",
-  "modified": "2026-05-20T09:19:09.465548Z",
+  "modified": "2026-06-09T20:56:06.105742452Z",
   "published": "2026-04-28T19:36:45.127Z",
   "aliases": [
-    "CVE-2026-24178"
+    "CVE-2026-24178",
+    "GHSA-jqp3-qrgh-4846"
   ],
   "details": "NVIDIA NVFlare Dashboard contains a vulnerability in the user management and authentication system where an unauthenticated attacker may cause authorization bypass through user-controlled key. A successful exploit of this vulnerability may lead to privilege escalation, data tampering, information disclosure, code execution, and denial of service.",
   "affected": [
