@@ -1,0 +1,19 @@
+{
+  "name": "vim",
+  "secfixes": {
+    "9.2.0568-r0": [
+      "CVE-2026-52858",
+      "CVE-2026-52859"
+    ],
+    "9.2.0597-r0": [
+      "CVE-2026-52860"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
