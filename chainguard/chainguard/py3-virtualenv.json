@@ -1,9 +1,13 @@
 {
   "name": "py3-virtualenv",
   "secfixes": {
-    "20.38.0-r0": [
+    "21.5.0-r0": [
+      "CVE-2025-8869",
       "CVE-2026-1703",
-      "GHSA-6vgw-5pg2-w6jp"
+      "CVE-2026-24049",
+      "GHSA-4xh5-x5gv-qwph",
+      "GHSA-6vgw-5pg2-w6jp",
+      "GHSA-8rrh-rw8j-w5fx"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
