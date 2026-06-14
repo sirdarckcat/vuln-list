@@ -1,0 +1,18 @@
+{
+  "name": "litellm-1.87",
+  "secfixes": {
+    "1.87.3-r0": [
+      "CVE-2026-48155",
+      "CVE-2026-48156",
+      "GHSA-248m-82v9-q6g6",
+      "GHSA-cj93-chg6-vgv8"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
