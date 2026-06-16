@@ -6,6 +6,10 @@
       "CVE-2017-2665",
       "GHSA-532c-wf5h-wp4m",
       "GHSA-7g8m-5ff5-p3hg"
+    ],
+    "8.3.4-r0": [
+      "CVE-2026-9751",
+      "GHSA-52qm-pr2g-7h6x"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
