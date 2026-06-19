@@ -1,0 +1,16 @@
+{
+  "name": "calico-3.31-fips",
+  "secfixes": {
+    "3.31.6-r0": [
+      "CVE-2026-41184",
+      "GHSA-9p7w-w5q6-mxj3"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}

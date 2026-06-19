@@ -1,0 +1,16 @@
+{
+  "name": "mysql-9.7",
+  "secfixes": {
+    "9.7.1-r0": [
+      "CVE-2026-46863",
+      "GHSA-g4xv-4vff-3g76"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
