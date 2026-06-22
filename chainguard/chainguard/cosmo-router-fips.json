@@ -1,0 +1,19 @@
+{
+  "name": "cosmo-router-fips",
+  "secfixes": {
+    "0": [
+      "CVE-2026-39830",
+      "CVE-2026-39831",
+      "CVE-2026-39833",
+      "CVE-2026-42508",
+      "CVE-2026-46597"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
