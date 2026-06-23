@@ -3,6 +3,8 @@
   "secfixes": {
     "0": [
       "CVE-2026-4176",
+      "CVE-2026-8376",
+      "GHSA-mpxq-89h3-qc47",
       "GHSA-q2q4-jjp8-f6m3"
     ],
     "5.38.4-r0": [
