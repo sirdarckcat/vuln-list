@@ -4,6 +4,7 @@
     "0": [
       "CVE-2026-39883",
       "CVE-2026-42508",
+      "GHSA-5cgq-3rg8-m6cv",
       "GHSA-hfvc-g4fc-pqhx"
     ]
   },
