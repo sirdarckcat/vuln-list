@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2026-166",
-  "modified": "2026-05-28T12:00:04.639866123Z",
+  "modified": "2026-06-30T17:11:25.019772022Z",
   "published": "2026-05-25T10:16:15.087Z",
   "aliases": [
-    "CVE-2026-45361"
+    "CVE-2026-45361",
+    "GHSA-g9v5-gjwf-9rwx"
   ],
   "details": "Apache Airflow providers-google's `ComputeEngineSSHHook` disables SSH host-key verification by default, exposing SSH traffic between an Airflow worker and a Compute Engine VM to in-path network attackers who can intercept or modify the session. Users are advised to upgrade to `apache-airflow-providers-google` 22.0.0 or later.",
   "affected": [

@@ -9,6 +9,9 @@
     ],
     "1.89.4-r0": [
       "GHSA-537c-gmf6-5ccf"
+    ],
+    "1.89.4-r1": [
+      "GHSA-98x5-vq43-vc5p"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
