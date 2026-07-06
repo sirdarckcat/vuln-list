@@ -1,0 +1,26 @@
+{
+  "name": "gitlab-elasticsearch-indexer-fips",
+  "secfixes": {
+    "0": [
+      "CVE-2018-14364",
+      "CVE-2018-17452",
+      "CVE-2019-9174",
+      "CVE-2019-9217",
+      "CVE-2019-9218",
+      "CVE-2019-9485",
+      "GHSA-4j42-wq8q-c389",
+      "GHSA-8xwc-6h6p-hh69",
+      "GHSA-h5fq-66m8-wp4v",
+      "GHSA-h7pc-v4hv-wjwm",
+      "GHSA-mv85-vhf6-fp37",
+      "GHSA-wmcm-x8vj-qqp7"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
