@@ -1,11 +1,7 @@
 {
   "name": "openstack-nova-2025.2",
   "secfixes": {
-    "32.2.0_git20260616-r2": [
-      "CVE-2026-46448",
-      "GHSA-mfg3-p6m3-gjgr"
-    ],
-    "32.2.0_git20260709-r0": [
+    "0": [
       "CVE-2013-2256",
       "CVE-2013-4179",
       "CVE-2014-3517",
@@ -22,6 +18,10 @@
       "GHSA-mfmj-gwg3-vhw7",
       "GHSA-x8xr-rm9r-7mvf",
       "GHSA-xjmj-p278-4jp5"
+    ],
+    "32.2.0_git20260616-r2": [
+      "CVE-2026-46448",
+      "GHSA-mfg3-p6m3-gjgr"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
