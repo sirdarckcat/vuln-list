@@ -3,6 +3,9 @@
   "secfixes": {
     "45.0.2-r0": [
       "CVE-2026-54786"
+    ],
+    "46.0.1-r0": [
+      "CVE-2026-58494"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
