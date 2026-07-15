@@ -1,0 +1,16 @@
+{
+  "name": "dependency-track-apiserver-4",
+  "secfixes": {
+    "4.14.2-r1": [
+      "CVE-2026-54515",
+      "GHSA-5jmj-h7xm-6q6v"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}

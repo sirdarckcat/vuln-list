@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2026-211",
-  "modified": "2026-06-15T20:45:15.548508811Z",
+  "modified": "2026-07-14T19:56:25.013285495Z",
   "published": "2026-06-04T00:16:59.010Z",
   "aliases": [
-    "CVE-2026-10783"
+    "CVE-2026-10783",
+    "GHSA-6655-8ph2-63j3"
   ],
   "details": "A security flaw has been discovered in gradio-app gradio 6.14.0. This affects the function save_audio_to_cache of the component Audio Cache Key Handler. Performing a manipulation results in use of weak hash. The attack must be initiated from a local position. The attack is considered to have high complexity. It is indicated that the exploitability is difficult. The exploit has been released to the public and may be used for attacks. The patch is named 13394. To fix this issue, it is recommended to deploy a patch.",
   "affected": [
