@@ -1,6 +1,10 @@
 {
   "name": "open-cluster-management",
-  "secfixes": {},
+  "secfixes": {
+    "0": [
+      "GO-2026-5932"
+    ]
+  },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
   "archs": [
     "x86_64",
