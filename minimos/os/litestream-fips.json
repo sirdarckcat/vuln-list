@@ -1,0 +1,18 @@
+{
+  "name": "litestream-fips",
+  "secfixes": {
+    "0.5.14-r1": [
+      "CVE-2026-24051",
+      "CVE-2026-29181",
+      "GHSA-9h8m-3fm2-qjrq",
+      "GHSA-mh2q-q3fh-2475"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
