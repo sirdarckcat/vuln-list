@@ -1,0 +1,26 @@
+{
+  "name": "gitlab-rails-19.2",
+  "secfixes": {
+    "0": [
+      "CVE-2019-19919",
+      "CVE-2021-23369",
+      "CVE-2021-23383",
+      "CVE-2026-50195",
+      "CVE-2026-53492",
+      "GHSA-33vj-92qq-66hc",
+      "GHSA-765h-qjxv-5f44",
+      "GHSA-cvxm-645q-p574",
+      "GHSA-f2jv-r9rf-7988",
+      "GHSA-w457-6q6x-cgp9",
+      "GO-2026-5064",
+      "GO-2026-5338"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
