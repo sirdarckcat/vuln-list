@@ -1,8 +1,8 @@
 {
   "name": "crossplane-provider-aws-budgets",
   "secfixes": {
-    "0": [
-      "GO-2026-5932"
+    "2.6.0-r1": [
+      "GHSA-hrxh-6v49-42gf"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
