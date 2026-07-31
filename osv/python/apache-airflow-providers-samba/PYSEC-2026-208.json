@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2026-208",
-  "modified": "2026-06-13T10:45:05.285426528Z",
+  "modified": "2026-07-31T16:56:20.721678789Z",
   "published": "2026-06-09T09:16:30.443Z",
   "aliases": [
-    "CVE-2026-49818"
+    "CVE-2026-49818",
+    "GHSA-f6vj-48fm-hmvx"
   ],
   "details": "The Apache Airflow Samba provider's `GCSToSambaOperator` joined GCS object names to the SMB destination path without a containment check, so an object named with `../` segments resolved a write path outside the configured `destination_path`. An attacker able to write objects into the source GCS bucket — typically an external data producer distinct from the trusted DAG author — could write files to arbitrary locations on the Samba target when the operator ran. Upgrade apache-airflow-providers-samba to 4.12.6 or later, which validates the resolved destination stays within `destination_path`.",
   "affected": [
