@@ -1,8 +1,8 @@
 {
   "name": "cluster-autoscaler-fips-1.36",
   "secfixes": {
-    "0": [
-      "GO-2026-5932"
+    "1.36.1-r1": [
+      "GHSA-hrxh-6v49-42gf"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
