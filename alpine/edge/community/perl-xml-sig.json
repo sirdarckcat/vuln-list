@@ -3,6 +3,11 @@
   "secfixes": {
     "0.68-r0": [
       "CVE-2025-40934"
+    ],
+    "0.72-r0": [
+      "CVE-2026-9390",
+      "CVE-2026-9487",
+      "CVE-2026-18568"
     ]
   },
   "apkurl": "{{urlprefix}}/{{distroversion}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
