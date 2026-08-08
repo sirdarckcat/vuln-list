@@ -1,0 +1,37 @@
+{
+  "id": "GHSA-55q2-fjhq-7xh7",
+  "modified": "2026-08-07T17:12:38.686723Z",
+  "published": "2026-08-07T00:00:00Z",
+  "affected": [
+    {
+      "package": {
+        "ecosystem": "Seal:npm",
+        "name": "dompurify"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "2.0.12-sp0"
+            },
+            {
+              "fixed": "2.0.12-sp999"
+            }
+          ]
+        },
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "2.5.7-sp0"
+            },
+            {
+              "fixed": "2.5.7-sp999"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
