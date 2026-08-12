@@ -8,6 +8,14 @@
       "GHSA-cq5v-8q36-5273",
       "GHSA-mfx4-hv73-q22v",
       "GHSA-mq44-7p77-q5h7"
+    ],
+    "1.93.2-r0": [
+      "CVE-2026-69247",
+      "CVE-2026-71852",
+      "CVE-2026-71870",
+      "GHSA-fp3f-mc75-235c",
+      "GHSA-fwg2-594c-jp42",
+      "GHSA-g6cj-pr64-35w5"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
