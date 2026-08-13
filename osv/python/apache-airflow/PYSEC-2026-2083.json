@@ -1,10 +1,11 @@
 {
   "id": "PYSEC-2026-2083",
-  "modified": "2026-07-09T12:11:22.161326976Z",
+  "modified": "2026-08-12T19:40:41.031201224Z",
   "published": "2026-07-07T10:16:41.603Z",
   "aliases": [
     "BIT-airflow-2026-49296",
-    "CVE-2026-49296"
+    "CVE-2026-49296",
+    "GHSA-4fh7-7jx4-8f6c"
   ],
   "details": "Before apache-airflow 3.3.0, a user authorized to read one Dag could disclose the source of other Dags co-located in the same source file. `GET /api/v2/dagSources/{dag_id}` — and the equivalent Dag-source view in the UI — returned the entire source file without redacting Dags the caller was not authorized to read, bypassing per-DAG read authorization. Deployments that co-locate multiple Dags in a single file and rely on per-DAG access control to limit source visibility are affected; single-Dag-per-file deployments are not. Upgrade to apache-airflow 3.3.0 or later.",
   "affected": [

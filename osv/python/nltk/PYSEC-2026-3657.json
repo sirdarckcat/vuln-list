@@ -1,9 +1,10 @@
 {
   "id": "PYSEC-2026-3657",
-  "modified": "2026-08-11T10:00:03.261022208Z",
+  "modified": "2026-08-12T19:59:11.940439452Z",
   "published": "2026-07-24T22:16:50.063Z",
   "aliases": [
-    "CVE-2025-71408"
+    "CVE-2025-71408",
+    "GHSA-848c-c2cx-j7qx"
   ],
   "details": "NLTK (Natural Language Toolkit) before version 3.9.3 contains an eval injection vulnerability in the nltk.collocations module that allows an attacker who controls command-line arguments to execute arbitrary Python code. When collocations.py is invoked directly, the __main__ block passes command-line arguments directly to eval() as suffixes of BigramAssocMeasures without allowlist validation or sanitization, enabling an attacker to supply a Python expression that escapes the intended attribute lookup and executes arbitrary code including OS commands via the os module.",
   "affected": [
