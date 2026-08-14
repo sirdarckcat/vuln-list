@@ -1,0 +1,18 @@
+{
+  "name": "cloudbeat-9.5",
+  "secfixes": {
+    "9.5.1-r1": [
+      "CVE-2026-71556",
+      "CVE-2026-71557",
+      "GHSA-hc8v-wwc9-vgxm",
+      "GHSA-qgq7-7hm3-q39j"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
