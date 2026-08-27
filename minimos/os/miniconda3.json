@@ -1,0 +1,18 @@
+{
+  "name": "miniconda3",
+  "secfixes": {
+    "26.7.1.0.314-r0": [
+      "CVE-2026-28684",
+      "CVE-2026-69247",
+      "GHSA-g6cj-pr64-35w5",
+      "GHSA-mf9w-mj56-hr94"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.mini.dev",
+  "reponame": "os"
+}
