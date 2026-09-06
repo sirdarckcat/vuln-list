@@ -151,6 +151,12 @@
       "CVE-2026-56854",
       "GHSA-gjhq-gjfw-99mq",
       "GO-2026-6303"
+    ],
+    "1.21.1-r7": [
+      "CVE-2026-56855",
+      "CVE-2026-78662",
+      "GO-2026-6354",
+      "GO-2026-6355"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
