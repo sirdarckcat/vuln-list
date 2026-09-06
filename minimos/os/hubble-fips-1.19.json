@@ -87,6 +87,14 @@
       "CVE-2026-73500",
       "GHSA-6vch-q96h-7gc3",
       "GO-2026-6107"
+    ],
+    "1.19.4-r8": [
+      "CVE-2026-39882",
+      "CVE-2026-56743",
+      "CVE-2026-84304",
+      "GHSA-fm8w-2m5w-9j7r",
+      "GHSA-vp52-pcj8-j9qc",
+      "GHSA-w8rr-5gcm-pp58"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

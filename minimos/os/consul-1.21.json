@@ -101,6 +101,12 @@
       "GHSA-p77j-4mvh-x3m3",
       "GHSA-vp52-pcj8-j9qc",
       "GHSA-w8rr-5gcm-pp58"
+    ],
+    "1.21.5-r7": [
+      "CVE-2026-56855",
+      "CVE-2026-78662",
+      "GO-2026-6354",
+      "GO-2026-6355"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
