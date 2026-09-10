@@ -1,0 +1,16 @@
+{
+  "name": "grafana-influxdb-datasource",
+  "secfixes": {
+    "13.1.1-r1": [
+      "CVE-2026-84445",
+      "GHSA-2v4p-qf9q-27wj"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
