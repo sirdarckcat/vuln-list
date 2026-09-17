@@ -20,6 +20,11 @@
     ],
     "1.20.1-r3": [
       "CVE-2026-65819"
+    ],
+    "1.20.2-r0": [
+      "CVE-2026-84445",
+      "GHSA-2v4p-qf9q-27wj",
+      "GO-2026-6443"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
