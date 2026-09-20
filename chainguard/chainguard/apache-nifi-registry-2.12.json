@@ -1,0 +1,18 @@
+{
+  "name": "apache-nifi-registry-2.12",
+  "secfixes": {
+    "2.12.0-r1": [
+      "CVE-2026-13506",
+      "CVE-2026-8763",
+      "GHSA-9pwp-9qqc-pr26",
+      "GHSA-qp49-qgx5-5m26"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
