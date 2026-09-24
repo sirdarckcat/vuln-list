@@ -1,0 +1,24 @@
+{
+  "name": "influxd-fips-2.9",
+  "secfixes": {
+    "0": [
+      "CVE-2024-28180",
+      "CVE-2026-56855",
+      "CVE-2026-78662",
+      "GHSA-259r-337f-4rfw",
+      "GHSA-c5q2-7r4c-mv6g",
+      "GO-2024-2631",
+      "GO-2026-5841",
+      "GO-2026-5932",
+      "GO-2026-6354",
+      "GO-2026-6355"
+    ]
+  },
+  "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
+  "archs": [
+    "x86_64",
+    "aarch64"
+  ],
+  "urlprefix": "https://packages.cgr.dev",
+  "reponame": "chainguard"
+}
