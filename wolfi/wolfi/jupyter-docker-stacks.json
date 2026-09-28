@@ -1,7 +1,7 @@
 {
   "name": "jupyter-docker-stacks",
   "secfixes": {
-    "7.3.2-r1": [
+    "999.9.9_git20260925-r0": [
       "CVE-2024-47081",
       "CVE-2025-27516",
       "CVE-2025-30167",
