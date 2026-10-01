@@ -65,6 +65,14 @@
       "GHSA-ph9c-7hw9-vhhw",
       "GHSA-r2xf-8xr9-62gw"
     ],
+    "4.18.1-r14": [
+      "CVE-2026-19032",
+      "CVE-2026-68497",
+      "CVE-2026-83557",
+      "GHSA-gx83-3vf8-gh7j",
+      "GHSA-q4xh-88c3-wmh7",
+      "GHSA-wjgm-6hv5-3cvf"
+    ],
     "4.18.1-r2": [
       "CVE-2026-42578",
       "GHSA-45q3-82m4-75jr"
