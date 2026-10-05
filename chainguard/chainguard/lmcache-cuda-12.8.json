@@ -109,6 +109,12 @@
       "GHSA-j3rv-43j4-c7qm",
       "GHSA-r7wm-3cxj-wff9",
       "GHSA-rmj7-2vxq-3g9f"
+    ],
+    "0.5.5-r2": [
+      "CVE-2026-101918",
+      "CVE-2026-54399",
+      "GHSA-42vr-xj54-vc7v",
+      "GHSA-hf6x-8p5f-cgmf"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
