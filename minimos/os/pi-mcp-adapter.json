@@ -13,6 +13,10 @@
     ],
     "2.37.0-r0": [
       "GHSA-r4xh-jqrq-34v2"
+    ],
+    "5.2.0-r0": [
+      "CVE-2026-104850",
+      "GHSA-6qxp-vccf-f47h"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",

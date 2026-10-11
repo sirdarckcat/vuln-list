@@ -111,11 +111,15 @@
       "CVE-2026-15310",
       "CVE-2026-15806",
       "CVE-2026-17084",
+      "CVE-2026-19445",
+      "CVE-2026-19553",
       "CVE-2026-19672",
       "GHSA-2v69-2w5x-455j",
+      "GHSA-7jvw-f348-84gq",
       "GHSA-prxg-vvhf-mgqq",
       "GHSA-w246-x8qv-r8f5",
-      "GHSA-xj79-6hh5-9w6q"
+      "GHSA-xj79-6hh5-9w6q",
+      "GHSA-xx9w-qm94-hghj"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
