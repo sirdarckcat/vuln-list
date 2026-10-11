@@ -305,6 +305,7 @@
       "CVE-2026-105756",
       "CVE-2026-105757",
       "CVE-2026-105758",
+      "CVE-2026-105759",
       "CVE-2026-105760",
       "CVE-2026-69112",
       "CVE-2026-93436",
@@ -352,6 +353,12 @@
       "GHSA-w2cx-738m-mc7w",
       "GHSA-w6j9-cwv2-h6wq",
       "GHSA-x6mc-67gf-chw4"
+    ],
+    "0.31.0-r0": [
+      "CVE-2026-101918",
+      "CVE-2026-102275",
+      "GHSA-42vr-xj54-vc7v",
+      "GHSA-x33g-cr3x-6449"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
