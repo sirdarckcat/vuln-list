@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Container bci/bci-sle15-kernel-module-devel:15.5-2021-3115,Container bci/bci-sle15-kernel-module-devel:15.6-2021-3115,Container bci/kiwi:latest-2021-3115,Container bci/openjdk-devel:11-2021-3115,Container bci/openjdk-devel:17-2021-3115,Container bci/openjdk-devel:latest-2021-3115,Container bci/openjdk:11-2021-3115,Container bci/openjdk:17-2021-3115,Container bci/openjdk:latest-2021-3115,Container caasp/v4/389-ds:1.4.2-2021-3115,Container caasp/v4/hyperkube:v1.17.17-2021-3115,Container containers/apache-pulsar:3.3-2021-3115,Container containers/apache-tomcat:10.1-openjdk11-2021-3115,Container containers/apache-tomcat:10.1-openjdk17-2021-3115,Container containers/apache-tomcat:10.1-openjdk21-2021-3115,Container containers/apache-tomcat:9-openjdk11-2021-3115,Container containers/apache-tomcat:9-openjdk17-2021-3115,Container containers/apache-tomcat:9-openjdk21-2021-3115,Container containers/apache-tomcat:9-openjdk8-2021-3115,Container rancher/elemental-teal-rt/5.3:latest-2021-3115,Container rancher/elemental-teal-rt/5.4:latest-2021-3115,Container rancher/elemental-teal/5.3:latest-2021-3115,Container rancher/elemental-teal/5.4:latest-2021-3115,Container ses/6/cephcsi/cephcsi:latest-2021-3115,Container ses/6/rook/ceph:latest-2021-3115,Container suse/389-ds:latest-2021-3115,Container suse/hpc/warewulf4-x86_64/sle-hpc-node:latest-2021-3115,Container suse/kiosk/firefox-esr:esr-2021-3115,Container suse/manager/5.0/x86_64/server-attestation:latest-2021-3115,Container suse/manager/5.0/x86_64/server:latest-2021-3115,Container suse/multi-linux-manager/5.1/x86_64/server-attestation:latest-2021-3115,Container suse/multi-linux-manager/5.1/x86_64/server:latest-2021-3115,Container suse/multi-linux-manager/5.2/x86_64/server-attestation:latest-2021-3115,Container suse/multi-linux-manager/5.2/x86_64/server:latest-2021-3115,Container suse/pcp:5-2021-3115,Container suse/pcp:latest-2021-3115,Image SLES15-SP3-BYOS-Azure-2021-3115,Image SLES15-SP3-BYOS-EC2-HVM-2021-3115,Image SLES15-SP3-BYOS-GCE-2021-3115,Image SLES15-SP3-EC2-ECS-HVM-2021-3115,Image SLES15-SP3-EC2-HVM-2021-3115,Image SLES15-SP3-GCE-2021-3115,Image SLES15-SP3-HPC-Azure-2021-3115,Image SLES15-SP3-HPC-BYOS-Azure-2021-3115,Image SLES15-SP3-HPC-BYOS-EC2-HVM-2021-3115,Image SLES15-SP3-HPC-BYOS-GCE-2021-3115,Image SLES15-SP3-Manager-4-2-Proxy-BYOS-Azure-2021-3115,Image SLES15-SP3-Manager-4-2-Proxy-BYOS-EC2-HVM-2021-3115,Image SLES15-SP3-Manager-4-2-Proxy-BYOS-GCE-2021-3115,Image SLES15-SP3-Manager-4-2-Server-BYOS-Azure-2021-3115,Image SLES15-SP3-Manager-4-2-Server-BYOS-EC2-HVM-2021-3115,Image SLES15-SP3-Manager-4-2-Server-BYOS-GCE-2021-3115,Image SLES15-SP3-Micro-BYOS-GCE-2021-3115,Image SLES15-SP3-SAP-Azure-2021-3115,Image SLES15-SP3-SAP-Azure-LI-BYOS-Production-2021-3115,Image SLES15-SP3-SAP-Azure-VLI-BYOS-Production-2021-3115,Image SLES15-SP3-SAP-BYOS-Azure-2021-3115,Image SLES15-SP3-SAP-BYOS-EC2-HVM-2021-3115,Image SLES15-SP3-SAP-BYOS-GCE-2021-3115,Image SLES15-SP3-SAP-EC2-HVM-2021-3115,Image SLES15-SP3-SAP-GCE-2021-3115,Image SLES15-SP3-SAPCAL-Azure-2021-3115,Image SLES15-SP3-SAPCAL-EC2-HVM-2021-3115,Image SLES15-SP3-SAPCAL-GCE-2021-3115,Image SLES15-SP4-2021-3115,Image SLES15-SP4-Azure-Basic-2021-3115,Image SLES15-SP4-Azure-Standard-2021-3115,Image SLES15-SP4-BYOS-2021-3115,Image SLES15-SP4-BYOS-Azure-2021-3115,Image SLES15-SP4-BYOS-EC2-2021-3115,Image SLES15-SP4-BYOS-GCE-2021-3115,Image SLES15-SP4-EC2-2021-3115,Image SLES15-SP4-EC2-ECS-HVM-2021-3115,Image SLES15-SP4-GCE-2021-3115,Image SLES15-SP4-HPC-2021-3115,Image SLES15-SP4-HPC-Azure-2021-3115,Image SLES15-SP4-HPC-BYOS-2021-3115,Image SLES15-SP4-HPC-BYOS-Azure-2021-3115,Image SLES15-SP4-HPC-BYOS-EC2-2021-3115,Image SLES15-SP4-HPC-BYOS-GCE-2021-3115,Image SLES15-SP4-HPC-EC2-2021-3115,Image SLES15-SP4-HPC-GCE-2021-3115,Image SLES15-SP4-Hardened-BYOS-2021-3115,Image SLES15-SP4-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP4-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP4-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-2021-3115,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-Azure-2021-3115,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-EC2-2021-3115,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-GCE-2021-3115,Image SLES15-SP4-Manager-Server-4-3-2021-3115,Image SLES15-SP4-Manager-Server-4-3-Azure-llc-2021-3115,Image SLES15-SP4-Manager-Server-4-3-Azure-ltd-2021-3115,Image SLES15-SP4-Manager-Server-4-3-BYOS-2021-3115,Image SLES15-SP4-Manager-Server-4-3-BYOS-Azure-2021-3115,Image SLES15-SP4-Manager-Server-4-3-BYOS-EC2-2021-3115,Image SLES15-SP4-Manager-Server-4-3-BYOS-GCE-2021-3115,Image SLES15-SP4-Manager-Server-4-3-EC2-llc-2021-3115,Image SLES15-SP4-Manager-Server-4-3-EC2-ltd-2021-3115,Image SLES15-SP4-Micro-5-3-2021-3115,Image SLES15-SP4-Micro-5-3-Azure-2021-3115,Image SLES15-SP4-Micro-5-3-BYOS-2021-3115,Image SLES15-SP4-Micro-5-3-BYOS-Azure-2021-3115,Image SLES15-SP4-Micro-5-3-BYOS-EC2-2021-3115,Image SLES15-SP4-Micro-5-3-BYOS-GCE-2021-3115,Image SLES15-SP4-Micro-5-3-EC2-2021-3115,Image SLES15-SP4-Micro-5-3-GCE-2021-3115,Image SLES15-SP4-Micro-5-4-Azure-2021-3115,Image SLES15-SP4-SAP-2021-3115,Image SLES15-SP4-SAP-Azure-2021-3115,Image SLES15-SP4-SAP-Azure-LI-BYOS-2021-3115,Image SLES15-SP4-SAP-Azure-LI-BYOS-Production-2021-3115,Image SLES15-SP4-SAP-Azure-VLI-BYOS-2021-3115,Image SLES15-SP4-SAP-Azure-VLI-BYOS-Production-2021-3115,Image SLES15-SP4-SAP-BYOS-2021-3115,Image SLES15-SP4-SAP-BYOS-Azure-2021-3115,Image SLES15-SP4-SAP-BYOS-EC2-2021-3115,Image SLES15-SP4-SAP-BYOS-GCE-2021-3115,Image SLES15-SP4-SAP-EC2-2021-3115,Image SLES15-SP4-SAP-GCE-2021-3115,Image SLES15-SP4-SAP-Hardened-2021-3115,Image SLES15-SP4-SAP-Hardened-Azure-2021-3115,Image SLES15-SP4-SAP-Hardened-BYOS-2021-3115,Image SLES15-SP4-SAP-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP4-SAP-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP4-SAP-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP4-SAP-Hardened-EC2-2021-3115,Image SLES15-SP4-SAP-Hardened-GCE-2021-3115,Image SLES15-SP4-SAPCAL-2021-3115,Image SLES15-SP4-SAPCAL-Azure-2021-3115,Image SLES15-SP4-SAPCAL-EC2-2021-3115,Image SLES15-SP4-SAPCAL-GCE-2021-3115,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-2021-3115,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2-2021-3115,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2-HVM-2021-3115,Image SLES15-SP5-Azure-Basic-2021-3115,Image SLES15-SP5-EC2-ECS-HVM-2021-3115,Image SLES15-SP5-HPC-BYOS-Azure-2021-3115,Image SLES15-SP5-HPC-BYOS-GCE-2021-3115,Image SLES15-SP5-HPC-EC2-2021-3115,Image SLES15-SP5-HPC-GCE-2021-3115,Image SLES15-SP5-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP5-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP5-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP5-SAP-Azure-2021-3115,Image SLES15-SP5-SAP-Azure-LI-BYOS-2021-3115,Image SLES15-SP5-SAP-Azure-LI-BYOS-Production-2021-3115,Image SLES15-SP5-SAP-Azure-VLI-BYOS-2021-3115,Image SLES15-SP5-SAP-Azure-VLI-BYOS-Production-2021-3115,Image SLES15-SP5-SAP-BYOS-Azure-2021-3115,Image SLES15-SP5-SAP-EC2-2021-3115,Image SLES15-SP5-SAP-GCE-2021-3115,Image SLES15-SP5-SAP-Hardened-Azure-2021-3115,Image SLES15-SP5-SAP-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP5-SAP-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP5-SAP-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP5-SAP-Hardened-EC2-2021-3115,Image SLES15-SP5-SAP-Hardened-GCE-2021-3115,Image SLES15-SP6-Azure-3P-2021-3115,Image SLES15-SP6-Azure-Basic-2021-3115,Image SLES15-SP6-HPC-BYOS-2021-3115,Image SLES15-SP6-HPC-BYOS-Azure-2021-3115,Image SLES15-SP6-HPC-BYOS-EC2-2021-3115,Image SLES15-SP6-HPC-BYOS-GCE-2021-3115,Image SLES15-SP6-HPC-EC2-2021-3115,Image SLES15-SP6-HPC-GCE-2021-3115,Image SLES15-SP6-Hardened-BYOS-2021-3115,Image SLES15-SP6-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP6-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP6-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP6-SAP-Azure-3P-2021-3115,Image SLES15-SP6-SAP-Azure-LI-BYOS-2021-3115,Image SLES15-SP6-SAP-Azure-LI-BYOS-Production-2021-3115,Image SLES15-SP6-SAP-Azure-VLI-BYOS-2021-3115,Image SLES15-SP6-SAP-Azure-VLI-BYOS-Production-2021-3115,Image SLES15-SP6-SAP-BYOS-Azure-2021-3115,Image SLES15-SP6-SAP-BYOS-EC2-2021-3115,Image SLES15-SP6-SAP-EC2-2021-3115,Image SLES15-SP6-SAP-Hardened-2021-3115,Image SLES15-SP6-SAP-Hardened-Azure-2021-3115,Image SLES15-SP6-SAP-Hardened-BYOS-2021-3115,Image SLES15-SP6-SAP-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP6-SAP-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP6-SAP-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP6-SAP-Hardened-EC2-2021-3115,Image SLES15-SP6-SAP-Hardened-GCE-2021-3115,Image SLES15-SP6-SAPCAL-EC2-2021-3115,Image SLES15-SP7-Azure-Basic-2021-3115,Image SLES15-SP7-GCE-3P-2021-3115,Image SLES15-SP7-HPC-BYOS-GCE-2021-3115,Image SLES15-SP7-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP7-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP7-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP7-SAP-Azure-LI-BYOS-Production-2021-3115,Image SLES15-SP7-SAP-Azure-VLI-BYOS-Production-2021-3115,Image SLES15-SP7-SAP-Hardened-Azure-2021-3115,Image SLES15-SP7-SAP-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP7-SAP-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP7-SAP-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP7-SAP-Hardened-GCE-2021-3115,Image tomcat_15_6-2021-3115,SUSE-2021-3115,SUSE-SLE-Module-Basesystem-15-SP2-2021-3115,SUSE-SLE-Module-Basesystem-15-SP3-2021-3115,SUSE-SLE-Module-Server-Applications-15-SP2-2021-3115,SUSE-SLE-Module-Server-Applications-15-SP3-2021-3115,SUSE-SLE-Product-HPC-15-2021-3115,SUSE-SLE-Product-HPC-15-SP1-ESPOS-2021-3115,SUSE-SLE-Product-HPC-15-SP1-LTSS-2021-3115,SUSE-SLE-Product-SLES-15-2021-3115,SUSE-SLE-Product-SLES-15-SP1-BCL-2021-3115,SUSE-SLE-Product-SLES-15-SP1-LTSS-2021-3115,SUSE-SLE-Product-SLES_SAP-15-2021-3115,SUSE-SLE-Product-SLES_SAP-15-SP1-2021-3115,SUSE-SLE-Product-SUSE-Manager-Proxy-4.0-2021-3115,SUSE-SLE-Product-SUSE-Manager-Retail-Branch-Server-4.0-2021-3115,SUSE-SLE-Product-SUSE-Manager-Server-4.0-2021-3115,SUSE-SUSE-MicroOS-5.0-2021-3115,SUSE-Storage-6-2021-3115",
+      "Text": "Container bci/bci-sle15-kernel-module-devel:15.5-2021-3115,Container bci/bci-sle15-kernel-module-devel:15.6-2021-3115,Container bci/kiwi:latest-2021-3115,Container bci/openjdk-devel:11-2021-3115,Container bci/openjdk-devel:17-2021-3115,Container bci/openjdk-devel:latest-2021-3115,Container bci/openjdk:11-2021-3115,Container bci/openjdk:17-2021-3115,Container bci/openjdk:latest-2021-3115,Container caasp/v4/389-ds:1.4.2-2021-3115,Container caasp/v4/hyperkube:v1.17.17-2021-3115,Container containers/apache-pulsar:3.3-2021-3115,Container containers/apache-tomcat:10.1-openjdk11-2021-3115,Container containers/apache-tomcat:10.1-openjdk17-2021-3115,Container containers/apache-tomcat:10.1-openjdk21-2021-3115,Container containers/apache-tomcat:9-openjdk11-2021-3115,Container containers/apache-tomcat:9-openjdk17-2021-3115,Container containers/apache-tomcat:9-openjdk21-2021-3115,Container containers/apache-tomcat:9-openjdk8-2021-3115,Container rancher/elemental-teal-rt/5.3:latest-2021-3115,Container rancher/elemental-teal-rt/5.4:latest-2021-3115,Container rancher/elemental-teal/5.3:latest-2021-3115,Container rancher/elemental-teal/5.4:latest-2021-3115,Container ses/6/cephcsi/cephcsi:latest-2021-3115,Container ses/6/rook/ceph:latest-2021-3115,Container suse/389-ds:latest-2021-3115,Container suse/hpc/warewulf4-x86_64/sle-hpc-node:latest-2021-3115,Container suse/kiosk/firefox-esr:esr-2021-3115,Container suse/manager/5.0/x86_64/server-attestation:latest-2021-3115,Container suse/manager/5.0/x86_64/server:latest-2021-3115,Container suse/multi-linux-manager/5.1/x86_64/server-attestation:latest-2021-3115,Container suse/multi-linux-manager/5.1/x86_64/server:latest-2021-3115,Container suse/pcp:5-2021-3115,Container suse/pcp:latest-2021-3115,Image SLES15-SP3-BYOS-Azure-2021-3115,Image SLES15-SP3-BYOS-EC2-HVM-2021-3115,Image SLES15-SP3-BYOS-GCE-2021-3115,Image SLES15-SP3-EC2-ECS-HVM-2021-3115,Image SLES15-SP3-EC2-HVM-2021-3115,Image SLES15-SP3-GCE-2021-3115,Image SLES15-SP3-HPC-Azure-2021-3115,Image SLES15-SP3-HPC-BYOS-Azure-2021-3115,Image SLES15-SP3-HPC-BYOS-EC2-HVM-2021-3115,Image SLES15-SP3-HPC-BYOS-GCE-2021-3115,Image SLES15-SP3-Manager-4-2-Proxy-BYOS-Azure-2021-3115,Image SLES15-SP3-Manager-4-2-Proxy-BYOS-EC2-HVM-2021-3115,Image SLES15-SP3-Manager-4-2-Proxy-BYOS-GCE-2021-3115,Image SLES15-SP3-Manager-4-2-Server-BYOS-Azure-2021-3115,Image SLES15-SP3-Manager-4-2-Server-BYOS-EC2-HVM-2021-3115,Image SLES15-SP3-Manager-4-2-Server-BYOS-GCE-2021-3115,Image SLES15-SP3-Micro-BYOS-GCE-2021-3115,Image SLES15-SP3-SAP-Azure-2021-3115,Image SLES15-SP3-SAP-Azure-LI-BYOS-Production-2021-3115,Image SLES15-SP3-SAP-Azure-VLI-BYOS-Production-2021-3115,Image SLES15-SP3-SAP-BYOS-Azure-2021-3115,Image SLES15-SP3-SAP-BYOS-EC2-HVM-2021-3115,Image SLES15-SP3-SAP-BYOS-GCE-2021-3115,Image SLES15-SP3-SAP-EC2-HVM-2021-3115,Image SLES15-SP3-SAP-GCE-2021-3115,Image SLES15-SP3-SAPCAL-Azure-2021-3115,Image SLES15-SP3-SAPCAL-EC2-HVM-2021-3115,Image SLES15-SP3-SAPCAL-GCE-2021-3115,Image SLES15-SP4-2021-3115,Image SLES15-SP4-Azure-Basic-2021-3115,Image SLES15-SP4-Azure-Standard-2021-3115,Image SLES15-SP4-BYOS-2021-3115,Image SLES15-SP4-BYOS-Azure-2021-3115,Image SLES15-SP4-BYOS-EC2-2021-3115,Image SLES15-SP4-BYOS-GCE-2021-3115,Image SLES15-SP4-EC2-2021-3115,Image SLES15-SP4-EC2-ECS-HVM-2021-3115,Image SLES15-SP4-GCE-2021-3115,Image SLES15-SP4-HPC-2021-3115,Image SLES15-SP4-HPC-Azure-2021-3115,Image SLES15-SP4-HPC-BYOS-2021-3115,Image SLES15-SP4-HPC-BYOS-Azure-2021-3115,Image SLES15-SP4-HPC-BYOS-EC2-2021-3115,Image SLES15-SP4-HPC-BYOS-GCE-2021-3115,Image SLES15-SP4-HPC-EC2-2021-3115,Image SLES15-SP4-HPC-GCE-2021-3115,Image SLES15-SP4-Hardened-BYOS-2021-3115,Image SLES15-SP4-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP4-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP4-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-2021-3115,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-Azure-2021-3115,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-EC2-2021-3115,Image SLES15-SP4-Manager-Proxy-4-3-BYOS-GCE-2021-3115,Image SLES15-SP4-Manager-Server-4-3-2021-3115,Image SLES15-SP4-Manager-Server-4-3-Azure-llc-2021-3115,Image SLES15-SP4-Manager-Server-4-3-Azure-ltd-2021-3115,Image SLES15-SP4-Manager-Server-4-3-BYOS-2021-3115,Image SLES15-SP4-Manager-Server-4-3-BYOS-Azure-2021-3115,Image SLES15-SP4-Manager-Server-4-3-BYOS-EC2-2021-3115,Image SLES15-SP4-Manager-Server-4-3-BYOS-GCE-2021-3115,Image SLES15-SP4-Manager-Server-4-3-EC2-llc-2021-3115,Image SLES15-SP4-Manager-Server-4-3-EC2-ltd-2021-3115,Image SLES15-SP4-Micro-5-3-2021-3115,Image SLES15-SP4-Micro-5-3-Azure-2021-3115,Image SLES15-SP4-Micro-5-3-BYOS-2021-3115,Image SLES15-SP4-Micro-5-3-BYOS-Azure-2021-3115,Image SLES15-SP4-Micro-5-3-BYOS-EC2-2021-3115,Image SLES15-SP4-Micro-5-3-BYOS-GCE-2021-3115,Image SLES15-SP4-Micro-5-3-EC2-2021-3115,Image SLES15-SP4-Micro-5-3-GCE-2021-3115,Image SLES15-SP4-Micro-5-4-Azure-2021-3115,Image SLES15-SP4-SAP-2021-3115,Image SLES15-SP4-SAP-Azure-2021-3115,Image SLES15-SP4-SAP-Azure-LI-BYOS-2021-3115,Image SLES15-SP4-SAP-Azure-LI-BYOS-Production-2021-3115,Image SLES15-SP4-SAP-Azure-VLI-BYOS-2021-3115,Image SLES15-SP4-SAP-Azure-VLI-BYOS-Production-2021-3115,Image SLES15-SP4-SAP-BYOS-2021-3115,Image SLES15-SP4-SAP-BYOS-Azure-2021-3115,Image SLES15-SP4-SAP-BYOS-EC2-2021-3115,Image SLES15-SP4-SAP-BYOS-GCE-2021-3115,Image SLES15-SP4-SAP-EC2-2021-3115,Image SLES15-SP4-SAP-GCE-2021-3115,Image SLES15-SP4-SAP-Hardened-2021-3115,Image SLES15-SP4-SAP-Hardened-Azure-2021-3115,Image SLES15-SP4-SAP-Hardened-BYOS-2021-3115,Image SLES15-SP4-SAP-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP4-SAP-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP4-SAP-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP4-SAP-Hardened-EC2-2021-3115,Image SLES15-SP4-SAP-Hardened-GCE-2021-3115,Image SLES15-SP4-SAPCAL-2021-3115,Image SLES15-SP4-SAPCAL-Azure-2021-3115,Image SLES15-SP4-SAPCAL-EC2-2021-3115,Image SLES15-SP4-SAPCAL-GCE-2021-3115,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-2021-3115,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2-2021-3115,Image SLES15-SP4-SUSE-Rancher-Setup-BYOS-EC2-HVM-2021-3115,Image SLES15-SP5-Azure-Basic-2021-3115,Image SLES15-SP5-EC2-ECS-HVM-2021-3115,Image SLES15-SP5-HPC-BYOS-Azure-2021-3115,Image SLES15-SP5-HPC-BYOS-GCE-2021-3115,Image SLES15-SP5-HPC-EC2-2021-3115,Image SLES15-SP5-HPC-GCE-2021-3115,Image SLES15-SP5-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP5-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP5-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP5-SAP-Azure-2021-3115,Image SLES15-SP5-SAP-Azure-LI-BYOS-2021-3115,Image SLES15-SP5-SAP-Azure-LI-BYOS-Production-2021-3115,Image SLES15-SP5-SAP-Azure-VLI-BYOS-2021-3115,Image SLES15-SP5-SAP-Azure-VLI-BYOS-Production-2021-3115,Image SLES15-SP5-SAP-BYOS-Azure-2021-3115,Image SLES15-SP5-SAP-EC2-2021-3115,Image SLES15-SP5-SAP-GCE-2021-3115,Image SLES15-SP5-SAP-Hardened-Azure-2021-3115,Image SLES15-SP5-SAP-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP5-SAP-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP5-SAP-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP5-SAP-Hardened-EC2-2021-3115,Image SLES15-SP5-SAP-Hardened-GCE-2021-3115,Image SLES15-SP6-Azure-Basic-2021-3115,Image SLES15-SP6-HPC-BYOS-2021-3115,Image SLES15-SP6-HPC-BYOS-Azure-2021-3115,Image SLES15-SP6-HPC-BYOS-EC2-2021-3115,Image SLES15-SP6-HPC-BYOS-GCE-2021-3115,Image SLES15-SP6-HPC-EC2-2021-3115,Image SLES15-SP6-HPC-GCE-2021-3115,Image SLES15-SP6-Hardened-BYOS-2021-3115,Image SLES15-SP6-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP6-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP6-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP6-SAP-Azure-LI-BYOS-2021-3115,Image SLES15-SP6-SAP-Azure-LI-BYOS-Production-2021-3115,Image SLES15-SP6-SAP-Azure-VLI-BYOS-2021-3115,Image SLES15-SP6-SAP-Azure-VLI-BYOS-Production-2021-3115,Image SLES15-SP6-SAP-BYOS-EC2-2021-3115,Image SLES15-SP6-SAP-EC2-2021-3115,Image SLES15-SP6-SAP-Hardened-2021-3115,Image SLES15-SP6-SAP-Hardened-Azure-2021-3115,Image SLES15-SP6-SAP-Hardened-BYOS-2021-3115,Image SLES15-SP6-SAP-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP6-SAP-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP6-SAP-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP6-SAP-Hardened-EC2-2021-3115,Image SLES15-SP6-SAP-Hardened-GCE-2021-3115,Image SLES15-SP6-SAPCAL-EC2-2021-3115,Image SLES15-SP7-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP7-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP7-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP7-SAP-Azure-LI-BYOS-Production-2021-3115,Image SLES15-SP7-SAP-Azure-VLI-BYOS-Production-2021-3115,Image SLES15-SP7-SAP-Hardened-Azure-2021-3115,Image SLES15-SP7-SAP-Hardened-BYOS-Azure-2021-3115,Image SLES15-SP7-SAP-Hardened-BYOS-EC2-2021-3115,Image SLES15-SP7-SAP-Hardened-BYOS-GCE-2021-3115,Image SLES15-SP7-SAP-Hardened-GCE-2021-3115,Image tomcat_15_6-2021-3115,SUSE-2021-3115,SUSE-SLE-Module-Basesystem-15-SP2-2021-3115,SUSE-SLE-Module-Basesystem-15-SP3-2021-3115,SUSE-SLE-Module-Server-Applications-15-SP2-2021-3115,SUSE-SLE-Module-Server-Applications-15-SP3-2021-3115,SUSE-SLE-Product-HPC-15-2021-3115,SUSE-SLE-Product-HPC-15-SP1-ESPOS-2021-3115,SUSE-SLE-Product-HPC-15-SP1-LTSS-2021-3115,SUSE-SLE-Product-SLES-15-2021-3115,SUSE-SLE-Product-SLES-15-SP1-BCL-2021-3115,SUSE-SLE-Product-SLES-15-SP1-LTSS-2021-3115,SUSE-SLE-Product-SLES_SAP-15-2021-3115,SUSE-SLE-Product-SLES_SAP-15-SP1-2021-3115,SUSE-SLE-Product-SUSE-Manager-Proxy-4.0-2021-3115,SUSE-SLE-Product-SUSE-Manager-Retail-Branch-Server-4.0-2021-3115,SUSE-SLE-Product-SUSE-Manager-Server-4.0-2021-3115,SUSE-SUSE-MicroOS-5.0-2021-3115,SUSE-Storage-6-2021-3115",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -341,16 +341,6 @@
       {
         "ProductReference": "mozilla-nspr-4.32-3.20.1",
         "RelatesToProductReference": "Container suse/multi-linux-manager/5.1/x86_64/server:latest",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "mozilla-nspr-4.32-3.20.1",
-        "RelatesToProductReference": "Container suse/multi-linux-manager/5.2/x86_64/server-attestation:latest",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "mozilla-nspr-4.32-3.20.1",
-        "RelatesToProductReference": "Container suse/multi-linux-manager/5.2/x86_64/server:latest",
         "RelationType": "Default Component Of"
       },
       {
@@ -1465,11 +1455,6 @@
       },
       {
         "ProductReference": "mozilla-nspr-4.32-3.20.1",
-        "RelatesToProductReference": "Image SLES15-SP6-Azure-3P",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "mozilla-nspr-4.32-3.20.1",
         "RelatesToProductReference": "Image SLES15-SP6-Azure-Basic",
         "RelationType": "Default Component Of"
       },
@@ -1525,11 +1510,6 @@
       },
       {
         "ProductReference": "mozilla-nspr-4.32-3.20.1",
-        "RelatesToProductReference": "Image SLES15-SP6-SAP-Azure-3P",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "mozilla-nspr-4.32-3.20.1",
         "RelatesToProductReference": "Image SLES15-SP6-SAP-Azure-LI-BYOS",
         "RelationType": "Default Component Of"
       },
@@ -1546,11 +1526,6 @@
       {
         "ProductReference": "mozilla-nspr-4.32-3.20.1",
         "RelatesToProductReference": "Image SLES15-SP6-SAP-Azure-VLI-BYOS-Production",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "mozilla-nspr-4.32-3.20.1",
-        "RelatesToProductReference": "Image SLES15-SP6-SAP-BYOS-Azure",
         "RelationType": "Default Component Of"
       },
       {
@@ -1606,21 +1581,6 @@
       {
         "ProductReference": "mozilla-nspr-4.32-3.20.1",
         "RelatesToProductReference": "Image SLES15-SP6-SAPCAL-EC2",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "mozilla-nspr-4.32-3.20.1",
-        "RelatesToProductReference": "Image SLES15-SP7-Azure-Basic",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "mozilla-nspr-4.32-3.20.1",
-        "RelatesToProductReference": "Image SLES15-SP7-GCE-3P",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "mozilla-nspr-4.32-3.20.1",
-        "RelatesToProductReference": "Image SLES15-SP7-HPC-BYOS-GCE",
         "RelationType": "Default Component Of"
       },
       {
@@ -3222,8 +3182,6 @@
             "Container suse/manager/5.0/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/multi-linux-manager/5.1/x86_64/server-attestation:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/multi-linux-manager/5.1/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
-            "Container suse/multi-linux-manager/5.2/x86_64/server-attestation:latest:mozilla-nspr-4.32-3.20.1",
-            "Container suse/multi-linux-manager/5.2/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/pcp:5:mozilla-nspr-4.32-3.20.1",
             "Container suse/pcp:latest:libfreebl3-3.68-3.56.1",
             "Container suse/pcp:latest:libfreebl3-hmac-3.68-3.56.1",
@@ -3446,7 +3404,6 @@
             "Image SLES15-SP5-SAP-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP5-SAP-Hardened-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP5-SAP-Hardened-GCE:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-Azure-3P:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Azure-Basic:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-HPC-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-HPC-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
@@ -3458,12 +3415,10 @@
             "Image SLES15-SP6-Hardened-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Hardened-BYOS:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-SAP-Azure-3P:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-LI-BYOS-Production:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-LI-BYOS:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-VLI-BYOS-Production:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-VLI-BYOS:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-SAP-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Hardened-Azure:mozilla-nspr-4.32-3.20.1",
@@ -3475,9 +3430,6 @@
             "Image SLES15-SP6-SAP-Hardened-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Hardened:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAPCAL-EC2:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-Azure-Basic:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-GCE-3P:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-HPC-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
@@ -3864,8 +3816,6 @@
             "Container suse/manager/5.0/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/multi-linux-manager/5.1/x86_64/server-attestation:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/multi-linux-manager/5.1/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
-            "Container suse/multi-linux-manager/5.2/x86_64/server-attestation:latest:mozilla-nspr-4.32-3.20.1",
-            "Container suse/multi-linux-manager/5.2/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/pcp:5:mozilla-nspr-4.32-3.20.1",
             "Container suse/pcp:latest:libfreebl3-3.68-3.56.1",
             "Container suse/pcp:latest:libfreebl3-hmac-3.68-3.56.1",
@@ -4088,7 +4038,6 @@
             "Image SLES15-SP5-SAP-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP5-SAP-Hardened-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP5-SAP-Hardened-GCE:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-Azure-3P:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Azure-Basic:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-HPC-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-HPC-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
@@ -4100,12 +4049,10 @@
             "Image SLES15-SP6-Hardened-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Hardened-BYOS:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-SAP-Azure-3P:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-LI-BYOS-Production:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-LI-BYOS:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-VLI-BYOS-Production:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-VLI-BYOS:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-SAP-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Hardened-Azure:mozilla-nspr-4.32-3.20.1",
@@ -4117,9 +4064,6 @@
             "Image SLES15-SP6-SAP-Hardened-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Hardened:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAPCAL-EC2:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-Azure-Basic:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-GCE-3P:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-HPC-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
@@ -4502,8 +4446,6 @@
             "Container suse/manager/5.0/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/multi-linux-manager/5.1/x86_64/server-attestation:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/multi-linux-manager/5.1/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
-            "Container suse/multi-linux-manager/5.2/x86_64/server-attestation:latest:mozilla-nspr-4.32-3.20.1",
-            "Container suse/multi-linux-manager/5.2/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/pcp:5:mozilla-nspr-4.32-3.20.1",
             "Container suse/pcp:latest:libfreebl3-3.68-3.56.1",
             "Container suse/pcp:latest:libfreebl3-hmac-3.68-3.56.1",
@@ -4726,7 +4668,6 @@
             "Image SLES15-SP5-SAP-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP5-SAP-Hardened-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP5-SAP-Hardened-GCE:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-Azure-3P:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Azure-Basic:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-HPC-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-HPC-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
@@ -4738,12 +4679,10 @@
             "Image SLES15-SP6-Hardened-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Hardened-BYOS:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-SAP-Azure-3P:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-LI-BYOS-Production:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-LI-BYOS:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-VLI-BYOS-Production:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-VLI-BYOS:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-SAP-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Hardened-Azure:mozilla-nspr-4.32-3.20.1",
@@ -4755,9 +4694,6 @@
             "Image SLES15-SP6-SAP-Hardened-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Hardened:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAPCAL-EC2:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-Azure-Basic:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-GCE-3P:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-HPC-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
@@ -5140,8 +5076,6 @@
             "Container suse/manager/5.0/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/multi-linux-manager/5.1/x86_64/server-attestation:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/multi-linux-manager/5.1/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
-            "Container suse/multi-linux-manager/5.2/x86_64/server-attestation:latest:mozilla-nspr-4.32-3.20.1",
-            "Container suse/multi-linux-manager/5.2/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/pcp:5:mozilla-nspr-4.32-3.20.1",
             "Container suse/pcp:latest:libfreebl3-3.68-3.56.1",
             "Container suse/pcp:latest:libfreebl3-hmac-3.68-3.56.1",
@@ -5364,7 +5298,6 @@
             "Image SLES15-SP5-SAP-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP5-SAP-Hardened-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP5-SAP-Hardened-GCE:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-Azure-3P:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Azure-Basic:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-HPC-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-HPC-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
@@ -5376,12 +5309,10 @@
             "Image SLES15-SP6-Hardened-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Hardened-BYOS:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-SAP-Azure-3P:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-LI-BYOS-Production:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-LI-BYOS:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-VLI-BYOS-Production:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-VLI-BYOS:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-SAP-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Hardened-Azure:mozilla-nspr-4.32-3.20.1",
@@ -5393,9 +5324,6 @@
             "Image SLES15-SP6-SAP-Hardened-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Hardened:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAPCAL-EC2:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-Azure-Basic:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-GCE-3P:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-HPC-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
@@ -5782,8 +5710,6 @@
             "Container suse/manager/5.0/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/multi-linux-manager/5.1/x86_64/server-attestation:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/multi-linux-manager/5.1/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
-            "Container suse/multi-linux-manager/5.2/x86_64/server-attestation:latest:mozilla-nspr-4.32-3.20.1",
-            "Container suse/multi-linux-manager/5.2/x86_64/server:latest:mozilla-nspr-4.32-3.20.1",
             "Container suse/pcp:5:mozilla-nspr-4.32-3.20.1",
             "Container suse/pcp:latest:libfreebl3-3.68-3.56.1",
             "Container suse/pcp:latest:libfreebl3-hmac-3.68-3.56.1",
@@ -6006,7 +5932,6 @@
             "Image SLES15-SP5-SAP-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP5-SAP-Hardened-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP5-SAP-Hardened-GCE:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-Azure-3P:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Azure-Basic:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-HPC-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-HPC-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
@@ -6018,12 +5943,10 @@
             "Image SLES15-SP6-Hardened-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-Hardened-BYOS:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-SAP-Azure-3P:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-LI-BYOS-Production:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-LI-BYOS:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-VLI-BYOS-Production:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Azure-VLI-BYOS:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP6-SAP-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Hardened-Azure:mozilla-nspr-4.32-3.20.1",
@@ -6035,9 +5958,6 @@
             "Image SLES15-SP6-SAP-Hardened-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAP-Hardened:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP6-SAPCAL-EC2:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-Azure-Basic:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-GCE-3P:mozilla-nspr-4.32-3.20.1",
-            "Image SLES15-SP7-HPC-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-Azure:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-EC2:mozilla-nspr-4.32-3.20.1",
             "Image SLES15-SP7-Hardened-BYOS-GCE:mozilla-nspr-4.32-3.20.1",
