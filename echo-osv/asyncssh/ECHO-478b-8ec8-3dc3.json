@@ -1,6 +1,6 @@
 {
   "id": "ECHO-478b-8ec8-3dc3",
-  "modified": "2026-09-15T15:05:36.725Z",
+  "modified": "2026-10-11T07:48:13.957Z",
   "upstream": [
     "CVE-2026-45309",
     "GHSA-g794-3fmp-753h"

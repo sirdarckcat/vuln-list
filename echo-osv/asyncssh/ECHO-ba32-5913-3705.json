@@ -1,6 +1,6 @@
 {
   "id": "ECHO-ba32-5913-3705",
-  "modified": "2026-09-15T15:05:50.204Z",
+  "modified": "2026-10-11T07:48:13.957Z",
   "upstream": [
     "CVE-2026-54591",
     "GHSA-2wxc-x7rj-hg8f"
