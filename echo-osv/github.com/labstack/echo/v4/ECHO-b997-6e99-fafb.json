@@ -1,0 +1,40 @@
+{
+  "id": "ECHO-b997-6e99-fafb",
+  "modified": "2026-10-30T00:00:37.237Z",
+  "upstream": [
+    "CVE-2026-118652",
+    "GHSA-h9g5-28mm-hx3g"
+  ],
+  "affected": [
+    {
+      "package": {
+        "ecosystem": "Echo:Go",
+        "name": "github.com/labstack/echo/v4",
+        "purl": "pkg:golang/github.com/labstack/echo/v4"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "4.16.0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "type": "WEB",
+      "url": "https://advisory.echohq.com/cve/CVE-2026-118652"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/advisories/GHSA-h9g5-28mm-hx3g"
+    }
+  ]
+}
