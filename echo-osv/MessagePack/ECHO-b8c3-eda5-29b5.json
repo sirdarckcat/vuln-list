@@ -1,6 +1,6 @@
 {
   "id": "ECHO-b8c3-eda5-29b5",
-  "modified": "2026-10-21T13:00:10.252Z",
+  "modified": "2026-10-22T00:00:25.004Z",
   "upstream": [
     "CVE-2026-48517",
     "GHSA-qhmf-xw27-6rqr"
@@ -20,7 +20,7 @@
               "introduced": "0"
             },
             {
-              "fixed": "2.5.172+echo.1"
+              "fixed": "2.5.301"
             }
           ]
         }

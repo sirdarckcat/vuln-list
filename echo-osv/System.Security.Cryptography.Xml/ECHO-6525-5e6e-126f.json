@@ -1,6 +1,6 @@
 {
   "id": "ECHO-6525-5e6e-126f",
-  "modified": "2026-10-21T12:38:58.586Z",
+  "modified": "2026-10-22T00:00:47.498Z",
   "upstream": [
     "CVE-2026-50527",
     "GHSA-mmjf-rqrv-855v"
@@ -20,7 +20,7 @@
               "introduced": "0"
             },
             {
-              "fixed": "8.0.0+echo.1"
+              "fixed": "8.0.4"
             }
           ]
         }

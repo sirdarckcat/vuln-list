@@ -1,6 +1,6 @@
 {
   "id": "ECHO-8500-3e7b-cc19",
-  "modified": "2026-09-17T08:05:27.486Z",
+  "modified": "2026-10-22T00:00:23.996Z",
   "upstream": [
     "CVE-2024-43485",
     "GHSA-8g4q-xg66-9fp4"
@@ -20,7 +20,7 @@
               "introduced": "0"
             },
             {
-              "fixed": "8.0.0+echo.1"
+              "fixed": "6.0.10"
             }
           ]
         }

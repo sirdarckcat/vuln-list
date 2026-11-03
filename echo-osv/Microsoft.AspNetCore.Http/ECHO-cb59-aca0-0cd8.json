@@ -1,6 +1,6 @@
 {
   "id": "ECHO-cb59-aca0-0cd8",
-  "modified": "2026-10-21T14:27:41.405Z",
+  "modified": "2026-10-22T00:00:17.483Z",
   "upstream": [
     "CVE-2020-1045",
     "GHSA-hxrm-9w7p-39cc"
@@ -20,7 +20,7 @@
               "introduced": "0"
             },
             {
-              "fixed": "1.1.2+echo.1"
+              "fixed": "2.1.22"
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "id": "ECHO-208b-d6b3-dfb9",
-  "modified": "2026-10-21T19:03:43.395Z",
+  "modified": "2026-10-22T00:00:23.505Z",
   "upstream": [
     "CVE-2024-32035",
     "GHSA-g85r-6x2q-45w7"
@@ -20,7 +20,7 @@
               "introduced": "0"
             },
             {
-              "fixed": "3.0.0+echo.1"
+              "fixed": "2.1.8"
             }
           ]
         }

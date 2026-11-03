@@ -1,6 +1,6 @@
 {
   "id": "ECHO-495f-20f1-b39d",
-  "modified": "2026-10-21T10:18:15.550Z",
+  "modified": "2026-10-22T00:00:16.105Z",
   "upstream": [
     "CVE-2019-0820",
     "GHSA-cmhx-cq75-c4mj"
@@ -20,7 +20,7 @@
               "introduced": "0"
             },
             {
-              "fixed": "4.3.0+echo.1"
+              "fixed": "4.3.1"
             }
           ]
         }

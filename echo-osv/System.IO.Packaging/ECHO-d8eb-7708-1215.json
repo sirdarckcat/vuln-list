@@ -1,6 +1,6 @@
 {
   "id": "ECHO-d8eb-7708-1215",
-  "modified": "2026-10-21T11:44:16.833Z",
+  "modified": "2026-10-22T00:00:24.629Z",
   "upstream": [
     "CVE-2024-43484",
     "GHSA-f32c-w444-8ppv"
@@ -20,7 +20,7 @@
               "introduced": "0"
             },
             {
-              "fixed": "6.0.0+echo.1"
+              "fixed": "6.0.1"
             }
           ]
         }

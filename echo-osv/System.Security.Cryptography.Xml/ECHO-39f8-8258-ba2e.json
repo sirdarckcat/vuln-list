@@ -1,6 +1,6 @@
 {
   "id": "ECHO-39f8-8258-ba2e",
-  "modified": "2026-10-21T12:39:20.276Z",
+  "modified": "2026-10-22T00:00:47.498Z",
   "upstream": [
     "CVE-2026-33116",
     "GHSA-37gx-xxp4-5rgx"
@@ -20,7 +20,7 @@
               "introduced": "0"
             },
             {
-              "fixed": "8.0.0+echo.1"
+              "fixed": "8.0.3"
             }
           ]
         }
