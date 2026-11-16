@@ -1,0 +1,41 @@
+{
+  "id": "ECHO-711a-0c08-cc2a",
+  "modified": "2026-11-16T10:30:07.177Z",
+  "published": "2026-10-07T16:17:47.000Z",
+  "upstream": [
+    "CVE-2026-106453",
+    "GHSA-6cx8-rjf8-pr8g"
+  ],
+  "affected": [
+    {
+      "package": {
+        "ecosystem": "Echo:Maven",
+        "name": "org.lz4:lz4-java",
+        "purl": "pkg:maven/org.lz4/lz4-java"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "1.8.1+echo.2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "type": "WEB",
+      "url": "https://advisory.echohq.com/cve/CVE-2026-106453"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/advisories/GHSA-6cx8-rjf8-pr8g"
+    }
+  ]
+}

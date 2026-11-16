@@ -1,0 +1,41 @@
+{
+  "id": "ECHO-6344-f98f-134d",
+  "modified": "2026-11-16T10:30:07.177Z",
+  "published": "2026-10-07T20:35:51.000Z",
+  "upstream": [
+    "CVE-2026-106451",
+    "GHSA-mcr4-qmvw-px4g"
+  ],
+  "affected": [
+    {
+      "package": {
+        "ecosystem": "Echo:Maven",
+        "name": "org.lz4:lz4-java",
+        "purl": "pkg:maven/org.lz4/lz4-java"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "1.7.0"
+            },
+            {
+              "fixed": "1.8.1+echo.2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "type": "WEB",
+      "url": "https://advisory.echohq.com/cve/CVE-2026-106451"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/advisories/GHSA-mcr4-qmvw-px4g"
+    }
+  ]
+}
