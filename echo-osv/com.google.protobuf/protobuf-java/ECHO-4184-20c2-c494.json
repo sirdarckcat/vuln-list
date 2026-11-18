@@ -1,6 +1,7 @@
 {
   "id": "ECHO-4184-20c2-c494",
-  "modified": "2026-09-30T11:25:20.758Z",
+  "modified": "2026-11-18T15:30:05.724Z",
+  "published": "2024-09-19T01:15:10.963Z",
   "upstream": [
     "CVE-2024-7254",
     "GHSA-735f-pc8j-v9w8"
@@ -20,29 +21,7 @@
               "introduced": "0"
             },
             {
-              "fixed": "3.25.5"
-            }
-          ]
-        },
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "4.0.0-RC1"
-            },
-            {
-              "fixed": "4.27.5"
-            }
-          ]
-        },
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "4.28.0-RC1"
-            },
-            {
-              "fixed": "4.28.2"
+              "fixed": "3.21.12+echo.1"
             }
           ]
         }
